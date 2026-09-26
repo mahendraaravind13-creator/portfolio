@@ -1,0 +1,545 @@
+{
+  "generatedAt": "2026-09-26T17:01:14.566Z",
+  "items": [
+    {
+      "id": "ff91befc1789",
+      "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
+      "url": "https://inside.java/2026/09/26/jep539-target-jdk28/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-26T00:00:00.000Z",
+      "summary": "The following JEP is targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)"
+    },
+    {
+      "id": "123d8dcecccf",
+      "title": "Enterprise managed settings in-product validator",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-25T23:24:57.000Z",
+      "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent"
+    },
+    {
+      "id": "0447a6245098",
+      "title": "Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-25T21:09:40.000Z",
+      "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row"
+    },
+    {
+      "id": "27d48753d2e1",
+      "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-25T19:05:03.000Z",
+      "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. \"Relates to\" issue relationship"
+    },
+    {
+      "id": "d2d497e5eee4",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-25T19:00:00.000Z",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+    },
+    {
+      "id": "e3b548de0eee",
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-25T18:17:06.000Z",
+      "summary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,"
+    },
+    {
+      "id": "aabbcb7a3a47",
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-09-25T18:00:00.000Z",
+      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done."
+    },
+    {
+      "id": "925b830b81ef",
+      "title": "Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-25T17:25:50.000Z",
+      "summary": "Agentic autofix now uses Copilot Memory for customers who've enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it"
+    },
+    {
+      "id": "6edfaac73238",
+      "title": "GitHub Copilot weekly releases — September 21",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-25T16:42:48.000Z",
+      "summary": "This week's releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus"
+    },
+    {
+      "id": "4b83598dbd94",
+      "title": "Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-09-25T15:00:00.000Z",
+      "summary": "How we fully migrated github.com away from CSS-in-JS."
+    },
+    {
+      "id": "f8742313b30e",
+      "title": "Agents can now set up your website’s security with Turnstile Spin",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-25T13:00:00.000Z",
+      "summary": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification."
+    },
+    {
+      "id": "89d99fa23758",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-M1 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation 2.1.0-M1 is the first milestone of the 2.1 line."
+    },
+    {
+      "id": "b987e79c844e",
+      "title": "Spring Boot 4.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes ."
+    },
+    {
+      "id": "999cfb9cf2dd",
+      "title": "The Limitations of Running a Workload Generator In the Same JVM as the System-Under-Test",
+      "url": "https://inside.java/2026/09/25/limitations-of-running-a-workload-generator-in-the-same-jvm/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary": "When you evaluate a system with a garbage collector and want to understand its tail latency, you often see SPECjbb2015 or DaCapo used."
+    },
+    {
+      "id": "3612a7c1fb6f",
+      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-24T20:58:46.000Z",
+      "summary": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and improved economics at scale."
+    },
+    {
+      "id": "234391b377f9",
+      "title": "When chat is the wrong UI",
+      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-09-24T20:00:00.000Z",
+      "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases."
+    },
+    {
+      "id": "5d810621a5e7",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-09-24T18:26:12.000Z",
+      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework."
+    },
+    {
+      "id": "6533446258fa",
+      "title": "Manufacturing Trust for AI Agents Docker's WeAreDevelopers Keynote",
+      "url": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-24T17:15:00.000Z",
+      "summary": "Docker's WeAreDevelopers keynote shows how Sandboxes, Kits, and Cloud Sandboxes give AI agents strong isolation and reproducible authority."
+    },
+    {
+      "id": "e7107d9a76d9",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-09-24T16:20:39.000Z",
+      "summary": ""
+    },
+    {
+      "id": "d28cb3fe2c26",
+      "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
+      "url": "https://www.docker.com/blog/docker-sandbox-kit-spec/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-24T16:00:00.000Z",
+      "summary": "Docker's Sandbox Kit Specification v3 packages an AI agent's network rules, credentials, and volumes as an ordinary, pinnable OCI image."
+    },
+    {
+      "id": "bfc64acbfc4f",
+      "title": "Docker and CNCF partner on an open spec for agent permissions",
+      "url": "https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-24T16:00:00.000Z",
+      "summary": "Docker is bringing the open source Sandbox Kit Spec to the CNCF, so AI agent permissions become a neutral, vendor independent standard built on OCI."
+    },
+    {
+      "id": "cd2149d6a732",
+      "title": "Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud",
+      "url": "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-24T16:00:00.000Z",
+      "summary": "Run agents on your laptop, in the cloud, and move between them with one command, all safely. Earlier this year we launched Docker Sandboxes: microVM environments where coding agents can work autonomously in a safe way."
+    },
+    {
+      "id": "4224c10f9445",
+      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-24T15:00:00.000Z",
+      "summary": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it."
+    },
+    {
+      "id": "c2a53f233272",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-09-24T14:08:57.000Z",
+      "summary": ""
+    },
+    {
+      "id": "ead81158a84d",
+      "title": "Spring Batch 6.1.0-M2 is out!",
+      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary": "On behalf of the team and all contributors, I am pleased to announce that Spring Batch 6.1.0-M2 is available now from Maven Central! This second milestone brings a number of new features, enhancements and a few breaking changes on top of 6.1.0-M1 ."
+    },
+    {
+      "id": "b7efb590f404",
+      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information ."
+    },
+    {
+      "id": "7317876738e3",
+      "title": "Episode 71 “Security in Java” [AtA]",
+      "url": "https://inside.java/2026/09/24/podcast-071/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary": "Given how prevalent Java is on web servers throughout the internet, security in Java is of critical importance - there's the JDK itself, of course, but also the algorithms and features it offers to applications"
+    },
+    {
+      "id": "a70f8ac64edf",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T18:41:40.000Z",
+      "summary": ""
+    },
+    {
+      "id": "078c955aa93d",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-09-23T18:29:49.000Z",
+      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments."
+    },
+    {
+      "id": "8a86c97089bb",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T18:00:00.000Z",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+    },
+    {
+      "id": "ff8607213777",
+      "title": "Upcoming Next.js September Security Release",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-23T18:00:00.000Z",
+      "summary": "Next.js is preparing a scheduled September security release for September 30, 2026."
+    },
+    {
+      "id": "dff539682bf2",
+      "title": "Visual Studio Code 1.139",
+      "url": "https://code.visualstudio.com/updates/v1_139",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-09-23T17:00:00.000Z",
+      "summary": "Learn what is new in Visual Studio Code 1.139"
+    },
+    {
+      "id": "4c4abcff4acd",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T16:00:57.000Z",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+    },
+    {
+      "id": "9d02eeb8cef1",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T16:00:00.000Z",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+    },
+    {
+      "id": "be2314c62992",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T15:25:14.000Z",
+      "summary": ""
+    },
+    {
+      "id": "1d77064cbebb",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T13:00:00.000Z",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    },
+    {
+      "id": "cded7a7a02c2",
+      "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
+      "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-09-23T13:00:00.000Z",
+      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute."
+    },
+    {
+      "id": "01d4e543c941",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T12:00:00.000Z",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+    },
+    {
+      "id": "f7558dc5c9de",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T12:00:00.000Z",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+    },
+    {
+      "id": "7357353a1f1d",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T12:00:00.000Z",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+    },
+    {
+      "id": "d0797dca1269",
+      "title": "The Python documentation is now available in Persian",
+      "url": "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-23T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "900365345474",
+      "title": "Quality Outreach Heads-up - JDK 28: Rich JavaDoc Notes",
+      "url": "https://inside.java/2026/09/23/quality-heads-up/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-23T00:00:00.000Z",
+      "summary": "This Heads-Up is part of the regular communication sent to the projects involved; it covers a new JavaDoc tag `@note` to highlight the presence of additional information in API documentation."
+    },
+    {
+      "id": "b39bf31f6b2f",
+      "title": "Building the new GitHub Copilot Inline Suggestions Model: Part Two",
+      "url": "https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-09-23T00:00:00.000Z",
+      "summary": "See how GitHub Copilot added completions to its unified inline suggestions model, refined ghost text and editor behavior, and improved user satisfaction."
+    },
+    {
+      "id": "12574c6c5a5f",
+      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-22T22:23:14.000Z",
+      "summary": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent."
+    },
+    {
+      "id": "4f007c6a12dc",
+      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-22T22:21:13.000Z",
+      "summary": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads."
+    },
+    {
+      "id": "7ff979043df9",
+      "title": "Next.js Security Update for a Critical Upstream Issue",
+      "url": "https://nextjs.org/blog/nextjs-security-update-september-22-2026",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-22T18:00:00.000Z",
+      "summary": "The September 22, 2026 out-of-band security update for Next.js is now available"
+    },
+    {
+      "id": "bdc88dc4e212",
+      "title": "Spotlight on SIG Apps",
+      "url": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-22T18:00:00.000Z",
+      "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch processing, AI workloads, and platform services."
+    },
+    {
+      "id": "14a094f0bf19",
+      "title": "Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker",
+      "url": "https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-22T15:06:15.000Z",
+      "summary": "Meet the partners and customers bringing practical AI, security, and development sessions to the Docker Pavilion at WeAreDevelopers. The post explains why a strong ecosystem matters to developers, announces the sessions and speakers, and invites attendees to connect with the teams building and using these technologies."
+    },
+    {
+      "id": "8852e943c84c",
+      "title": "Upcoming Next.js Security Update for a Critical Upstream Issue",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-22T15:00:00.000Z",
+      "summary": "Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026."
+    },
+    {
+      "id": "f665e9d50590",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-22T14:04:31.000Z",
+      "summary": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable."
+    },
+    {
+      "id": "55b3c8585e3f",
+      "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
+      "url": "https://blog.cloudflare.com/worker-previews/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-22T13:00:00.000Z",
+      "summary": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production."
+    },
+    {
+      "id": "2960c64a019e",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-09-22T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "98acfe91fd30",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-09-22T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "fb8ad85c459c",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-09-22T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "0d12c08659fc",
+      "title": "Helidon 27 Released",
+      "url": "https://inside.java/2026/09/22/helidon27-release/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-22T00:00:00.000Z",
+      "summary": "The Helidon team is pleased to announce Helidon 27, the first release under the Tip-and-Tail model used by OpenJDK."
+    },
+    {
+      "id": "a668dc129d9d",
+      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "url": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-21T18:30:00.000Z",
+      "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default)."
+    },
+    {
+      "id": "9c4cac25fc24",
+      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-21T16:11:24.000Z",
+      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checking"
+    },
+    {
+      "id": "c701b57089c5",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-09-21T13:44:34.000Z",
+      "summary": ""
+    },
+    {
+      "id": "5a3a5fde415d",
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-21T13:00:00.000Z",
+      "summary": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code."
+    },
+    {
+      "id": "022b42e5c790",
+      "title": "Just-In-Time Compilation for Java Performance: Recent and Ongoing Improvements",
+      "url": "https://inside.java/2026/09/21/jit-for-java-performance/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-21T00:00:00.000Z",
+      "summary": "Just-in-time (JIT) compilation within the JVM is essential to Java's performance and plays a central role in ongoing OpenJDK projects such as Valhalla, Leyden, and Panama."
+    }
+  ]
+}

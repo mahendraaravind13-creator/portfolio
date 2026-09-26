@@ -1,0 +1,44 @@
+# Refreshes the public "Latest tech updates" section every 6 hours (free on GitHub Actions).
+# Commits content/tech-updates.json only when something changed; Cloudflare then redeploys the site.
+name: Refresh tech updates
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-updates
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - name: Fetch feeds
+        run: node scripts/fetch-tech-updates.mjs
+        env:
+          # Optional: add a free Gemini key as a repository secret for AI summaries.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- content/tech-updates.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "tech-updates-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/tech-updates.json
+          git commit -m "chore: refresh tech updates"
+          git pull --rebase
+          git push

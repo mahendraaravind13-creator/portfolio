@@ -1,0 +1,20 @@
+[
+  { "name": "OpenAI", "url": "https://openai.com/news/rss.xml", "category": "AI & LLMs" },
+  { "name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "category": "AI & LLMs" },
+  { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "category": "AI & LLMs" },
+  { "name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "category": "AI & LLMs" },
+  { "name": "React", "url": "https://react.dev/rss.xml", "category": "Frameworks & Languages" },
+  { "name": "Next.js", "url": "https://nextjs.org/feed.xml", "category": "Frameworks & Languages" },
+  { "name": "Spring", "url": "https://spring.io/blog.atom", "category": "Frameworks & Languages" },
+  { "name": "Python", "url": "https://blog.python.org/feeds/posts/default?alt=rss", "category": "Frameworks & Languages" },
+  { "name": "TypeScript", "url": "https://devblogs.microsoft.com/typescript/feed/", "category": "Frameworks & Languages" },
+  { "name": "Java (Inside Java)", "url": "https://inside.java/feed.xml", "category": "Frameworks & Languages" },
+  { "name": "AWS", "url": "https://aws.amazon.com/blogs/aws/feed/", "category": "Cloud & DevOps" },
+  { "name": "Cloudflare", "url": "https://blog.cloudflare.com/rss/", "category": "Cloud & DevOps" },
+  { "name": "Kubernetes", "url": "https://kubernetes.io/feed.xml", "category": "Cloud & DevOps" },
+  { "name": "Docker", "url": "https://www.docker.com/blog/feed/", "category": "Cloud & DevOps" },
+  { "name": "GitHub", "url": "https://github.blog/feed/", "category": "Developer Tools" },
+  { "name": "GitHub Changelog", "url": "https://github.blog/changelog/feed/", "category": "Developer Tools" },
+  { "name": "VS Code", "url": "https://code.visualstudio.com/feed.xml", "category": "Developer Tools" },
+  { "name": "Hacker News (top)", "url": "https://hnrss.org/frontpage?points=400", "category": "Industry" }
+]

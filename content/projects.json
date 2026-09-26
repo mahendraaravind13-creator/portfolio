@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "pulseops",
+    "title": "PulseOps",
+    "subtitle": "Multi-tenant monitoring & incident management platform",
+    "category": "Distributed systems",
+    "status": "Live on AWS",
+    "award": "",
+    "featured": true,
+    "plainEnglish": "Watches servers around the clock, raises one clear alert when something breaks, and closes it once it's fixed.",
+    "summary": "A multi-tenant monitoring platform in Spring Boot. Agents stream host metrics; server-side alert rules evaluate them over sliding windows; incidents open, deduplicate and auto-resolve, with Gemini root-cause suggestions kept off the critical path.",
+    "stack": ["Java", "Spring Boot", "Spring Security", "Apache Kafka", "PostgreSQL", "Redis", "Docker Compose", "nginx", "AWS EC2", "React", "TanStack Query", "Gemini API"],
+    "metrics": [
+      { "value": "240×", "label": "faster window queries" },
+      { "value": "30/30", "label": "served in failover test" },
+      { "value": "37", "label": "automated tests" }
+    ],
+    "bullets": [
+      "Built a multi-tenant monitoring platform in Spring Boot where server-side alert rules evaluate streamed host metrics over sliding windows; incidents open, deduplicate and auto-resolve, with Gemini root-cause suggestions.",
+      "Designed a Kafka ingestion pipeline (partition keys for per-service ordering, consumer groups, dead-letter topic, idempotent consumers) with Redis API-key caching and per-tenant rate limiting.",
+      "Guaranteed one active incident per service and rule across instances with a PostgreSQL partial unique index and blocked lost updates with optimistic locking; indexing cut window queries from 70 ms to 0.3 ms on 2M rows.",
+      "Verified failover with 2 stateless replicas behind nginx (30/30 requests served with one down); deployed live on AWS EC2; 37 tests including Testcontainers integration tests in GitHub Actions CI.",
+      "Built a React + TanStack Query dashboard with 7 auth-guarded pages, live polling and optimistic updates."
+    ],
+    "decisions": [
+      { "title": "Race-free incident deduplication", "body": "Two app instances can evaluate the same rule at the same moment. A PostgreSQL partial unique index on active incidents per service and rule makes a duplicate physically impossible, instead of relying on application-level locks." },
+      { "title": "Kafka for ingestion", "body": "Metrics are keyed by service so each service's events stay in order within a partition. Consumer groups scale horizontally, a dead-letter topic isolates poison messages, and consumers are idempotent so redelivery is safe." },
+      { "title": "Optimistic locking", "body": "Incident updates carry a version, so concurrent writers can't silently overwrite each other's changes (no lost updates)." },
+      { "title": "Stateless replicas", "body": "Two stateless API replicas sit behind nginx. In a failover test with one replica stopped, 30 of 30 requests were still served." },
+      { "title": "AI off the critical path", "body": "Gemini root-cause suggestions are generated alongside incidents, so an AI outage or slow response never blocks alerting." }
+    ],
+    "links": {
+      "demo": "https://pulseops.atlas-theproject.duckdns.org/",
+      "repo": "https://github.com/mahendraaravind13-creator/pulseops"
+    },
+    "diagram": "pulseops"
+  },
+  {
+    "slug": "project-atlas",
+    "title": "Project Atlas",
+    "subtitle": "AI project intelligence platform (grounded RAG)",
+    "category": "Applied AI",
+    "status": "Live on AWS",
+    "award": "Finalist · Economic Times AI Hackathon 2.0",
+    "featured": true,
+    "plainEnglish": "Answers questions about large project documents with the exact page as evidence, and declines when it can't prove the answer.",
+    "summary": "A grounded retrieval-augmented generation platform that traces each specification deviation through to its schedule and commissioning impact, citing evidence down to document, page and clause.",
+    "stack": ["FastAPI", "PostgreSQL", "SQLAlchemy", "Alembic", "Qdrant", "LangGraph", "Next.js", "TypeScript", "Docker Compose", "Caddy", "AWS EC2", "GitHub Actions"],
+    "metrics": [
+      { "value": "1.0", "label": "Recall@12" },
+      { "value": "0.75", "label": "MRR (baseline 0.63)" },
+      { "value": "2.6×", "label": "fewer input tokens" }
+    ],
+    "bullets": [
+      "Built the FastAPI backend as layered services with project-scoped RBAC (scrypt-hashed passwords, HMAC-signed tokens, 3 roles) and SQLAlchemy/Alembic models on PostgreSQL for metadata and audit records.",
+      "Designed the ingestion pipeline (contextual chunking, embeddings in Qdrant) and a LangGraph workflow: query rewriting, hybrid BM25 + dense retrieval, reranking and an evidence gate that refuses rather than hallucinates.",
+      "Reached Recall@12 1.0 and MRR 0.75 (baseline 0.63) on 16 held-out questions with 2.6× fewer input tokens.",
+      "Built deterministic compliance, CPM schedule and commissioning engines that trace each spec deviation to its impact: compliance F1 1.0 on 12 labelled cases, schedule MAE 1.5 days, 21/21 steps auto-evaluated.",
+      "Deployed the API, Next.js/TypeScript dashboard, PostgreSQL and Qdrant to AWS EC2 with Docker Compose and Caddy TLS via GitHub Actions CI/CD; 222 backend and 22 frontend tests plus a reproducible evaluation suite."
+    ],
+    "decisions": [
+      { "title": "Evidence gate before answering", "body": "The LangGraph workflow checks whether the retrieved evidence is sufficient. If it isn't, the system refuses instead of guessing, so every answer it gives can be traced to a source." },
+      { "title": "Hybrid retrieval", "body": "BM25 catches exact terms like clause numbers; dense vector search in Qdrant catches meaning. Results are fused and reranked, which beat a baseline RAG pipeline (MRR 0.75 vs 0.63) while using 2.6× fewer input tokens." },
+      { "title": "Deterministic engines where correctness matters", "body": "Compliance checks, the CPM schedule and commissioning steps are computed by deterministic code, not the LLM, and evaluated against labelled cases." },
+      { "title": "Project-scoped access control", "body": "Three roles scoped per project, scrypt-hashed passwords and HMAC-signed tokens, with PostgreSQL as the system of record for metadata and audit logs." }
+    ],
+    "links": {
+      "demo": "https://atlas-theproject.duckdns.org/",
+      "repo": "https://github.com/mahendraaravind13-creator/project-Atlas"
+    },
+    "diagram": "atlas"
+  },
+  {
+    "slug": "uav-isac-scheduling",
+    "title": "UAV ISAC Scheduling",
+    "subtitle": "Learning a MILP optimiser with a Conv3D-LSTM network",
+    "category": "Research · Machine learning",
+    "status": "IEEE VTC manuscript",
+    "award": "",
+    "featured": true,
+    "plainEnglish": "Teaches a neural network to plan what a drone does at each stop as well as a slow optimisation solver, but in a single fast pass.",
+    "summary": "Research at LNMIIT on integrated sensing and communication (ISAC) for UAVs: a sequence classifier that imitates a mixed-integer linear program deciding, at each of 15 waypoints, whether the UAV senses, communicates or does both.",
+    "stack": ["Python", "TensorFlow", "Keras", "MATLAB (intlinprog)", "NumPy", "pandas", "Numba"],
+    "metrics": [
+      { "value": "92.9%", "label": "per-waypoint accuracy" },
+      { "value": "75%", "label": "joint-mode recall (from 41%)" },
+      { "value": "1M+", "label": "MILP-labelled rows" }
+    ],
+    "bullets": [
+      "Extended a faculty-provided MILP (MATLAB intlinprog) into a randomized dataset generator that labels each of 15 UAV waypoints as sensing, communication or joint ISAC; generated 66K+ trajectories (1M+ rows).",
+      "Designed a 3-branch Conv3D–LSTM classifier in TensorFlow/Keras that imitates the MILP in one forward pass.",
+      "Reached 92.9% per-waypoint test accuracy on 60,690 unseen trajectories vs. 86.5% for a CNN baseline (joint-mode recall 41% to 75%); sensing (Cramér–Rao bound) and communication CDFs closely track the MILP.",
+      "Co-authored the manuscript, prepared for submission to the IEEE Vehicular Technology Conference (VTC)."
+    ],
+    "decisions": [
+      { "title": "Solver as the teacher", "body": "Running the MILP for every trajectory is too slow for real-time use, but it produces optimal labels. A randomized generator turned it into a dataset of 66K+ labelled trajectories." },
+      { "title": "Sequence model, not per-point classifier", "body": "A waypoint's best mode depends on its neighbours, so a 3-branch Conv3D–LSTM reads the whole trajectory. It lifted joint-mode recall from 41% (CNN baseline) to 75%." },
+      { "title": "Judged on physics, not just accuracy", "body": "Beyond accuracy, the sensing quality (Cramér–Rao bound) and communication CDFs of the model's schedules were compared with the MILP's and track them closely." }
+    ],
+    "links": {
+      "demo": "",
+      "repo": "https://github.com/mahendraaravind13-creator/uav-isac-milp-cnn-lstm-"
+    },
+    "diagram": "uav"
+  }
+]

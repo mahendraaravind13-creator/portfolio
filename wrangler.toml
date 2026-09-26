@@ -1,0 +1,8 @@
+# Cloudflare Pages project config (used by `npm run preview` locally and by Cloudflare builds).
+name = "mahendra-aravind"
+pages_build_output_dir = "out"
+compatibility_date = "2025-07-18"
+
+# Login rate limiting. Create the namespace once in the Cloudflare dashboard
+# (Storage & Databases → KV → Create "portfolio-login") and bind it as LOGIN_KV
+# in Pages → Settings → Bindings. See SETUP.md.

@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Research Intern",
+    "focus": "Learning-Based ISAC Scheduling for UAVs",
+    "org": "The LNM Institute of Information Technology (LNMIIT)",
+    "location": "Jaipur, India",
+    "start": "",
+    "end": "",
+    "link": "https://github.com/mahendraaravind13-creator/uav-isac-milp-cnn-lstm-",
+    "bullets": [
+      "Extended a faculty-provided MILP (MATLAB intlinprog) into a randomized dataset generator that labels each of 15 UAV waypoints as sensing, communication or joint ISAC; generated 66K+ trajectories (1M+ rows).",
+      "Designed a 3-branch Conv3D–LSTM classifier in TensorFlow/Keras that imitates the MILP in one forward pass.",
+      "Reached 92.9% per-waypoint test accuracy on 60,690 unseen trajectories vs. 86.5% for a CNN baseline (joint-mode recall 41% to 75%).",
+      "Co-authored the manuscript, prepared for submission to the IEEE Vehicular Technology Conference (VTC)."
+    ]
+  },
+  {
+    "role": "Teaching Assistant",
+    "focus": "Artificial Intelligence & Machine Learning",
+    "org": "LNMIIT",
+    "location": "Jaipur, India",
+    "start": "Jan 2026",
+    "end": "May 2026",
+    "link": "",
+    "bullets": [
+      "Mentored 80+ students in weekly AI/ML lab sessions on Python, algorithms and hands-on model implementation."
+    ]
+  }
+]
