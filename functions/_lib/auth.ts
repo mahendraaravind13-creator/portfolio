@@ -56,12 +56,12 @@ async function hmac(secret: string, data: string): Promise<Uint8Array> {
 export async function createSession(env: Env, user: string): Promise<string> {
   const now = Math.floor(Date.now() / 1000);
   const payload = b64url(enc.encode(JSON.stringify({ sub: user, iat: now, exp: now + SESSION_TTL_SECONDS })));
-  const sig = b64url(await hmac(env.SESSION_SECRET, payload));
+  const sig = b64url(await hmac(env.SESSION_SECRET.trim(), payload));
   return `${payload}.${sig}`;
 }
 
 export async function readSession(env: Env, request: Request): Promise<{ sub: string; exp: number } | null> {
-  if (!env.SESSION_SECRET || env.SESSION_SECRET.length < 32) return null;
+  if (!env.SESSION_SECRET || env.SESSION_SECRET.trim().length < 32) return null;
   const cookie = request.headers.get("cookie") ?? "";
   const token = cookie
     .split(";")
@@ -71,12 +71,12 @@ export async function readSession(env: Env, request: Request): Promise<{ sub: st
   if (!token) return null;
   const [payload, sig] = token.split(".");
   if (!payload || !sig) return null;
-  const expected = await hmac(env.SESSION_SECRET, payload);
+  const expected = await hmac(env.SESSION_SECRET.trim(), payload);
   if (!timingSafeEqual(expected, b64urlDecode(sig))) return null;
   try {
     const data = JSON.parse(new TextDecoder().decode(b64urlDecode(payload)));
     if (typeof data.exp !== "number" || data.exp < Math.floor(Date.now() / 1000)) return null;
-    if (data.sub !== env.ADMIN_USERNAME) return null; // username changed → old sessions die
+    if (data.sub !== env.ADMIN_USERNAME?.trim()) return null; // username changed → old sessions die
     return data;
   } catch {
     return null;
