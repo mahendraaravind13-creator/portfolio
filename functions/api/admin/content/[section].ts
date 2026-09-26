@@ -17,7 +17,7 @@ export const onRequestGet: PagesFunction<Env, "section", Data> = async (ctx) => 
   if (ctx.env.DEV_MODE === "true") return json({ data: DEV_CONTENT[section.file] });
 
   const gh = new GitHub(ctx.env);
-  if (!gh.configured) return error("GitHub is not configured on the server. See SETUP.md.", 500);
+  if (!gh.configured) return error(`GitHub saving is not set up yet: ${gh.missing} is missing in Cloudflare. See SETUP.md.`, 500);
   const text = await gh.readText(section.file);
   if (text === null) return json({ data: section.kind === "list" ? [] : {} });
   return json({ data: JSON.parse(text) });
@@ -40,7 +40,7 @@ export const onRequestPut: PagesFunction<Env, "section", Data> = async (ctx) => 
   if (ctx.env.DEV_MODE === "true") return json({ ok: true, sha: "dev-mode", devMode: true });
 
   const gh = new GitHub(ctx.env);
-  if (!gh.configured) return error("GitHub is not configured on the server. See SETUP.md.", 500);
+  if (!gh.configured) return error(`GitHub saving is not set up yet: ${gh.missing} is missing in Cloudflare. See SETUP.md.`, 500);
   const sha = await gh.commit([{ path: section.file, bytes: utf8(JSON.stringify(body.data, null, 2) + "\n") }], `${message}\n\nvia admin portal (${ctx.data.user})`);
   return json({ ok: true, sha });
 };

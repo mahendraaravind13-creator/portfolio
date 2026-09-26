@@ -5,18 +5,30 @@ import { b64decode, b64encode } from "./auth";
 export class GitHub {
   private branch: string;
   constructor(private env: Env) {
-    this.branch = env.GITHUB_BRANCH || "main";
+    this.branch = (env.GITHUB_BRANCH ?? "").trim() || "main";
+  }
+
+  private get token() {
+    return (this.env.GITHUB_TOKEN ?? "").trim();
+  }
+  private get repo() {
+    return (this.env.GITHUB_REPO ?? "").trim().replace(/^https:\/\/github\.com\//, "").replace(/\.git$/, "").replace(/\/$/, "");
   }
 
   get configured() {
-    return Boolean(this.env.GITHUB_TOKEN && this.env.GITHUB_REPO);
+    return Boolean(this.token && this.repo);
+  }
+
+  /** Human-readable list of missing settings (names only). */
+  get missing(): string {
+    return [!this.token && "GITHUB_TOKEN", !this.repo && "GITHUB_REPO"].filter(Boolean).join(" and ");
   }
 
   private async api<T>(path: string, init: RequestInit = {}): Promise<T> {
-    const res = await fetch(`https://api.github.com/repos/${this.env.GITHUB_REPO}${path}`, {
+    const res = await fetch(`https://api.github.com/repos/${this.repo}${path}`, {
       ...init,
       headers: {
-        authorization: `Bearer ${this.env.GITHUB_TOKEN}`,
+        authorization: `Bearer ${this.token}`,
         accept: "application/vnd.github+json",
         "x-github-api-version": "2022-11-28",
         "user-agent": "portfolio-admin",

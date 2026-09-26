@@ -53,7 +53,7 @@ export const onRequestPost: PagesFunction<Env, string, Data> = async (ctx) => {
   }
 
   if (dev) return json({ ok: true, sha: "dev-mode", devMode: true });
-  if (!gh.configured) return error("GitHub is not configured on the server. See SETUP.md.", 500);
+  if (!gh.configured) return error(`GitHub saving is not set up yet: ${gh.missing} is missing in Cloudflare. See SETUP.md.`, 500);
   const sha = await gh.commit(files, `content: replace ${kind === "resume" ? "resume PDF" : "profile photo"}\n\nvia admin portal (${ctx.data.user})`);
   return json({ ok: true, sha });
 };

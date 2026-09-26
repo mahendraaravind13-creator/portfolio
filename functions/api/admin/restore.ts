@@ -16,7 +16,7 @@ export const onRequestPost: PagesFunction<Env, string, Data> = async (ctx) => {
   if (ctx.env.DEV_MODE === "true") return json({ ok: true, sha: "dev-mode", devMode: true });
 
   const gh = new GitHub(ctx.env);
-  if (!gh.configured) return error("GitHub is not configured on the server. See SETUP.md.", 500);
+  if (!gh.configured) return error(`GitHub saving is not set up yet: ${gh.missing} is missing in Cloudflare. See SETUP.md.`, 500);
   const files: { path: string; bytes: Uint8Array }[] = [];
   for (const s of SECTIONS) {
     const text = await gh.readText(s.file, sha);
