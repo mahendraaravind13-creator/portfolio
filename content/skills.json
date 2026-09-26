@@ -1,9 +1,88 @@
 [
-  { "group": "Languages", "items": ["Java", "Python", "JavaScript", "TypeScript", "SQL"] },
-  { "group": "CS Fundamentals", "items": ["Data Structures & Algorithms", "OOP", "Operating Systems", "Computer Networks", "DBMS", "System Design"] },
-  { "group": "Backend", "items": ["Spring Boot", "Spring Security", "Hibernate/JPA", "FastAPI", "SQLAlchemy", "REST APIs", "JWT", "RBAC"] },
-  { "group": "Frontend", "items": ["React", "Next.js", "React Router", "TanStack Query", "Tailwind CSS", "HTML/CSS"] },
-  { "group": "Data & Messaging", "items": ["PostgreSQL", "Flyway", "Redis", "Apache Kafka", "Qdrant (vector search)", "Hybrid BM25 + dense retrieval"] },
-  { "group": "Deploy & DevOps", "items": ["AWS EC2", "Docker & Docker Compose", "nginx", "Caddy", "GitHub Actions (CI/CD)", "Testcontainers", "Git"] },
-  { "group": "AI / ML", "items": ["RAG", "LangGraph", "Gemini & Groq APIs", "TensorFlow/Keras (CNN, LSTM)", "scikit-learn", "pandas", "MATLAB (MILP)"] }
+  {
+    "group": "Languages",
+    "items": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ]
+  },
+  {
+    "group": "CS Fundamentals",
+    "items": [
+      "Data Structures & Algorithms",
+      "OOP",
+      "Operating Systems",
+      "Computer Networks",
+      "DBMS",
+      "System Design"
+    ]
+  },
+  {
+    "group": "Backend",
+    "items": [
+      "Spring Boot",
+      "Spring Security",
+      "Hibernate/JPA",
+      "FastAPI",
+      "SQLAlchemy",
+      "REST APIs",
+      "JWT",
+      "RBAC"
+    ]
+  },
+  {
+    "group": "Frontend",
+    "items": [
+      "React",
+      "Next.js",
+      "React Router",
+      "TanStack Query",
+      "Tailwind CSS",
+      "HTML/CSS"
+    ]
+  },
+  {
+    "group": "Data & Messaging",
+    "items": [
+      "PostgreSQL",
+      "Flyway",
+      "Redis",
+      "Apache Kafka",
+      "Qdrant (vector search)",
+      "Hybrid BM25 + dense retrieval"
+    ]
+  },
+  {
+    "group": "Deploy & DevOps",
+    "items": [
+      "AWS EC2",
+      "Docker & Docker Compose",
+      "nginx",
+      "Caddy",
+      "GitHub Actions (CI/CD)",
+      "Testcontainers",
+      "Git"
+    ]
+  },
+  {
+    "group": "AI / ML",
+    "items": [
+      "RAG",
+      "LangGraph",
+      "Gemini & Groq APIs",
+      "TensorFlow/Keras (CNN, LSTM)",
+      "scikit-learn",
+      "pandas",
+      "MATLAB (MILP)"
+    ]
+  },
+  {
+    "group": "Naga",
+    "items": [
+      "Open ai"
+    ]
+  }
 ]
