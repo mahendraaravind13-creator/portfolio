@@ -46,13 +46,6 @@ export const SECTIONS: Section[] = [
       { key: "title", label: "Headline", type: "text", required: true, placeholder: "Full-Stack Engineer · Applied AI Systems" },
       { key: "tagline", label: "One-line pitch", type: "textarea", required: true },
       { key: "heroHeadline", label: "Big headline", type: "textarea", help: "The giant words at the top of the home page (your name by default). Each line break starts a new line.", placeholder: "Mahendra\nAravind" },
-      { key: "terminalTitle", label: "Hero terminal: window title", type: "text", placeholder: "~/portfolio — main" },
-      {
-        key: "terminal",
-        label: "Hero terminal: lines",
-        type: "list",
-        help: "One line per row, shown in the terminal in the hero picture. Start a line with \"$ \" for a command, or with \"✓ \" / \"● \" for a status line; anything else shows as output. {projects} is replaced by your featured projects automatically, {name} by your short name, {title} by your headline. Long lines wrap; keep it to about 8 lines.",
-      },
       { key: "education", label: "Education (short)", type: "text" },
       { key: "location", label: "Location", type: "text" },
       { key: "openToWork", label: "Show 'open to work' badge", type: "boolean" },

@@ -168,7 +168,7 @@ body {
   text-underline-offset: 4px;
 }
 
-/* Hero art: branch lines draw in (paths set pathLength="1", so one dash covers any length), terminal lines type in, cursor blinks. */
+/* Hero art: branch lines draw in (paths set pathLength="1", so one dash covers any length). */
 @keyframes trace {
   from { stroke-dashoffset: 1; }
   to { stroke-dashoffset: 0; }
@@ -176,19 +176,6 @@ body {
 .draw-in {
   stroke-dasharray: 1;
   animation: trace 1.6s ease-out both;
-}
-@keyframes type-in {
-  from { opacity: 0; transform: translateX(-6px); }
-  to { opacity: 1; transform: none; }
-}
-.type-in {
-  animation: type-in 0.35s ease-out both;
-}
-@keyframes blink {
-  50% { opacity: 0; }
-}
-.cursor-blink {
-  animation: blink 1.1s steps(1) infinite;
 }
 
 ::selection {

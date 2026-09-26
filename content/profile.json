@@ -5,16 +5,6 @@
   "title": "Full-Stack Developer · Applied AI Systems",
   "tagline": "I build reliable backend systems and grounded AI products, and ship them to production.",
   "heroHeadline": "Mahendra\nAravind",
-  "terminalTitle": "~/portfolio — main",
-  "terminal": [
-    "$ whoami",
-    "mahendra-aravind",
-    "$ cat stack.txt",
-    "java  python  typescript  sql",
-    "$ ls projects/",
-    "{projects}",
-    "✓ open to SDE roles"
-  ],
   "education": "B.Tech CCE, LNMIIT Jaipur (2027)",
   "location": "",
   "openToWork": true,

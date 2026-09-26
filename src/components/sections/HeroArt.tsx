@@ -1,6 +1,6 @@
 /**
  * Two-ink hero background: a git branch graph across the top, a red disc with signal rings and a row of
- * metric bars. Pure SVG, no assets. The photo and terminal windows sit on top of it as HTML (HeroWindows).
+ * metric bars. Pure SVG, no assets. The photo window sits on top of it as HTML (HeroWindows).
  *
  * Anchored top-right (xMaxYMin slice): wide screens crop the bottom (bars) rather than the graph, and the
  * left side, where the hero text sits, stays calm at every size.
