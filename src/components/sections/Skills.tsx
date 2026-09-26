@@ -1,24 +1,21 @@
 import { skills } from "@/lib/content";
-import { Section } from "../ui";
+import { Chip, Section } from "../ui";
 
 export default function Skills() {
   return (
-    <Section id="skills" index="05" eyebrow="Skills" title="Tools I work with">
-      <dl className="grid gap-x-12 md:grid-cols-2">
+    <Section id="skills" kicker="Skills" title="Technical skills" intro="The languages, frameworks and platforms behind the projects above, each used in production work.">
+      <div className="grid gap-x-8 gap-y-8 sm:grid-cols-2 lg:grid-cols-3">
         {skills.map((g) => (
-          <div key={g.group} className="border-b border-line py-5">
-            <dt className="label text-accent">{g.group}</dt>
-            <dd className="mt-2 font-serif text-lg leading-relaxed">
-              {g.items.map((s, i) => (
-                <span key={s}>
-                  <span className="whitespace-nowrap">{s}</span>
-                  {i < g.items.length - 1 && <span className="text-subtle"> / </span>}
-                </span>
+          <div key={g.group}>
+            <p className="mb-3 border-b border-rule pb-1.5 font-mono text-[12px] uppercase tracking-[0.16em] text-dim">{g.group}</p>
+            <ul className="flex flex-wrap gap-x-2 gap-y-1.5">
+              {g.items.map((s) => (
+                <Chip key={s}>{s}</Chip>
               ))}
-            </dd>
+            </ul>
           </div>
         ))}
-      </dl>
+      </div>
     </Section>
   );
 }

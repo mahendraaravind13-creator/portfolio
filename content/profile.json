@@ -4,10 +4,19 @@
   "initials": "AKM",
   "title": "Full-Stack Developer · Applied AI Systems",
   "tagline": "I build reliable backend systems and grounded AI products, and ship them to production.",
-  "heroHeadline": "Backends that hold up.",
-  "heroAccent": "AI that shows its sources.",
+  "heroHeadline": "Mahendra\nAravind",
+  "terminalTitle": "~/portfolio — main",
+  "terminal": [
+    "$ whoami",
+    "mahendra-aravind",
+    "$ cat stack.txt",
+    "java  python  typescript  sql",
+    "$ ls projects/",
+    "{projects}",
+    "✓ open to SDE roles"
+  ],
   "education": "B.Tech CCE, LNMIIT Jaipur (2027)",
-  "location": "India",
+  "location": "",
   "openToWork": true,
   "openToWorkLabel": "Open to SDE roles",
   "photo": "/photo.jpg",
@@ -20,41 +29,36 @@
     "leetcode": "https://leetcode.com/u/snipo/"
   },
   "about": [
-    "I'm a final-year Communication & Computer Engineering student at LNMIIT Jaipur. I build Java/Spring Boot and Python/FastAPI services with React/Next.js frontends.",
-    "I care about systems that stay correct under load. PulseOps, my multi-tenant monitoring platform, runs an event-driven pipeline on Kafka, Redis and PostgreSQL with race-free incident deduplication. Project Atlas, a grounded-RAG platform on Qdrant and LangGraph, answers only when it can cite evidence, and reached the finals of the Economic Times AI Hackathon 2.0.",
-    "Both projects are deployed on AWS through CI/CD pipelines, with automated tests. Outside engineering, I've trained as a Carnatic violinist for over ten years."
+    "I build the part of software that has to keep working when nobody is watching: the servers, databases and queues underneath, and the AI features that sit on top of them. Mostly Java and Spring Boot, some Python and FastAPI, with React or Next.js on the front.",
+    "PulseOps watches servers and raises one clear alert when something breaks. To test it, I switched off one of its two servers in the middle of live traffic; every request still got an answer. Project Atlas answers questions about huge project documents, and refuses to answer when it cannot point to the page it got the answer from. It reached the finals of the Economic Times AI Hackathon 2.0.",
+    "Both run live on AWS, deployed by CI/CD pipelines and covered by automated tests. I am in my final year at LNMIIT Jaipur and looking for SDE roles in backend, full-stack or applied AI."
   ],
   "lookingFor": "Software Development Engineer roles in backend, full-stack and applied AI.",
   "highlights": [
     {
-      "value": "30/30",
-      "label": "requests still answered after I switched off one of the two servers mid-test.",
-      "detail": "PulseOps · server monitoring platform"
+      "value": "Finalist",
+      "label": "Economic Times AI Hackathon 2.0",
+      "detail": "2026 · Project Atlas"
     },
     {
-      "value": "240×",
-      "label": "faster alert checks after adding the right database index: 70 ms down to 0.3 ms on 2 million rows.",
-      "detail": "PulseOps · server monitoring platform"
-    },
-    {
-      "value": "16/16",
-      "label": "unseen test questions where Atlas found the right source document in its top results.",
-      "detail": "Project Atlas · AI that cites its sources"
-    },
-    {
-      "value": "92.9%",
-      "label": "of drone stops where my neural network picks the same action as a slow, optimal solver.",
-      "detail": "UAV research · a standard CNN managed 86.5%"
+      "value": "2",
+      "label": "full-stack apps running live on AWS",
+      "detail": "PulseOps · Atlas"
     },
     {
       "value": "1,000+",
-      "label": "LeetCode problems solved, with a contest rating above 1,850.",
-      "detail": "Data structures & algorithms"
+      "label": "LeetCode problems solved",
+      "detail": "rating 1,850+"
     },
     {
-      "value": "Finalist",
-      "label": "at the Economic Times AI Hackathon 2.0, with Project Atlas.",
-      "detail": "2026"
+      "value": "80+",
+      "label": "students mentored in AI/ML labs",
+      "detail": "teaching assistant"
+    },
+    {
+      "value": "IEEE",
+      "label": "research paper co-authored",
+      "detail": "prepared for VTC"
     }
   ]
 }

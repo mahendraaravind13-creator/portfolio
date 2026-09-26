@@ -1,10 +1,11 @@
 import type { Metadata, Viewport } from "next";
-import { Archivo, JetBrains_Mono, Newsreader } from "next/font/google";
+import { Anton, JetBrains_Mono, Jost, Newsreader } from "next/font/google";
 import "./globals.css";
 import { profile, SITE_URL } from "@/lib/content";
 
-// Archivo's width axis gives both the UI sans and the extra-condensed poster headlines from one file.
-const archivo = Archivo({ variable: "--ff-sans", subsets: ["latin"], axes: ["wdth"] });
+// Print-style type system: Anton for poster headlines, Jost for titles/UI, Newsreader for reading, JetBrains Mono for labels.
+const anton = Anton({ variable: "--ff-disp", subsets: ["latin"], weight: "400" });
+const jost = Jost({ variable: "--ff-sans", subsets: ["latin"] });
 const newsreader = Newsreader({ variable: "--ff-serif", subsets: ["latin"], style: ["normal", "italic"] });
 const mono = JetBrains_Mono({ variable: "--ff-mono", subsets: ["latin"] });
 
@@ -29,8 +30,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#16130f" },
-    { media: "(prefers-color-scheme: dark)", color: "#0b0a08" },
+    { media: "(prefers-color-scheme: light)", color: "#16151a" },
+    { media: "(prefers-color-scheme: dark)", color: "#16151a" },
   ],
 };
 
@@ -43,7 +44,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body className={`${archivo.variable} ${newsreader.variable} ${mono.variable} font-sans antialiased`}>{children}</body>
+      <body className={`${anton.variable} ${jost.variable} ${newsreader.variable} ${mono.variable} font-sans antialiased`}>{children}</body>
     </html>
   );
 }

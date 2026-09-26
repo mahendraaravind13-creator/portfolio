@@ -2,9 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getProject, projects } from "@/lib/content";
-import { Button, Container, Diagram } from "@/components/ui";
-import { DemoLink, ProjectVisual } from "@/components/sections/Projects";
-import { ArrowLeftIcon, ArrowRightIcon, GitHubIcon, TrophyIcon } from "@/components/icons";
+import { Chip, Container, Diagram } from "@/components/ui";
+import { ProjectLinks, ProjectVisual, Tag } from "@/components/sections/Projects";
 
 export function generateStaticParams() {
   return projects.map((p) => ({ slug: p.slug }));
@@ -17,12 +16,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return { title: p.title, description: `${p.subtitle}. ${p.plainEnglish}` };
 }
 
-function Heading({ n, children }: { n: string; children: React.ReactNode }) {
+function Block({ kicker, title, children }: { kicker: string; title: string; children: React.ReactNode }) {
   return (
-    <div className="border-t-[3px] border-fg pt-4">
-      <p className="label text-accent">{n}</p>
-      <h2 className="display mt-2 text-4xl sm:text-5xl">{children}</h2>
-    </div>
+    <section className="border-b-2 border-ink py-12 last:border-b-0">
+      <p className="kicker">{kicker}</p>
+      <h2 className="mt-1 font-disp text-[clamp(30px,4.2vw,46px)] uppercase leading-[0.94] text-ink">{title}</h2>
+      <div className="mt-7">{children}</div>
+    </section>
   );
 }
 
@@ -32,141 +32,108 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
   if (!p) notFound();
   const idx = projects.findIndex((x) => x.slug === slug);
   const next = projects[(idx + 1) % projects.length];
-  let n = 0;
-  const num = () => String(++n).padStart(2, "0");
 
   return (
-    <article>
-      <header className="relative overflow-hidden bg-band text-band-fg">
-        <div aria-hidden className="halftone pointer-events-none absolute inset-0 [mask-image:linear-gradient(115deg,transparent_40%,black_100%)] opacity-40" />
-        <Container className="relative py-12 sm:py-16">
-          <Link href="/#work" className="label inline-flex items-center gap-1.5 text-band-muted hover:text-band-accent">
-            <ArrowLeftIcon /> All projects
+    <Container>
+      <article>
+        <header className="border-b-[5px] border-ink pb-12 pt-12">
+          <Link href="/#work" className="font-mono text-[12px] uppercase tracking-[0.16em] text-dim hover:text-red">
+            ← All projects
           </Link>
-          <p className="label mt-8 flex flex-wrap items-center gap-x-3 gap-y-1 text-band-accent">
+          <p className="mt-7 flex flex-wrap items-center gap-3 font-mono text-[12px] uppercase tracking-[0.14em] text-red">
             {p.category && <span>{p.category}</span>}
-            {p.status && (
-              <span className="inline-flex items-center gap-1.5 text-band-fg">
-                <span className="size-1.5 rounded-full bg-band-accent" aria-hidden /> {p.status}
-              </span>
-            )}
+            {p.status && <Tag>{p.status}</Tag>}
+            {p.award && <Tag tone="red">★ {p.award}</Tag>}
           </p>
-          <h1 className="display mt-4 text-[clamp(3.4rem,11vw,8rem)]">{p.title}</h1>
-          <p className="label mt-3 text-band-muted">{p.subtitle}</p>
-          {p.award && (
-            <p className="label mt-5 inline-flex items-center gap-1.5 border border-band-accent/60 px-2 py-1 text-band-accent">
-              <TrophyIcon className="size-3.5" /> {p.award}
-            </p>
-          )}
-          <div className="mt-8 max-w-3xl border-l-4 border-band-accent pl-5">
-            <p className="label text-band-muted">In simple words</p>
-            <p className="mt-2 font-serif text-2xl leading-snug text-pretty sm:text-3xl">{p.plainEnglish}</p>
+          <h1 className="mt-3 font-disp text-[clamp(58px,10vw,136px)] uppercase leading-[0.92] text-ink">{p.title}</h1>
+          <p className="mt-3 font-mono text-[12.5px] uppercase tracking-[0.12em] text-dim">{p.subtitle}</p>
+          <p className="mt-7 max-w-[54ch] font-serif text-[21px] leading-[1.55] text-ink sm:text-[24px]">
+            {p.plainEnglish} {p.punchline && <em className="text-red">{p.punchline}</em>}
+          </p>
+          <div className="mt-8">
+            <ProjectLinks project={p} caseStudy={false} />
           </div>
-        </Container>
-      </header>
-
-      <Container className="py-14 sm:py-20">
-        <div className="flex flex-wrap items-start gap-4">
-          <DemoLink project={p} variant="primary" />
-          {p.links.repo && (
-            <Button href={p.links.repo} variant="secondary" external>
-              <GitHubIcon className="size-4" /> Source code
-            </Button>
-          )}
-        </div>
+        </header>
 
         {p.metrics.length > 0 && (
-          <dl className="mt-12 grid gap-x-10 border-t border-line sm:grid-cols-3">
+          <div className="grid gap-4 border-b-2 border-ink py-10 sm:grid-cols-3">
             {p.metrics.map((m) => (
-              <div key={m.label} className="border-b border-line py-5">
-                <dt className="display text-5xl text-accent">{m.value}</dt>
-                <dd className="mt-2 font-serif text-lg leading-snug text-muted">{m.label}</dd>
+              <div key={m.label} className="border-2 border-ink bg-paper-2 px-5 py-4 shadow-[4px_4px_0_var(--ink)]">
+                <p className="font-disp text-[42px] uppercase leading-none text-red">{m.value}</p>
+                <p className="mt-2.5 font-serif text-[17px] leading-[1.45]">{m.label}</p>
               </div>
             ))}
-          </dl>
+          </div>
         )}
 
-        <div className="mt-16 grid gap-16 lg:grid-cols-[1fr_17rem]">
-          <div className="min-w-0 space-y-16">
+        <div className="grid gap-x-14 md:grid-cols-[1fr_280px]">
+          <div className="min-w-0">
             {p.image && (
-              <section>
-                <Heading n={num()}>See it working</Heading>
-                <div className="mt-8">
-                  <ProjectVisual project={p} />
-                </div>
-              </section>
+              <Block kicker="Demo" title="Live recording">
+                <ProjectVisual project={p} />
+              </Block>
             )}
 
-            <section>
-              <Heading n={num()}>Overview</Heading>
-              <p className="mt-6 font-serif text-xl leading-relaxed text-pretty">{p.summary}</p>
-            </section>
+            <Block kicker="Summary" title="Overview">
+              <p className="max-w-[60ch] font-serif text-[19px] leading-[1.7]">{p.summary}</p>
+            </Block>
 
             {p.diagram && (
-              <section>
-                <Heading n={num()}>How it works</Heading>
-                <div className="mt-8 border-2 border-fg bg-bg p-2 shadow-[6px_6px_0_0_var(--fg)]">
+              <Block kicker="Architecture" title="How it works">
+                <div className="print-frame bg-[#fbf8f1] p-2">
                   <Diagram name={p.diagram} alt={`${p.title} architecture diagram`} />
                 </div>
-              </section>
+              </Block>
             )}
 
             {p.decisions.length > 0 && (
-              <section>
-                <Heading n={num()}>Key engineering decisions</Heading>
-                <ol className="mt-6">
+              <Block kicker="Design" title="Engineering decisions">
+                <div className="grid gap-x-8 sm:grid-cols-2">
                   {p.decisions.map((d, i) => (
-                    <li key={d.title} className="grid grid-cols-[2.5rem_1fr] gap-x-3 border-b border-line py-6">
-                      <span className="display text-3xl text-accent">{i + 1}</span>
-                      <div>
-                        <h3 className="text-xl font-bold tracking-tight">{d.title}</h3>
-                        <p className="mt-2 font-serif text-lg leading-relaxed text-muted">{d.body}</p>
-                      </div>
-                    </li>
+                    <article key={d.title} className="border-t-2 border-ink pb-7 pt-4">
+                      <p className="font-mono text-[12px] text-red">{String(i + 1).padStart(2, "0")}</p>
+                      <h3 className="mt-1.5 font-sans text-[20px] font-bold leading-[1.28] text-ink">{d.title}</h3>
+                      <p className="mt-2.5 font-serif text-[17px] leading-[1.6]">{d.body}</p>
+                    </article>
                   ))}
-                </ol>
-              </section>
+                </div>
+              </Block>
             )}
 
             {p.bullets.length > 0 && (
-              <section>
-                <Heading n={num()}>What I built</Heading>
-                <ul className="mt-6 space-y-3 font-serif text-lg leading-relaxed text-muted">
+              <Block kicker="Contributions" title="What I built">
+                <ul className="space-y-2.5 font-serif text-[18px] leading-[1.62]">
                   {p.bullets.map((b, i) => (
-                    <li key={i} className="grid grid-cols-[1.25rem_1fr]">
-                      <span className="text-accent" aria-hidden>
-                        —
+                    <li key={i} className="flex gap-2">
+                      <span aria-hidden className="text-red">
+                        ·
                       </span>
                       <span>{b}</span>
                     </li>
                   ))}
                 </ul>
-              </section>
+              </Block>
             )}
           </div>
 
-          <aside className="space-y-10 lg:sticky lg:top-20 lg:h-fit">
+          <aside className="space-y-9 py-12 md:sticky md:top-14 md:h-fit">
             <div>
-              <h2 className="label border-b-2 border-fg pb-3 text-subtle">Tech stack</h2>
-              <ul className="mt-2">
+              <p className="mb-3 border-b border-rule pb-1.5 font-mono text-[12px] uppercase tracking-[0.16em] text-dim">Tech stack</p>
+              <ul className="flex flex-wrap gap-x-2 gap-y-1.5">
                 {p.stack.map((s) => (
-                  <li key={s} className="border-b border-line py-2 font-serif text-lg">
-                    {s}
-                  </li>
+                  <Chip key={s}>{s}</Chip>
                 ))}
               </ul>
             </div>
             {next && next.slug !== p.slug && (
-              <Link href={`/projects/${next.slug}/`} className="group block border-2 border-fg p-5 shadow-[4px_4px_0_0_var(--fg)] transition hover:-translate-x-0.5 hover:-translate-y-0.5">
-                <p className="label text-subtle">Next project</p>
-                <p className="display mt-2 flex items-center justify-between text-3xl group-hover:text-accent">
-                  {next.title} <ArrowRightIcon className="size-5" />
-                </p>
+              <Link href={`/projects/${next.slug}/`} className="block border-2 border-ink bg-paper-2 px-5 py-4 shadow-[4px_4px_0_var(--ink)] transition hover:translate-x-px hover:translate-y-px hover:shadow-[2px_2px_0_var(--ink)]">
+                <span className="block font-mono text-[11.5px] uppercase tracking-[0.14em] text-dim">Next project →</span>
+                <span className="mt-1.5 block font-disp text-[28px] uppercase leading-none text-ink">{next.title}</span>
               </Link>
             )}
           </aside>
         </div>
-      </Container>
-    </article>
+      </article>
+    </Container>
   );
 }

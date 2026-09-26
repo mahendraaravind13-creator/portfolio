@@ -1,74 +1,50 @@
-import { featuredProjects, profile } from "@/lib/content";
-import { Button, Container } from "../ui";
-import { ArrowRightIcon, ExternalIcon, GitHubIcon, LeetCodeIcon, LinkedInIcon, MailIcon } from "../icons";
+import { profile } from "@/lib/content";
+import HeroArt from "./HeroArt";
+
+const SOFT = { textShadow: "0 1px 14px rgba(10,10,20,0.7)" };
 
 export default function Hero() {
-  const socials = [
-    { href: profile.links.github, label: "GitHub", Icon: GitHubIcon },
-    { href: profile.links.linkedin, label: "LinkedIn", Icon: LinkedInIcon },
-    { href: profile.links.leetcode, label: "LeetCode", Icon: LeetCodeIcon },
-  ].filter((s) => s.href);
-  const demos = featuredProjects.filter((p) => p.links.demo);
-
+  const lines = (profile.heroHeadline || profile.shortName).split("\n");
   return (
-    <section className="relative overflow-hidden bg-band text-band-fg">
-      <div aria-hidden className="halftone pointer-events-none absolute inset-0 [mask-image:linear-gradient(115deg,transparent_35%,black_100%)] opacity-50" />
-      <Container className="relative grid gap-10 pb-16 pt-12 sm:pb-24 sm:pt-20 lg:grid-cols-[1fr_auto] lg:items-end">
-        <div className="min-w-0">
-          <p className="label text-band-muted">
+    <section className="relative h-[88svh] max-h-[900px] min-h-[600px] w-full overflow-hidden border-b-[5px] border-ink">
+      <HeroArt />
+
+      {/* Scrim: darkens the lower left so the text always reads, whatever the art does behind it. */}
+      <div
+        aria-hidden
+        className="absolute inset-0 bg-[linear-gradient(to_top,rgba(22,21,26,0.92)_0%,rgba(22,21,26,0.6)_45%,rgba(22,21,26,0)_72%)] md:bg-[radial-gradient(ellipse_72%_78%_at_0%_100%,rgba(22,21,26,0.8)_0%,rgba(22,21,26,0.5)_45%,rgba(22,21,26,0)_78%)]"
+      />
+      <div aria-hidden className="absolute inset-x-0 bottom-0 hidden h-1/2 bg-[linear-gradient(to_top,rgba(22,21,26,0.6),rgba(22,21,26,0))] md:block" />
+
+      <div className="absolute inset-x-0 bottom-0 z-10 px-5 pb-14 sm:pb-16">
+        <div className="mx-auto w-full max-w-[1200px]">
+          {profile.openToWork && (
+            <p className="mb-5 inline-flex items-center gap-2 border-[1.5px] border-ink bg-yellow px-2.5 py-1 font-mono text-[12px] uppercase tracking-[0.12em] text-ink">
+              <span className="size-2 rounded-full bg-ink" aria-hidden />
+              {profile.openToWorkLabel}
+            </p>
+          )}
+          <p className="mb-4 font-mono text-[12px] uppercase tracking-[0.24em] text-paper sm:text-[13px]" style={SOFT}>
             {profile.title}
-            {profile.location && <span className="hidden sm:inline"> · {profile.location}</span>}
           </p>
-          <h1 className="display mt-6 text-[clamp(3.4rem,11vw,8.5rem)]">
-            <span className="block">{profile.heroHeadline || profile.tagline}</span>
-            {profile.heroAccent && <span className="block text-band-accent">{profile.heroAccent}</span>}
+          <h1 className="font-disp text-[length:clamp(56px,min(12vw,17svh),156px)] uppercase leading-[0.92] tracking-[-0.005em] text-paper" style={{ textShadow: "3px 3px 0 var(--red)" }}>
+            {lines.map((l, i) => (
+              <span key={i} className="block">
+                {l}
+              </span>
+            ))}
           </h1>
-          <p className="mt-8 max-w-2xl font-serif text-xl leading-snug text-band-fg/90 text-pretty sm:text-2xl">
-            I&apos;m <strong className="font-semibold text-band-fg">{profile.name}</strong>. {profile.tagline}
+          <p className="mt-6 max-w-[42ch] font-serif text-[19px] leading-[1.5] text-paper sm:text-[23px]" style={SOFT}>
+            {profile.tagline}
           </p>
-          {profile.education && <p className="label mt-4 text-band-muted">{profile.education}</p>}
-
-          <div className="mt-9 flex flex-wrap items-center gap-4">
-            <Button href="/#work" variant="band">
-              See the work <ArrowRightIcon />
-            </Button>
-            <Button href="/resume/" variant="bandOutline">
-              Resume
-            </Button>
-            <Button href={`mailto:${profile.email}`} variant="bandOutline" external>
-              <MailIcon className="size-4" /> Email
-            </Button>
-          </div>
-
-          <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-3">
-            {demos.length > 0 && (
-              <p className="label flex flex-wrap items-center gap-x-3 gap-y-1 text-band-muted">
-                <span className="text-band-accent">Live now →</span>
-                {demos.map((p) => (
-                  <a key={p.slug} href={p.links.demo} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-band-fg underline decoration-band-muted/50 underline-offset-4 hover:text-band-accent">
-                    {p.title} <ExternalIcon className="size-3" />
-                  </a>
-                ))}
-              </p>
-            )}
-            <div className="flex items-center gap-1">
-              {socials.map(({ href, label, Icon }) => (
-                <a key={label} href={href} target="_blank" rel="noopener noreferrer" aria-label={label} className="p-2 text-band-muted transition hover:text-band-accent">
-                  <Icon />
-                </a>
-              ))}
-            </div>
-          </div>
+          {profile.education && (
+            <p className="mt-3 font-mono text-[12px] uppercase tracking-[0.16em] text-paper/80 sm:text-[12.5px]" style={SOFT}>
+              {profile.education}
+            </p>
+          )}
         </div>
-
-        {profile.photo && (
-          <figure className="order-first w-36 rotate-2 border-[6px] border-band-fg bg-band-fg shadow-[8px_8px_0_0_var(--band-accent)] sm:w-48 lg:order-none lg:mb-4 lg:w-64">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={profile.photo} alt={`Portrait of ${profile.name}`} width={256} height={320} className="aspect-[4/5] w-full object-cover object-top grayscale-[35%] contrast-110" />
-            {profile.openToWork && <figcaption className="label bg-band-fg px-1 pt-2 text-center !text-[0.62rem] text-band">{profile.openToWorkLabel}</figcaption>}
-          </figure>
-        )}
-      </Container>
+      </div>
+      <div className="absolute inset-x-0 bottom-3 z-10 text-center font-mono text-[11px] uppercase tracking-[0.24em] text-paper/70">scroll ↓</div>
     </section>
   );
 }

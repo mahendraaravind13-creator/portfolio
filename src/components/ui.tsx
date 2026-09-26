@@ -2,76 +2,36 @@ import Link from "next/link";
 import type { ReactNode } from "react";
 
 export function Container({ children, className = "" }: { children: ReactNode; className?: string }) {
-  return <div className={`mx-auto max-w-6xl px-4 sm:px-6 ${className}`}>{children}</div>;
+  return <div className={`mx-auto w-full max-w-[1200px] px-5 sm:px-6 ${className}`}>{children}</div>;
 }
 
-/** Numbered editorial section: a heavy rule, a mono label ("02 — Work") and a poster headline. */
-export function Section({
-  id,
-  index,
-  eyebrow,
-  title,
-  intro,
-  children,
-}: {
-  id?: string;
-  index?: string;
-  eyebrow?: string;
-  title: string;
-  intro?: ReactNode;
-  children: ReactNode;
-}) {
+/** A printed section: red mono kicker, Anton headline, optional serif intro, closed by an ink rule. */
+export function Section({ id, kicker, title, intro, children, last }: { id?: string; kicker?: string; title: string; intro?: ReactNode; children: ReactNode; last?: boolean }) {
   return (
-    <section id={id} className="py-16 sm:py-24">
-      <Container>
-        <header className="mb-10 grid gap-5 border-t-[3px] border-fg pt-5 sm:mb-14 md:grid-cols-[1fr_minmax(0,24rem)] md:items-end">
-          <div>
-            {eyebrow && (
-              <p className="label text-accent">
-                {index && <span>{index} — </span>}
-                {eyebrow}
-              </p>
-            )}
-            <h2 className="display mt-3 text-5xl text-balance sm:text-7xl">{title}</h2>
-          </div>
-          {intro && <p className="font-serif text-lg leading-snug text-muted text-pretty md:text-right">{intro}</p>}
-        </header>
-        {children}
-      </Container>
-    </section>
+    <Container>
+      <section id={id} className={`py-14 sm:py-16 ${last ? "" : "border-b-2 border-ink"}`}>
+        {kicker && <p className="kicker">{kicker}</p>}
+        <h2 className="mt-2 font-disp text-[clamp(34px,4.8vw,56px)] uppercase leading-[0.94] text-ink">{title}</h2>
+        {intro && <p className="mt-3 max-w-[60ch] font-serif text-[18px] leading-[1.6]">{intro}</p>}
+        <div className="mt-8">{children}</div>
+      </section>
+    </Container>
   );
 }
 
-export function Chip({ children, className = "" }: { children: ReactNode; className?: string }) {
-  return <span className={`label inline-flex items-center border border-line px-2 py-1 !text-[0.66rem] text-muted ${className}`}>{children}</span>;
+export function MonoLabel({ children, className = "" }: { children: ReactNode; className?: string }) {
+  return <p className={`font-mono text-[12px] uppercase tracking-[0.12em] text-dim ${className}`}>{children}</p>;
 }
 
-export function Badge({ children, tone = "neutral" }: { children: ReactNode; tone?: "neutral" | "ok" | "accent" | "warn" }) {
-  const tones = {
-    neutral: "border-line text-muted",
-    ok: "border-ok/40 text-ok",
-    accent: "border-accent/40 text-accent",
-    warn: "border-warn/40 text-warn",
-  };
-  return <span className={`label inline-flex items-center gap-1.5 border px-2 py-1 !text-[0.66rem] ${tones[tone]}`}>{children}</span>;
+export function Chip({ children }: { children: ReactNode }) {
+  return <li className="border border-rule bg-paper-2 px-2 py-0.5 font-mono text-[12.5px] leading-[1.7] text-ink/85">{children}</li>;
 }
 
-type Variant = "primary" | "secondary" | "ghost" | "band" | "bandOutline";
-type BtnProps = { href: string; children: ReactNode; variant?: Variant; external?: boolean; download?: boolean; className?: string };
+type BtnProps = { href: string; children: ReactNode; variant?: "pri" | "dk" | "plain"; external?: boolean; download?: boolean };
 
-const lift = "hover:-translate-x-0.5 hover:-translate-y-0.5 active:translate-x-0 active:translate-y-0";
-
-const VARIANTS: Record<Variant, string> = {
-  primary: `border-fg bg-accent text-white shadow-[4px_4px_0_0_var(--fg)] hover:shadow-[6px_6px_0_0_var(--fg)] dark:text-band ${lift}`,
-  secondary: `border-fg bg-bg text-fg shadow-[4px_4px_0_0_var(--fg)] hover:shadow-[6px_6px_0_0_var(--fg)] ${lift}`,
-  ghost: "border-transparent !px-0 text-accent underline-offset-4 hover:underline",
-  band: `border-band-fg bg-band-accent text-band shadow-[4px_4px_0_0_var(--band-fg)] hover:shadow-[6px_6px_0_0_var(--band-fg)] ${lift}`,
-  bandOutline: `border-band-fg bg-band text-band-fg shadow-[4px_4px_0_0_var(--band-fg)] hover:shadow-[6px_6px_0_0_var(--band-fg)] ${lift}`,
-};
-
-export function Button({ href, children, variant = "primary", external, download, className = "" }: BtnProps) {
-  const cls = `label inline-flex items-center justify-center gap-2 border-2 px-4 py-3 font-semibold transition ${VARIANTS[variant]} ${className}`;
-  if (external || download) {
+export function Btn({ href, children, variant = "plain", external, download }: BtnProps) {
+  const cls = `btn ${variant === "pri" ? "btn-pri" : variant === "dk" ? "btn-dk" : ""}`;
+  if (external || download || href.startsWith("mailto:") || href.startsWith("tel:")) {
     return (
       <a href={href} className={cls} {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})} {...(download ? { download: "" } : {})}>
         {children}
@@ -87,12 +47,6 @@ export function Button({ href, children, variant = "primary", external, download
 
 export function Diagram({ name, alt }: { name: string; alt: string }) {
   if (!name) return null;
-  return (
-    <>
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={`/diagrams/light/diagram-${name}.svg`} alt={alt} width={568} height={300} className="block h-auto w-full dark:hidden" />
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={`/diagrams/dark/diagram-${name}.svg`} alt={alt} width={568} height={300} className="hidden h-auto w-full dark:block" />
-    </>
-  );
+  // eslint-disable-next-line @next/next/no-img-element
+  return <img src={`/diagrams/light/diagram-${name}.svg`} alt={alt} width={568} height={300} className="block h-auto w-full" />;
 }

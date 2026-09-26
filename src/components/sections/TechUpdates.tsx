@@ -1,7 +1,6 @@
 import { techUpdates } from "@/lib/content";
 import { UpdateArticle } from "../TechUpdatesList";
-import { Button, Section } from "../ui";
-import { ArrowRightIcon } from "../icons";
+import { Btn, Section } from "../ui";
 
 export default function TechUpdates() {
   const important = techUpdates.items.filter((i) => i.importance === "important");
@@ -10,20 +9,20 @@ export default function TechUpdates() {
   return (
     <Section
       id="updates"
-      index="07"
-      eyebrow="Tech updates"
+      kicker="Tech updates · refreshed every few hours"
       title="What's new in tech"
-      intro="The releases that matter to backend and AI engineers, each explained in one paragraph. Refreshed from official sources every few hours."
+      intro="Notable releases for backend and AI engineers, summarised from official sources in one paragraph each."
+      last
     >
-      <div className="grid gap-x-12 gap-y-12 md:grid-cols-2">
-        {important.slice(0, 4).map((item) => (
-          <UpdateArticle key={item.id} item={item} />
+      <div className="grid gap-x-8 sm:grid-cols-2 lg:grid-cols-3">
+        {important.slice(0, 3).map((item) => (
+          <UpdateArticle key={item.id} item={item} clamp />
         ))}
       </div>
-      <div className="mt-12">
-        <Button href="/updates/" variant="secondary">
-          See all {visible} updates <ArrowRightIcon />
-        </Button>
+      <div className="mt-6">
+        <Btn href="/updates/" variant="dk">
+          All {visible} updates →
+        </Btn>
       </div>
     </Section>
   );
