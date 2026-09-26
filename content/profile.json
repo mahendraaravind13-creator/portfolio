@@ -1,8 +1,8 @@
 {
   "name": "Kuppannagari Mahendra Aravind",
   "shortName": "Mahendra Aravind",
-  "initials": "MA",
-  "title": "Full-Stack Engineer · Applied AI Systems",
+  "initials": "AKM",
+  "title": "Full-Stack Developer · Applied AI Systems",
   "tagline": "I build reliable backend systems and grounded AI products, and ship them to production.",
   "education": "B.Tech CCE, LNMIIT Jaipur (2027)",
   "location": "India",
@@ -11,7 +11,7 @@
   "photo": "/photo.jpg",
   "email": "mahendraaravind13@gmail.com",
   "phone": "+91 63018 00327",
-  "showPhone": false,
+  "showPhone": true,
   "links": {
     "github": "https://github.com/mahendraaravind13-creator",
     "linkedin": "https://www.linkedin.com/in/mahendra-aravind-128a0a28a/",
@@ -24,11 +24,35 @@
   ],
   "lookingFor": "Software Development Engineer roles in backend, full-stack and applied AI.",
   "highlights": [
-    { "value": "240×", "label": "faster database queries", "detail": "PulseOps · 69.8 ms → 0.29 ms on 2M rows" },
-    { "value": "30/30", "label": "requests served with a server down", "detail": "PulseOps · failover test" },
-    { "value": "1.0", "label": "Recall@12 on held-out questions", "detail": "Project Atlas · MRR 0.75 vs 0.63" },
-    { "value": "92.9%", "label": "per-waypoint test accuracy", "detail": "UAV research · vs 86.5% CNN baseline" },
-    { "value": "1,000+", "label": "LeetCode problems solved", "detail": "Contest rating 1,850+" },
-    { "value": "Finalist", "label": "ET AI Hackathon 2.0", "detail": "With Project Atlas · 2026" }
+    {
+      "value": "240×",
+      "label": "faster database queries",
+      "detail": "PulseOps · 69.8 ms → 0.29 ms on 2M rows"
+    },
+    {
+      "value": "30/30",
+      "label": "requests served with a server down",
+      "detail": "PulseOps · failover test"
+    },
+    {
+      "value": "1.0",
+      "label": "Recall@12 on held-out questions",
+      "detail": "Project Atlas · MRR 0.75 vs 0.63"
+    },
+    {
+      "value": "92.9%",
+      "label": "per-waypoint test accuracy",
+      "detail": "UAV research · vs 86.5% CNN baseline"
+    },
+    {
+      "value": "1,000+",
+      "label": "LeetCode problems solved",
+      "detail": "Contest rating 1,850+"
+    },
+    {
+      "value": "Finalist",
+      "label": "ET AI Hackathon 2.0",
+      "detail": "With Project Atlas · 2026"
+    }
   ]
 }
