@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-26T17:01:14.566Z",
+  "generatedAt": "2026-09-26T21:14:02.012Z",
   "items": [
+    {
+      "id": "6b4462044a09",
+      "title": "The Python documentation is now available in German",
+      "url": "https://blog.python.org/2026/09/python-docs-in-german/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-26T00:00:00.000Z",
+      "summary": "You can now read the Python documentation online in German!"
+    },
     {
       "id": "ff91befc1789",
       "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
@@ -531,15 +540,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-09-21T13:00:00.000Z",
       "summary": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code."
-    },
-    {
-      "id": "022b42e5c790",
-      "title": "Just-In-Time Compilation for Java Performance: Recent and Ongoing Improvements",
-      "url": "https://inside.java/2026/09/21/jit-for-java-performance/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-21T00:00:00.000Z",
-      "summary": "Just-in-time (JIT) compilation within the JVM is essential to Java's performance and plays a central role in ongoing OpenJDK projects such as Valhalla, Leyden, and Panama."
     }
   ]
 }
