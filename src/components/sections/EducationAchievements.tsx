@@ -47,27 +47,18 @@ export default function Background() {
             </li>
           ))}
         </ol>
-        <div className="grid grid-cols-[minmax(0,150px)_1fr] gap-6 sm:grid-cols-[minmax(0,200px)_1fr]">
-          {profile.photo && (
-            <figure>
-              <div className="print-frame overflow-hidden">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={profile.photo} alt={`Portrait of ${profile.name}`} width={400} height={500} loading="lazy" className="block aspect-[4/5] w-full object-cover object-top" />
-              </div>
-              <figcaption className="mt-2 font-mono text-[11px] uppercase tracking-[0.14em] text-dim">{profile.shortName}</figcaption>
-            </figure>
-          )}
-          <dl className="min-w-0 font-mono text-[12.5px] leading-[1.75] text-dim">
-            {facts.map((f) => (
-              <div key={f.k} className="mb-4">
-                <dt className="text-[11.5px] uppercase tracking-[0.14em] text-ink">{f.k}</dt>
-                {f.v.map((line) => (
-                  <dd key={line}>{line}</dd>
-                ))}
-              </div>
-            ))}
-          </dl>
-        </div>
+        <dl className="h-fit border-2 border-ink bg-paper-2 p-6 shadow-[4px_4px_0_var(--ink)]">
+          {facts.map((f) => (
+            <div key={f.k} className="border-b border-dotted border-rule py-3 first:pt-0 last:border-b-0 last:pb-0">
+              <dt className="font-mono text-[11.5px] uppercase tracking-[0.14em] text-dim">{f.k}</dt>
+              {f.v.map((line) => (
+                <dd key={line} className="mt-1 font-serif text-[17.5px] leading-[1.5] text-ink">
+                  {line}
+                </dd>
+              ))}
+            </div>
+          ))}
+        </dl>
       </div>
     </Section>
   );

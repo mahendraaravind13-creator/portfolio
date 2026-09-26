@@ -206,9 +206,3 @@ body {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
 
-/* Phones: lift the hero terminal a little so it clears the text block (CSS px = SVG user units here). */
-@media (max-width: 640px) {
-  .hero-term {
-    transform: translate(1180px, 18px) scale(0.74);
-  }
-}
