@@ -28,8 +28,8 @@ export default function Home() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personLd) }} />
       <Hero />
       <Highlights />
-      <About />
       <Projects />
+      <About />
       <Experience />
       <Skills />
       <EducationAchievements />

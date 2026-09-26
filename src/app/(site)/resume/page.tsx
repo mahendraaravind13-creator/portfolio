@@ -8,12 +8,15 @@ export const metadata: Metadata = { title: "Resume", description: `Resume of ${p
 export default function ResumePage() {
   return (
     <Container className="py-12 sm:py-16">
-      <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
+      <div className="flex flex-col justify-between gap-6 border-t-[3px] border-fg pt-5 sm:flex-row sm:items-end">
         <div>
-          <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">Resume</h1>
-          <p className="mt-2 text-muted">{profile.name} · {profile.title}</p>
+          <p className="label text-accent">Resume</p>
+          <h1 className="display mt-3 text-6xl sm:text-7xl">One page</h1>
+          <p className="label mt-3 text-muted">
+            {profile.name} · {profile.title}
+          </p>
         </div>
-        <div className="flex flex-wrap gap-3">
+        <div className="flex flex-wrap gap-4">
           <Button href="/resume.pdf" download>
             <DownloadIcon /> Download PDF
           </Button>
@@ -22,11 +25,11 @@ export default function ResumePage() {
           </Button>
         </div>
       </div>
-      <div className="mt-8 overflow-hidden rounded-2xl border border-line bg-surface">
-        <object data="/resume.pdf#view=FitH" type="application/pdf" className="h-[80vh] min-h-[600px] w-full" aria-label="Resume PDF">
+      <div className="mt-10 border-2 border-fg bg-surface shadow-[6px_6px_0_0_var(--fg)]">
+        <object data="/resume.pdf#view=FitH" type="application/pdf" className="block h-[80vh] min-h-[600px] w-full" aria-label="Resume PDF">
           <div className="p-10 text-center">
-            <p className="text-muted">Your browser can&apos;t show the PDF here.</p>
-            <div className="mt-4">
+            <p className="font-serif text-lg text-muted">Your browser can&apos;t show the PDF here.</p>
+            <div className="mt-6">
               <Button href="/resume.pdf" download>
                 <DownloadIcon /> Download the resume
               </Button>

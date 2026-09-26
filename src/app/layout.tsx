@@ -1,10 +1,12 @@
 import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Archivo, JetBrains_Mono, Newsreader } from "next/font/google";
 import "./globals.css";
 import { profile, SITE_URL } from "@/lib/content";
 
-const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
-const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
+// Archivo's width axis gives both the UI sans and the extra-condensed poster headlines from one file.
+const archivo = Archivo({ variable: "--ff-sans", subsets: ["latin"], axes: ["wdth"] });
+const newsreader = Newsreader({ variable: "--ff-serif", subsets: ["latin"], style: ["normal", "italic"] });
+const mono = JetBrains_Mono({ variable: "--ff-mono", subsets: ["latin"] });
 
 const description = `${profile.name} — ${profile.title}. ${profile.tagline}`;
 
@@ -27,8 +29,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
-    { media: "(prefers-color-scheme: dark)", color: "#0d1117" },
+    { media: "(prefers-color-scheme: light)", color: "#16130f" },
+    { media: "(prefers-color-scheme: dark)", color: "#0b0a08" },
   ],
 };
 
@@ -41,7 +43,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}>{children}</body>
+      <body className={`${archivo.variable} ${newsreader.variable} ${mono.variable} font-sans antialiased`}>{children}</body>
     </html>
   );
 }

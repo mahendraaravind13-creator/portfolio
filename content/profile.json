@@ -4,6 +4,8 @@
   "initials": "AKM",
   "title": "Full-Stack Developer · Applied AI Systems",
   "tagline": "I build reliable backend systems and grounded AI products, and ship them to production.",
+  "heroHeadline": "Backends that hold up.",
+  "heroAccent": "AI that shows its sources.",
   "education": "B.Tech CCE, LNMIIT Jaipur (2027)",
   "location": "India",
   "openToWork": true,
@@ -25,34 +27,34 @@
   "lookingFor": "Software Development Engineer roles in backend, full-stack and applied AI.",
   "highlights": [
     {
-      "value": "240×",
-      "label": "faster database queries",
-      "detail": "PulseOps · 69.8 ms → 0.29 ms on 2M rows"
-    },
-    {
       "value": "30/30",
-      "label": "requests served with a server down",
-      "detail": "PulseOps · failover test"
+      "label": "requests still answered after I switched off one of the two servers mid-test.",
+      "detail": "PulseOps · server monitoring platform"
     },
     {
-      "value": "1.0",
-      "label": "Recall@12 on held-out questions",
-      "detail": "Project Atlas · MRR 0.75 vs 0.63"
+      "value": "240×",
+      "label": "faster alert checks after adding the right database index: 70 ms down to 0.3 ms on 2 million rows.",
+      "detail": "PulseOps · server monitoring platform"
+    },
+    {
+      "value": "16/16",
+      "label": "unseen test questions where Atlas found the right source document in its top results.",
+      "detail": "Project Atlas · AI that cites its sources"
     },
     {
       "value": "92.9%",
-      "label": "per-waypoint test accuracy",
-      "detail": "UAV research · vs 86.5% CNN baseline"
+      "label": "of drone stops where my neural network picks the same action as a slow, optimal solver.",
+      "detail": "UAV research · a standard CNN managed 86.5%"
     },
     {
       "value": "1,000+",
-      "label": "LeetCode problems solved",
-      "detail": "Contest rating 1,850+"
+      "label": "LeetCode problems solved, with a contest rating above 1,850.",
+      "detail": "Data structures & algorithms"
     },
     {
       "value": "Finalist",
-      "label": "ET AI Hackathon 2.0",
-      "detail": "With Project Atlas · 2026"
+      "label": "at the Economic Times AI Hackathon 2.0, with Project Atlas.",
+      "detail": "2026"
     }
   ]
 }

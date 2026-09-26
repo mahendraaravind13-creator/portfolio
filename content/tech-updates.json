@@ -17,7 +17,11 @@
       "source": "Java (Inside Java)",
       "category": "Frameworks & Languages",
       "published": "2026-09-26T00:00:00.000Z",
-      "summary": "The following JEP is targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)"
+      "summary": "The following JEP is targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "JEP 539 targeted to JDK 28: strict field initialization in the JVM (preview)",
+      "paragraph": "JEP 539 (a formal Java enhancement proposal), Strict Field Initialization in the JVM, was targeted to JDK 28 as a preview feature on 26 September 2026. Fields marked with a new ACC_STRICT_INIT class-file flag (0x0800) get no default value: the JVM refuses reads before they are assigned, and every read of a final strict field sees the same value. Static fields are enforced at runtime with exceptions; instance fields are checked by the bytecode verifier using a new early_larval_frame stack-map entry. Java syntax and javac are unchanged. It underpins Project Valhalla value classes, so JVM language and compiler authors should follow it; it needs --enable-preview."
     },
     {
       "id": "123d8dcecccf",
@@ -26,7 +30,11 @@
       "source": "GitHub Changelog",
       "category": "Developer Tools",
       "published": "2026-09-25T23:24:57.000Z",
-      "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent"
+      "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "GitHub adds an in-product validator for Copilot enterprise managed settings",
+      "paragraph": "Enterprise admins now see errors in Copilot managed-settings.json and team-mappings.json files, such as malformed JSON or invalid team mappings, on the AI controls page."
     },
     {
       "id": "0447a6245098",
@@ -35,7 +43,11 @@
       "source": "GitHub Changelog",
       "category": "Developer Tools",
       "published": "2026-09-25T21:09:40.000Z",
-      "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row"
+      "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Copilot usage metrics API adds pull request review-stage timings",
+      "paragraph": "Enterprise and organization repos-1-day Copilot metrics reports gain a pull_request_review_times array with median and p90 minutes per review stage, collected from 21 September 2026."
     },
     {
       "id": "27d48753d2e1",
@@ -44,7 +56,11 @@
       "source": "GitHub Changelog",
       "category": "Developer Tools",
       "published": "2026-09-25T19:05:03.000Z",
-      "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. \"Relates to\" issue relationship"
+      "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. \"Relates to\" issue relationship",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "GitHub issues get private saved views; \"Relates to\" relationship is generally available",
+      "paragraph": "Repository issue pages now support private saved views, and the \"Relates to\" issue relationship is generally available across the REST and GraphQL APIs, webhooks and search."
     },
     {
       "id": "d2d497e5eee4",
@@ -53,7 +69,9 @@
       "source": "OpenAI",
       "category": "AI & LLMs",
       "published": "2026-09-25T19:00:00.000Z",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "e3b548de0eee",
@@ -62,7 +80,11 @@
       "source": "GitHub Changelog",
       "category": "Developer Tools",
       "published": "2026-09-25T18:17:06.000Z",
-      "summary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,"
+      "summary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "GitHub Actions API now reports workflow run counts above 2,500 as \"2,500+\"",
+      "paragraph": "GitHub changed how the Actions API and UI count workflow runs on 25 September 2026. When you search runs by workflow, event, status, branch or actor and more than 2,500 records match, the count is now shown as \"2,500+\" instead of an exact number. GitHub says exact counts on queries that large often timed out and returned incomplete totals, so the capped figure is less precise but more accurate. The change is rolling out on github.com and GitHub Enterprise Cloud. If your scripts, dashboards or cleanup jobs depend on counts or results beyond 2,500 runs, narrow the filters, for example with a date range, to get the runs you need."
     },
     {
       "id": "aabbcb7a3a47",
@@ -71,7 +93,9 @@
       "source": "GitHub",
       "category": "Developer Tools",
       "published": "2026-09-25T18:00:00.000Z",
-      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done."
+      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "925b830b81ef",
@@ -80,7 +104,11 @@
       "source": "GitHub Changelog",
       "category": "Developer Tools",
       "published": "2026-09-25T17:25:50.000Z",
-      "summary": "Agentic autofix now uses Copilot Memory for customers who've enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it"
+      "summary": "Agentic autofix now uses Copilot Memory for customers who've enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "GitHub agentic autofix now reads and saves Copilot Memory",
+      "paragraph": "Agentic autofix, in public preview, now uses Copilot Memory to find context for fixing security alerts and saves successful fix patterns for reuse across the organization."
     },
     {
       "id": "6edfaac73238",
@@ -89,7 +117,11 @@
       "source": "GitHub Changelog",
       "category": "Developer Tools",
       "published": "2026-09-25T16:42:48.000Z",
-      "summary": "This week's releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus"
+      "summary": "This week's releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "GitHub Copilot adds Claude Opus 5.5, GPT-6 Sol/Luna and Grok 4.7, plus local sandboxing",
+      "paragraph": "GitHub's Copilot release roundup for the week of 21 September 2026 adds four models: Claude Opus 5.5 and GPT-6 Sol for Pro+, Max, Business and Enterprise plans, and GPT-6 Luna and Grok 4.7 from the Pro plan up. In the Copilot app, local sandboxing is now in public preview, limiting agents' access to files, networks and credentials. JetBrains IDEs get assisted approvals (preview), which auto-approve low-risk tool calls and prompt for riskier ones. VS Code 1.139 lets agents run in Dev Containers on SSH, Tunnel and WSL hosts. Paid Copilot users can try the new models now; anyone running agents locally should test sandboxing."
     },
     {
       "id": "4b83598dbd94",
@@ -98,7 +130,11 @@
       "source": "GitHub",
       "category": "Developer Tools",
       "published": "2026-09-25T15:00:00.000Z",
-      "summary": "How we fully migrated github.com away from CSS-in-JS."
+      "summary": "How we fully migrated github.com away from CSS-in-JS.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "GitHub completes move of github.com from CSS-in-JS to CSS Modules, cutting SSR time",
+      "paragraph": "GitHub finished migrating github.com from styled-components (a CSS-in-JS library) to CSS Modules in June 2026. CSS-in-JS initialized styles on the client, slowed server-side rendering (SSR) and added runtime cost through the dynamic sx style prop. Migrating the Primer design system first, completed in December 2024, cut SSR time by 55% and component initialization time by 25%. A rotation of 8 engineers then migrated 6,419 sx props over six months, and in April 2026 two engineers helped by Copilot coding agents cleared the last 895 in three weeks. Individual pages saw SSR gains of 1% to 22%. React teams using runtime CSS-in-JS can borrow its feature-flagged, staged rollout."
     },
     {
       "id": "f8742313b30e",
@@ -107,7 +143,11 @@
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
       "published": "2026-09-25T13:00:00.000Z",
-      "summary": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification."
+      "summary": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Cloudflare Turnstile Spin has your AI coding agent wire up server-side bot checks",
+      "paragraph": "Cloudflare detailed Turnstile Spin on 25 September 2026, a free tool released in July that has your AI coding agent finish setting up Turnstile, its CAPTCHA replacement. Sites that embed the Turnstile widget but never call the Siteverify API from their backend stay open to bots. From the dashboard or Wrangler CLI, Spin produces a prompt or skill URL that agents such as Claude Code, Cursor or Codex use to add the widget and backend validation after you approve a plan. Widgets with no server-side validation now show a \"Fix with Spin\" banner, and over 65,000 Spin widgets have been created. Turnstile users should confirm their backend validates tokens."
     },
     {
       "id": "89d99fa23758",
@@ -116,7 +156,11 @@
       "source": "Spring",
       "category": "Frameworks & Languages",
       "published": "2026-09-25T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-M1 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation 2.1.0-M1 is the first milestone of the 2.1 line."
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-M1 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation 2.1.0-M1 is the first milestone of the 2.1 line.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Spring AI 2.1.0-M1 released with ordered message parts and OpenAI Responses API support",
+      "paragraph": "Spring AI 2.1.0-M1, the first milestone of the 2.1 line, was released to Maven Central on 25 September 2026 and builds against Spring Boot 4.2.0-M2. Messages can now hold ordered parts (text, reasoning, tool calls, tool results and media) kept in the order the model provider produced them. A new OpenAiResponsesChatModel supports OpenAI's Responses API, including tool calling combined with a reasoning effort other than none. VectorStore.upsert() stores embeddings computed elsewhere, and new customizer beans tune stateless MCP (Model Context Protocol) servers. Redis vector store auto-configuration accepts custom metadata fields. Milestone APIs may change before GA, so Spring developers building RAG or agent features should try it outside production."
     },
     {
       "id": "b987e79c844e",
@@ -125,7 +169,11 @@
       "source": "Spring",
       "category": "Frameworks & Languages",
       "published": "2026-09-25T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes ."
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes .",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Spring Boot 4.2.0-M2 adds LDAPS via SSL bundles and OpenTelemetry semantic conventions",
+      "paragraph": "Spring Boot 4.2.0-M2 was released to Maven Central on 25 September 2026 with 141 enhancements, documentation improvements, dependency upgrades and bug fixes. LDAP connections can now use SSL bundles, and the embedded LDAP server supports LDAPS (LDAP over TLS). Setting management.observations.conventions to open-telemetry opts in to OpenTelemetry semantic conventions, and a shared management.opentelemetry.otlp prefix configures the common OTLP endpoint, headers and compression. @DefaultValue now accepts property placeholders. It moves to Spring Framework 7.1.0-M2 and Micrometer 1.18.0-M2, and deprecates the buildProperties methods in KafkaProperties in favour of KafkaConfigBuilder. Kafka and observability users should test against it before 4.2 goes GA."
     },
     {
       "id": "999cfb9cf2dd",
@@ -134,7 +182,11 @@
       "source": "Java (Inside Java)",
       "category": "Frameworks & Languages",
       "published": "2026-09-25T00:00:00.000Z",
-      "summary": "When you evaluate a system with a garbage collector and want to understand its tail latency, you often see SPECjbb2015 or DaCapo used."
+      "summary": "When you evaluate a system with a garbage collector and want to understand its tail latency, you often see SPECjbb2015 or DaCapo used.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Running a load generator in the same JVM hides GC pauses and skews p99 latency",
+      "paragraph": "A study linked from Inside Java on 25 September 2026 tests running a benchmark's workload generator in the same JVM as the system under test. Using SPECjbb2015 v1.04 at 6,000 requests per second on OpenJDK 27, the author shows that a garbage-collection pause also stops the generator, so no requests are scheduled and coordinated-omission correction (adjusting for requests delayed by a stall) cannot capture the delay. With ZGC (pauses under 1 ms) results matched; G1 and Parallel showed roughly 2-3x differences in p99 latency, and Serial GC on a 6 GB heap gave 1,750 ms versus 278 ms. When benchmarking JVM tail latency, run the generator in its own JVM."
     },
     {
       "id": "3612a7c1fb6f",
@@ -143,7 +195,11 @@
       "source": "AWS",
       "category": "Cloud & DevOps",
       "published": "2026-09-24T20:58:46.000Z",
-      "summary": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and improved economics at scale."
+      "summary": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and improved economics at scale.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Amazon EventBridge adds enhanced custom event bus with org-wide sharing and ordering",
+      "paragraph": "AWS introduced an enhanced custom event bus for Amazon EventBridge on 24 September 2026. One bus can be shared with every account in an AWS Organization, specific organizational units or individual IAM principals through AWS RAM (Resource Access Manager). Publishers can set an EventGroupId, and subscribers that opt into ordered delivery receive events with the same ID in sequence. A new Subscriber resource bundles filtering, targets, retry policies and dead-letter destinations, with a default quota of 10,000 per bus. Pricing moves from per-event charges to ingress and egress throughput. Existing buses keep working unchanged, now labelled \"classic\". Teams running multi-account event-driven systems should evaluate it in supported Regions."
     },
     {
       "id": "234391b377f9",
@@ -152,7 +208,11 @@
       "source": "GitHub",
       "category": "Developer Tools",
       "published": "2026-09-24T20:00:00.000Z",
-      "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases."
+      "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases.",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "GitHub Copilot app canvases let agents build small custom UIs instead of chatting",
+      "paragraph": "GitHub explains canvases in the Copilot app: small full-stack apps, created by asking the agent, that run inside the app and exchange messages with the agent."
     },
     {
       "id": "5d810621a5e7",
@@ -161,7 +221,11 @@
       "source": "GitHub",
       "category": "Developer Tools",
       "published": "2026-09-24T18:26:12.000Z",
-      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework."
+      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "GitHub Security Lab releases an AI-driven fuzzing taskflow for C/C++ projects",
+      "paragraph": "GitHub Security Lab published a fuzzing taskflow on September 24, 2026, built on its Taskflow Agent framework for LLM-driven security automation. Given a repository, it picks entry points, reads the build system, writes harnesses, runs AFL++ (a coverage-guided fuzzer), reads coverage reports, improves the harnesses and triages every crash into a vulnerability report. Time budgets double from 30 to 960 seconds, with plateau detection to stop when coverage stalls. Crashes are minimised and deduplicated by stack hash, and Claude Sonnet 5 is the default model. It supports C/C++ only, and the post reports no bug counts yet. It runs build commands without container isolation, so use a disposable machine."
     },
     {
       "id": "6533446258fa",
@@ -170,7 +234,9 @@
       "source": "Docker",
       "category": "Cloud & DevOps",
       "published": "2026-09-24T17:15:00.000Z",
-      "summary": "Docker's WeAreDevelopers keynote shows how Sandboxes, Kits, and Cloud Sandboxes give AI agents strong isolation and reproducible authority."
+      "summary": "Docker's WeAreDevelopers keynote shows how Sandboxes, Kits, and Cloud Sandboxes give AI agents strong isolation and reproducible authority.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "e7107d9a76d9",
@@ -179,7 +245,11 @@
       "source": "Google DeepMind",
       "category": "AI & LLMs",
       "published": "2026-09-24T16:20:39.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Google adds Live Avatar to Gemini 3.8 Live in Gemini Enterprise",
+      "paragraph": "Google released Gemini 3.8 Live with Live Avatar on September 24, 2026, adding a generated, talking video face to its real-time voice dialogue model. It is available in Gemini Enterprise through the console and API. Avatars are rendered in near real time with lip-sync and facial expressions, and the model processes video and audio input together. Tool calls can run in the background while the conversation continues, and lip-sync adapts across 97 languages. Developers can create avatars from a reference image, but custom avatars currently require enterprise allowlisting. All output carries a SynthID watermark. No pricing was given. Relevant for teams building customer-service or guided-walkthrough agents."
     },
     {
       "id": "d28cb3fe2c26",
@@ -188,7 +258,11 @@
       "source": "Docker",
       "category": "Cloud & DevOps",
       "published": "2026-09-24T16:00:00.000Z",
-      "summary": "Docker's Sandbox Kit Specification v3 packages an AI agent's network rules, credentials, and volumes as an ordinary, pinnable OCI image."
+      "summary": "Docker's Sandbox Kit Specification v3 packages an AI agent's network rules, credentials, and volumes as an ordinary, pinnable OCI image.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Docker Sandbox Kit Spec v3 packages AI agent permissions as OCI images",
+      "paragraph": "Docker published version 3 of its Sandbox Kit Specification, an Apache 2.0 open standard in the docker/sandbox-kit-spec repository. A Kit is an ordinary OCI (Open Container Initiative) image that declares what an AI agent may reach: allowed hosts and HTTP methods, credentials injected through a proxy, persistent volumes, lifecycle hooks, ports and devices. Rules can be fine-grained, for example allowing the GitHub API while denying DELETE on repository paths. Kits build with docker buildx, push to standard registries, pin by digest and are checked by two conformance suites. The sbx CLI runs them. Worth reading if you run coding agents and want their permissions reviewed and versioned like code."
     },
     {
       "id": "bfc64acbfc4f",
@@ -197,7 +271,11 @@
       "source": "Docker",
       "category": "Cloud & DevOps",
       "published": "2026-09-24T16:00:00.000Z",
-      "summary": "Docker is bringing the open source Sandbox Kit Spec to the CNCF, so AI agent permissions become a neutral, vendor independent standard built on OCI."
+      "summary": "Docker is bringing the open source Sandbox Kit Spec to the CNCF, so AI agent permissions become a neutral, vendor independent standard built on OCI.",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Docker contributes its Sandbox Kit Spec for AI agent permissions to the CNCF",
+      "paragraph": "Docker is moving its Apache 2.0 Sandbox Kit Spec to CNCF governance, with partners including AWS, Datadog, JFrog, Palo Alto Networks and Snyk."
     },
     {
       "id": "cd2149d6a732",
@@ -206,7 +284,11 @@
       "source": "Docker",
       "category": "Cloud & DevOps",
       "published": "2026-09-24T16:00:00.000Z",
-      "summary": "Run agents on your laptop, in the cloud, and move between them with one command, all safely. Earlier this year we launched Docker Sandboxes: microVM environments where coding agents can work autonomously in a safe way."
+      "summary": "Run agents on your laptop, in the cloud, and move between them with one command, all safely. Earlier this year we launched Docker Sandboxes: microVM environments where coding agents can work autonomously in a safe way.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Docker Cloud Sandboxes reach general availability with per-second pricing",
+      "paragraph": "Docker made Cloud Sandboxes generally available on September 24, 2026, running the same microVM (lightweight virtual machine) sandboxes used locally on Docker-managed compute, with identical isolation and CLI. The command sbx move my-project --to cloud copies a sandbox's filesystem across, in either direction. Billing is per second, from $0.07 an hour for 1 vCPU and 2 GiB up to $1.12 for 16 vCPUs and 32 GiB; sessions default to one hour and can run up to 24. It needs sbx 0.45.1 or later and a pay-as-you-go Personal or Pro account, with ready-made Kits for Claude Code, Codex, Copilot and others. New accounts get $250 in credit for a limited time."
     },
     {
       "id": "4224c10f9445",
@@ -215,7 +297,11 @@
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
       "published": "2026-09-24T15:00:00.000Z",
-      "summary": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it."
+      "summary": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Cloudflare fixes Containers flaw that exposed leftover disk data across tenants",
+      "paragraph": "Cloudflare disclosed and fixed a cross-tenant flaw in Cloudflare Containers, reported on September 4, 2026 by Oren Yomtov of Accomplish through its HackerOne bug bounty. Linux device-mapper thin provisioning was configured with skip_block_zeroing, so newly allocated 64 KiB blocks could keep data from a previous customer's workload when smaller writes did not overwrite them. A fix began rolling out the same day and finished on September 7; old disks and cached snapshots were cleared by September 19. Researchers found residual data in 18 of 24 placements, but Cloudflare saw no exploitation. Customers need do nothing; anyone running multi-tenant storage should check that freed blocks are zeroed."
     },
     {
       "id": "c2a53f233272",
@@ -224,7 +310,11 @@
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-09-24T14:08:57.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Liquid AI releases DSpark draft model to speed up LFM2.5-VL-3B decoding",
+      "paragraph": "Liquid AI released LFM2.5-VL-3B-DSpark, an open-weight draft model that adds speculative decoding to its 3-billion-parameter vision-language model. Speculative decoding has a small model propose several tokens that the large model then checks in one pass. The drafter adds 280M parameters (8.9% overhead) and reads hidden states from the target model, so it handles image and text inputs alike. Decoding ran 2.30-3.13x faster with MLX on an M5 Max and 2.66-20.4x faster on an H100, with end-to-end gains of 1.56-2.62x and 1.64-2.27x. It does not speed up image encoding or prefill. Weights come in Safetensors and GGUF, supported by llama.cpp, MLX-VLM and SGLang."
     },
     {
       "id": "ead81158a84d",
@@ -233,7 +323,11 @@
       "source": "Spring",
       "category": "Frameworks & Languages",
       "published": "2026-09-24T00:00:00.000Z",
-      "summary": "On behalf of the team and all contributors, I am pleased to announce that Spring Batch 6.1.0-M2 is available now from Maven Central! This second milestone brings a number of new features, enhancements and a few breaking changes on top of 6.1.0-M1 ."
+      "summary": "On behalf of the team and all contributors, I am pleased to announce that Spring Batch 6.1.0-M2 is available now from Maven Central! This second milestone brings a number of new features, enhancements and a few breaking changes on top of 6.1.0-M1 .",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Spring Batch 6.1.0-M2 adds compile-checked builders and moves async writers to core",
+      "paragraph": "Spring Batch 6.1.0-M2, the second milestone of 6.1, was released to Maven Central on September 24, 2026. AsyncItemProcessor, AsyncItemWriter and ChunkTaskExecutorItemWriter move from spring-batch-integration into spring-batch-core, dropping unneeded transitive dependencies. FlatFileItemReaderBuilder, FlatFileItemWriterBuilder and JdbcBatchItemWriterBuilder now use a staged DSL that catches invalid configurations at compile time, which breaks code that stores builder return values in builder-typed variables. The MongoDB job repository supports collection prefixes, RepositoryItemWriter can flush, and resource readers accept location patterns such as classpath:data/input/file-*.txt. No GA date was given. Batch developers should test against it now to catch the builder changes early."
     },
     {
       "id": "b7efb590f404",
@@ -242,7 +336,11 @@
       "source": "Spring",
       "category": "Frameworks & Languages",
       "published": "2026-09-24T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information ."
+      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information .",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
+      "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
     },
     {
       "id": "7317876738e3",
@@ -251,7 +349,9 @@
       "source": "Java (Inside Java)",
       "category": "Frameworks & Languages",
       "published": "2026-09-24T00:00:00.000Z",
-      "summary": "Given how prevalent Java is on web servers throughout the internet, security in Java is of critical importance - there's the JDK itself, of course, but also the algorithms and features it offers to applications"
+      "summary": "Given how prevalent Java is on web servers throughout the internet, security in Java is of critical importance - there's the JDK itself, of course, but also the algorithms and features it offers to applications",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "a70f8ac64edf",
@@ -260,7 +360,9 @@
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-09-23T18:41:40.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "078c955aa93d",
@@ -269,7 +371,11 @@
       "source": "GitHub",
       "category": "Developer Tools",
       "published": "2026-09-23T18:29:49.000Z",
-      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments."
+      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "How GitHub made the Copilot app open million-line pull requests smoothly",
+      "paragraph": "GitHub explained how it rebuilt the diff view in the GitHub Copilot app to open a pull request with 2,200 files, over a million changed lines and more than 400 inline review comments. Standard virtualization broke because comment heights are unknown until rendered. The team split geometry: code rows have exact precomputed heights, while comment blocks start with estimates corrected by one idle-time measurement pass per frame instead of ResizeObserver callbacks. Scroll anchoring tracks the row being read, not the pixel offset. Syntax highlighting runs off the main thread, and only blocks within about 2,400px of the viewport are measured. Useful reading for anyone building large virtualized lists in React."
     },
     {
       "id": "8a86c97089bb",
@@ -278,7 +384,9 @@
       "source": "Google AI",
       "category": "AI & LLMs",
       "published": "2026-09-23T18:00:00.000Z",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "ff8607213777",
@@ -287,7 +395,11 @@
       "source": "Next.js",
       "category": "Frameworks & Languages",
       "published": "2026-09-23T18:00:00.000Z",
-      "summary": "Next.js is preparing a scheduled September security release for September 30, 2026."
+      "summary": "Next.js is preparing a scheduled September security release for September 30, 2026.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Next.js schedules September 30 security release fixing nine vulnerabilities",
+      "paragraph": "Next.js maintainers announced on September 23, 2026 that a scheduled security release will ship on September 30, 2026. It will fix nine vulnerabilities: one rated critical, two high, five medium and one low. Patched versions 16.3.7 and 15.5.27 are planned, and the full advisories, covering impact, affected versions and upgrade steps, will be published at the same time. Until then, no technical details are public. Teams running Next.js 16.3 or 15.5 in production should set aside time around September 30 to upgrade to 16.3.7 or 15.5.27 and read the advisories to check whether their app is exposed."
     },
     {
       "id": "dff539682bf2",
@@ -296,7 +408,11 @@
       "source": "VS Code",
       "category": "Developer Tools",
       "published": "2026-09-23T17:00:00.000Z",
-      "summary": "Learn what is new in Visual Studio Code 1.139"
+      "summary": "Learn what is new in Visual Studio Code 1.139",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "VS Code 1.139 speeds up agent session lists and renames Linux desktop files",
+      "paragraph": "Visual Studio Code 1.139 was released on September 23, 2026. Agent sessions can now use Dev Containers on remote hosts reached over SSH, tunnels or WSL, behind the chat.agentHost.devContainer.enabled setting. Session lists load about 12x faster initially and refresh about 4x faster in tests with around 645 sessions, and sessions can be renamed in place with F2. Word-wrapped lines now show arrow indicators, and bracket auto-closing no longer adds a duplicate closing bracket. Linux users should note that the DEB and RPM desktop files were renamed to com.microsoft.VSCode.desktop, so pinned launchers may need to be removed and re-added."
     },
     {
       "id": "4c4abcff4acd",
@@ -305,7 +421,11 @@
       "source": "Google DeepMind",
       "category": "AI & LLMs",
       "published": "2026-09-23T16:00:57.000Z",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Google adds encrypted server-side memory to Private AI Compute",
+      "paragraph": "Google now keeps personal AI memory in encrypted per-user cloud storage, decrypted only inside attested hardware enclaves with keys held on the user's devices; no developer API was announced."
     },
     {
       "id": "9d02eeb8cef1",
@@ -314,7 +434,9 @@
       "source": "OpenAI",
       "category": "AI & LLMs",
       "published": "2026-09-23T16:00:00.000Z",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "be2314c62992",
@@ -323,7 +445,11 @@
       "source": "Google DeepMind",
       "category": "AI & LLMs",
       "published": "2026-09-23T15:25:14.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Google releases Gemini 3.8 Flash TTS and Flash-Lite TTS in the Gemini API",
+      "paragraph": "Google released two text-to-speech models on September 23, 2026: Gemini 3.8 Flash TTS for expressive character voices and Gemini 3.8 Flash-Lite TTS for cheaper, high-volume use. Both are available now in the Gemini API and Google AI Studio, with Gemini Enterprise support coming later. Compared with Gemini 3.1 Flash TTS, they add line-by-line direction of pacing, dialect and acting cues, native two-speaker dialogue, scripted laughs and sighs, and new voices designed from a text prompt. Google cites 2,000+ voices, 100+ languages, voice replication from a 30-second sample and a top score of 71.4 on Hume AI's Voice Design Benchmark. Worth testing for voice agents or narration."
     },
     {
       "id": "1d77064cbebb",
@@ -332,7 +458,9 @@
       "source": "OpenAI",
       "category": "AI & LLMs",
       "published": "2026-09-23T13:00:00.000Z",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "cded7a7a02c2",
@@ -341,7 +469,11 @@
       "source": "GitHub",
       "category": "Developer Tools",
       "published": "2026-09-23T13:00:00.000Z",
-      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute."
+      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "GitHub and Yale survey: 80% of developers want tools for energy-efficient code",
+      "paragraph": "Surveying 1,039 US GitHub users, GitHub and Yale found 80% want tools for energy-efficient code and 74% want impact measurement, yet only 10% think their practices matter much."
     },
     {
       "id": "01d4e543c941",
@@ -350,7 +482,9 @@
       "source": "OpenAI",
       "category": "AI & LLMs",
       "published": "2026-09-23T12:00:00.000Z",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "f7558dc5c9de",
@@ -359,7 +493,9 @@
       "source": "OpenAI",
       "category": "AI & LLMs",
       "published": "2026-09-23T12:00:00.000Z",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "7357353a1f1d",
@@ -368,7 +504,9 @@
       "source": "OpenAI",
       "category": "AI & LLMs",
       "published": "2026-09-23T12:00:00.000Z",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "d0797dca1269",
@@ -377,7 +515,9 @@
       "source": "Python",
       "category": "Frameworks & Languages",
       "published": "2026-09-23T00:00:00.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "900365345474",
@@ -386,7 +526,11 @@
       "source": "Java (Inside Java)",
       "category": "Frameworks & Languages",
       "published": "2026-09-23T00:00:00.000Z",
-      "summary": "This Heads-Up is part of the regular communication sent to the projects involved; it covers a new JavaDoc tag `@note` to highlight the presence of additional information in API documentation."
+      "summary": "This Heads-Up is part of the regular communication sent to the projects involved; it covers a new JavaDoc tag `@note` to highlight the presence of additional information in API documentation.",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "JDK 28 proposes a new @note JavaDoc tag for tips and warnings",
+      "paragraph": "A new {@note} JavaDoc tag proposed for JDK 28 (JDK-8363700) highlights tips and warnings inline or as blocks, with optional header, kind and id attributes."
     },
     {
       "id": "b39bf31f6b2f",
@@ -395,7 +539,11 @@
       "source": "VS Code",
       "category": "Developer Tools",
       "published": "2026-09-23T00:00:00.000Z",
-      "summary": "See how GitHub Copilot added completions to its unified inline suggestions model, refined ghost text and editor behavior, and improved user satisfaction."
+      "summary": "See how GitHub Copilot added completions to its unified inline suggestions model, refined ghost text and editor behavior, and improved user satisfaction.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "GitHub Copilot merges completions and next-edit suggestions into one inline model",
+      "paragraph": "GitHub and the VS Code team published part two of their write-up on the Copilot inline suggestions model on September 23, 2026. Ghost-text completions, next edit suggestions (NES, predicted edits away from the cursor) and distant edits now come from a single 3-in-1 model instead of separate calls. Online, it cut dismissals by 10.1% against the previous setup with no statistically significant regressions. A key lesson came from the client: ignored ghost text was resurfacing as an NES edit, and toggling that behaviour in an ablation swung the dismissal change from +15.9% to -10.1%. Useful reading for anyone building AI features into editors or other developer tools."
     },
     {
       "id": "12574c6c5a5f",
@@ -404,7 +552,11 @@
       "source": "AWS",
       "category": "Cloud & DevOps",
       "published": "2026-09-22T22:23:14.000Z",
-      "summary": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent."
+      "summary": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Amazon CloudWatch Omni is generally available with AI-guided investigations",
+      "paragraph": "AWS made Amazon CloudWatch Omni generally available on September 22, 2026 as a new observability workspace built on top of CloudWatch. It opens from a dedicated URL with enterprise single sign-on rather than the AWS Console, and existing customers can start from a Try CloudWatch Omni button in the console without reconfiguring anything. Omni discovers services and maps their dependencies automatically, answers plain-English questions, and brings in AWS DevOps Agent to correlate signals and suggest root causes during shared investigations. Any OpenTelemetry-instrumented workload can send data through OTLP endpoints, and existing alarms, dashboards and APIs keep working. Teams already on CloudWatch can try it now."
     },
     {
       "id": "4f007c6a12dc",
@@ -413,7 +565,11 @@
       "source": "AWS",
       "category": "Cloud & DevOps",
       "published": "2026-09-22T22:21:13.000Z",
-      "summary": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads."
+      "summary": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "CloudWatch Omni adds tracing and 17 built-in evaluators for AI agent workloads",
+      "paragraph": "Alongside the September 22, 2026 general availability of Amazon CloudWatch Omni, AWS detailed its features for generative AI and agent workloads. Omni records each agent run as a timeline of LLM calls, tool invocations and reasoning steps, and a Trace Explorer compares runs side by side. Token usage appears next to latency and cost. Seventeen built-in evaluators score outputs for coherence, helpfulness, faithfulness and routing correctness, and it integrates with Amazon Bedrock AgentCore. Instrumentation uses OpenInference and ADOT (AWS Distro for OpenTelemetry) and supports LangChain, LangGraph, CrewAI, OpenAI SDK, Strands and Vercel AI SDK in Python and TypeScript. Relevant for teams running RAG or agent services on AWS."
     },
     {
       "id": "7ff979043df9",
@@ -422,7 +578,11 @@
       "source": "Next.js",
       "category": "Frameworks & Languages",
       "published": "2026-09-22T18:00:00.000Z",
-      "summary": "The September 22, 2026 out-of-band security update for Next.js is now available"
+      "summary": "The September 22, 2026 out-of-band security update for Next.js is now available",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Next.js 16.3.6 fixes critical remote code execution bug in next/og ImageResponse",
+      "paragraph": "Vercel released Next.js 16.3.6 (Active LTS) and 15.5.26 (Maintenance LTS) on September 22, 2026 as an out-of-band security update. The critical issue, GHSA-vcvr-r3jv-pc5j (CVE-2026-94545, CVSS v4 score 9.5), sits in the Node.js ImageResponse implementation in next/og: improper escaping in SVG output from Satori, the library that turns JSX into images, could lead to remote code execution through other upstream dependencies. Only versions 16.2.0 up to 16.3.5 are affected; the Edge ImageResponse and Next.js 15.x are not, and 15.5.26 adds related hardening. Teams on 16.2 or 16.3 should upgrade now and keep attacker-controlled values out of SVG content rendered by ImageResponse."
     },
     {
       "id": "bdc88dc4e212",
@@ -431,7 +591,9 @@
       "source": "Kubernetes",
       "category": "Cloud & DevOps",
       "published": "2026-09-22T18:00:00.000Z",
-      "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch processing, AI workloads, and platform services."
+      "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch processing, AI workloads, and platform services.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "14a094f0bf19",
@@ -440,7 +602,9 @@
       "source": "Docker",
       "category": "Cloud & DevOps",
       "published": "2026-09-22T15:06:15.000Z",
-      "summary": "Meet the partners and customers bringing practical AI, security, and development sessions to the Docker Pavilion at WeAreDevelopers. The post explains why a strong ecosystem matters to developers, announces the sessions and speakers, and invites attendees to connect with the teams building and using these technologies."
+      "summary": "Meet the partners and customers bringing practical AI, security, and development sessions to the Docker Pavilion at WeAreDevelopers. The post explains why a strong ecosystem matters to developers, announces the sessions and speakers, and invites attendees to connect with the teams building and using these technologies.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "8852e943c84c",
@@ -449,7 +613,9 @@
       "source": "Next.js",
       "category": "Frameworks & Languages",
       "published": "2026-09-22T15:00:00.000Z",
-      "summary": "Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026."
+      "summary": "Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "f665e9d50590",
@@ -458,7 +624,11 @@
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
       "published": "2026-09-22T14:04:31.000Z",
-      "summary": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable."
+      "summary": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Cloudflare Cache Rules now support the HTTP Vary header on every plan",
+      "paragraph": "Cloudflare added Vary support to Cache Rules on September 22, 2026, on Free, Pro, Business and Enterprise plans. Vary is the response header an origin uses to say content differs by request headers such as Accept-Language. Each varied header can be normalized (en-US collapses to en, sharing one cache entry), passed through exactly so casing and ordering create separate variants, or set to bypass cache for unpredictable headers like Cookie. A scan of over 120 million responses from about 50,000 sites found nearly 3,000 varying on four or more headers. Sites serving language- or format-negotiated content can configure it via dashboard, Rulesets API or Terraform."
     },
     {
       "id": "55b3c8585e3f",
@@ -467,7 +637,11 @@
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
       "published": "2026-09-22T13:00:00.000Z",
-      "summary": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production."
+      "summary": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Cloudflare launches Worker Previews: isolated per-branch environments for Workers",
+      "paragraph": "Cloudflare introduced Worker Previews on September 22, 2026, giving each Git branch of a Workers project its own production-like environment. Every preview gets a stable URL, its own variables, secrets and bindings, dedicated Durable Objects namespaces and Container applications, plus logs, errors, metrics and traces scoped to that preview. Previews are created with npx wrangler preview, or automatically by Workers Builds for Git-connected projects, from a base configuration in a previews block of wrangler.toml with per-preview overrides. The aim is letting developers and coding agents test changes in parallel without touching production. Multi-Worker previews, Queues and Workflows isolation, and long-lived staging previews are still in development."
     },
     {
       "id": "2960c64a019e",
@@ -476,7 +650,11 @@
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-09-22T00:00:00.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "UK AISI publishes benchmark results through EvalEval's open Evaluation Cards",
+      "paragraph": "UK AISI released verified results for six frontier models on five benchmarks, including SWE-Bench Pro and Terminal-Bench 2.0, using EvalEval's open Every Eval Ever schema and Evaluation Cards platform."
     },
     {
       "id": "98acfe91fd30",
@@ -485,7 +663,11 @@
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-09-22T00:00:00.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Hugging Face Transformers can now run llama.cpp GGUF quantized models natively",
+      "paragraph": "Hugging Face added native inference for GGUF files, the quantized model format used by llama.cpp, to the Transformers library; it is on the main branch until the next release. Previously Transformers expanded GGUF weights to full precision on load; now the weights stay packed and run through ggml's Metal kernels. For Qwen3.5-4B, the Q4_K_M file is 2.74 GB versus 8.42 GB for BF16. Loading uses the usual from_pretrained call with a gguf_file argument, and transformers serve works too. On an M2 Max MacBook Pro, speed was close to llama.cpp across three checkpoints. Limits: Apple Silicon (MPS) only, Qwen3.5 and Qwen3.8 architectures only, and batched generation still needs work."
     },
     {
       "id": "fb8ad85c459c",
@@ -494,7 +676,9 @@
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-09-22T00:00:00.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "0d12c08659fc",
@@ -503,7 +687,11 @@
       "source": "Java (Inside Java)",
       "category": "Frameworks & Languages",
       "published": "2026-09-22T00:00:00.000Z",
-      "summary": "The Helidon team is pleased to announce Helidon 27, the first release under the Tip-and-Tail model used by OpenJDK."
+      "summary": "The Helidon team is pleased to announce Helidon 27, the first release under the Tip-and-Tail model used by OpenJDK.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Helidon 27 released as first Tip-and-Tail release; requires Java 27",
+      "paragraph": "Helidon, a Java microservices framework, released version 27 on September 22, 2026. It is the first Helidon release to fully adopt Tip-and-Tail, the OpenJDK model where a fast-moving newest release (the tip) runs alongside long-supported older lines (the tail). Helidon releases now align with JDK releases, and the minimum Java version rises to match: Helidon 27 requires Java 27. It is a feature release; Helidon 4 remains the LTS (long-term support) line, and Helidon 29 will be the next LTS. Teams wanting long support should stay on Helidon 4, while those already on JDK 27 can try 27 after checking the CHANGELOG for breaking changes."
     },
     {
       "id": "a668dc129d9d",
@@ -512,7 +700,11 @@
       "source": "Kubernetes",
       "category": "Cloud & DevOps",
       "published": "2026-09-21T18:30:00.000Z",
-      "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default)."
+      "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default).",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Kubernetes v1.37 promotes PVC Unused condition to beta, on by default",
+      "paragraph": "Kubernetes v1.37 enables PersistentVolumeClaimUnusedSinceTime by default, adding an Unused condition whose lastTransitionTime shows when a PVC stopped being used by any running pod."
     },
     {
       "id": "9c4cac25fc24",
@@ -521,7 +713,11 @@
       "source": "AWS",
       "category": "Cloud & DevOps",
       "published": "2026-09-21T16:11:24.000Z",
-      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checking"
+      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checking",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Amazon Corretto 27 released with G1 default GC and post-quantum TLS 1.3",
+      "paragraph": "AWS made Amazon Corretto 27, its no-cost OpenJDK distribution, available for Linux, Windows and macOS, per the September 21, 2026 AWS Weekly Roundup. It is a feature release, not a long-term-support one, with support only through April 2027. Changes include G1 as the default garbage collector in all environments (JEP 523, a formal Java enhancement proposal), post-quantum hybrid key exchange for TLS 1.3 (JEP 527), compact object headers on by default for a smaller memory footprint (JEP 534), and redaction of sensitive data from Java Flight Recorder recordings in the JVM (JEP 536). Use it to test JDK 27; production services should stay on an LTS release."
     },
     {
       "id": "c701b57089c5",
@@ -530,7 +726,11 @@
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-09-21T13:44:34.000Z",
-      "summary": ""
+      "summary": "",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Multiverse Computing prunes half of Llama-3.3-70B's blocks via Ising optimization",
+      "paragraph": "Multiverse Computing's open-sourced method removed 40 of 80 blocks from Llama-3.3-70B-Instruct without retraining, scoring 76.9 on MMLU versus 54.0 for a block-influence baseline."
     },
     {
       "id": "5a3a5fde415d",
@@ -539,7 +739,11 @@
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
       "published": "2026-09-21T13:00:00.000Z",
-      "summary": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code."
+      "summary": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Cloudflare Python Workers are now generally available",
+      "paragraph": "Cloudflare declared Python Workers generally available on September 21, 2026, making Python a fully supported language on its Workers platform. Code runs on Pyodide, a Python interpreter compiled to WebAssembly. FastAPI runs through the workers.asgi connector and Django and Flask through workers.wsgi; any ASGI or WSGI framework is supported. Python code can call Workers AI, R2, D1, Hyperdrive (Postgres and MySQL over TCP), Durable Objects, Queues and Workflows without JavaScript glue code. Package support is growing through PEP 783, which standardises PyEmscripten as a platform for Python wheels, and cibuildwheel can now build them. FastAPI developers can try it, after checking that native-extension dependencies are supported."
     }
   ]
 }

@@ -88,10 +88,12 @@ This blocks anyone who guesses passwords (5 wrong tries → locked out for 15 mi
 2. Open `https://<your-site>.pages.dev/admin/login/` and sign in.
 3. Make a small change (e.g. your tagline) → **Save & publish**. It goes live in 1–2 minutes.
 
-## 8. (Optional) AI summaries for Tech Updates
+## 8. (Recommended) Automatic write-ups for Tech Updates
 
-Tech updates refresh every 6 hours by themselves. Summaries are taken from each article.
-For AI-written summaries, add a free Gemini key:
+Tech updates refresh every 6 hours by themselves. Articles that have been reviewed show a plain-English
+headline and a one-paragraph explanation; skipped ones (marketing, podcasts, etc.) are hidden. Reviews are
+kept across refreshes. Without an AI key, brand-new articles only appear under "Just in" as headlines.
+To have every new article reviewed and explained automatically, add a free Gemini key:
 
 1. Get a key at <https://aistudio.google.com/apikey>.
 2. GitHub repo → **Settings → Secrets and variables → Actions → New repository secret**: `GEMINI_API_KEY`.

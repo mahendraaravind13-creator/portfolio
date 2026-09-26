@@ -6,8 +6,8 @@ import ThemeToggle from "./ThemeToggle";
 import { CloseIcon, MenuIcon } from "./icons";
 
 const NAV = [
+  { href: "/#work", label: "Work" },
   { href: "/#about", label: "About" },
-  { href: "/#projects", label: "Projects" },
   { href: "/#experience", label: "Experience" },
   { href: "/#skills", label: "Skills" },
   { href: "/updates/", label: "Tech updates" },
@@ -15,18 +15,23 @@ const NAV = [
   { href: "/#contact", label: "Contact" },
 ];
 
-export default function Header({ name, initials }: { name: string; initials: string }) {
+export default function Header({ name, status }: { name: string; status?: string }) {
   const [open, setOpen] = useState(false);
   return (
-    <header className="sticky top-0 z-40 border-b border-line/70 bg-bg/85 backdrop-blur supports-[backdrop-filter]:bg-bg/70">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2.5 font-semibold tracking-tight" onClick={() => setOpen(false)}>
-          <span className="inline-flex size-8 items-center justify-center rounded-lg bg-fg text-[13px] font-bold text-bg">{initials}</span>
-          <span className="hidden sm:inline">{name}</span>
+    <header className="sticky top-0 z-40 bg-band text-band-fg">
+      <div className="mx-auto flex h-14 max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
+        <Link href="/" className="label !text-[0.78rem] font-semibold !tracking-[0.2em]" onClick={() => setOpen(false)}>
+          {name}
         </Link>
-        <nav aria-label="Main" className="hidden items-center gap-1 lg:flex">
+        {status && (
+          <p className="label hidden items-center gap-2 text-band-muted xl:flex">
+            <span className="size-1.5 rounded-full bg-band-accent" aria-hidden />
+            {status}
+          </p>
+        )}
+        <nav aria-label="Main" className="hidden items-center lg:flex">
           {NAV.map((n) => (
-            <Link key={n.href} href={n.href} className="rounded-md px-3 py-2 text-sm text-muted transition hover:bg-surface hover:text-fg">
+            <Link key={n.href} href={n.href} className="label px-2.5 py-2 text-band-muted transition hover:text-band-accent">
               {n.label}
             </Link>
           ))}
@@ -35,7 +40,7 @@ export default function Header({ name, initials }: { name: string; initials: str
           <ThemeToggle />
           <button
             type="button"
-            className="inline-flex size-9 items-center justify-center rounded-lg border border-line text-muted lg:hidden"
+            className="inline-flex size-9 items-center justify-center border border-band-muted/40 text-band-muted lg:hidden"
             aria-label={open ? "Close menu" : "Open menu"}
             aria-expanded={open}
             onClick={() => setOpen((o) => !o)}
@@ -45,11 +50,11 @@ export default function Header({ name, initials }: { name: string; initials: str
         </div>
       </div>
       {open && (
-        <nav aria-label="Mobile" className="border-t border-line bg-bg px-4 py-3 lg:hidden">
+        <nav aria-label="Mobile" className="border-t border-band-muted/20 px-4 py-3 lg:hidden">
           <ul className="grid gap-1">
             {NAV.map((n) => (
               <li key={n.href}>
-                <Link href={n.href} onClick={() => setOpen(false)} className="block rounded-md px-3 py-2.5 text-sm text-fg hover:bg-surface">
+                <Link href={n.href} onClick={() => setOpen(false)} className="label block py-3 text-band-fg hover:text-band-accent">
                   {n.label}
                 </Link>
               </li>

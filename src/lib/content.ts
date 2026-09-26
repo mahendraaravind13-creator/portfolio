@@ -22,9 +22,16 @@ export type TechUpdate = {
   source: string;
   category: string;
   published: string;
+  /** Short snippet taken from the feed itself. */
   summary: string;
   whyItMatters?: string;
   aiSummary?: boolean;
+  /** Set once the article has been read (by hand or by the AI step in the fetch script). */
+  reviewed?: boolean;
+  importance?: "important" | "minor" | "skip";
+  /** Plain-English headline and one-paragraph explanation written after reading the article. */
+  headline?: string;
+  paragraph?: string;
 };
 
 export type TechUpdates = { generatedAt: string; items: TechUpdate[] };

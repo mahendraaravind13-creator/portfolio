@@ -1,24 +1,30 @@
 import { techUpdates } from "@/lib/content";
-import TechUpdatesList from "../TechUpdatesList";
+import { UpdateArticle } from "../TechUpdatesList";
 import { Button, Section } from "../ui";
 import { ArrowRightIcon } from "../icons";
 
 export default function TechUpdates() {
+  const important = techUpdates.items.filter((i) => i.importance === "important");
+  if (!important.length) return null;
+  const visible = techUpdates.items.filter((i) => i.importance !== "skip").length;
   return (
     <Section
       id="updates"
-      eyebrow="Latest tech updates"
-      title="What's new in AI & software"
-      intro="Recent launches and releases from AI labs, frameworks and developer tools, refreshed automatically. Tap Summarize for the gist."
+      index="07"
+      eyebrow="Tech updates"
+      title="What's new in tech"
+      intro="The releases that matter to backend and AI engineers, each explained in one paragraph. Refreshed from official sources every few hours."
     >
-      <TechUpdatesList items={techUpdates.items} limit={6} showFilters={false} />
-      {techUpdates.items.length > 6 && (
-        <div className="mt-8">
-          <Button href="/updates/" variant="secondary">
-            See all {techUpdates.items.length} updates <ArrowRightIcon />
-          </Button>
-        </div>
-      )}
+      <div className="grid gap-x-12 gap-y-12 md:grid-cols-2">
+        {important.slice(0, 4).map((item) => (
+          <UpdateArticle key={item.id} item={item} />
+        ))}
+      </div>
+      <div className="mt-12">
+        <Button href="/updates/" variant="secondary">
+          See all {visible} updates <ArrowRightIcon />
+        </Button>
+      </div>
     </Section>
   );
 }

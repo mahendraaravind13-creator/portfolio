@@ -37,7 +37,7 @@ export const SECTIONS: Section[] = [
     id: "profile",
     label: "Profile",
     file: "content/profile.json",
-    description: "Your name, headline, contact details, About text and the highlight numbers at the top of the site.",
+    description: "Your name, headline, contact details, About text and the \"By the numbers\" list on the home page.",
     kind: "object",
     fields: [
       { key: "name", label: "Full name", type: "text", required: true },
@@ -45,6 +45,8 @@ export const SECTIONS: Section[] = [
       { key: "initials", label: "Initials", type: "text", required: true },
       { key: "title", label: "Headline", type: "text", required: true, placeholder: "Full-Stack Engineer · Applied AI Systems" },
       { key: "tagline", label: "One-line pitch", type: "textarea", required: true },
+      { key: "heroHeadline", label: "Big headline (first line)", type: "text", help: "The giant poster text at the top of the home page. Keep it short.", placeholder: "Backends that hold up." },
+      { key: "heroAccent", label: "Big headline (second line, in colour)", type: "text", placeholder: "AI that shows its sources." },
       { key: "education", label: "Education (short)", type: "text" },
       { key: "location", label: "Location", type: "text" },
       { key: "openToWork", label: "Show 'open to work' badge", type: "boolean" },
@@ -63,8 +65,8 @@ export const SECTIONS: Section[] = [
         addLabel: "Add highlight",
         fields: [
           { key: "value", label: "Number", type: "text", required: true, placeholder: "240×" },
-          { key: "label", label: "What it means", type: "text", required: true },
-          { key: "detail", label: "Small print", type: "text" },
+          { key: "label", label: "What it means", type: "textarea", required: true, help: "A plain sentence that reads on from the number, e.g. \"requests still answered after I switched off one server.\"" },
+          { key: "detail", label: "Where it comes from", type: "text", placeholder: "PulseOps · server monitoring platform" },
         ],
       },
     ],
@@ -96,7 +98,7 @@ export const SECTIONS: Section[] = [
         addLabel: "Add number",
         fields: [
           { key: "value", label: "Number", type: "text", required: true },
-          { key: "label", label: "Label", type: "text", required: true },
+          { key: "label", label: "What it means (plain words)", type: "text", required: true },
         ],
       },
       { key: "bullets", label: "What I built (resume bullets)", type: "list" },
@@ -117,10 +119,13 @@ export const SECTIONS: Section[] = [
         type: "object",
         fields: [
           { key: "demo", label: "Live demo URL", type: "url" },
+          { key: "demoNote", label: "Demo note", type: "text", help: "Shown under the demo button so visitors know what to expect.", placeholder: "Opens straight away, no login" },
           { key: "repo", label: "Source code URL", type: "url" },
         ],
       },
       { key: "diagram", label: "Diagram name (optional)", type: "text", help: "pulseops, atlas or uav — or leave empty." },
+      { key: "image", label: "Screenshot or GIF (optional)", type: "text", help: "Add the file to public/projects/ in the repo, then enter its path, e.g. /projects/pulseops-live.gif. Shown instead of the diagram on the home page." },
+      { key: "imageCaption", label: "Screenshot caption", type: "text", help: "Say in plain words what the picture shows." },
     ],
   },
   {

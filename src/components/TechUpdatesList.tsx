@@ -2,105 +2,146 @@
 
 import { useMemo, useState } from "react";
 import type { TechUpdate } from "@/lib/content";
-import { ExternalIcon, SparkIcon } from "./icons";
+import { ExternalIcon } from "./icons";
 
 const CATEGORY_ORDER = ["AI & LLMs", "Frameworks & Languages", "Cloud & DevOps", "Developer Tools", "Industry"];
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-function timeAgo(iso: string) {
-  const then = new Date(iso).getTime();
-  if (!then) return "";
-  const days = Math.floor((Date.now() - then) / 86_400_000);
-  if (days <= 0) return "Today";
-  if (days === 1) return "Yesterday";
-  if (days < 7) return `${days} days ago`;
-  return new Date(iso).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" });
+// Fixed format (not "2 days ago") so the static HTML and the hydrated page always agree.
+function shortDate(iso: string) {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return "";
+  return `${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
 }
 
-function UpdateCard({ item }: { item: TechUpdate }) {
-  const [open, setOpen] = useState(false);
-  const panelId = `sum-${item.id}`;
+function Meta({ item }: { item: TechUpdate }) {
   return (
-    <article className="flex flex-col rounded-2xl border border-line bg-bg p-5 transition hover:border-subtle/60">
-      <div className="flex items-center justify-between gap-3 text-xs">
-        <span className="font-semibold uppercase tracking-wider text-accent">{item.category}</span>
-        <time dateTime={item.published} className="text-subtle">
-          {timeAgo(item.published)}
-        </time>
-      </div>
-      <h3 className="mt-2 font-semibold leading-snug text-pretty">
-        <a href={item.url} target="_blank" rel="noopener noreferrer" className="hover:underline underline-offset-4">
-          {item.title}
-        </a>
-      </h3>
-      <p className="mt-1 text-sm text-muted">{item.source}</p>
+    <p className="label flex flex-wrap gap-x-2 gap-y-1 text-subtle">
+      <span className="text-accent">{item.category}</span>
+      <span aria-hidden>·</span>
+      <span>{item.source}</span>
+      <span aria-hidden>·</span>
+      <time dateTime={item.published}>{shortDate(item.published)}</time>
+    </p>
+  );
+}
 
-      {open && (
-        <div id={panelId} className="mt-4 rounded-xl border border-line bg-surface p-4 text-sm leading-relaxed">
-          <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-subtle">{item.aiSummary ? "AI summary" : "Summary"}</p>
-          <p className="text-fg">{item.summary || "No summary is available for this update yet — open the article to read it."}</p>
-          {item.whyItMatters && (
-            <>
-              <p className="mb-1 mt-3 text-xs font-semibold uppercase tracking-wider text-subtle">Why it matters</p>
-              <p className="text-fg">{item.whyItMatters}</p>
-            </>
-          )}
-        </div>
-      )}
-
-      <div className="mt-auto flex items-center gap-2 pt-4">
-        <button
-          type="button"
-          onClick={() => setOpen((o) => !o)}
-          aria-expanded={open}
-          aria-controls={panelId}
-          className="inline-flex items-center gap-1.5 rounded-lg border border-line px-3 py-1.5 text-sm font-medium transition hover:bg-surface"
-        >
-          <SparkIcon className="size-3.5" /> {open ? "Hide summary" : "Summarize"}
-        </button>
-        <a href={item.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 px-2 py-1.5 text-sm font-medium text-accent hover:underline">
-          Read <ExternalIcon className="size-3.5" />
-        </a>
-      </div>
+/** An important update: plain-English headline and a full paragraph, readable without leaving the page. */
+export function UpdateArticle({ item }: { item: TechUpdate }) {
+  return (
+    <article className="flex flex-col border-t-2 border-fg pt-5">
+      <Meta item={item} />
+      <h3 className="mt-3 text-2xl font-bold leading-tight tracking-tight text-pretty">{item.headline || item.title}</h3>
+      <p className="mt-4 font-serif text-lg leading-relaxed text-muted text-pretty">{item.paragraph || item.summary}</p>
+      <a href={item.url} target="_blank" rel="noopener noreferrer" className="label mt-5 inline-flex w-fit items-center gap-1.5 text-accent hover:underline">
+        Read the original on {item.source} <ExternalIcon className="size-3" />
+      </a>
     </article>
   );
 }
 
-export default function TechUpdatesList({ items, limit, showFilters = true }: { items: TechUpdate[]; limit?: number; showFilters?: boolean }) {
-  const [filter, setFilter] = useState("All");
-  const categories = useMemo(() => {
-    const present = new Set(items.map((i) => i.category));
-    return ["All", ...CATEGORY_ORDER.filter((c) => present.has(c)), ...[...present].filter((c) => !CATEGORY_ORDER.includes(c))];
-  }, [items]);
-  const shown = items.filter((i) => filter === "All" || i.category === filter).slice(0, limit ?? items.length);
+function UpdateBrief({ item }: { item: TechUpdate }) {
+  return (
+    <li className="border-b border-line py-5">
+      <Meta item={item} />
+      <p className="mt-2 font-serif text-lg leading-snug">
+        <a href={item.url} target="_blank" rel="noopener noreferrer" className="font-sans font-bold tracking-tight hover:text-accent">
+          {item.headline || item.title}
+        </a>
+        {item.paragraph && <span className="text-muted"> — {item.paragraph}</span>}
+      </p>
+    </li>
+  );
+}
 
-  if (!items.length) {
-    return <p className="rounded-2xl border border-dashed border-line p-8 text-center text-muted">Updates are being collected — check back soon.</p>;
+function UpdateHeadline({ item }: { item: TechUpdate }) {
+  return (
+    <li className="border-b border-line py-4">
+      <Meta item={item} />
+      <a href={item.url} target="_blank" rel="noopener noreferrer" className="mt-1.5 inline-flex items-start gap-1.5 font-bold tracking-tight hover:text-accent">
+        {item.title} <ExternalIcon className="mt-1 size-3 shrink-0 text-subtle" />
+      </a>
+      {item.summary && <p className="mt-1 font-serif text-muted text-pretty">{item.summary}</p>}
+    </li>
+  );
+}
+
+function GroupTitle({ title, note }: { title: string; note: string }) {
+  return (
+    <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2 border-b-[3px] border-fg pb-3">
+      <h2 className="display text-4xl sm:text-5xl">{title}</h2>
+      <p className="label text-subtle">{note}</p>
+    </div>
+  );
+}
+
+export default function TechUpdatesList({ items }: { items: TechUpdate[] }) {
+  const [filter, setFilter] = useState("All");
+  const visible = useMemo(() => items.filter((i) => i.importance !== "skip"), [items]);
+  const categories = useMemo(() => {
+    const present = new Set(visible.map((i) => i.category));
+    return ["All", ...CATEGORY_ORDER.filter((c) => present.has(c)), ...[...present].filter((c) => !CATEGORY_ORDER.includes(c))];
+  }, [visible]);
+
+  if (!visible.length) {
+    return <p className="border-2 border-dashed border-line p-8 text-center font-serif text-lg text-muted">Updates are being collected. Check back soon.</p>;
   }
+
+  const inFilter = visible.filter((i) => filter === "All" || i.category === filter);
+  const important = inFilter.filter((i) => i.importance === "important");
+  const minor = inFilter.filter((i) => i.importance === "minor");
+  const fresh = inFilter.filter((i) => !i.reviewed);
 
   return (
     <div>
-      {showFilters && categories.length > 2 && (
-        <div role="tablist" aria-label="Filter updates by topic" className="mb-6 flex flex-wrap gap-2">
+      {categories.length > 2 && (
+        <div role="group" aria-label="Filter updates by topic" className="mb-12 flex flex-wrap gap-2">
           {categories.map((c) => (
             <button
               key={c}
-              role="tab"
-              aria-selected={filter === c}
+              type="button"
+              aria-pressed={filter === c}
               onClick={() => setFilter(c)}
-              className={`rounded-full border px-3.5 py-1.5 text-sm font-medium transition ${
-                filter === c ? "border-fg bg-fg text-bg" : "border-line text-muted hover:bg-surface hover:text-fg"
-              }`}
+              className={`label border-2 px-3 py-2 transition ${filter === c ? "border-fg bg-fg text-bg" : "border-line text-muted hover:border-fg hover:text-fg"}`}
             >
               {c}
             </button>
           ))}
         </div>
       )}
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {shown.map((item) => (
-          <UpdateCard key={item.id} item={item} />
-        ))}
-      </div>
+
+      {fresh.length > 0 && (
+        <section className="mb-16">
+          <GroupTitle title="Just in" note="New since the last review · headline only" />
+          <ul>
+            {fresh.map((item) => (
+              <UpdateHeadline key={item.id} item={item} />
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {important.length > 0 && (
+        <section className="mb-16">
+          <GroupTitle title="Worth knowing" note={`${important.length} updates, each explained`} />
+          <div className="grid gap-x-12 gap-y-12 md:grid-cols-2">
+            {important.map((item) => (
+              <UpdateArticle key={item.id} item={item} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {minor.length > 0 && (
+        <section>
+          <GroupTitle title="Also this week" note="Smaller changes, one line each" />
+          <ul>
+            {minor.map((item) => (
+              <UpdateBrief key={item.id} item={item} />
+            ))}
+          </ul>
+        </section>
+      )}
     </div>
   );
 }

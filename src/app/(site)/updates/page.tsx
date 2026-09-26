@@ -4,8 +4,8 @@ import TechUpdatesList from "@/components/TechUpdatesList";
 import { Container } from "@/components/ui";
 
 export const metadata: Metadata = {
-  title: "Latest tech updates",
-  description: "Recent launches and releases in AI, LLMs, frameworks, cloud and developer tools, refreshed automatically with quick summaries.",
+  title: "Tech updates",
+  description: "The releases that matter in AI, frameworks, cloud and developer tools, each explained in one plain-English paragraph.",
 };
 
 export default function UpdatesPage() {
@@ -13,16 +13,21 @@ export default function UpdatesPage() {
     ? new Date(techUpdates.generatedAt).toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Kolkata" })
     : "";
   return (
-    <Container className="py-12 sm:py-16">
-      <p className="mb-2 text-sm font-semibold uppercase tracking-wider text-accent">Latest tech updates</p>
-      <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">What&apos;s new in AI & software</h1>
-      <p className="mt-3 max-w-2xl text-lg text-muted">
-        Launches and releases from AI labs, frameworks, cloud providers and developer tools. Collected automatically from official sources several times a day. Tap <strong className="font-semibold text-fg">Summarize</strong> on any card for the gist.
-      </p>
-      {updated && <p className="mt-2 text-sm text-subtle">Last refreshed {updated} IST</p>}
-      <div className="mt-10">
+    <>
+      <header className="relative overflow-hidden bg-band text-band-fg">
+        <div aria-hidden className="halftone pointer-events-none absolute inset-0 [mask-image:linear-gradient(115deg,transparent_40%,black_100%)] opacity-40" />
+        <Container className="relative py-14 sm:py-20">
+          <p className="label text-band-accent">Tech updates</p>
+          <h1 className="display mt-4 text-[clamp(3.2rem,10vw,7.5rem)]">What&apos;s new in tech</h1>
+          <p className="mt-6 max-w-2xl font-serif text-xl leading-snug text-band-fg/90 text-pretty">
+            Releases from AI labs, frameworks, cloud providers and developer tools, collected from their official blogs. Each important one is explained in a single paragraph, so you get what changed and why it matters without opening ten tabs.
+          </p>
+          {updated && <p className="label mt-5 text-band-muted">Last refreshed {updated} IST</p>}
+        </Container>
+      </header>
+      <Container className="py-14 sm:py-20">
         <TechUpdatesList items={techUpdates.items} />
-      </div>
-    </Container>
+      </Container>
+    </>
   );
 }

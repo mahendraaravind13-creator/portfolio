@@ -3,11 +3,12 @@
  * Collects recent tech news from official RSS/Atom feeds and writes content/tech-updates.json.
  * Runs on a schedule in GitHub Actions (.github/workflows/tech-updates.yml) — free, no server.
  *
- * Summaries:
- *  - If GEMINI_API_KEY is set (free tier at https://aistudio.google.com/apikey), each new item gets an
- *    AI summary + "why it matters".
- *  - Otherwise the summary is extracted from the article's own description.
- * Summaries already generated are reused, so the AI is only called for new items.
+ * Reviews:
+ *  - Each item can carry a review: importance ("important" | "minor" | "skip"), a plain-English headline
+ *    and a one-paragraph explanation. Reviews are kept across runs, and reviewed important/minor items stay
+ *    listed until they are MAX_AGE_DAYS old even after they drop out of their feed.
+ *  - If GEMINI_API_KEY is set (free tier at https://aistudio.google.com/apikey), new items are reviewed
+ *    automatically. Without it they appear as "Just in" headlines with the feed's own snippet.
  *
  * Usage: node scripts/fetch-tech-updates.mjs
  */
@@ -21,7 +22,9 @@ const MAX_ITEMS = 60;
 const MAX_PER_SOURCE = 6;
 const MAX_AGE_DAYS = 45;
 const GEMINI_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-flash-latest";
+const MAX_AI_CALLS = 30;
+const REVIEW_FIELDS = ["reviewed", "importance", "headline", "paragraph", "aiSummary", "whyItMatters"];
 
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@", textNodeName: "#text", trimValues: true });
 
@@ -111,8 +114,17 @@ async function fetchFeed(src) {
     }));
 }
 
-async function aiSummarize(item) {
-  const prompt = `You summarise tech news for a busy software engineer. Using only the information given, reply with JSON {"summary": string, "whyItMatters": string}. "summary": 1-2 plain-English sentences on what was announced (max 45 words). "whyItMatters": 1 sentence on why a developer should care (max 30 words). If the text is too thin, base it on the title and say less rather than guessing.
+async function aiReview(item) {
+  const prompt = `You edit the tech-news section of a backend and applied-AI engineer's portfolio. Readers are engineers and recruiters. Using ONLY the text given, reply with JSON {"importance": "important" | "minor" | "skip", "headline": string, "paragraph": string}.
+
+importance:
+- "important": a release or change developers would want to know about: a new model, framework, runtime or tool version or GA; a security issue or patch; a breaking or behaviour change; a notable new platform capability; or an engineering deep-dive with concrete lessons.
+- "minor": real but niche or incremental.
+- "skip": marketing or customer case studies, event recaps, podcasts, translations, hiring or people news, generic roundups.
+
+headline: plain English, max 90 characters, says what happened; keep product names and versions.
+paragraph: for "important", 70-110 words: first sentence says concretely what happened, then the specific new details (use the text's numbers), then who should care or what to do. For "minor", one sentence of at most 30 words. For "skip", an empty string.
+Style: no hype words (revolutionary, game-changer, exciting, powerful, seamless), no marketing tone, don't start with "The", briefly explain jargon. Never invent versions, dates or features; if the text is thin, say less.
 
 Title: ${item.title}
 Source: ${item.source}
@@ -129,8 +141,11 @@ Text: ${item._desc || "(no description)"}`;
   if (!res.ok) throw new Error(`Gemini HTTP ${res.status}`);
   const data = await res.json();
   const out = JSON.parse(data.candidates?.[0]?.content?.parts?.[0]?.text ?? "{}");
-  if (!out.summary) throw new Error("empty summary");
-  return { summary: String(out.summary).trim(), whyItMatters: String(out.whyItMatters ?? "").trim() };
+  const importance = ["important", "minor", "skip"].includes(out.importance) ? out.importance : null;
+  if (!importance) throw new Error("no importance in reply");
+  const paragraph = String(out.paragraph ?? "").trim();
+  if (importance !== "skip" && !paragraph) throw new Error("empty paragraph");
+  return { reviewed: true, aiSummary: true, importance, headline: String(out.headline ?? "").trim() || item.title, ...(paragraph ? { paragraph } : {}) };
 }
 
 async function main() {
@@ -153,7 +168,7 @@ async function main() {
 
   // De-duplicate (same URL or same title), newest first.
   const seen = new Set();
-  const items = all
+  const fresh = all
     .sort((a, b) => b.published.localeCompare(a.published))
     .filter((i) => {
       const key = i.title.toLowerCase();
@@ -161,26 +176,36 @@ async function main() {
       seen.add(i.id);
       seen.add(key);
       return true;
-    })
-    .slice(0, MAX_ITEMS);
+    });
 
-  if (!items.length && previous.items.length) {
+  if (!fresh.length && previous.items.length) {
     console.warn("No items fetched; keeping previous file.");
     return;
   }
 
+  // Carry reviews over, so an article is only ever reviewed once.
+  for (const item of fresh) {
+    const prev = prevById.get(item.id);
+    if (prev) for (const k of REVIEW_FIELDS) if (prev[k] !== undefined) item[k] = prev[k];
+  }
+
+  // Reviewed important/minor items stay listed until they age out, even after leaving their feed's latest entries.
+  const cutoff = Date.now() - MAX_AGE_DAYS * 86_400_000;
+  const isKeeper = (i) => i.reviewed && i.importance !== "skip";
+  const dropped = previous.items.filter((p) => isKeeper(p) && !seen.has(p.id) && !seen.has(p.title.toLowerCase()) && Date.parse(p.published) > cutoff);
+  const keepers = [...fresh.filter(isKeeper), ...dropped].sort((a, b) => b.published.localeCompare(a.published)).slice(0, MAX_ITEMS * 2);
+  const others = fresh.filter((i) => !isKeeper(i)).slice(0, Math.max(0, MAX_ITEMS - keepers.length));
+  const items = [...keepers, ...others].sort((a, b) => b.published.localeCompare(a.published));
+
   let aiCalls = 0;
   for (const item of items) {
-    const prev = prevById.get(item.id);
-    if (prev?.aiSummary) {
-      Object.assign(item, { summary: prev.summary, whyItMatters: prev.whyItMatters, aiSummary: true });
-    } else if (GEMINI_KEY && aiCalls < 25) {
+    if (!item.reviewed && GEMINI_KEY && aiCalls < MAX_AI_CALLS) {
       try {
-        Object.assign(item, await aiSummarize(item), { aiSummary: true });
+        Object.assign(item, await aiReview(item));
         aiCalls++;
         await new Promise((r) => setTimeout(r, 4500)); // stay inside the free-tier rate limit
       } catch (e) {
-        console.warn(`AI summary failed for "${item.title}": ${e.message}`);
+        console.warn(`AI review failed for "${item.title}": ${e.message}`);
       }
     }
     delete item._desc;
@@ -192,7 +217,7 @@ async function main() {
     return;
   }
   await writeFile(OUT, JSON.stringify({ generatedAt: new Date().toISOString(), items }, null, 2) + "\n");
-  console.log(`Wrote ${items.length} items (${aiCalls} new AI summaries).`);
+  console.log(`Wrote ${items.length} items (${aiCalls} new AI reviews).`);
 }
 
 await main();
