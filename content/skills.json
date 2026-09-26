@@ -78,11 +78,5 @@
       "pandas",
       "MATLAB (MILP)"
     ]
-  },
-  {
-    "group": "Naga",
-    "items": [
-      "Open ai"
-    ]
   }
 ]
