@@ -1,23 +1,14 @@
 {
-  "generatedAt": "2026-09-27T17:01:07.549Z",
+  "generatedAt": "2026-09-27T21:24:01.866Z",
   "items": [
     {
-      "id": "422f82198929",
-      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-27T06:19:33.000Z",
-      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 545 # Comments: 498"
-    },
-    {
-      "id": "9191c8293eea",
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-26T09:13:41.000Z",
-      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points: 425 # Comments: 110"
+      "id": "55521e37d6b0",
+      "title": "Cloudflare’s 2026 Annual Founders’ Letter",
+      "url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-27T17:00:00.000Z",
+      "summary": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, sustainable future for the web."
     },
     {
       "id": "ff91befc1789",
@@ -155,15 +146,6 @@
       "paragraph": "GitHub finished migrating github.com from styled-components (a CSS-in-JS library) to CSS Modules in June 2026. CSS-in-JS initialized styles on the client, slowed server-side rendering (SSR) and added runtime cost through the dynamic sx style prop. Migrating the Primer design system first, completed in December 2024, cut SSR time by 55% and component initialization time by 25%. A rotation of 8 engineers then migrated 6,419 sx props over six months, and in April 2026 two engineers helped by Copilot coding agents cleared the last 895 in three weeks. Individual pages saw SSR gains of 1% to 22%. React teams using runtime CSS-in-JS can borrow its feature-flagged, staged rollout."
     },
     {
-      "id": "78ecb1011f97",
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-25T13:48:38.000Z",
-      "summary": "Article URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later Comments URL: https://news.ycombinator.com/item?id=49844657 Points: 464 # Comments: 375"
-    },
-    {
       "id": "f8742313b30e",
       "title": "Agents can now set up your website’s security with Turnstile Spin",
       "url": "https://blog.cloudflare.com/turnstile-spin/",
@@ -175,15 +157,6 @@
       "importance": "important",
       "headline": "Cloudflare Turnstile Spin has your AI coding agent wire up server-side bot checks",
       "paragraph": "Cloudflare detailed Turnstile Spin on 25 September 2026, a free tool released in July that has your AI coding agent finish setting up Turnstile, its CAPTCHA replacement. Sites that embed the Turnstile widget but never call the Siteverify API from their backend stay open to bots. From the dashboard or Wrangler CLI, Spin produces a prompt or skill URL that agents such as Claude Code, Cursor or Codex use to add the widget and backend validation after you approve a plan. Widgets with no server-side validation now show a \"Fix with Spin\" banner, and over 65,000 Spin widgets have been created. Turnstile users should confirm their backend validates tokens."
-    },
-    {
-      "id": "14d6d1760fcc",
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-25T10:55:40.000Z",
-      "summary": "Article URL: https://github.com/InfinityLoop1308/PipePipe Comments URL: https://news.ycombinator.com/item?id=49842764 Points: 468 # Comments: 251"
     },
     {
       "id": "b987e79c844e",
@@ -619,6 +592,33 @@
       "importance": "important",
       "headline": "Next.js 16.3.6 fixes critical remote code execution bug in next/og ImageResponse",
       "paragraph": "Vercel released Next.js 16.3.6 (Active LTS) and 15.5.26 (Maintenance LTS) on September 22, 2026 as an out-of-band security update. The critical issue, GHSA-vcvr-r3jv-pc5j (CVE-2026-94545, CVSS v4 score 9.5), sits in the Node.js ImageResponse implementation in next/og: improper escaping in SVG output from Satori, the library that turns JSX into images, could lead to remote code execution through other upstream dependencies. Only versions 16.2.0 up to 16.3.5 are affected; the Edge ImageResponse and Next.js 15.x are not, and 15.5.26 adds related hardening. Teams on 16.2 or 16.3 should upgrade now and keep attacker-controlled values out of SVG content rendered by ImageResponse."
+    },
+    {
+      "id": "bdc88dc4e212",
+      "title": "Spotlight on SIG Apps",
+      "url": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-22T18:00:00.000Z",
+      "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch processing, AI workloads, and platform services."
+    },
+    {
+      "id": "14a094f0bf19",
+      "title": "Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker",
+      "url": "https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-22T15:06:15.000Z",
+      "summary": "Meet the partners and customers bringing practical AI, security, and development sessions to the Docker Pavilion at WeAreDevelopers. The post explains why a strong ecosystem matters to developers, announces the sessions and speakers, and invites attendees to connect with the teams building and using these technologies."
+    },
+    {
+      "id": "8852e943c84c",
+      "title": "Upcoming Next.js Security Update for a Critical Upstream Issue",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-22T15:00:00.000Z",
+      "summary": "Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026."
     },
     {
       "id": "f665e9d50590",
