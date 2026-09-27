@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-09-26T21:14:02.012Z",
+  "generatedAt": "2026-09-27T05:22:49.975Z",
   "items": [
-    {
-      "id": "6b4462044a09",
-      "title": "The Python documentation is now available in German",
-      "url": "https://blog.python.org/2026/09/python-docs-in-german/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-26T00:00:00.000Z",
-      "summary": "You can now read the Python documentation online in German!"
-    },
     {
       "id": "ff91befc1789",
       "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
@@ -22,6 +13,15 @@
       "importance": "important",
       "headline": "JEP 539 targeted to JDK 28: strict field initialization in the JVM (preview)",
       "paragraph": "JEP 539 (a formal Java enhancement proposal), Strict Field Initialization in the JVM, was targeted to JDK 28 as a preview feature on 26 September 2026. Fields marked with a new ACC_STRICT_INIT class-file flag (0x0800) get no default value: the JVM refuses reads before they are assigned, and every read of a final strict field sees the same value. Static fields are enforced at runtime with exceptions; instance fields are checked by the bytecode verifier using a new early_larval_frame stack-map entry. Java syntax and javac are unchanged. It underpins Project Valhalla value classes, so JVM language and compiler authors should follow it; it needs --enable-preview."
+    },
+    {
+      "id": "6b4462044a09",
+      "title": "The Python documentation is now available in German",
+      "url": "https://blog.python.org/2026/09/python-docs-in-german/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-26T00:00:00.000Z",
+      "summary": "You can now read the Python documentation online in German!"
     },
     {
       "id": "123d8dcecccf",
@@ -317,6 +317,19 @@
       "paragraph": "Liquid AI released LFM2.5-VL-3B-DSpark, an open-weight draft model that adds speculative decoding to its 3-billion-parameter vision-language model. Speculative decoding has a small model propose several tokens that the large model then checks in one pass. The drafter adds 280M parameters (8.9% overhead) and reads hidden states from the target model, so it handles image and text inputs alike. Decoding ran 2.30-3.13x faster with MLX on an M5 Max and 2.66-20.4x faster on an H100, with end-to-end gains of 1.56-2.62x and 1.64-2.27x. It does not speed up image encoding or prefill. Weights come in Safetensors and GGUF, supported by llama.cpp, MLX-VLM and SGLang."
     },
     {
+      "id": "b7efb590f404",
+      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information .",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
+      "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
+    },
+    {
       "id": "ead81158a84d",
       "title": "Spring Batch 6.1.0-M2 is out!",
       "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
@@ -330,17 +343,13 @@
       "paragraph": "Spring Batch 6.1.0-M2, the second milestone of 6.1, was released to Maven Central on September 24, 2026. AsyncItemProcessor, AsyncItemWriter and ChunkTaskExecutorItemWriter move from spring-batch-integration into spring-batch-core, dropping unneeded transitive dependencies. FlatFileItemReaderBuilder, FlatFileItemWriterBuilder and JdbcBatchItemWriterBuilder now use a staged DSL that catches invalid configurations at compile time, which breaks code that stores builder return values in builder-typed variables. The MongoDB job repository supports collection prefixes, RepositoryItemWriter can flush, and resource readers accept location patterns such as classpath:data/input/file-*.txt. No GA date was given. Batch developers should test against it now to catch the builder changes early."
     },
     {
-      "id": "b7efb590f404",
-      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "id": "40fb744b082c",
+      "title": "Spring Security 7.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now",
       "source": "Spring",
       "category": "Frameworks & Languages",
       "published": "2026-09-24T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information .",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
-      "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
+      "summary": "On behalf of the team and everyone who has contributed, I am pleased to announce the release of Spring Security 7.2.0-M2 . Please see the Spring Security 7.2.0-M2 release notes for more details. Project Page | GitHub | Issues | Documentation"
     },
     {
       "id": "7317876738e3",
@@ -378,17 +387,6 @@
       "paragraph": "GitHub explained how it rebuilt the diff view in the GitHub Copilot app to open a pull request with 2,200 files, over a million changed lines and more than 400 inline review comments. Standard virtualization broke because comment heights are unknown until rendered. The team split geometry: code rows have exact precomputed heights, while comment blocks start with estimates corrected by one idle-time measurement pass per frame instead of ResizeObserver callbacks. Scroll anchoring tracks the row being read, not the pixel offset. Syntax highlighting runs off the main thread, and only blocks within about 2,400px of the viewport are measured. Useful reading for anyone building large virtualized lists in React."
     },
     {
-      "id": "8a86c97089bb",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T18:00:00.000Z",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
       "id": "ff8607213777",
       "title": "Upcoming Next.js September Security Release",
       "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026",
@@ -400,6 +398,17 @@
       "importance": "important",
       "headline": "Next.js schedules September 30 security release fixing nine vulnerabilities",
       "paragraph": "Next.js maintainers announced on September 23, 2026 that a scheduled security release will ship on September 30, 2026. It will fix nine vulnerabilities: one rated critical, two high, five medium and one low. Patched versions 16.3.7 and 15.5.27 are planned, and the full advisories, covering impact, affected versions and upgrade steps, will be published at the same time. Until then, no technical details are public. Teams running Next.js 16.3 or 15.5 in production should set aside time around September 30 to upgrade to 16.3.7 or 15.5.27 and read the advisories to check whether their app is exposed."
+    },
+    {
+      "id": "8a86c97089bb",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T18:00:00.000Z",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "dff539682bf2",
@@ -452,17 +461,6 @@
       "paragraph": "Google released two text-to-speech models on September 23, 2026: Gemini 3.8 Flash TTS for expressive character voices and Gemini 3.8 Flash-Lite TTS for cheaper, high-volume use. Both are available now in the Gemini API and Google AI Studio, with Gemini Enterprise support coming later. Compared with Gemini 3.1 Flash TTS, they add line-by-line direction of pacing, dialect and acting cues, native two-speaker dialogue, scripted laughs and sighs, and new voices designed from a text prompt. Google cites 2,000+ voices, 100+ languages, voice replication from a 30-second sample and a top score of 71.4 on Hume AI's Voice Design Benchmark. Worth testing for voice agents or narration."
     },
     {
-      "id": "1d77064cbebb",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T13:00:00.000Z",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
       "id": "cded7a7a02c2",
       "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
       "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
@@ -474,6 +472,17 @@
       "importance": "minor",
       "headline": "GitHub and Yale survey: 80% of developers want tools for energy-efficient code",
       "paragraph": "Surveying 1,039 US GitHub users, GitHub and Yale found 80% want tools for energy-efficient code and 74% want impact measurement, yet only 10% think their practices matter much."
+    },
+    {
+      "id": "1d77064cbebb",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-23T13:00:00.000Z",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "01d4e543c941",
@@ -509,17 +518,6 @@
       "importance": "skip"
     },
     {
-      "id": "d0797dca1269",
-      "title": "The Python documentation is now available in Persian",
-      "url": "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-23T00:00:00.000Z",
-      "summary": "",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
       "id": "900365345474",
       "title": "Quality Outreach Heads-up - JDK 28: Rich JavaDoc Notes",
       "url": "https://inside.java/2026/09/23/quality-heads-up/",
@@ -544,6 +542,17 @@
       "importance": "important",
       "headline": "GitHub Copilot merges completions and next-edit suggestions into one inline model",
       "paragraph": "GitHub and the VS Code team published part two of their write-up on the Copilot inline suggestions model on September 23, 2026. Ghost-text completions, next edit suggestions (NES, predicted edits away from the cursor) and distant edits now come from a single 3-in-1 model instead of separate calls. Online, it cut dismissals by 10.1% against the previous setup with no statistically significant regressions. A key lesson came from the client: ignored ghost text was resurfacing as an NES edit, and toggling that behaviour in an ablation swung the dismissal change from +15.9% to -10.1%. Useful reading for anyone building AI features into editors or other developer tools."
+    },
+    {
+      "id": "d0797dca1269",
+      "title": "The Python documentation is now available in Persian",
+      "url": "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-23T00:00:00.000Z",
+      "summary": "",
+      "reviewed": true,
+      "importance": "skip"
     },
     {
       "id": "12574c6c5a5f",
@@ -668,17 +677,6 @@
       "importance": "important",
       "headline": "Hugging Face Transformers can now run llama.cpp GGUF quantized models natively",
       "paragraph": "Hugging Face added native inference for GGUF files, the quantized model format used by llama.cpp, to the Transformers library; it is on the main branch until the next release. Previously Transformers expanded GGUF weights to full precision on load; now the weights stay packed and run through ggml's Metal kernels. For Qwen3.5-4B, the Q4_K_M file is 2.74 GB versus 8.42 GB for BF16. Loading uses the usual from_pretrained call with a gguf_file argument, and transformers serve works too. On an M2 Max MacBook Pro, speed was close to llama.cpp across three checkpoints. Limits: Apple Silicon (MPS) only, Qwen3.5 and Qwen3.8 architectures only, and batched generation still needs work."
-    },
-    {
-      "id": "fb8ad85c459c",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-09-22T00:00:00.000Z",
-      "summary": "",
-      "reviewed": true,
-      "importance": "skip"
     },
     {
       "id": "0d12c08659fc",
