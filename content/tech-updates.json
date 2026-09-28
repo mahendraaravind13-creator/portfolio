@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-09-28T14:02:27.865Z",
+  "generatedAt": "2026-09-28T23:19:35.162Z",
   "items": [
+    {
+      "id": "ace69cc3aaa0",
+      "title": "Self-hosted runner version enforcement date has moved",
+      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-28T19:22:46.000Z",
+      "summary": "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins"
+    },
+    {
+      "id": "1eadd5627184",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-09-28T19:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "791d6502db08",
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-09-28T19:00:00.000Z",
+      "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app."
+    },
+    {
+      "id": "c579283ea8d7",
+      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-28T18:03:57.000Z",
+      "summary": "Claude Sonnet 5.5, Anthropic's newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early"
+    },
+    {
+      "id": "50e18c541984",
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-09-28T17:58:11.000Z",
+      "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 513 # Comments: 345"
+    },
+    {
+      "id": "14bebd7054c7",
+      "title": "Highlights from Git 2.56",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-09-28T17:23:33.000Z",
+      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time."
+    },
+    {
+      "id": "7bc45090828e",
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T16:14:54.000Z",
+      "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6"
+    },
+    {
+      "id": "d4dd483c3937",
+      "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+      "url": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T14:51:57.000Z",
+      "summary": "Vinext 1.0 graduates from an AI experiment to a production-ready framework, letting developers run Next.js apps on Vite. This release brings advanced cache warming, broader compatibility, and an automated testing pipeline."
+    },
+    {
+      "id": "2ee638419a77",
+      "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T14:50:37.000Z",
+      "summary": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator."
+    },
+    {
+      "id": "3ebbe2523892",
+      "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+      "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T14:43:05.000Z",
+      "summary": "Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance breakdowns across browsers and regions."
+    },
     {
       "id": "eb611a2ad5ed",
       "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
@@ -29,33 +119,6 @@
       "summary": "We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster."
     },
     {
-      "id": "7825517406e6",
-      "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
-      "url": "https://blog.cloudflare.com/introducing-the-cold-start/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-28T13:00:00.000Z",
-      "summary": "Cloudflare is launching The Cold Start, a startup competition giving five early-stage companies five minutes on stage at Cloudflare Connect. Grand Prize winner receives $500,000 in credits, a San Francisco billboard, and an invitation to our VIP speakers dinner."
-    },
-    {
-      "id": "e3c78699ca80",
-      "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
-      "url": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-28T13:00:00.000Z",
-      "summary": "EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control."
-    },
-    {
-      "id": "30c18d3f8bb0",
-      "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
-      "url": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-28T13:00:00.000Z",
-      "summary": "With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare’s global Workers platform, including upcoming support for Tokio async."
-    },
-    {
       "id": "9552195c964d",
       "title": "Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
@@ -65,13 +128,31 @@
       "summary": ""
     },
     {
-      "id": "043c9802d996",
-      "title": "Performance Improvements in JDK 27",
-      "url": "https://inside.java/2026/09/28/performance-update-jdk27/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
+      "id": "216d56bba26c",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-28T07:00:00.000Z",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+    },
+    {
+      "id": "914f14710638",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
       "published": "2026-09-28T00:00:00.000Z",
-      "summary": "Notable performance improvements in JDK27"
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
+    },
+    {
+      "id": "bf0fe8cc388a",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-28T00:00:00.000Z",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
     },
     {
       "id": "ff91befc1789",
@@ -85,15 +166,6 @@
       "importance": "important",
       "headline": "JEP 539 targeted to JDK 28: strict field initialization in the JVM (preview)",
       "paragraph": "JEP 539 (a formal Java enhancement proposal), Strict Field Initialization in the JVM, was targeted to JDK 28 as a preview feature on 26 September 2026. Fields marked with a new ACC_STRICT_INIT class-file flag (0x0800) get no default value: the JVM refuses reads before they are assigned, and every read of a final strict field sees the same value. Static fields are enforced at runtime with exceptions; instance fields are checked by the bytecode verifier using a new early_larval_frame stack-map entry. Java syntax and javac are unchanged. It underpins Project Valhalla value classes, so JVM language and compiler authors should follow it; it needs --enable-preview."
-    },
-    {
-      "id": "6b4462044a09",
-      "title": "The Python documentation is now available in German",
-      "url": "https://blog.python.org/2026/09/python-docs-in-german/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-26T00:00:00.000Z",
-      "summary": "You can now read the Python documentation online in German!"
     },
     {
       "id": "123d8dcecccf",
@@ -135,17 +207,6 @@
       "paragraph": "Repository issue pages now support private saved views, and the \"Relates to\" issue relationship is generally available across the REST and GraphQL APIs, webhooks and search."
     },
     {
-      "id": "d2d497e5eee4",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-25T19:00:00.000Z",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
       "id": "e3b548de0eee",
       "title": "Changes to query results in the GitHub Actions API and UI",
       "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
@@ -157,17 +218,6 @@
       "importance": "important",
       "headline": "GitHub Actions API now reports workflow run counts above 2,500 as \"2,500+\"",
       "paragraph": "GitHub changed how the Actions API and UI count workflow runs on 25 September 2026. When you search runs by workflow, event, status, branch or actor and more than 2,500 records match, the count is now shown as \"2,500+\" instead of an exact number. GitHub says exact counts on queries that large often timed out and returned incomplete totals, so the capped figure is less precise but more accurate. The change is rolling out on github.com and GitHub Enterprise Cloud. If your scripts, dashboards or cleanup jobs depend on counts or results beyond 2,500 runs, narrow the filters, for example with a date range, to get the runs you need."
-    },
-    {
-      "id": "aabbcb7a3a47",
-      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-09-25T18:00:00.000Z",
-      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.",
-      "reviewed": true,
-      "importance": "skip"
     },
     {
       "id": "925b830b81ef",
@@ -300,17 +350,6 @@
       "paragraph": "GitHub Security Lab published a fuzzing taskflow on September 24, 2026, built on its Taskflow Agent framework for LLM-driven security automation. Given a repository, it picks entry points, reads the build system, writes harnesses, runs AFL++ (a coverage-guided fuzzer), reads coverage reports, improves the harnesses and triages every crash into a vulnerability report. Time budgets double from 30 to 960 seconds, with plateau detection to stop when coverage stalls. Crashes are minimised and deduplicated by stack hash, and Claude Sonnet 5 is the default model. It supports C/C++ only, and the post reports no bug counts yet. It runs build commands without container isolation, so use a disposable machine."
     },
     {
-      "id": "6533446258fa",
-      "title": "Manufacturing Trust for AI Agents Docker's WeAreDevelopers Keynote",
-      "url": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-24T17:15:00.000Z",
-      "summary": "Docker's WeAreDevelopers keynote shows how Sandboxes, Kits, and Cloud Sandboxes give AI agents strong isolation and reproducible authority.",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
       "id": "e7107d9a76d9",
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
@@ -415,28 +454,6 @@
       "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
     },
     {
-      "id": "7317876738e3",
-      "title": "Episode 71 “Security in Java” [AtA]",
-      "url": "https://inside.java/2026/09/24/podcast-071/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-24T00:00:00.000Z",
-      "summary": "Given how prevalent Java is on web servers throughout the internet, security in Java is of critical importance - there's the JDK itself, of course, but also the algorithms and features it offers to applications",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
-      "id": "a70f8ac64edf",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T18:41:40.000Z",
-      "summary": "",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
       "id": "078c955aa93d",
       "title": "Rendering huge pull requests in the GitHub Copilot app",
       "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
@@ -461,17 +478,6 @@
       "importance": "important",
       "headline": "Next.js schedules September 30 security release fixing nine vulnerabilities",
       "paragraph": "Next.js maintainers announced on September 23, 2026 that a scheduled security release will ship on September 30, 2026. It will fix nine vulnerabilities: one rated critical, two high, five medium and one low. Patched versions 16.3.7 and 15.5.27 are planned, and the full advisories, covering impact, affected versions and upgrade steps, will be published at the same time. Until then, no technical details are public. Teams running Next.js 16.3 or 15.5 in production should set aside time around September 30 to upgrade to 16.3.7 or 15.5.27 and read the advisories to check whether their app is exposed."
-    },
-    {
-      "id": "8a86c97089bb",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T18:00:00.000Z",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "reviewed": true,
-      "importance": "skip"
     },
     {
       "id": "dff539682bf2",
@@ -500,17 +506,6 @@
       "paragraph": "Google now keeps personal AI memory in encrypted per-user cloud storage, decrypted only inside attested hardware enclaves with keys held on the user's devices; no developer API was announced."
     },
     {
-      "id": "9d02eeb8cef1",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T16:00:00.000Z",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
       "id": "be2314c62992",
       "title": "Gemini 3.8 text-to-speech says hello",
       "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
@@ -535,17 +530,6 @@
       "importance": "minor",
       "headline": "GitHub and Yale survey: 80% of developers want tools for energy-efficient code",
       "paragraph": "Surveying 1,039 US GitHub users, GitHub and Yale found 80% want tools for energy-efficient code and 74% want impact measurement, yet only 10% think their practices matter much."
-    },
-    {
-      "id": "1d77064cbebb",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T13:00:00.000Z",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "reviewed": true,
-      "importance": "skip"
     },
     {
       "id": "900365345474",
@@ -575,7 +559,7 @@
     },
     {
       "id": "12574c6c5a5f",
-      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+      "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
       "source": "AWS",
       "category": "Cloud & DevOps",
