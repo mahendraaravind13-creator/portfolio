@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T21:24:01.866Z",
+  "generatedAt": "2026-09-28T05:29:21.164Z",
   "items": [
     {
       "id": "55521e37d6b0",
@@ -159,19 +159,6 @@
       "paragraph": "Cloudflare detailed Turnstile Spin on 25 September 2026, a free tool released in July that has your AI coding agent finish setting up Turnstile, its CAPTCHA replacement. Sites that embed the Turnstile widget but never call the Siteverify API from their backend stay open to bots. From the dashboard or Wrangler CLI, Spin produces a prompt or skill URL that agents such as Claude Code, Cursor or Codex use to add the widget and backend validation after you approve a plan. Widgets with no server-side validation now show a \"Fix with Spin\" banner, and over 65,000 Spin widgets have been created. Turnstile users should confirm their backend validates tokens."
     },
     {
-      "id": "b987e79c844e",
-      "title": "Spring Boot 4.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-25T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes .",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Spring Boot 4.2.0-M2 adds LDAPS via SSL bundles and OpenTelemetry semantic conventions",
-      "paragraph": "Spring Boot 4.2.0-M2 was released to Maven Central on 25 September 2026 with 141 enhancements, documentation improvements, dependency upgrades and bug fixes. LDAP connections can now use SSL bundles, and the embedded LDAP server supports LDAPS (LDAP over TLS). Setting management.observations.conventions to open-telemetry opts in to OpenTelemetry semantic conventions, and a shared management.opentelemetry.otlp prefix configures the common OTLP endpoint, headers and compression. @DefaultValue now accepts property placeholders. It moves to Spring Framework 7.1.0-M2 and Micrometer 1.18.0-M2, and deprecates the buildProperties methods in KafkaProperties in favour of KafkaConfigBuilder. Kafka and observability users should test against it before 4.2 goes GA."
-    },
-    {
       "id": "89d99fa23758",
       "title": "Spring AI 2.1.0-M1 Available Now",
       "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
@@ -183,6 +170,19 @@
       "importance": "important",
       "headline": "Spring AI 2.1.0-M1 released with ordered message parts and OpenAI Responses API support",
       "paragraph": "Spring AI 2.1.0-M1, the first milestone of the 2.1 line, was released to Maven Central on 25 September 2026 and builds against Spring Boot 4.2.0-M2. Messages can now hold ordered parts (text, reasoning, tool calls, tool results and media) kept in the order the model provider produced them. A new OpenAiResponsesChatModel supports OpenAI's Responses API, including tool calling combined with a reasoning effort other than none. VectorStore.upsert() stores embeddings computed elsewhere, and new customizer beans tune stateless MCP (Model Context Protocol) servers. Redis vector store auto-configuration accepts custom metadata fields. Milestone APIs may change before GA, so Spring developers building RAG or agent features should try it outside production."
+    },
+    {
+      "id": "b987e79c844e",
+      "title": "Spring Boot 4.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes .",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Spring Boot 4.2.0-M2 adds LDAPS via SSL bundles and OpenTelemetry semantic conventions",
+      "paragraph": "Spring Boot 4.2.0-M2 was released to Maven Central on 25 September 2026 with 141 enhancements, documentation improvements, dependency upgrades and bug fixes. LDAP connections can now use SSL bundles, and the embedded LDAP server supports LDAPS (LDAP over TLS). Setting management.observations.conventions to open-telemetry opts in to OpenTelemetry semantic conventions, and a shared management.opentelemetry.otlp prefix configures the common OTLP endpoint, headers and compression. @DefaultValue now accepts property placeholders. It moves to Spring Framework 7.1.0-M2 and Micrometer 1.18.0-M2, and deprecates the buildProperties methods in KafkaProperties in favour of KafkaConfigBuilder. Kafka and observability users should test against it before 4.2 goes GA."
     },
     {
       "id": "999cfb9cf2dd",
@@ -326,19 +326,6 @@
       "paragraph": "Liquid AI released LFM2.5-VL-3B-DSpark, an open-weight draft model that adds speculative decoding to its 3-billion-parameter vision-language model. Speculative decoding has a small model propose several tokens that the large model then checks in one pass. The drafter adds 280M parameters (8.9% overhead) and reads hidden states from the target model, so it handles image and text inputs alike. Decoding ran 2.30-3.13x faster with MLX on an M5 Max and 2.66-20.4x faster on an H100, with end-to-end gains of 1.56-2.62x and 1.64-2.27x. It does not speed up image encoding or prefill. Weights come in Safetensors and GGUF, supported by llama.cpp, MLX-VLM and SGLang."
     },
     {
-      "id": "ead81158a84d",
-      "title": "Spring Batch 6.1.0-M2 is out!",
-      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-24T00:00:00.000Z",
-      "summary": "On behalf of the team and all contributors, I am pleased to announce that Spring Batch 6.1.0-M2 is available now from Maven Central! This second milestone brings a number of new features, enhancements and a few breaking changes on top of 6.1.0-M1 .",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Spring Batch 6.1.0-M2 adds compile-checked builders and moves async writers to core",
-      "paragraph": "Spring Batch 6.1.0-M2, the second milestone of 6.1, was released to Maven Central on September 24, 2026. AsyncItemProcessor, AsyncItemWriter and ChunkTaskExecutorItemWriter move from spring-batch-integration into spring-batch-core, dropping unneeded transitive dependencies. FlatFileItemReaderBuilder, FlatFileItemWriterBuilder and JdbcBatchItemWriterBuilder now use a staged DSL that catches invalid configurations at compile time, which breaks code that stores builder return values in builder-typed variables. The MongoDB job repository supports collection prefixes, RepositoryItemWriter can flush, and resource readers accept location patterns such as classpath:data/input/file-*.txt. No GA date was given. Batch developers should test against it now to catch the builder changes early."
-    },
-    {
       "id": "b7efb590f404",
       "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
       "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
@@ -350,6 +337,19 @@
       "importance": "minor",
       "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
       "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
+    },
+    {
+      "id": "ead81158a84d",
+      "title": "Spring Batch 6.1.0-M2 is out!",
+      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary": "On behalf of the team and all contributors, I am pleased to announce that Spring Batch 6.1.0-M2 is available now from Maven Central! This second milestone brings a number of new features, enhancements and a few breaking changes on top of 6.1.0-M1 .",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Spring Batch 6.1.0-M2 adds compile-checked builders and moves async writers to core",
+      "paragraph": "Spring Batch 6.1.0-M2, the second milestone of 6.1, was released to Maven Central on September 24, 2026. AsyncItemProcessor, AsyncItemWriter and ChunkTaskExecutorItemWriter move from spring-batch-integration into spring-batch-core, dropping unneeded transitive dependencies. FlatFileItemReaderBuilder, FlatFileItemWriterBuilder and JdbcBatchItemWriterBuilder now use a staged DSL that catches invalid configurations at compile time, which breaks code that stores builder return values in builder-typed variables. The MongoDB job repository supports collection prefixes, RepositoryItemWriter can flush, and resource readers accept location patterns such as classpath:data/input/file-*.txt. No GA date was given. Batch developers should test against it now to catch the builder changes early."
     },
     {
       "id": "7317876738e3",
