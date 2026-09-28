@@ -1,14 +1,77 @@
 {
-  "generatedAt": "2026-09-28T05:29:21.164Z",
+  "generatedAt": "2026-09-28T14:02:27.865Z",
   "items": [
     {
-      "id": "55521e37d6b0",
-      "title": "Cloudflare’s 2026 Annual Founders’ Letter",
-      "url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+      "id": "eb611a2ad5ed",
+      "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
+      "url": "https://blog.cloudflare.com/voidzero-update/",
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
-      "published": "2026-09-27T17:00:00.000Z",
-      "summary": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, sustainable future for the web."
+      "published": "2026-09-28T13:00:00.000Z",
+      "summary": "Since joining Cloudflare, VoidZero has delivered more than 80 releases that drastically speed up JavaScript compilation, linting, and testing. From a 10x faster React compiler to Vite+ 1.0, here’s how we are building faster tools for developers and AI agents."
+    },
+    {
+      "id": "f359e0d954be",
+      "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+      "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T13:00:00.000Z",
+      "summary": "Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously in sync."
+    },
+    {
+      "id": "d0b06df4eb60",
+      "title": "The road to the agentic browser: A Kitesurf update",
+      "url": "https://blog.cloudflare.com/kitesurf-update/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T13:00:00.000Z",
+      "summary": "We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster."
+    },
+    {
+      "id": "7825517406e6",
+      "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
+      "url": "https://blog.cloudflare.com/introducing-the-cold-start/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T13:00:00.000Z",
+      "summary": "Cloudflare is launching The Cold Start, a startup competition giving five early-stage companies five minutes on stage at Cloudflare Connect. Grand Prize winner receives $500,000 in credits, a San Francisco billboard, and an invitation to our VIP speakers dinner."
+    },
+    {
+      "id": "e3c78699ca80",
+      "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+      "url": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T13:00:00.000Z",
+      "summary": "EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control."
+    },
+    {
+      "id": "30c18d3f8bb0",
+      "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
+      "url": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T13:00:00.000Z",
+      "summary": "With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare’s global Workers platform, including upcoming support for Tokio async."
+    },
+    {
+      "id": "9552195c964d",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-09-28T09:44:05.000Z",
+      "summary": ""
+    },
+    {
+      "id": "043c9802d996",
+      "title": "Performance Improvements in JDK 27",
+      "url": "https://inside.java/2026/09/28/performance-update-jdk27/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-28T00:00:00.000Z",
+      "summary": "Notable performance improvements in JDK27"
     },
     {
       "id": "ff91befc1789",
@@ -326,19 +389,6 @@
       "paragraph": "Liquid AI released LFM2.5-VL-3B-DSpark, an open-weight draft model that adds speculative decoding to its 3-billion-parameter vision-language model. Speculative decoding has a small model propose several tokens that the large model then checks in one pass. The drafter adds 280M parameters (8.9% overhead) and reads hidden states from the target model, so it handles image and text inputs alike. Decoding ran 2.30-3.13x faster with MLX on an M5 Max and 2.66-20.4x faster on an H100, with end-to-end gains of 1.56-2.62x and 1.64-2.27x. It does not speed up image encoding or prefill. Weights come in Safetensors and GGUF, supported by llama.cpp, MLX-VLM and SGLang."
     },
     {
-      "id": "b7efb590f404",
-      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-24T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information .",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
-      "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
-    },
-    {
       "id": "ead81158a84d",
       "title": "Spring Batch 6.1.0-M2 is out!",
       "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
@@ -350,6 +400,19 @@
       "importance": "important",
       "headline": "Spring Batch 6.1.0-M2 adds compile-checked builders and moves async writers to core",
       "paragraph": "Spring Batch 6.1.0-M2, the second milestone of 6.1, was released to Maven Central on September 24, 2026. AsyncItemProcessor, AsyncItemWriter and ChunkTaskExecutorItemWriter move from spring-batch-integration into spring-batch-core, dropping unneeded transitive dependencies. FlatFileItemReaderBuilder, FlatFileItemWriterBuilder and JdbcBatchItemWriterBuilder now use a staged DSL that catches invalid configurations at compile time, which breaks code that stores builder return values in builder-typed variables. The MongoDB job repository supports collection prefixes, RepositoryItemWriter can flush, and resource readers accept location patterns such as classpath:data/input/file-*.txt. No GA date was given. Batch developers should test against it now to catch the builder changes early."
+    },
+    {
+      "id": "b7efb590f404",
+      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information .",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
+      "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
     },
     {
       "id": "7317876738e3",
@@ -485,39 +548,6 @@
       "importance": "skip"
     },
     {
-      "id": "01d4e543c941",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T12:00:00.000Z",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
-      "id": "f7558dc5c9de",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T12:00:00.000Z",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
-      "id": "7357353a1f1d",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T12:00:00.000Z",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "reviewed": true,
-      "importance": "skip"
-    },
-    {
       "id": "900365345474",
       "title": "Quality Outreach Heads-up - JDK 28: Rich JavaDoc Notes",
       "url": "https://inside.java/2026/09/23/quality-heads-up/",
@@ -542,17 +572,6 @@
       "importance": "important",
       "headline": "GitHub Copilot merges completions and next-edit suggestions into one inline model",
       "paragraph": "GitHub and the VS Code team published part two of their write-up on the Copilot inline suggestions model on September 23, 2026. Ghost-text completions, next edit suggestions (NES, predicted edits away from the cursor) and distant edits now come from a single 3-in-1 model instead of separate calls. Online, it cut dismissals by 10.1% against the previous setup with no statistically significant regressions. A key lesson came from the client: ignored ghost text was resurfacing as an NES edit, and toggling that behaviour in an ablation swung the dismissal change from +15.9% to -10.1%. Useful reading for anyone building AI features into editors or other developer tools."
-    },
-    {
-      "id": "d0797dca1269",
-      "title": "The Python documentation is now available in Persian",
-      "url": "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-23T00:00:00.000Z",
-      "summary": "",
-      "reviewed": true,
-      "importance": "skip"
     },
     {
       "id": "12574c6c5a5f",
@@ -592,33 +611,6 @@
       "importance": "important",
       "headline": "Next.js 16.3.6 fixes critical remote code execution bug in next/og ImageResponse",
       "paragraph": "Vercel released Next.js 16.3.6 (Active LTS) and 15.5.26 (Maintenance LTS) on September 22, 2026 as an out-of-band security update. The critical issue, GHSA-vcvr-r3jv-pc5j (CVE-2026-94545, CVSS v4 score 9.5), sits in the Node.js ImageResponse implementation in next/og: improper escaping in SVG output from Satori, the library that turns JSX into images, could lead to remote code execution through other upstream dependencies. Only versions 16.2.0 up to 16.3.5 are affected; the Edge ImageResponse and Next.js 15.x are not, and 15.5.26 adds related hardening. Teams on 16.2 or 16.3 should upgrade now and keep attacker-controlled values out of SVG content rendered by ImageResponse."
-    },
-    {
-      "id": "bdc88dc4e212",
-      "title": "Spotlight on SIG Apps",
-      "url": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
-      "source": "Kubernetes",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-22T18:00:00.000Z",
-      "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch processing, AI workloads, and platform services."
-    },
-    {
-      "id": "14a094f0bf19",
-      "title": "Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker",
-      "url": "https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-22T15:06:15.000Z",
-      "summary": "Meet the partners and customers bringing practical AI, security, and development sessions to the Docker Pavilion at WeAreDevelopers. The post explains why a strong ecosystem matters to developers, announces the sessions and speakers, and invites attendees to connect with the teams building and using these technologies."
-    },
-    {
-      "id": "8852e943c84c",
-      "title": "Upcoming Next.js Security Update for a Critical Upstream Issue",
-      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-22T15:00:00.000Z",
-      "summary": "Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026."
     },
     {
       "id": "f665e9d50590",
