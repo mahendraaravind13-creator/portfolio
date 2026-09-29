@@ -1,23 +1,14 @@
 {
-  "generatedAt": "2026-09-29T05:48:05.645Z",
+  "generatedAt": "2026-09-29T12:58:25.828Z",
   "items": [
     {
-      "id": "5e33c235053c",
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-28T20:23:36.000Z",
-      "summary": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 417 # Comments: 156"
-    },
-    {
-      "id": "2cef15b9c2c6",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-28T19:53:35.000Z",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 400 # Comments: 140"
+      "id": "31197990f559",
+      "title": "JEP targeted to JDK 28: 541: Deprecate the macOS/x64 Port for Removal",
+      "url": "https://inside.java/2026/09/29/jep541-target-jdk28/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-29T00:00:00.000Z",
+      "summary": "The following JEP is targeted to JDK 28: 541: Deprecate the macOS/x64 Port for Removal"
     },
     {
       "id": "ace69cc3aaa0",
@@ -36,6 +27,15 @@
       "category": "AI & LLMs",
       "published": "2026-09-28T19:00:00.000Z",
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+    },
+    {
+      "id": "cf468ec39dd6",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-28T19:00:00.000Z",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
     },
     {
       "id": "1eadd5627184",
@@ -65,15 +65,6 @@
       "summary": "Claude Sonnet 5.5, Anthropic's newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early"
     },
     {
-      "id": "50e18c541984",
-      "title": "Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-28T17:58:11.000Z",
-      "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 701 # Comments: 459"
-    },
-    {
       "id": "14bebd7054c7",
       "title": "Highlights from Git 2.56",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
@@ -92,13 +83,13 @@
       "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6"
     },
     {
-      "id": "cf35c5927732",
-      "title": "Pirating the Pirates",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-28T15:54:15.000Z",
-      "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates Comments URL: https://news.ycombinator.com/item?id=49880036 Points: 495 # Comments: 244"
+      "id": "2ee638419a77",
+      "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-28T15:50:00.000Z",
+      "summary": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator."
     },
     {
       "id": "d4dd483c3937",
@@ -108,15 +99,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-09-28T14:51:57.000Z",
       "summary": "Vinext 1.0 graduates from an AI experiment to a production-ready framework, letting developers run Next.js apps on Vite. This release brings advanced cache warming, broader compatibility, and an automated testing pipeline."
-    },
-    {
-      "id": "2ee638419a77",
-      "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
-      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-28T14:50:37.000Z",
-      "summary": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator."
     },
     {
       "id": "3ebbe2523892",
@@ -153,6 +135,24 @@
       "category": "Cloud & DevOps",
       "published": "2026-09-28T13:00:00.000Z",
       "summary": "We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster."
+    },
+    {
+      "id": "9552195c964d",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-09-28T09:44:05.000Z",
+      "summary": ""
+    },
+    {
+      "id": "216d56bba26c",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-28T07:00:00.000Z",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
     },
     {
       "id": "ff91befc1789",
