@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-28T23:19:35.162Z",
+  "generatedAt": "2026-09-29T05:48:05.645Z",
   "items": [
+    {
+      "id": "5e33c235053c",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-09-28T20:23:36.000Z",
+      "summary": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 417 # Comments: 156"
+    },
+    {
+      "id": "2cef15b9c2c6",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-09-28T19:53:35.000Z",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 400 # Comments: 140"
+    },
     {
       "id": "ace69cc3aaa0",
       "title": "Self-hosted runner version enforcement date has moved",
@@ -9,6 +27,15 @@
       "category": "Developer Tools",
       "published": "2026-09-28T19:22:46.000Z",
       "summary": "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins"
+    },
+    {
+      "id": "cfe8e900401f",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-09-28T19:00:00.000Z",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
     },
     {
       "id": "1eadd5627184",
@@ -44,7 +71,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-09-28T17:58:11.000Z",
-      "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 513 # Comments: 345"
+      "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 701 # Comments: 459"
     },
     {
       "id": "14bebd7054c7",
@@ -63,6 +90,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-09-28T16:14:54.000Z",
       "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6"
+    },
+    {
+      "id": "cf35c5927732",
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-09-28T15:54:15.000Z",
+      "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates Comments URL: https://news.ycombinator.com/item?id=49880036 Points: 495 # Comments: 244"
     },
     {
       "id": "d4dd483c3937",
@@ -117,42 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-09-28T13:00:00.000Z",
       "summary": "We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster."
-    },
-    {
-      "id": "9552195c964d",
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-09-28T09:44:05.000Z",
-      "summary": ""
-    },
-    {
-      "id": "216d56bba26c",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-28T07:00:00.000Z",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-    },
-    {
-      "id": "914f14710638",
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-28T00:00:00.000Z",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
-    },
-    {
-      "id": "bf0fe8cc388a",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-09-28T00:00:00.000Z",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
     },
     {
       "id": "ff91befc1789",
