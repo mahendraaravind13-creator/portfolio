@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T05:37:47.410Z",
+  "generatedAt": "2026-09-30T12:40:31.189Z",
   "items": [
     {
       "id": "006fd27859d9",
@@ -11,13 +11,76 @@
       "summary": "Learn what's new in Visual Studio Code 1.140 (Insiders)"
     },
     {
+      "id": "0f1d71d6fdc7",
+      "title": "Python Language Summit 2026",
+      "url": "https://blog.python.org/2026/09/language-summit-2026/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-30T12:00:11.000Z",
+      "summary": "The 2026 Python Language Summit was hosted in Kraków, Poland as part of EuroPython 2026. There were 15 talks covering free-threading, Rust, garbage collection, type annotations, and more."
+    },
+    {
+      "id": "1a1c34a9e71f",
+      "title": "Lightning Talks (Python Language Summit 2026)",
+      "url": "https://blog.python.org/2026/09/language-summit-2026-lightning-talks/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-30T12:00:10.000Z",
+      "summary": "Lightning talks on a one-time ABI break, safer interruptions, EktuPy (Scratch but Python), an AGENTS.md file for CPython, and a call to read PEP 836."
+    },
+    {
+      "id": "20dd36683270",
+      "title": "PEP 827: Type Manipulation (Python Language Summit 2026)",
+      "url": "https://blog.python.org/2026/09/language-summit-2026-pep-827-type-manipulation/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-30T12:00:09.000Z",
+      "summary": "Michael J. Sullivan presents PEP 827 and discusses a key design decision: how to store type annotations?"
+    },
+    {
+      "id": "5bd235d8a2e2",
+      "title": "Free-Threaded Python Post-Era (Python Language Summit 2026)",
+      "url": "https://blog.python.org/2026/09/language-summit-2026-free-threading-post-era/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-30T12:00:08.000Z",
+      "summary": "Tobias Wrigstad, Fridtjof Stoldt, and Donghee Na propose a safe and performant, high-level concurrency model for free-threaded Python"
+    },
+    {
+      "id": "08f2f60307ae",
+      "title": "Developer-in-Residence Update & Future (Python Language Summit 2026)",
+      "url": "https://blog.python.org/2026/09/language-summit-2026-developer-in-residence-update-and-future/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-30T12:00:07.000Z",
+      "summary": "Petr Viktorin gives an update on the Developer-in-Residence role and asks Python core developers for projects to prioritize"
+    },
+    {
+      "id": "5300bb09b014",
+      "title": "Spicycrab (Python Language Summit 2026)",
+      "url": "https://blog.python.org/2026/09/language-summit-2026-spicycrab/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-30T12:00:06.000Z",
+      "summary": "Kushal Das shows off Spicycrab, a Python-to-Rust transpiler for Python users who need performance without learning Rust or leaving Python"
+    },
+    {
+      "id": "cf3ecea33081",
+      "title": "Faster Post-Quantum Cryptography with JDK Intrinsics",
+      "url": "https://inside.java/2026/09/30/faster-post-quantum-cryptography-with-jdk-intrinsics/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-30T00:00:00.000Z",
+      "summary": "Find out about the improved Curve25519 field performance in JDK 27 and JDK 28."
+    },
+    {
       "id": "bf2e738d2e1a",
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "url": "https://github.com/ninjahawk/livenerf",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-09-29T22:36:14.000Z",
-      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 414 # Comments: 165"
+      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 701 # Comments: 274"
     },
     {
       "id": "20a277bbad04",
@@ -44,7 +107,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-09-29T17:07:57.000Z",
-      "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 522 # Comments: 394"
+      "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 656 # Comments: 519"
     },
     {
       "id": "f8bd68ff7b9a",
@@ -53,7 +116,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-09-29T17:06:45.000Z",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 859 # Comments: 781"
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 983 # Comments: 859"
     },
     {
       "id": "9be84db4b5c5",
@@ -89,70 +152,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-09-29T14:04:57.000Z",
-      "summary": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 482 # Comments: 389"
-    },
-    {
-      "id": "984223f109f3",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-09-29T13:07:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "a9490e2c4406",
-      "title": "Using AI to chart a course for our post-quantum migration",
-      "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-29T13:00:00.000Z",
-      "summary": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far."
-    },
-    {
-      "id": "b368433ce9ce",
-      "title": "Building a certificate authority for the whole Internet",
-      "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-29T13:00:00.000Z",
-      "summary": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open web."
-    },
-    {
-      "id": "fae6e561890f",
-      "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
-      "url": "https://blog.cloudflare.com/ai-era-framework/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-29T13:00:00.000Z",
-      "summary": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop."
-    },
-    {
-      "id": "5035106f9868",
-      "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
-      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-29T13:00:00.000Z",
-      "summary": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance at scale."
-    },
-    {
-      "id": "dba931a465c1",
-      "title": "We tested our own WAF with frontier AI models. Here’s what we found",
-      "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-29T13:00:00.000Z",
-      "summary": "We built a WAF tester that adapted each request based on what the WAF blocked or passed. This helped us explore variations that a fixed test might miss. We ran it across six attack categories on an authorized staging environment and discovered detection gaps worth fixing."
-    },
-    {
-      "id": "67d3a12895a9",
-      "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
-      "url": "https://blog.cloudflare.com/threat-signals/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-29T13:00:00.000Z",
-      "summary": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules."
+      "summary": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 624 # Comments: 518"
     },
     {
       "id": "ff91befc1789",
@@ -272,19 +272,6 @@
       "paragraph": "Cloudflare detailed Turnstile Spin on 25 September 2026, a free tool released in July that has your AI coding agent finish setting up Turnstile, its CAPTCHA replacement. Sites that embed the Turnstile widget but never call the Siteverify API from their backend stay open to bots. From the dashboard or Wrangler CLI, Spin produces a prompt or skill URL that agents such as Claude Code, Cursor or Codex use to add the widget and backend validation after you approve a plan. Widgets with no server-side validation now show a \"Fix with Spin\" banner, and over 65,000 Spin widgets have been created. Turnstile users should confirm their backend validates tokens."
     },
     {
-      "id": "89d99fa23758",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-25T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-M1 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation 2.1.0-M1 is the first milestone of the 2.1 line.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Spring AI 2.1.0-M1 released with ordered message parts and OpenAI Responses API support",
-      "paragraph": "Spring AI 2.1.0-M1, the first milestone of the 2.1 line, was released to Maven Central on 25 September 2026 and builds against Spring Boot 4.2.0-M2. Messages can now hold ordered parts (text, reasoning, tool calls, tool results and media) kept in the order the model provider produced them. A new OpenAiResponsesChatModel supports OpenAI's Responses API, including tool calling combined with a reasoning effort other than none. VectorStore.upsert() stores embeddings computed elsewhere, and new customizer beans tune stateless MCP (Model Context Protocol) servers. Redis vector store auto-configuration accepts custom metadata fields. Milestone APIs may change before GA, so Spring developers building RAG or agent features should try it outside production."
-    },
-    {
       "id": "b987e79c844e",
       "title": "Spring Boot 4.2.0-M2 available now",
       "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
@@ -296,6 +283,19 @@
       "importance": "important",
       "headline": "Spring Boot 4.2.0-M2 adds LDAPS via SSL bundles and OpenTelemetry semantic conventions",
       "paragraph": "Spring Boot 4.2.0-M2 was released to Maven Central on 25 September 2026 with 141 enhancements, documentation improvements, dependency upgrades and bug fixes. LDAP connections can now use SSL bundles, and the embedded LDAP server supports LDAPS (LDAP over TLS). Setting management.observations.conventions to open-telemetry opts in to OpenTelemetry semantic conventions, and a shared management.opentelemetry.otlp prefix configures the common OTLP endpoint, headers and compression. @DefaultValue now accepts property placeholders. It moves to Spring Framework 7.1.0-M2 and Micrometer 1.18.0-M2, and deprecates the buildProperties methods in KafkaProperties in favour of KafkaConfigBuilder. Kafka and observability users should test against it before 4.2 goes GA."
+    },
+    {
+      "id": "89d99fa23758",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-M1 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation 2.1.0-M1 is the first milestone of the 2.1 line.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Spring AI 2.1.0-M1 released with ordered message parts and OpenAI Responses API support",
+      "paragraph": "Spring AI 2.1.0-M1, the first milestone of the 2.1 line, was released to Maven Central on 25 September 2026 and builds against Spring Boot 4.2.0-M2. Messages can now hold ordered parts (text, reasoning, tool calls, tool results and media) kept in the order the model provider produced them. A new OpenAiResponsesChatModel supports OpenAI's Responses API, including tool calling combined with a reasoning effort other than none. VectorStore.upsert() stores embeddings computed elsewhere, and new customizer beans tune stateless MCP (Model Context Protocol) servers. Redis vector store auto-configuration accepts custom metadata fields. Milestone APIs may change before GA, so Spring developers building RAG or agent features should try it outside production."
     },
     {
       "id": "999cfb9cf2dd",
@@ -532,19 +532,6 @@
       "paragraph": "Surveying 1,039 US GitHub users, GitHub and Yale found 80% want tools for energy-efficient code and 74% want impact measurement, yet only 10% think their practices matter much."
     },
     {
-      "id": "900365345474",
-      "title": "Quality Outreach Heads-up - JDK 28: Rich JavaDoc Notes",
-      "url": "https://inside.java/2026/09/23/quality-heads-up/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-23T00:00:00.000Z",
-      "summary": "This Heads-Up is part of the regular communication sent to the projects involved; it covers a new JavaDoc tag `@note` to highlight the presence of additional information in API documentation.",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "JDK 28 proposes a new @note JavaDoc tag for tips and warnings",
-      "paragraph": "A new {@note} JavaDoc tag proposed for JDK 28 (JDK-8363700) highlights tips and warnings inline or as blocks, with optional header, kind and id attributes."
-    },
-    {
       "id": "b39bf31f6b2f",
       "title": "Building the new GitHub Copilot Inline Suggestions Model: Part Two",
       "url": "https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two",
@@ -556,6 +543,19 @@
       "importance": "important",
       "headline": "GitHub Copilot merges completions and next-edit suggestions into one inline model",
       "paragraph": "GitHub and the VS Code team published part two of their write-up on the Copilot inline suggestions model on September 23, 2026. Ghost-text completions, next edit suggestions (NES, predicted edits away from the cursor) and distant edits now come from a single 3-in-1 model instead of separate calls. Online, it cut dismissals by 10.1% against the previous setup with no statistically significant regressions. A key lesson came from the client: ignored ghost text was resurfacing as an NES edit, and toggling that behaviour in an ablation swung the dismissal change from +15.9% to -10.1%. Useful reading for anyone building AI features into editors or other developer tools."
+    },
+    {
+      "id": "900365345474",
+      "title": "Quality Outreach Heads-up - JDK 28: Rich JavaDoc Notes",
+      "url": "https://inside.java/2026/09/23/quality-heads-up/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-23T00:00:00.000Z",
+      "summary": "This Heads-Up is part of the regular communication sent to the projects involved; it covers a new JavaDoc tag `@note` to highlight the presence of additional information in API documentation.",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "JDK 28 proposes a new @note JavaDoc tag for tips and warnings",
+      "paragraph": "A new {@note} JavaDoc tag proposed for JDK 28 (JDK-8363700) highlights tips and warnings inline or as blocks, with optional header, kind and id attributes."
     },
     {
       "id": "12574c6c5a5f",
