@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:19:30.853Z",
+  "generatedAt": "2026-09-30T05:37:47.410Z",
   "items": [
     {
       "id": "006fd27859d9",
@@ -9,6 +9,15 @@
       "category": "Developer Tools",
       "published": "2026-09-30T17:00:00.000Z",
       "summary": "Learn what's new in Visual Studio Code 1.140 (Insiders)"
+    },
+    {
+      "id": "bf2e738d2e1a",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-09-29T22:36:14.000Z",
+      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 414 # Comments: 165"
     },
     {
       "id": "20a277bbad04",
@@ -35,7 +44,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-09-29T17:07:57.000Z",
-      "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 415 # Comments: 321"
+      "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 522 # Comments: 394"
     },
     {
       "id": "f8bd68ff7b9a",
@@ -44,7 +53,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-09-29T17:06:45.000Z",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 689 # Comments: 617"
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 859 # Comments: 781"
     },
     {
       "id": "9be84db4b5c5",
@@ -72,6 +81,15 @@
       "category": "Developer Tools",
       "published": "2026-09-29T15:00:00.000Z",
       "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source."
+    },
+    {
+      "id": "793741c4c0f4",
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-09-29T14:04:57.000Z",
+      "summary": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 482 # Comments: 389"
     },
     {
       "id": "984223f109f3",
@@ -135,24 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-09-29T13:00:00.000Z",
       "summary": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules."
-    },
-    {
-      "id": "f6300592734e",
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-29T12:43:29.000Z",
-      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss Comments URL: https://news.ycombinator.com/item?id=49892245 Points: 401 # Comments: 232"
-    },
-    {
-      "id": "3317c556e900",
-      "title": "Everybody’s home. No one’s coming over",
-      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-29T11:14:45.000Z",
-      "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host Comments URL: https://news.ycombinator.com/item?id=49891295 Points: 686 # Comments: 629"
     },
     {
       "id": "ff91befc1789",
@@ -428,19 +428,6 @@
       "paragraph": "Liquid AI released LFM2.5-VL-3B-DSpark, an open-weight draft model that adds speculative decoding to its 3-billion-parameter vision-language model. Speculative decoding has a small model propose several tokens that the large model then checks in one pass. The drafter adds 280M parameters (8.9% overhead) and reads hidden states from the target model, so it handles image and text inputs alike. Decoding ran 2.30-3.13x faster with MLX on an M5 Max and 2.66-20.4x faster on an H100, with end-to-end gains of 1.56-2.62x and 1.64-2.27x. It does not speed up image encoding or prefill. Weights come in Safetensors and GGUF, supported by llama.cpp, MLX-VLM and SGLang."
     },
     {
-      "id": "b7efb590f404",
-      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-24T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information .",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
-      "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
-    },
-    {
       "id": "ead81158a84d",
       "title": "Spring Batch 6.1.0-M2 is out!",
       "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
@@ -452,6 +439,19 @@
       "importance": "important",
       "headline": "Spring Batch 6.1.0-M2 adds compile-checked builders and moves async writers to core",
       "paragraph": "Spring Batch 6.1.0-M2, the second milestone of 6.1, was released to Maven Central on September 24, 2026. AsyncItemProcessor, AsyncItemWriter and ChunkTaskExecutorItemWriter move from spring-batch-integration into spring-batch-core, dropping unneeded transitive dependencies. FlatFileItemReaderBuilder, FlatFileItemWriterBuilder and JdbcBatchItemWriterBuilder now use a staged DSL that catches invalid configurations at compile time, which breaks code that stores builder return values in builder-typed variables. The MongoDB job repository supports collection prefixes, RepositoryItemWriter can flush, and resource readers accept location patterns such as classpath:data/input/file-*.txt. No GA date was given. Batch developers should test against it now to catch the builder changes early."
+    },
+    {
+      "id": "b7efb590f404",
+      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information .",
+      "reviewed": true,
+      "importance": "minor",
+      "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
+      "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
     },
     {
       "id": "078c955aa93d",
