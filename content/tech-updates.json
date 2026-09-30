@@ -1,158 +1,158 @@
 {
-  "generatedAt": "2026-09-30T12:40:31.189Z",
+  "generatedAt": "2026-09-30T22:19:42.066Z",
   "items": [
     {
+      "id": "6227322faa03",
+      "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T22:10:00.000Z",
+      "summary": "Amazon S3 Tables now offer complete support for the Apache Iceberg V3 spec. Upgrade existing V2 tables or create new V3 tables with built-in compaction, maintenance, and engine compatibility."
+    },
+    {
+      "id": "d12535d4e632",
+      "title": "Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-30T21:03:09.000Z",
+      "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of"
+    },
+    {
+      "id": "4b6b7ec9e4c6",
+      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T20:03:34.000Z",
+      "summary": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so scoped queries return more relevant results. Ideal for RAG, agentic apps, and document search."
+    },
+    {
+      "id": "15e70ee5e4a7",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-09-30T20:01:45.000Z",
+      "summary": ""
+    },
+    {
+      "id": "55c2d2b385db",
+      "title": "September 2026 Security Release",
+      "url": "https://nextjs.org/blog/september-2026-security-release",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-30T18:00:00.000Z",
+      "summary": "The September 2026 security release for Next.js is now available"
+    },
+    {
+      "id": "9f6617c07534",
+      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T17:22:31.000Z",
+      "summary": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required."
+    },
+    {
+      "id": "509ae743487b",
+      "title": "Celebrating Our Newest AWS Heroes – September 2026",
+      "url": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T17:04:05.000Z",
+      "summary": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities."
+    },
+    {
       "id": "006fd27859d9",
-      "title": "Visual Studio Code 1.140 (Insiders)",
+      "title": "Visual Studio Code 1.140",
       "url": "https://code.visualstudio.com/updates/v1_140",
       "source": "VS Code",
       "category": "Developer Tools",
       "published": "2026-09-30T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.140 (Insiders)"
+      "summary": "Learn what's new in Visual Studio Code 1.140"
     },
     {
-      "id": "0f1d71d6fdc7",
-      "title": "Python Language Summit 2026",
-      "url": "https://blog.python.org/2026/09/language-summit-2026/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-30T12:00:11.000Z",
-      "summary": "The 2026 Python Language Summit was hosted in Kraków, Poland as part of EuroPython 2026. There were 15 talks covering free-threading, Rust, garbage collection, type annotations, and more."
-    },
-    {
-      "id": "1a1c34a9e71f",
-      "title": "Lightning Talks (Python Language Summit 2026)",
-      "url": "https://blog.python.org/2026/09/language-summit-2026-lightning-talks/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-30T12:00:10.000Z",
-      "summary": "Lightning talks on a one-time ABI break, safer interruptions, EktuPy (Scratch but Python), an AGENTS.md file for CPython, and a call to read PEP 836."
-    },
-    {
-      "id": "20dd36683270",
-      "title": "PEP 827: Type Manipulation (Python Language Summit 2026)",
-      "url": "https://blog.python.org/2026/09/language-summit-2026-pep-827-type-manipulation/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-30T12:00:09.000Z",
-      "summary": "Michael J. Sullivan presents PEP 827 and discusses a key design decision: how to store type annotations?"
-    },
-    {
-      "id": "5bd235d8a2e2",
-      "title": "Free-Threaded Python Post-Era (Python Language Summit 2026)",
-      "url": "https://blog.python.org/2026/09/language-summit-2026-free-threading-post-era/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-30T12:00:08.000Z",
-      "summary": "Tobias Wrigstad, Fridtjof Stoldt, and Donghee Na propose a safe and performant, high-level concurrency model for free-threaded Python"
-    },
-    {
-      "id": "08f2f60307ae",
-      "title": "Developer-in-Residence Update & Future (Python Language Summit 2026)",
-      "url": "https://blog.python.org/2026/09/language-summit-2026-developer-in-residence-update-and-future/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-30T12:00:07.000Z",
-      "summary": "Petr Viktorin gives an update on the Developer-in-Residence role and asks Python core developers for projects to prioritize"
-    },
-    {
-      "id": "5300bb09b014",
-      "title": "Spicycrab (Python Language Summit 2026)",
-      "url": "https://blog.python.org/2026/09/language-summit-2026-spicycrab/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-30T12:00:06.000Z",
-      "summary": "Kushal Das shows off Spicycrab, a Python-to-Rust transpiler for Python users who need performance without learning Rust or leaving Python"
-    },
-    {
-      "id": "cf3ecea33081",
-      "title": "Faster Post-Quantum Cryptography with JDK Intrinsics",
-      "url": "https://inside.java/2026/09/30/faster-post-quantum-cryptography-with-jdk-intrinsics/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-30T00:00:00.000Z",
-      "summary": "Find out about the improved Curve25519 field performance in JDK 27 and JDK 28."
-    },
-    {
-      "id": "bf2e738d2e1a",
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-29T22:36:14.000Z",
-      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 701 # Comments: 274"
-    },
-    {
-      "id": "20a277bbad04",
-      "title": "Repository custom runner settings for Dependabot",
-      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+      "id": "6caab1facf6a",
+      "title": "GitHub Advanced Security trials for GitHub Team",
+      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "source": "GitHub Changelog",
       "category": "Developer Tools",
-      "published": "2026-09-29T19:10:00.000Z",
-      "summary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already"
+      "published": "2026-09-30T16:48:24.000Z",
+      "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization's Overview page, Billing"
     },
     {
-      "id": "58ff7a58d9c6",
-      "title": "Bring business context with external custom properties",
-      "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-29T18:40:27.000Z",
-      "summary": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)"
-    },
-    {
-      "id": "443642623d57",
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-29T17:07:57.000Z",
-      "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 656 # Comments: 519"
-    },
-    {
-      "id": "f8bd68ff7b9a",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-29T17:06:45.000Z",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 983 # Comments: 859"
-    },
-    {
-      "id": "9be84db4b5c5",
-      "title": "GPT-6.1 Sol in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-29T17:02:27.000Z",
-      "summary": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep"
-    },
-    {
-      "id": "493cf3fce1b8",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "Hugging Face",
+      "id": "0a622a33b8e3",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
       "category": "AI & LLMs",
-      "published": "2026-09-29T15:30:38.000Z",
-      "summary": ""
+      "published": "2026-09-30T15:03:07.000Z",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
     },
     {
-      "id": "dc9499639fbd",
-      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-      "source": "GitHub",
+      "id": "40e72bec9edf",
+      "title": "HydraFusion in VS Code and the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "source": "GitHub Changelog",
       "category": "Developer Tools",
-      "published": "2026-09-29T15:00:00.000Z",
-      "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source."
+      "published": "2026-09-30T14:31:19.000Z",
+      "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being"
     },
     {
-      "id": "793741c4c0f4",
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-09-29T14:04:57.000Z",
-      "summary": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 624 # Comments: 518"
+      "id": "5294bab58d74",
+      "title": "X25519-only TLS ends for GHE.com on October 7",
+      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-09-30T13:30:24.000Z",
+      "summary": "Beginning October 7, 2026, GitHub Enterprise Cloud with data residency will no longer accept TLS connections from clients that offer only X25519 for key agreement. Most customers don't need to"
+    },
+    {
+      "id": "32b86ef10c1b",
+      "title": "Cloudflare Impact reaches $100 million in donations",
+      "url": "https://blog.cloudflare.com/100-million-donations/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T13:01:55.000Z",
+      "summary": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being protected from cyberattacks."
+    },
+    {
+      "id": "ac0f8886ff16",
+      "title": "Cut your AI spend with AI Gateway's Auto Router",
+      "url": "https://blog.cloudflare.com/auto-router/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T13:00:00.000Z",
+      "summary": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut AI spend while maintaining performance."
+    },
+    {
+      "id": "7fbfd064099c",
+      "title": "Detect and send production issues straight to your agent",
+      "url": "https://blog.cloudflare.com/real-time-issue-detection/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T13:00:00.000Z",
+      "summary": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request."
+    },
+    {
+      "id": "a96597048e57",
+      "title": "Simplifying domains for people and agents",
+      "url": "https://blog.cloudflare.com/simplifying-domains/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T13:00:00.000Z",
+      "summary": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains."
+    },
+    {
+      "id": "054701a320cd",
+      "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+      "url": "https://blog.cloudflare.com/monetization-gateway-beta/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-09-30T13:00:00.000Z",
+      "summary": "Cloudflare’s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta."
     },
     {
       "id": "ff91befc1789",
@@ -272,19 +272,6 @@
       "paragraph": "Cloudflare detailed Turnstile Spin on 25 September 2026, a free tool released in July that has your AI coding agent finish setting up Turnstile, its CAPTCHA replacement. Sites that embed the Turnstile widget but never call the Siteverify API from their backend stay open to bots. From the dashboard or Wrangler CLI, Spin produces a prompt or skill URL that agents such as Claude Code, Cursor or Codex use to add the widget and backend validation after you approve a plan. Widgets with no server-side validation now show a \"Fix with Spin\" banner, and over 65,000 Spin widgets have been created. Turnstile users should confirm their backend validates tokens."
     },
     {
-      "id": "b987e79c844e",
-      "title": "Spring Boot 4.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-25T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes .",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Spring Boot 4.2.0-M2 adds LDAPS via SSL bundles and OpenTelemetry semantic conventions",
-      "paragraph": "Spring Boot 4.2.0-M2 was released to Maven Central on 25 September 2026 with 141 enhancements, documentation improvements, dependency upgrades and bug fixes. LDAP connections can now use SSL bundles, and the embedded LDAP server supports LDAPS (LDAP over TLS). Setting management.observations.conventions to open-telemetry opts in to OpenTelemetry semantic conventions, and a shared management.opentelemetry.otlp prefix configures the common OTLP endpoint, headers and compression. @DefaultValue now accepts property placeholders. It moves to Spring Framework 7.1.0-M2 and Micrometer 1.18.0-M2, and deprecates the buildProperties methods in KafkaProperties in favour of KafkaConfigBuilder. Kafka and observability users should test against it before 4.2 goes GA."
-    },
-    {
       "id": "89d99fa23758",
       "title": "Spring AI 2.1.0-M1 Available Now",
       "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
@@ -296,6 +283,19 @@
       "importance": "important",
       "headline": "Spring AI 2.1.0-M1 released with ordered message parts and OpenAI Responses API support",
       "paragraph": "Spring AI 2.1.0-M1, the first milestone of the 2.1 line, was released to Maven Central on 25 September 2026 and builds against Spring Boot 4.2.0-M2. Messages can now hold ordered parts (text, reasoning, tool calls, tool results and media) kept in the order the model provider produced them. A new OpenAiResponsesChatModel supports OpenAI's Responses API, including tool calling combined with a reasoning effort other than none. VectorStore.upsert() stores embeddings computed elsewhere, and new customizer beans tune stateless MCP (Model Context Protocol) servers. Redis vector store auto-configuration accepts custom metadata fields. Milestone APIs may change before GA, so Spring developers building RAG or agent features should try it outside production."
+    },
+    {
+      "id": "b987e79c844e",
+      "title": "Spring Boot 4.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes .",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Spring Boot 4.2.0-M2 adds LDAPS via SSL bundles and OpenTelemetry semantic conventions",
+      "paragraph": "Spring Boot 4.2.0-M2 was released to Maven Central on 25 September 2026 with 141 enhancements, documentation improvements, dependency upgrades and bug fixes. LDAP connections can now use SSL bundles, and the embedded LDAP server supports LDAPS (LDAP over TLS). Setting management.observations.conventions to open-telemetry opts in to OpenTelemetry semantic conventions, and a shared management.opentelemetry.otlp prefix configures the common OTLP endpoint, headers and compression. @DefaultValue now accepts property placeholders. It moves to Spring Framework 7.1.0-M2 and Micrometer 1.18.0-M2, and deprecates the buildProperties methods in KafkaProperties in favour of KafkaConfigBuilder. Kafka and observability users should test against it before 4.2 goes GA."
     },
     {
       "id": "999cfb9cf2dd",
