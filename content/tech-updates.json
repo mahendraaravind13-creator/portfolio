@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-30T22:19:42.066Z",
+  "generatedAt": "2026-10-01T06:01:45.669Z",
   "items": [
+    {
+      "id": "39db869583d6",
+      "title": "Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!",
+      "url": "https://blog.python.org/2026/10/python-31022-31117/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-01T00:00:00.000Z",
+      "summary": "Security updates across Python 3.10–3.14, the final maintenance release of 3.13, and a farewell to Python 3.10."
+    },
     {
       "id": "6227322faa03",
       "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
@@ -8,7 +17,7 @@
       "source": "AWS",
       "category": "Cloud & DevOps",
       "published": "2026-09-30T22:10:00.000Z",
-      "summary": "Amazon S3 Tables now offer complete support for the Apache Iceberg V3 spec. Upgrade existing V2 tables or create new V3 tables with built-in compaction, maintenance, and engine compatibility."
+      "summary": "Amazon S3 Tables now support all data types in the Apache Iceberg V3 spec, along with column default values, deletion vectors, and row lineage. Upgrade existing V2 tables or create new V3 tables with built-in compaction, maintenance, and engine compatibility."
     },
     {
       "id": "d12535d4e632",
@@ -144,15 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-09-30T13:00:00.000Z",
       "summary": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains."
-    },
-    {
-      "id": "054701a320cd",
-      "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
-      "url": "https://blog.cloudflare.com/monetization-gateway-beta/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-30T13:00:00.000Z",
-      "summary": "Cloudflare’s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta."
     },
     {
       "id": "ff91befc1789",
