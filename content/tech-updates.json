@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-01T06:01:45.669Z",
+  "generatedAt": "2026-10-01T13:23:43.064Z",
   "items": [
+    {
+      "id": "aff28bc6a383",
+      "title": "One year later: Sovereign AI and the fight for choice",
+      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-01T13:04:19.000Z",
+      "summary": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice."
+    },
+    {
+      "id": "2124bce066ad",
+      "title": "Introducing Workers KV Instant — powered by Quicksilver",
+      "url": "https://blog.cloudflare.com/workers-kv-instant/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-01T13:00:00.000Z",
+      "summary": "Workers KV Instant delivers sub-2ms p99 read latencies and 250ms global replication across Cloudflare’s 300+ edge locations. KV Instant eliminates cold-read penalties and uses the familiar Workers KV API."
+    },
+    {
+      "id": "8b10a1bc5f67",
+      "title": "Cloudflare OS: your company’s agent workspace, managed for you",
+      "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-01T13:00:00.000Z",
+      "summary": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We’re opening the waitlist for fully managed deployments that you’ll be able to launch in a few clicks."
+    },
+    {
+      "id": "d708478814ba",
+      "title": "Announcing Cloudflare K2: serverless event streams",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-01T13:00:00.000Z",
+      "summary": "Cloudflare K2 is a serverless event streaming service built directly on top of R2 object storage for high-scale data movement and long-term retention. By decoupling producers and consumers at the edge, K2 enables durable, ordered log streams without the operational overhead of traditional broker clusters."
+    },
+    {
+      "id": "7b804092fff7",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-01T13:00:00.000Z",
+      "summary": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes."
+    },
+    {
+      "id": "1309166de204",
+      "title": "AI Search is now generally available",
+      "url": "https://blog.cloudflare.com/ai-search-ga/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-01T13:00:00.000Z",
+      "summary": "AI Search is now generally available. It embeds image pixels directly for visual search, runs optical character recognition on scanned PDFs, accepts files up to 10 MiB, and works with any chat model. Here's what's new and how pricing works."
+    },
+    {
+      "id": "67d8b94fc717",
+      "title": "A Bootiful Podcast: JReleaser creator and fellow Java Champion Andres Almiray",
+      "url": "https://spring.io/blog/2026/10/01/a-bootiful-podcast-andres-almiray",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-01T00:00:00.000Z",
+      "summary": "Hi, Spring fans! What if the JVM could feel as frictionless as the modern dev tools people rave about on other platforms?"
+    },
     {
       "id": "39db869583d6",
       "title": "Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!",
@@ -9,6 +72,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-01T00:00:00.000Z",
       "summary": "Security updates across Python 3.10–3.14, the final maintenance release of 3.13, and a farewell to Python 3.10."
+    },
+    {
+      "id": "d411568ac607",
+      "title": "Agent Helidon: License to Scale",
+      "url": "https://inside.java/2026/10/01/agent-helidon-scale/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-01T00:00:00.000Z",
+      "summary": "While AI agents are rapidly advancing, the performance and scalability of the agents and their underlying services have received too little attention."
     },
     {
       "id": "6227322faa03",
@@ -27,6 +99,15 @@
       "category": "Developer Tools",
       "published": "2026-09-30T21:03:09.000Z",
       "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of"
+    },
+    {
+      "id": "975f57653267",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-09-30T20:04:37.000Z",
+      "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 1476 # Comments: 983"
     },
     {
       "id": "4b6b7ec9e4c6",
@@ -72,87 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-09-30T17:04:05.000Z",
       "summary": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities."
-    },
-    {
-      "id": "006fd27859d9",
-      "title": "Visual Studio Code 1.140",
-      "url": "https://code.visualstudio.com/updates/v1_140",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-09-30T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.140"
-    },
-    {
-      "id": "6caab1facf6a",
-      "title": "GitHub Advanced Security trials for GitHub Team",
-      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-30T16:48:24.000Z",
-      "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization's Overview page, Billing"
-    },
-    {
-      "id": "0a622a33b8e3",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-09-30T15:03:07.000Z",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-    },
-    {
-      "id": "40e72bec9edf",
-      "title": "HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-30T14:31:19.000Z",
-      "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being"
-    },
-    {
-      "id": "5294bab58d74",
-      "title": "X25519-only TLS ends for GHE.com on October 7",
-      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-30T13:30:24.000Z",
-      "summary": "Beginning October 7, 2026, GitHub Enterprise Cloud with data residency will no longer accept TLS connections from clients that offer only X25519 for key agreement. Most customers don't need to"
-    },
-    {
-      "id": "32b86ef10c1b",
-      "title": "Cloudflare Impact reaches $100 million in donations",
-      "url": "https://blog.cloudflare.com/100-million-donations/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-30T13:01:55.000Z",
-      "summary": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being protected from cyberattacks."
-    },
-    {
-      "id": "ac0f8886ff16",
-      "title": "Cut your AI spend with AI Gateway's Auto Router",
-      "url": "https://blog.cloudflare.com/auto-router/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-30T13:00:00.000Z",
-      "summary": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut AI spend while maintaining performance."
-    },
-    {
-      "id": "7fbfd064099c",
-      "title": "Detect and send production issues straight to your agent",
-      "url": "https://blog.cloudflare.com/real-time-issue-detection/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-30T13:00:00.000Z",
-      "summary": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request."
-    },
-    {
-      "id": "a96597048e57",
-      "title": "Simplifying domains for people and agents",
-      "url": "https://blog.cloudflare.com/simplifying-domains/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-30T13:00:00.000Z",
-      "summary": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains."
     },
     {
       "id": "ff91befc1789",
