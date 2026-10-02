@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:44:07.851Z",
+  "generatedAt": "2026-10-02T12:42:11.175Z",
   "items": [
     {
       "id": "a885ed61f54a",
@@ -9,6 +9,24 @@
       "category": "AI & LLMs",
       "published": "2026-10-02T04:01:31.000Z",
       "summary": ""
+    },
+    {
+      "id": "9f5dfd796365",
+      "title": "Spring AI Modular RAG and TypeSafe Jev: Retrieve More, Keep Only What Answers",
+      "url": "https://spring.io/blog/2026/10/02/spring-ai-modular-rag-typesafe-jev",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-02T00:00:00.000Z",
+      "summary": "Spring AI: RAG Doc | Jev Doc | Demo In the previous article we introduced Spring AI TypeSafe and its Jev model: typed questions in, calibrated numbers out, in a few hundred milliseconds. One row in that article's SPI table deserves its own post."
+    },
+    {
+      "id": "930d392bc1f4",
+      "title": "JEP targeted to JDK 28: 540: Simple JSON API (Incubator)",
+      "url": "https://inside.java/2026/10/02/jep549-target-jdk28/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-02T00:00:00.000Z",
+      "summary": "The following JEP is targeted to JDK 28: 540: Simple JSON API (Incubator)"
     },
     {
       "id": "52486f51b3c3",
@@ -137,24 +155,6 @@
       "summary": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice."
     },
     {
-      "id": "2124bce066ad",
-      "title": "Introducing Workers KV Instant — powered by Quicksilver",
-      "url": "https://blog.cloudflare.com/workers-kv-instant/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-01T13:00:00.000Z",
-      "summary": "Workers KV Instant delivers sub-2ms p99 read latencies and 250ms global replication across Cloudflare’s 300+ edge locations. KV Instant eliminates cold-read penalties and uses the familiar Workers KV API."
-    },
-    {
-      "id": "8b10a1bc5f67",
-      "title": "Cloudflare OS: your company’s agent workspace, managed for you",
-      "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-01T13:00:00.000Z",
-      "summary": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We’re opening the waitlist for fully managed deployments that you’ll be able to launch in a few clicks."
-    },
-    {
       "id": "ff91befc1789",
       "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
       "url": "https://inside.java/2026/09/26/jep539-target-jdk28/",
@@ -272,19 +272,6 @@
       "paragraph": "Cloudflare detailed Turnstile Spin on 25 September 2026, a free tool released in July that has your AI coding agent finish setting up Turnstile, its CAPTCHA replacement. Sites that embed the Turnstile widget but never call the Siteverify API from their backend stay open to bots. From the dashboard or Wrangler CLI, Spin produces a prompt or skill URL that agents such as Claude Code, Cursor or Codex use to add the widget and backend validation after you approve a plan. Widgets with no server-side validation now show a \"Fix with Spin\" banner, and over 65,000 Spin widgets have been created. Turnstile users should confirm their backend validates tokens."
     },
     {
-      "id": "89d99fa23758",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-25T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-M1 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation 2.1.0-M1 is the first milestone of the 2.1 line.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Spring AI 2.1.0-M1 released with ordered message parts and OpenAI Responses API support",
-      "paragraph": "Spring AI 2.1.0-M1, the first milestone of the 2.1 line, was released to Maven Central on 25 September 2026 and builds against Spring Boot 4.2.0-M2. Messages can now hold ordered parts (text, reasoning, tool calls, tool results and media) kept in the order the model provider produced them. A new OpenAiResponsesChatModel supports OpenAI's Responses API, including tool calling combined with a reasoning effort other than none. VectorStore.upsert() stores embeddings computed elsewhere, and new customizer beans tune stateless MCP (Model Context Protocol) servers. Redis vector store auto-configuration accepts custom metadata fields. Milestone APIs may change before GA, so Spring developers building RAG or agent features should try it outside production."
-    },
-    {
       "id": "b987e79c844e",
       "title": "Spring Boot 4.2.0-M2 available now",
       "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
@@ -296,6 +283,19 @@
       "importance": "important",
       "headline": "Spring Boot 4.2.0-M2 adds LDAPS via SSL bundles and OpenTelemetry semantic conventions",
       "paragraph": "Spring Boot 4.2.0-M2 was released to Maven Central on 25 September 2026 with 141 enhancements, documentation improvements, dependency upgrades and bug fixes. LDAP connections can now use SSL bundles, and the embedded LDAP server supports LDAPS (LDAP over TLS). Setting management.observations.conventions to open-telemetry opts in to OpenTelemetry semantic conventions, and a shared management.opentelemetry.otlp prefix configures the common OTLP endpoint, headers and compression. @DefaultValue now accepts property placeholders. It moves to Spring Framework 7.1.0-M2 and Micrometer 1.18.0-M2, and deprecates the buildProperties methods in KafkaProperties in favour of KafkaConfigBuilder. Kafka and observability users should test against it before 4.2 goes GA."
+    },
+    {
+      "id": "89d99fa23758",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-M1 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation 2.1.0-M1 is the first milestone of the 2.1 line.",
+      "reviewed": true,
+      "importance": "important",
+      "headline": "Spring AI 2.1.0-M1 released with ordered message parts and OpenAI Responses API support",
+      "paragraph": "Spring AI 2.1.0-M1, the first milestone of the 2.1 line, was released to Maven Central on 25 September 2026 and builds against Spring Boot 4.2.0-M2. Messages can now hold ordered parts (text, reasoning, tool calls, tool results and media) kept in the order the model provider produced them. A new OpenAiResponsesChatModel supports OpenAI's Responses API, including tool calling combined with a reasoning effort other than none. VectorStore.upsert() stores embeddings computed elsewhere, and new customizer beans tune stateless MCP (Model Context Protocol) servers. Redis vector store auto-configuration accepts custom metadata fields. Milestone APIs may change before GA, so Spring developers building RAG or agent features should try it outside production."
     },
     {
       "id": "999cfb9cf2dd",
