@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-01T22:44:23.820Z",
+  "generatedAt": "2026-10-02T05:44:07.851Z",
   "items": [
+    {
+      "id": "a885ed61f54a",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-02T04:01:31.000Z",
+      "summary": ""
+    },
     {
       "id": "52486f51b3c3",
       "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
@@ -29,15 +38,6 @@
       "summary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text"
     },
     {
-      "id": "1d001431f657",
-      "title": "Pi 1.0",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-01T19:33:05.000Z",
-      "summary": "Article URL: https://earendil.com/posts/pi-1-0/ Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 529 # Comments: 184"
-    },
-    {
       "id": "819b8b6c47de",
       "title": "GitHub Copilot can now interact with desktop apps with computer use",
       "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
@@ -45,6 +45,15 @@
       "category": "Developer Tools",
       "published": "2026-10-01T19:11:26.000Z",
       "summary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf"
+    },
+    {
+      "id": "c0216d3311cd",
+      "title": "GitHub Actions: macOS 14 runner image retirement",
+      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-01T19:11:23.000Z",
+      "summary": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled"
     },
     {
       "id": "b33dfcad9023",
@@ -72,15 +81,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-01T18:26:12.000Z",
       "summary": "At WeAreDevelopers, Docker introduced Cloud Sandboxes, the open Sandbox Kit specification, and a commitment to bring Kits to the CNCF for neutral governance."
-    },
-    {
-      "id": "11541a89b22f",
-      "title": "Actions retention now covers checks, runs, and statuses",
-      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-01T17:59:54.000Z",
-      "summary": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are"
     },
     {
       "id": "7e67b43cf9d0",
