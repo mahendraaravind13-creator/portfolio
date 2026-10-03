@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-03T05:22:55.751Z",
+  "generatedAt": "2026-10-03T16:22:54.616Z",
   "items": [
+    {
+      "id": "101e89adb123",
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-03T03:19:10.000Z",
+      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 402 # Comments: 89"
+    },
     {
       "id": "33bc6bdb49c8",
       "title": "Stateless GitHub App installation tokens rolled out",
@@ -18,6 +27,15 @@
       "category": "Developer Tools",
       "published": "2026-10-02T19:13:50.000Z",
       "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default"
+    },
+    {
+      "id": "e8d957fb2b0c",
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-02T19:06:56.000Z",
+      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 502 # Comments: 302"
     },
     {
       "id": "d3c3f6996fb2",
@@ -135,24 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-02T13:00:00.000Z",
       "summary": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next."
-    },
-    {
-      "id": "ddac069f8d06",
-      "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-02T13:00:00.000Z",
-      "summary": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products."
-    },
-    {
-      "id": "a885ed61f54a",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-02T04:01:31.000Z",
-      "summary": ""
     },
     {
       "id": "ff91befc1789",
