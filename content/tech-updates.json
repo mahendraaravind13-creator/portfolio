@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-02T22:17:40.838Z",
+  "generatedAt": "2026-10-03T05:22:55.751Z",
   "items": [
+    {
+      "id": "33bc6bdb49c8",
+      "title": "Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-02T22:18:23.000Z",
+      "summary": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be"
+    },
     {
       "id": "c50f0986cd4e",
       "title": "Copilot code review: API support and new default effort level",
@@ -144,15 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-02T04:01:31.000Z",
       "summary": ""
-    },
-    {
-      "id": "a97398f76ee5",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-02T00:00:00.000Z",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
     },
     {
       "id": "ff91befc1789",
