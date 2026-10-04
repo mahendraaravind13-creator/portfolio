@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T05:59:00.249Z",
+  "generatedAt": "2026-10-04T12:26:40.224Z",
   "items": [
     {
       "id": "89764eae0099",
@@ -9,15 +9,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-03T22:56:48.000Z",
       "summary": ""
-    },
-    {
-      "id": "40c51d505599",
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-03T09:36:04.000Z",
-      "summary": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf additional paper: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 562 # Comments: 311"
     },
     {
       "id": "33bc6bdb49c8",
@@ -153,6 +144,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-02T13:00:00.000Z",
       "summary": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next."
+    },
+    {
+      "id": "ddac069f8d06",
+      "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-02T13:00:00.000Z",
+      "summary": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products."
     },
     {
       "id": "ff91befc1789",
