@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:26:40.224Z",
+  "generatedAt": "2026-10-04T21:32:06.334Z",
   "items": [
     {
       "id": "89764eae0099",
@@ -36,6 +36,15 @@
       "category": "Developer Tools",
       "published": "2026-10-02T18:24:19.000Z",
       "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model"
+    },
+    {
+      "id": "423bae1fbafd",
+      "title": "8 major updates to Cloudflare Observability",
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-02T18:00:00.000Z",
+      "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing."
     },
     {
       "id": "8e206c4d9ed6",
@@ -117,15 +126,6 @@
       "category": "Developer Tools",
       "published": "2026-10-02T13:15:25.000Z",
       "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory"
-    },
-    {
-      "id": "423bae1fbafd",
-      "title": "8 major updates to Cloudflare Observability",
-      "url": "https://blog.cloudflare.com/one-observability-platform/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-02T13:00:00.000Z",
-      "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing."
     },
     {
       "id": "9c3a3363878d",
