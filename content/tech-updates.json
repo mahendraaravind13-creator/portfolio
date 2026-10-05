@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-04T21:32:06.334Z",
+  "generatedAt": "2026-10-05T14:47:38.608Z",
   "items": [
+    {
+      "id": "0536bfa8ec72",
+      "title": "Everything we launched during Birthday Week 2026",
+      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-05T13:00:00.000Z",
+      "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped."
+    },
+    {
+      "id": "523bb8b1058a",
+      "title": "One year later: the power of 1.1.1.1 interns",
+      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-05T13:00:00.000Z",
+      "summary": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies human potential instead of replacing it."
+    },
+    {
+      "id": "3cbec84de8bf",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-05T10:00:00.000Z",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+    },
+    {
+      "id": "23e2f3ceb511",
+      "title": "Making Arena.ofConfined() Even Cheaper in JDK 28",
+      "url": "https://inside.java/2026/10/05/confined-pools/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-05T00:00:00.000Z",
+      "summary": "Pooled confined arenas provide a significant performance improvement for short-lived native allocations."
+    },
+    {
+      "id": "fb514e83ae1c",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-04T19:42:25.000Z",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 682 # Comments: 455"
+    },
+    {
+      "id": "1954cb720f75",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-04T19:37:05.000Z",
+      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 470 # Comments: 608"
+    },
+    {
+      "id": "bca476fd3463",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-04T12:51:53.000Z",
+      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 862 # Comments: 386"
+    },
     {
       "id": "89764eae0099",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
@@ -90,69 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-02T15:00:00.000Z",
       "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow."
-    },
-    {
-      "id": "dcd0ac266d98",
-      "title": "Introducing Web Search API via AI Gateway",
-      "url": "https://blog.cloudflare.com/introducing-web-search-api/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-02T13:28:10.000Z",
-      "summary": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings."
-    },
-    {
-      "id": "6389d30d2002",
-      "title": "New fields for SecurityAdvisory GraphQL API",
-      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-02T13:18:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "04cee568ccaf",
-      "title": "Confidential comments on repository security advisories",
-      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-02T13:15:40.000Z",
-      "summary": "You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with"
-    },
-    {
-      "id": "15293fa08b51",
-      "title": "Repository security advisory comments API in public preview",
-      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-02T13:15:25.000Z",
-      "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory"
-    },
-    {
-      "id": "9c3a3363878d",
-      "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
-      "url": "https://blog.cloudflare.com/cloudflare-tracing/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-02T13:00:00.000Z",
-      "summary": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack."
-    },
-    {
-      "id": "a7fc3ad49fd2",
-      "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
-      "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-02T13:00:00.000Z",
-      "summary": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next."
-    },
-    {
-      "id": "ddac069f8d06",
-      "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-02T13:00:00.000Z",
-      "summary": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products."
     },
     {
       "id": "ff91befc1789",
