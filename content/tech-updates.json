@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-05T14:47:38.608Z",
+  "generatedAt": "2026-10-06T00:06:19.228Z",
   "items": [
+    {
+      "id": "33658ec816ee",
+      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-05T22:42:14.000Z",
+      "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one"
+    },
+    {
+      "id": "5af07d1ea056",
+      "title": "Scaling Kubernetes Workloads with Node Swap",
+      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-05T18:00:00.000Z",
+      "summary": "Memory is often the first hard limit a Kubernetes cluster hits. Nodes run out of RAM long before they run out of CPU, and the new wave of agentic AI workloads makes this worse. These workloads demand large memory footprints to start up and run untrusted code, then sit idle waiting for the next prompt."
+    },
+    {
+      "id": "4b0c57f28723",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-05T15:59:40.000Z",
+      "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics."
+    },
+    {
+      "id": "672f2c5fd2cd",
+      "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-05T15:41:19.000Z",
+      "summary": "Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI, built on a customized version of OpenAI’s Agents API engineered to be AWS-native and integrated with AWS resources."
+    },
+    {
+      "id": "78ad53815846",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-05T15:00:00.000Z",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+    },
     {
       "id": "0536bfa8ec72",
       "title": "Everything we launched during Birthday Week 2026",
@@ -29,6 +74,15 @@
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
     },
     {
+      "id": "65ce981afbd1",
+      "title": "Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long",
+      "url": "https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-05T00:00:00.000Z",
+      "summary": "Join Dan Vega and DaShaun Carter for the latest updates from the Spring Ecosystem. In this episode, Dan and DaShaun are joined by the legendary Josh Long. In this episode, we will look into the future of software development. We will also address at least one hot take that recently made the rounds."
+    },
+    {
       "id": "23e2f3ceb511",
       "title": "Making Arena.ofConfined() Even Cheaper in JDK 28",
       "url": "https://inside.java/2026/10/05/confined-pools/",
@@ -36,33 +90,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-05T00:00:00.000Z",
       "summary": "Pooled confined arenas provide a significant performance improvement for short-lived native allocations."
-    },
-    {
-      "id": "fb514e83ae1c",
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-04T19:42:25.000Z",
-      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 682 # Comments: 455"
-    },
-    {
-      "id": "1954cb720f75",
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-04T19:37:05.000Z",
-      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 470 # Comments: 608"
-    },
-    {
-      "id": "bca476fd3463",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-04T12:51:53.000Z",
-      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 862 # Comments: 386"
     },
     {
       "id": "89764eae0099",
@@ -92,6 +119,24 @@
       "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default"
     },
     {
+      "id": "4a76c0c80bf1",
+      "title": "Unvalidated npm trusted publishing configurations now expire",
+      "url": "https://github.blog/changelog/2026-10-02-unvalidated-npm-trusted-publishing-configurations-now-expire",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-02T19:07:04.000Z",
+      "summary": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes"
+    },
+    {
+      "id": "5ef20db1b8a4",
+      "title": "npm staged publishing now supports creating new packages",
+      "url": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-02T19:05:17.000Z",
+      "summary": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages"
+    },
+    {
       "id": "d3c3f6996fb2",
       "title": "Selected models in GitHub Copilot deprecated",
       "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
@@ -108,51 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-02T18:00:00.000Z",
       "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing."
-    },
-    {
-      "id": "8e206c4d9ed6",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-02T16:15:00.000Z",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-    },
-    {
-      "id": "2464ff1b5fbe",
-      "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-      "url": "https://blog.cloudflare.com/streamline/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-02T16:13:45.000Z",
-      "summary": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine."
-    },
-    {
-      "id": "d599f0a282be",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-02T15:19:50.000Z",
-      "summary": ""
-    },
-    {
-      "id": "1122627a66df",
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-10-02T15:00:00.000Z",
-      "summary": "Here are Google’s latest AI updates from September 2026"
-    },
-    {
-      "id": "5afa66c19841",
-      "title": "AI is changing developer work. Here are three skills to strengthen.",
-      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-02T15:00:00.000Z",
-      "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow."
     },
     {
       "id": "ff91befc1789",
