@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-10-06T00:06:19.228Z",
+  "generatedAt": "2026-10-06T18:25:49.855Z",
   "items": [
+    {
+      "id": "29d9dbc3124b",
+      "title": "Visual Studio Code 1.141 (Insiders)",
+      "url": "https://code.visualstudio.com/updates/v1_141",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-10-07T17:00:00.000Z",
+      "summary": "Learn what is new in Visual Studio Code 1.141 (Insiders)."
+    },
+    {
+      "id": "1424f8a74fdc",
+      "title": "The keys to the Internet change on October 11. Are you ready?",
+      "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-06T17:50:11.000Z",
+      "summary": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover."
+    },
+    {
+      "id": "35aaf76f643b",
+      "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
+      "url": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-06T16:09:36.000Z",
+      "summary": "Amazon Prime Day 2026 was exclusively for Prime members and ran June 23–26, 2026 with millions of deals across more than 35 categories. As part of our annual tradition of sharing how AWS powered Prime Day (2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024, and 2025), I want to share the services and chart-topping metrics"
+    },
+    {
+      "id": "60ef2af305e7",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-06T16:00:00.000Z",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+    },
+    {
+      "id": "eb3084bd9723",
+      "title": "Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-06T10:23:38.000Z",
+      "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository"
+    },
+    {
+      "id": "9964af802e9c",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-06T10:00:00.000Z",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+    },
+    {
+      "id": "085f7195b66f",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-06T06:44:39.000Z",
+      "summary": ""
+    },
+    {
+      "id": "dfa6cd118ba4",
+      "title": "This Week in Spring - October 6th, 2026",
+      "url": "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-06T00:00:00.000Z",
+      "summary": "Hi, Spring fans! It's another exciting week in the wonderful community, and this week I'm writing from awesome Antwerp, Belgium, site of the legendary Devoxx Belgium show."
+    },
+    {
+      "id": "32c6feafcd76",
+      "title": "JEP targeted to JDK 28: 542: PEM Encodings of Cryptographic Objects",
+      "url": "https://inside.java/2026/10/06/jep542-target-jdk28/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-06T00:00:00.000Z",
+      "summary": "The following JEP is targeted to JDK 28: 542: PEM Encodings of Cryptographic Objects"
+    },
     {
       "id": "33658ec816ee",
       "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
@@ -72,87 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-05T10:00:00.000Z",
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
-    },
-    {
-      "id": "65ce981afbd1",
-      "title": "Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long",
-      "url": "https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-05T00:00:00.000Z",
-      "summary": "Join Dan Vega and DaShaun Carter for the latest updates from the Spring Ecosystem. In this episode, Dan and DaShaun are joined by the legendary Josh Long. In this episode, we will look into the future of software development. We will also address at least one hot take that recently made the rounds."
-    },
-    {
-      "id": "23e2f3ceb511",
-      "title": "Making Arena.ofConfined() Even Cheaper in JDK 28",
-      "url": "https://inside.java/2026/10/05/confined-pools/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-05T00:00:00.000Z",
-      "summary": "Pooled confined arenas provide a significant performance improvement for short-lived native allocations."
-    },
-    {
-      "id": "89764eae0099",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-03T22:56:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "33bc6bdb49c8",
-      "title": "Stateless GitHub App installation tokens rolled out",
-      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-02T22:18:23.000Z",
-      "summary": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be"
-    },
-    {
-      "id": "c50f0986cd4e",
-      "title": "Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-02T19:13:50.000Z",
-      "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default"
-    },
-    {
-      "id": "4a76c0c80bf1",
-      "title": "Unvalidated npm trusted publishing configurations now expire",
-      "url": "https://github.blog/changelog/2026-10-02-unvalidated-npm-trusted-publishing-configurations-now-expire",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-02T19:07:04.000Z",
-      "summary": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes"
-    },
-    {
-      "id": "5ef20db1b8a4",
-      "title": "npm staged publishing now supports creating new packages",
-      "url": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-02T19:05:17.000Z",
-      "summary": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages"
-    },
-    {
-      "id": "d3c3f6996fb2",
-      "title": "Selected models in GitHub Copilot deprecated",
-      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-02T18:24:19.000Z",
-      "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model"
-    },
-    {
-      "id": "423bae1fbafd",
-      "title": "8 major updates to Cloudflare Observability",
-      "url": "https://blog.cloudflare.com/one-observability-platform/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-02T18:00:00.000Z",
-      "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing."
     },
     {
       "id": "ff91befc1789",
