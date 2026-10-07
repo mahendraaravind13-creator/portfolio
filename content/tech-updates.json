@@ -1,14 +1,41 @@
 {
-  "generatedAt": "2026-10-07T06:05:45.390Z",
+  "generatedAt": "2026-10-07T13:30:18.165Z",
   "items": [
     {
       "id": "29d9dbc3124b",
-      "title": "Visual Studio Code 1.141 (Insiders)",
+      "title": "Visual Studio Code 1.141",
       "url": "https://code.visualstudio.com/updates/v1_141",
       "source": "VS Code",
       "category": "Developer Tools",
       "published": "2026-10-07T17:00:00.000Z",
-      "summary": "Learn what is new in Visual Studio Code 1.141 (Insiders)."
+      "summary": "Learn what's new in Visual Studio Code 1.141"
+    },
+    {
+      "id": "91ed3eb235f3",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-07T13:21:03.000Z",
+      "summary": ""
+    },
+    {
+      "id": "5bdd694c6290",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-07T12:45:31.000Z",
+      "summary": ""
+    },
+    {
+      "id": "22643d6fcb19",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-10-07T12:00:00.000Z",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
     },
     {
       "id": "bb30d565ebf0",
@@ -26,7 +53,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-06T22:17:21.000Z",
-      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 708 # Comments: 642"
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1033 # Comments: 1028"
     },
     {
       "id": "caa9437859ae",
@@ -107,7 +134,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-06T13:15:49.000Z",
-      "summary": "https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 1682 # Comments: 1003"
+      "summary": "https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 1900 # Comments: 1142"
     },
     {
       "id": "342677ae7ead",
@@ -126,33 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-06T10:23:38.000Z",
       "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository"
-    },
-    {
-      "id": "9964af802e9c",
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-06T10:00:00.000Z",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
-    },
-    {
-      "id": "dfa6cd118ba4",
-      "title": "This Week in Spring - October 6th, 2026",
-      "url": "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-06T00:00:00.000Z",
-      "summary": "Hi, Spring fans! It's another exciting week in the wonderful community, and this week I'm writing from awesome Antwerp, Belgium, site of the legendary Devoxx Belgium show."
-    },
-    {
-      "id": "32c6feafcd76",
-      "title": "JEP targeted to JDK 28: 542: PEM Encodings of Cryptographic Objects",
-      "url": "https://inside.java/2026/10/06/jep542-target-jdk28/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-06T00:00:00.000Z",
-      "summary": "The following JEP is targeted to JDK 28: 542: PEM Encodings of Cryptographic Objects"
     },
     {
       "id": "ff91befc1789",
