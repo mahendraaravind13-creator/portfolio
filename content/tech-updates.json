@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T18:25:49.855Z",
+  "generatedAt": "2026-10-07T06:05:45.390Z",
   "items": [
     {
       "id": "29d9dbc3124b",
@@ -9,6 +9,69 @@
       "category": "Developer Tools",
       "published": "2026-10-07T17:00:00.000Z",
       "summary": "Learn what is new in Visual Studio Code 1.141 (Insiders)."
+    },
+    {
+      "id": "bb30d565ebf0",
+      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-06T23:43:00.000Z",
+      "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we've found the cause, and a fix is rolling out"
+    },
+    {
+      "id": "6e2c593ea404",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-06T22:17:21.000Z",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 708 # Comments: 642"
+    },
+    {
+      "id": "caa9437859ae",
+      "title": "Building Git infrastructure for agent-scale development",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-06T20:57:56.000Z",
+      "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development."
+    },
+    {
+      "id": "9e014a3c4af1",
+      "title": "Stacked pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-06T20:16:41.000Z",
+      "summary": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public"
+    },
+    {
+      "id": "8000d52fbb3a",
+      "title": "Next.js 16.4",
+      "url": "https://nextjs.org/blog/next-16-4",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-06T20:00:00.000Z",
+      "summary": "Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling."
+    },
+    {
+      "id": "4dd290070848",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-06T19:57:04.000Z",
+      "summary": ""
+    },
+    {
+      "id": "fc4272a4d245",
+      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-06T18:00:00.000Z",
+      "summary": "In Linux, cgroups (control groups) are a kernel feature used for managing system resources. Kubernetes uses cgroups to allocate resources like CPU and memory to containers, ensuring that applications run smoothly without interfering with each other."
     },
     {
       "id": "1424f8a74fdc",
@@ -38,6 +101,24 @@
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
     },
     {
+      "id": "65b10d5e370b",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-06T13:15:49.000Z",
+      "summary": "https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 1682 # Comments: 1003"
+    },
+    {
+      "id": "342677ae7ead",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-06T12:00:00.000Z",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+    },
+    {
       "id": "eb3084bd9723",
       "title": "Code scanning AI Scan enablement status in security overview",
       "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
@@ -56,15 +137,6 @@
       "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
     },
     {
-      "id": "085f7195b66f",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-06T06:44:39.000Z",
-      "summary": ""
-    },
-    {
       "id": "dfa6cd118ba4",
       "title": "This Week in Spring - October 6th, 2026",
       "url": "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
@@ -81,78 +153,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-06T00:00:00.000Z",
       "summary": "The following JEP is targeted to JDK 28: 542: PEM Encodings of Cryptographic Objects"
-    },
-    {
-      "id": "33658ec816ee",
-      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-05T22:42:14.000Z",
-      "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one"
-    },
-    {
-      "id": "5af07d1ea056",
-      "title": "Scaling Kubernetes Workloads with Node Swap",
-      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
-      "source": "Kubernetes",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-05T18:00:00.000Z",
-      "summary": "Memory is often the first hard limit a Kubernetes cluster hits. Nodes run out of RAM long before they run out of CPU, and the new wave of agentic AI workloads makes this worse. These workloads demand large memory footprints to start up and run untrusted code, then sit idle waiting for the next prompt."
-    },
-    {
-      "id": "4b0c57f28723",
-      "title": "ReviewBench: An open benchmark for AI code review",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-05T15:59:40.000Z",
-      "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics."
-    },
-    {
-      "id": "672f2c5fd2cd",
-      "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-05T15:41:19.000Z",
-      "summary": "Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI, built on a customized version of OpenAI’s Agents API engineered to be AWS-native and integrated with AWS resources."
-    },
-    {
-      "id": "78ad53815846",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-05T15:00:00.000Z",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
-    },
-    {
-      "id": "0536bfa8ec72",
-      "title": "Everything we launched during Birthday Week 2026",
-      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-05T13:00:00.000Z",
-      "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped."
-    },
-    {
-      "id": "523bb8b1058a",
-      "title": "One year later: the power of 1.1.1.1 interns",
-      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-05T13:00:00.000Z",
-      "summary": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies human potential instead of replacing it."
-    },
-    {
-      "id": "3cbec84de8bf",
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-05T10:00:00.000Z",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
     },
     {
       "id": "ff91befc1789",
