@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-08T06:11:11.029Z",
+  "generatedAt": "2026-10-08T13:36:25.996Z",
   "items": [
+    {
+      "id": "5ce64f517fc4",
+      "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+      "url": "https://blog.cloudflare.com/radar-redesign/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-08T13:00:00.000Z",
+      "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth."
+    },
     {
       "id": "86f546df6fb1",
       "title": "Claude Haiku 5.5 in GitHub Copilot",
@@ -144,15 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-06T20:16:41.000Z",
       "summary": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public"
-    },
-    {
-      "id": "8000d52fbb3a",
-      "title": "Next.js 16.4",
-      "url": "https://nextjs.org/blog/next-16-4",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-06T20:00:00.000Z",
-      "summary": "Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling."
     },
     {
       "id": "ff91befc1789",
