@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-08T13:36:25.996Z",
+  "generatedAt": "2026-10-08T23:24:02.032Z",
   "items": [
+    {
+      "id": "d821a136c16a",
+      "title": "Triage role users or higher can now archive pull requests",
+      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-08T19:01:42.000Z",
+      "summary": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine"
+    },
+    {
+      "id": "ef0a63b9266e",
+      "title": "Upcoming Next.js Security Update for Upstream Vulnerabilities",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-08T18:00:00.000Z",
+      "summary": "Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies."
+    },
+    {
+      "id": "e98e25a5c1b7",
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-08T17:02:52.000Z",
+      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub."
+    },
+    {
+      "id": "f9a7f01f513e",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-08T16:59:39.000Z",
+      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 447 # Comments: 105"
+    },
+    {
+      "id": "71ebc92c009c",
+      "title": "Screen readers can navigate timelines as lists",
+      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-08T16:00:56.000Z",
+      "summary": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,"
+    },
+    {
+      "id": "112b5f00879d",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-08T16:00:00.000Z",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+    },
+    {
+      "id": "db7ddb6b79e6",
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-08T15:15:00.000Z",
+      "summary": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea Comments URL: https://news.ycombinator.com/item?id=50006832 Points: 788 # Comments: 1364"
+    },
+    {
+      "id": "351ffe6737f3",
+      "title": "Draft pull requests count toward pull request limits",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-08T14:25:53.000Z",
+      "summary": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,"
+    },
     {
       "id": "5ce64f517fc4",
       "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
@@ -9,6 +81,42 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-08T13:00:00.000Z",
       "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth."
+    },
+    {
+      "id": "ca1ec6c6a1a1",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-08T12:00:00.000Z",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
+      "id": "077dea1e8a7a",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-08T00:00:00.000Z",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+    },
+    {
+      "id": "0f05fd4155a4",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-08T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "67c9d0339d5e",
+      "title": "A Bootiful Podcast: legendary Java developer Kohsuke Kawaguchi",
+      "url": "https://spring.io/blog/2026/10/08/a-bootiful-podcast-kohsuke-kawaguchi",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-08T00:00:00.000Z",
+      "summary": "Hi, Spring fans! In this episode, we catch up with one of the most influential engineers in modern Java history - Kohsuke Kawaguchi - for a wide-ranging conversation that’s equal parts tech retrospective, career reflection, and future-gazing."
     },
     {
       "id": "86f546df6fb1",
@@ -45,114 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-07T16:54:33.000Z",
       "summary": ""
-    },
-    {
-      "id": "efc47ac2f82e",
-      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-      "url": "https://blog.cloudflare.com/agentic-security-operations/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-07T16:30:36.000Z",
-      "summary": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded recommendations to Managed Defense Analysts."
-    },
-    {
-      "id": "5260e9d19f4f",
-      "title": "Purpose-built model for leaked secret detection",
-      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-07T16:13:56.000Z",
-      "summary": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we're bringing context-aware"
-    },
-    {
-      "id": "87f43b6934de",
-      "title": "Local sandboxing for GitHub Copilot now generally available",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-07T15:46:17.000Z",
-      "summary": "Local sandboxing for GitHub Copilot is now generally available in GitHub Copilot CLI, the GitHub Copilot app, and VS Code sessions using Agent Host. Local sandboxes give developers a secure"
-    },
-    {
-      "id": "cfd130b4e19f",
-      "title": "Discover local models in GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-07T15:46:13.000Z",
-      "summary": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running"
-    },
-    {
-      "id": "5bdd694c6290",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-07T12:45:31.000Z",
-      "summary": ""
-    },
-    {
-      "id": "ad4e14640e35",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-07T12:00:00.000Z",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
-    },
-    {
-      "id": "22643d6fcb19",
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-10-07T12:00:00.000Z",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
-    },
-    {
-      "id": "04e9dc3828b5",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-07T07:00:00.000Z",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
-    },
-    {
-      "id": "0ca1450969b5",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-07T00:00:00.000Z",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
-    },
-    {
-      "id": "bb30d565ebf0",
-      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-06T23:43:00.000Z",
-      "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we've found the cause, and a fix is rolling out"
-    },
-    {
-      "id": "caa9437859ae",
-      "title": "Building Git infrastructure for agent-scale development",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-06T20:57:56.000Z",
-      "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development."
-    },
-    {
-      "id": "9e014a3c4af1",
-      "title": "Stacked pull requests generally available",
-      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-06T20:16:41.000Z",
-      "summary": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public"
     },
     {
       "id": "ff91befc1789",
