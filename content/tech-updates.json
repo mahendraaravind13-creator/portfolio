@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-09T13:26:02.850Z",
+  "generatedAt": "2026-10-09T22:42:03.643Z",
   "items": [
+    {
+      "id": "4ee9692cf026",
+      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-09T21:32:54.000Z",
+      "summary": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find"
+    },
+    {
+      "id": "6229f18e6ef4",
+      "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+      "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-09T18:27:34.000Z",
+      "summary": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x."
+    },
+    {
+      "id": "8608b90d585c",
+      "title": "Hack the World: Why hackathons are still the best place to learn to build",
+      "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-09T16:00:00.000Z",
+      "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning."
+    },
+    {
+      "id": "43ef54e74d27",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-09T15:20:29.000Z",
+      "summary": ""
+    },
     {
       "id": "80903cd274fc",
       "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
@@ -29,6 +65,33 @@
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
     },
     {
+      "id": "90995f7dbc9c",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-09T07:00:00.000Z",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+    },
+    {
+      "id": "d3194a2e84b0",
+      "title": "Python 3.15.0 (final) is here!",
+      "url": "https://blog.python.org/2026/10/python-3150-final-is-here/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-09T00:00:00.000Z",
+      "summary": "A brand new Python here for you to enjoy!"
+    },
+    {
+      "id": "8eab0c9a25ba",
+      "title": "Copilot code review: New organization billing options and controls",
+      "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-08T19:43:05.000Z",
+      "summary": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization's"
+    },
+    {
       "id": "d821a136c16a",
       "title": "Triage role users or higher can now archive pull requests",
       "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
@@ -47,15 +110,6 @@
       "summary": "Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies."
     },
     {
-      "id": "f60f4e33788d",
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-08T17:51:49.000Z",
-      "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 485 # Comments: 173"
-    },
-    {
       "id": "e98e25a5c1b7",
       "title": "How one bug bounty researcher chooses the features they investigate",
       "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
@@ -63,15 +117,6 @@
       "category": "Developer Tools",
       "published": "2026-10-08T17:02:52.000Z",
       "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub."
-    },
-    {
-      "id": "f9a7f01f513e",
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-08T16:59:39.000Z",
-      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 819 # Comments: 165"
     },
     {
       "id": "71ebc92c009c",
@@ -108,51 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-08T13:00:00.000Z",
       "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth."
-    },
-    {
-      "id": "ca1ec6c6a1a1",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-08T12:00:00.000Z",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-    },
-    {
-      "id": "f6d3626eb7c8",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-08T12:00:00.000Z",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
-    },
-    {
-      "id": "e1ae4c3e58dd",
-      "title": "Yes, and",
-      "url": "https://htmx.org/essays/yes-and/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-08T09:48:18.000Z",
-      "summary": "Article URL: https://htmx.org/essays/yes-and/ Comments URL: https://news.ycombinator.com/item?id=50003796 Points: 537 # Comments: 190"
-    },
-    {
-      "id": "4fdece8a748a",
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-08T00:14:48.000Z",
-      "summary": "Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ Comments URL: https://news.ycombinator.com/item?id=50000488 Points: 871 # Comments: 785"
-    },
-    {
-      "id": "077dea1e8a7a",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-08T00:00:00.000Z",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
     },
     {
       "id": "ff91befc1789",
