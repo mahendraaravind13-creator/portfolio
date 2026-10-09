@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:24:02.032Z",
+  "generatedAt": "2026-10-09T06:14:35.558Z",
   "items": [
     {
       "id": "d821a136c16a",
@@ -29,15 +29,6 @@
       "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub."
     },
     {
-      "id": "f9a7f01f513e",
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-08T16:59:39.000Z",
-      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 447 # Comments: 105"
-    },
-    {
       "id": "71ebc92c009c",
       "title": "Screen readers can navigate timelines as lists",
       "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
@@ -54,15 +45,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-08T16:00:00.000Z",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-    },
-    {
-      "id": "db7ddb6b79e6",
-      "title": "Trump administration is suspending Microsoft from a green card program",
-      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-08T15:15:00.000Z",
-      "summary": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea Comments URL: https://news.ycombinator.com/item?id=50006832 Points: 788 # Comments: 1364"
     },
     {
       "id": "351ffe6737f3",
@@ -90,6 +72,15 @@
       "category": "AI & LLMs",
       "published": "2026-10-08T12:00:00.000Z",
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
+      "id": "f6d3626eb7c8",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-08T12:00:00.000Z",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
     },
     {
       "id": "077dea1e8a7a",
@@ -153,6 +144,15 @@
       "category": "AI & LLMs",
       "published": "2026-10-07T16:54:33.000Z",
       "summary": ""
+    },
+    {
+      "id": "efc47ac2f82e",
+      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+      "url": "https://blog.cloudflare.com/agentic-security-operations/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-07T16:30:36.000Z",
+      "summary": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded recommendations to Managed Defense Analysts."
     },
     {
       "id": "ff91befc1789",
