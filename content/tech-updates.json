@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-10T05:57:44.048Z",
+  "generatedAt": "2026-10-10T12:37:45.947Z",
   "items": [
+    {
+      "id": "8b699584fcc9",
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-10T00:37:07.000Z",
+      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 485 # Comments: 201"
+    },
     {
       "id": "8e5ec2908b04",
       "title": "GitHub Copilot weekly releases — October 5",
@@ -18,6 +27,15 @@
       "category": "Developer Tools",
       "published": "2026-10-09T21:32:54.000Z",
       "summary": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find"
+    },
+    {
+      "id": "4e55dc1f06ea",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-09T21:06:59.000Z",
+      "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 603 # Comments: 330"
     },
     {
       "id": "6229f18e6ef4",
@@ -38,6 +56,15 @@
       "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning."
     },
     {
+      "id": "6b2cafd968c1",
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-09T15:51:05.000Z",
+      "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 1065 # Comments: 207"
+    },
+    {
       "id": "43ef54e74d27",
       "title": "Impactful scheduling for GPU clusters",
       "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
@@ -45,6 +72,24 @@
       "category": "AI & LLMs",
       "published": "2026-10-09T15:20:29.000Z",
       "summary": ""
+    },
+    {
+      "id": "7dd1698bc3e8",
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-09T13:12:47.000Z",
+      "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 668 # Comments: 301"
+    },
+    {
+      "id": "11660db67830",
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-09T13:03:48.000Z",
+      "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 1266 # Comments: 640"
     },
     {
       "id": "80903cd274fc",
@@ -63,6 +108,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-09T12:50:00.000Z",
       "summary": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places."
+    },
+    {
+      "id": "59dd996c0e85",
+      "title": "Sorry, I'm in a meeting",
+      "url": "https://iminafleeting.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-09T09:21:48.000Z",
+      "summary": "Article URL: https://iminafleeting.com/ Comments URL: https://news.ycombinator.com/item?id=50018088 Points: 935 # Comments: 260"
     },
     {
       "id": "edd58468d564",
@@ -99,60 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-08T19:43:05.000Z",
       "summary": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization's"
-    },
-    {
-      "id": "d821a136c16a",
-      "title": "Triage role users or higher can now archive pull requests",
-      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-08T19:01:42.000Z",
-      "summary": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine"
-    },
-    {
-      "id": "ef0a63b9266e",
-      "title": "Upcoming Next.js Security Update for Upstream Vulnerabilities",
-      "url": "https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-08T18:00:00.000Z",
-      "summary": "Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies."
-    },
-    {
-      "id": "e98e25a5c1b7",
-      "title": "How one bug bounty researcher chooses the features they investigate",
-      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-08T17:02:52.000Z",
-      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub."
-    },
-    {
-      "id": "71ebc92c009c",
-      "title": "Screen readers can navigate timelines as lists",
-      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-08T16:00:56.000Z",
-      "summary": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,"
-    },
-    {
-      "id": "112b5f00879d",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-08T16:00:00.000Z",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-    },
-    {
-      "id": "351ffe6737f3",
-      "title": "Draft pull requests count toward pull request limits",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-08T14:25:53.000Z",
-      "summary": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,"
     },
     {
       "id": "ff91befc1789",
