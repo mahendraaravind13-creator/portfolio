@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-09T22:42:03.643Z",
+  "generatedAt": "2026-10-10T05:57:44.048Z",
   "items": [
+    {
+      "id": "8e5ec2908b04",
+      "title": "GitHub Copilot weekly releases — October 5",
+      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-09T22:58:23.000Z",
+      "summary": "This week's updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku"
+    },
     {
       "id": "4ee9692cf026",
       "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
@@ -144,15 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-08T14:25:53.000Z",
       "summary": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,"
-    },
-    {
-      "id": "5ce64f517fc4",
-      "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
-      "url": "https://blog.cloudflare.com/radar-redesign/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-08T13:00:00.000Z",
-      "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth."
     },
     {
       "id": "ff91befc1789",
