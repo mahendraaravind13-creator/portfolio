@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-11T05:53:01.356Z",
+  "generatedAt": "2026-10-11T12:56:31.424Z",
   "items": [
+    {
+      "id": "9fc6f1a3ba26",
+      "title": "Java - The Year of the Runtime!",
+      "url": "https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynite/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-11T00:00:00.000Z",
+      "summary": "As AI coding agents make language syntax less central, runtime performance and operability become increasingly important."
+    },
     {
       "id": "1e0e6608c184",
       "title": "New controls and chat improvements in Copilot for JetBrains",
@@ -11,13 +20,13 @@
       "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and"
     },
     {
-      "id": "92aa8ae1261a",
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "id": "6612db5ecf0e",
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-10T03:02:47.000Z",
-      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 438 # Comments: 277"
+      "published": "2026-10-10T04:12:26.000Z",
+      "summary": "Article URL: https://lightbulbcomputer.com/ Comments URL: https://news.ycombinator.com/item?id=50029487 Points: 477 # Comments: 72"
     },
     {
       "id": "8e5ec2908b04",
@@ -144,15 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-08T17:02:52.000Z",
       "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub."
-    },
-    {
-      "id": "71ebc92c009c",
-      "title": "Screen readers can navigate timelines as lists",
-      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-08T16:00:56.000Z",
-      "summary": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,"
     },
     {
       "id": "ff91befc1789",
