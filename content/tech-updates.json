@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:48:27.904Z",
+  "generatedAt": "2026-10-11T05:53:01.356Z",
   "items": [
     {
       "id": "1e0e6608c184",
@@ -11,13 +11,13 @@
       "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and"
     },
     {
-      "id": "8b699584fcc9",
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
+      "id": "92aa8ae1261a",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-10T00:37:07.000Z",
-      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 658 # Comments: 283"
+      "published": "2026-10-10T03:02:47.000Z",
+      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 438 # Comments: 277"
     },
     {
       "id": "8e5ec2908b04",
