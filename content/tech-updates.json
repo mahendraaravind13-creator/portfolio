@@ -1,10 +1,82 @@
 {
-  "generatedAt": "2026-10-11T22:01:52.814Z",
+  "generatedAt": "2026-10-12T15:34:01.127Z",
   "items": [
     {
-      "id": "9fc6f1a3ba26",
+      "id": "ae4b5b752a8d",
+      "title": "Filter, reshape, and redact logs before export with Transformers",
+      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-12T14:44:59.000Z",
+      "summary": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the destination."
+    },
+    {
+      "id": "cf1515b0605c",
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-12T10:21:27.000Z",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c64g1l5389kvo Comments URL: https://news.ycombinator.com/item?id=50054207 Points: 490 # Comments: 165"
+    },
+    {
+      "id": "fa2d6a2e978e",
+      "title": "Structured Concurrency Looms",
+      "url": "https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-12T00:00:00.000Z",
+      "summary": "Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved."
+    },
+    {
+      "id": "09279f7dec36",
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-11T22:33:39.000Z",
+      "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 558 # Comments: 267"
+    },
+    {
+      "id": "5947d794c16d",
+      "title": "Passkeys are a trap",
+      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-11T21:59:48.000Z",
+      "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 852 # Comments: 458"
+    },
+    {
+      "id": "44c65736f8dd",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-11T20:20:52.000Z",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 578 # Comments: 831"
+    },
+    {
+      "id": "36ee60902c3e",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-11T18:04:47.000Z",
+      "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 602 # Comments: 225"
+    },
+    {
+      "id": "0d8dcb1c8fdb",
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-11T13:16:45.000Z",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 459 # Comments: 460"
+    },
+    {
+      "id": "0057a5cdecb3",
       "title": "Java - The Year of the Runtime!",
-      "url": "https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynite/",
+      "url": "https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/",
       "source": "Java (Inside Java)",
       "category": "Frameworks & Languages",
       "published": "2026-10-11T00:00:00.000Z",
@@ -81,78 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-09T12:50:00.000Z",
       "summary": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places."
-    },
-    {
-      "id": "edd58468d564",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-09T07:00:00.000Z",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-    },
-    {
-      "id": "90995f7dbc9c",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-09T07:00:00.000Z",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
-      "id": "d3194a2e84b0",
-      "title": "Python 3.15.0 (final) is here!",
-      "url": "https://blog.python.org/2026/10/python-3150-final-is-here/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-09T00:00:00.000Z",
-      "summary": "A brand new Python here for you to enjoy!"
-    },
-    {
-      "id": "8eab0c9a25ba",
-      "title": "Copilot code review: New organization billing options and controls",
-      "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-08T19:43:05.000Z",
-      "summary": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization's"
-    },
-    {
-      "id": "d821a136c16a",
-      "title": "Triage role users or higher can now archive pull requests",
-      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-08T19:01:42.000Z",
-      "summary": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine"
-    },
-    {
-      "id": "ef0a63b9266e",
-      "title": "Upcoming Next.js Security Update for Upstream Vulnerabilities",
-      "url": "https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-08T18:00:00.000Z",
-      "summary": "Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies."
-    },
-    {
-      "id": "e98e25a5c1b7",
-      "title": "How one bug bounty researcher chooses the features they investigate",
-      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-08T17:02:52.000Z",
-      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub."
-    },
-    {
-      "id": "71ebc92c009c",
-      "title": "Screen readers can navigate timelines as lists",
-      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-08T16:00:56.000Z",
-      "summary": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,"
     },
     {
       "id": "ff91befc1789",
