@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-12T15:34:01.127Z",
+  "generatedAt": "2026-10-13T00:45:53.029Z",
   "items": [
+    {
+      "id": "41a6d90c6815",
+      "title": "Announcing AWS Lambda Web Functions",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-12T22:34:47.000Z",
+      "summary": "AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distribution."
+    },
+    {
+      "id": "6001ee7ed96b",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-12T18:29:04.000Z",
+      "summary": "Article URL: https://github.com/openai/codex/issues/48195 Comments URL: https://news.ycombinator.com/item?id=50060694 Points: 437 # Comments: 229"
+    },
+    {
+      "id": "d8d241723974",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-12T17:43:59.000Z",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright."
+    },
+    {
+      "id": "31ba1e7c3abd",
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-12T16:48:01.000Z",
+      "summary": "Article URL: https://research.meta.ai/blog/muse-wonder Comments URL: https://news.ycombinator.com/item?id=50059115 Points: 510 # Comments: 281"
+    },
+    {
+      "id": "39f26c94dad3",
+      "title": "Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-12T16:30:11.000Z",
+      "summary": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author"
+    },
+    {
+      "id": "b6603a0a4aa6",
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-12T16:11:45.000Z",
+      "summary": "Article URL: https://z.ai/blog/glm-legal Comments URL: https://news.ycombinator.com/item?id=50058507 Points: 414 # Comments: 237"
+    },
+    {
+      "id": "b06c4bf6b0d6",
+      "title": "Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions",
+      "url": "https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-12T16:00:00.000Z",
+      "summary": "CVE-2026-105445: Docker Hub account conversion could re-assign personal access tokens to a new owner. Read what happened, who was affected, and the fix."
+    },
     {
       "id": "ae4b5b752a8d",
       "title": "Filter, reshape, and redact logs before export with Transformers",
@@ -11,13 +74,22 @@
       "summary": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the destination."
     },
     {
-      "id": "cf1515b0605c",
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "id": "1ac16a9fa078",
+      "title": "Anonymous organization-level registries for Dependabot",
+      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-12T14:04:16.000Z",
+      "summary": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror"
+    },
+    {
+      "id": "ca43aef1e636",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-12T10:21:27.000Z",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c64g1l5389kvo Comments URL: https://news.ycombinator.com/item?id=50054207 Points: 490 # Comments: 165"
+      "published": "2026-10-12T12:16:42.000Z",
+      "summary": "https://www.reuters.com/business/retail-consumer/french-supe... , https://www.bbc.com/news/articles/crq5nzxv9q4yo , https://www.lemonde.fr/en/france/article/2026/10/12/french-s... Related: https://www.claroty.com/team82/research/freeze-the-controlle..."
     },
     {
       "id": "fa2d6a2e978e",
@@ -27,51 +99,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-12T00:00:00.000Z",
       "summary": "Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved."
-    },
-    {
-      "id": "09279f7dec36",
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-11T22:33:39.000Z",
-      "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 558 # Comments: 267"
-    },
-    {
-      "id": "5947d794c16d",
-      "title": "Passkeys are a trap",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-11T21:59:48.000Z",
-      "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 852 # Comments: 458"
-    },
-    {
-      "id": "44c65736f8dd",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-11T20:20:52.000Z",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 578 # Comments: 831"
-    },
-    {
-      "id": "36ee60902c3e",
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-11T18:04:47.000Z",
-      "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 602 # Comments: 225"
-    },
-    {
-      "id": "0d8dcb1c8fdb",
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-11T13:16:45.000Z",
-      "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 459 # Comments: 460"
     },
     {
       "id": "0057a5cdecb3",
@@ -126,33 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-09T16:00:00.000Z",
       "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning."
-    },
-    {
-      "id": "43ef54e74d27",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-09T15:20:29.000Z",
-      "summary": ""
-    },
-    {
-      "id": "80903cd274fc",
-      "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
-      "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-09T13:00:00.000Z",
-      "summary": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks."
-    },
-    {
-      "id": "f7c4a724ff80",
-      "title": "Deno is joining Cloudflare",
-      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-09T12:50:00.000Z",
-      "summary": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places."
     },
     {
       "id": "ff91befc1789",
