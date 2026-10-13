@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-13T00:45:53.029Z",
+  "generatedAt": "2026-10-13T14:17:19.583Z",
   "items": [
+    {
+      "id": "243a01f7d00c",
+      "title": "Search and filter for budgets now available",
+      "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-13T12:06:09.000Z",
+      "summary": "The \"Budgets and alerts\" page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for"
+    },
+    {
+      "id": "ec7d63fa2768",
+      "title": "Code scanning AI Scan metrics in security overview",
+      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-13T12:03:17.000Z",
+      "summary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the"
+    },
+    {
+      "id": "c1d34165b490",
+      "title": "Client telemetry user attribution and configurable capture",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-12T22:38:00.000Z",
+      "summary": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three"
+    },
     {
       "id": "41a6d90c6815",
       "title": "Announcing AWS Lambda Web Functions",
@@ -11,13 +38,13 @@
       "summary": "AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distribution."
     },
     {
-      "id": "6001ee7ed96b",
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "url": "https://github.com/openai/codex/issues/48195",
+      "id": "c41789c5590e",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-12T18:29:04.000Z",
-      "summary": "Article URL: https://github.com/openai/codex/issues/48195 Comments URL: https://news.ycombinator.com/item?id=50060694 Points: 437 # Comments: 229"
+      "published": "2026-10-12T21:40:18.000Z",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 494 # Comments: 401"
     },
     {
       "id": "d8d241723974",
@@ -29,15 +56,6 @@
       "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright."
     },
     {
-      "id": "31ba1e7c3abd",
-      "title": "Muse Wonder",
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-12T16:48:01.000Z",
-      "summary": "Article URL: https://research.meta.ai/blog/muse-wonder Comments URL: https://news.ycombinator.com/item?id=50059115 Points: 510 # Comments: 281"
-    },
-    {
       "id": "39f26c94dad3",
       "title": "Push attribution for commits in limited public preview",
       "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
@@ -47,13 +65,22 @@
       "summary": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author"
     },
     {
+      "id": "4aaf92f254c0",
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-12T16:13:10.000Z",
+      "summary": "Article URL: https://prophitt.me/writing/a-modern-web-app-in-c Comments URL: https://news.ycombinator.com/item?id=50058528 Points: 639 # Comments: 279"
+    },
+    {
       "id": "b6603a0a4aa6",
       "title": "GLM-Legal",
       "url": "https://z.ai/blog/glm-legal",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-12T16:11:45.000Z",
-      "summary": "Article URL: https://z.ai/blog/glm-legal Comments URL: https://news.ycombinator.com/item?id=50058507 Points: 414 # Comments: 237"
+      "summary": "Article URL: https://z.ai/blog/glm-legal Comments URL: https://news.ycombinator.com/item?id=50058507 Points: 619 # Comments: 346"
     },
     {
       "id": "b06c4bf6b0d6",
@@ -119,24 +146,6 @@
       "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and"
     },
     {
-      "id": "8e5ec2908b04",
-      "title": "GitHub Copilot weekly releases — October 5",
-      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-09T22:58:23.000Z",
-      "summary": "This week's updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku"
-    },
-    {
-      "id": "4ee9692cf026",
-      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-09T21:32:54.000Z",
-      "summary": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find"
-    },
-    {
       "id": "6229f18e6ef4",
       "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
       "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
@@ -144,15 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-09T18:27:34.000Z",
       "summary": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x."
-    },
-    {
-      "id": "8608b90d585c",
-      "title": "Hack the World: Why hackathons are still the best place to learn to build",
-      "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-09T16:00:00.000Z",
-      "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning."
     },
     {
       "id": "ff91befc1789",
