@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-10-13T14:17:19.583Z",
+  "generatedAt": "2026-10-13T22:49:03.681Z",
   "items": [
+    {
+      "id": "b9b5b90f2398",
+      "title": "Visual Studio Code 1.142 (Insiders)",
+      "url": "https://code.visualstudio.com/updates/v1_142",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-10-14T17:00:00.000Z",
+      "summary": "Learn what's new in Visual Studio Code 1.142 (Insiders)"
+    },
+    {
+      "id": "471508c04c30",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-13T19:43:07.000Z",
+      "summary": ""
+    },
+    {
+      "id": "619c2f7b72d8",
+      "title": "Gemini 4 Argon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-13T18:39:56.000Z",
+      "summary": "Gemini 4 Argon, Google's newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon"
+    },
+    {
+      "id": "3612cc431738",
+      "title": "Audit GitHub Code Quality finding dismissals and reopenings",
+      "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-13T17:58:36.000Z",
+      "summary": "You can now review manual dismissals and reopenings of GitHub Code Quality findings in your organization or enterprise audit log. Findings may appear in either your repository's default-branch backlog or"
+    },
+    {
+      "id": "22c6ef693aee",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-13T17:56:33.000Z",
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%."
+    },
+    {
+      "id": "550c4c02e9ff",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-13T17:05:48.000Z",
+      "summary": ""
+    },
+    {
+      "id": "6ec21beb693f",
+      "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+      "url": "https://blog.cloudflare.com/d1-control-plane/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-13T16:20:18.000Z",
+      "summary": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively."
+    },
+    {
+      "id": "1cc80f01608a",
+      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-13T16:12:36.000Z",
+      "summary": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is"
+    },
+    {
+      "id": "884ebf3c3978",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-13T16:01:58.000Z",
+      "summary": ""
+    },
+    {
+      "id": "f174716114a9",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-13T16:01:52.000Z",
+      "summary": ""
+    },
+    {
+      "id": "1b098e6fcbea",
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-13T15:59:06.000Z",
+      "summary": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon ElastiCache peaked at during the event. Prime Day ran back in June, so this post always lands as"
+    },
+    {
+      "id": "83251f9be5ed",
+      "title": "Rewinding the exponential: How we keep hardware usage down",
+      "url": "https://blog.cloudflare.com/rewinding-the-exponential/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-13T15:51:41.000Z",
+      "summary": "Our strategies to optimize our data pipeline throughput without compromising data quality."
+    },
+    {
+      "id": "5930bcfe33ce",
+      "title": "Enterprise managed settings enforcement updates",
+      "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-13T15:20:10.000Z",
+      "summary": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version"
+    },
+    {
+      "id": "193f9a23d2c0",
+      "title": "Improved detection for withdrawn Dependabot alerts",
+      "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-13T14:03:57.000Z",
+      "summary": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help"
+    },
     {
       "id": "243a01f7d00c",
       "title": "Search and filter for budgets now available",
@@ -11,148 +137,22 @@
       "summary": "The \"Budgets and alerts\" page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for"
     },
     {
-      "id": "ec7d63fa2768",
-      "title": "Code scanning AI Scan metrics in security overview",
-      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-13T12:03:17.000Z",
-      "summary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the"
+      "id": "ffc748cb8d88",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-13T12:00:00.000Z",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
     },
     {
-      "id": "c1d34165b490",
-      "title": "Client telemetry user attribution and configurable capture",
-      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-12T22:38:00.000Z",
-      "summary": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three"
-    },
-    {
-      "id": "41a6d90c6815",
-      "title": "Announcing AWS Lambda Web Functions",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-12T22:34:47.000Z",
-      "summary": "AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distribution."
-    },
-    {
-      "id": "c41789c5590e",
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-12T21:40:18.000Z",
-      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 494 # Comments: 401"
-    },
-    {
-      "id": "d8d241723974",
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-12T17:43:59.000Z",
-      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright."
-    },
-    {
-      "id": "39f26c94dad3",
-      "title": "Push attribution for commits in limited public preview",
-      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-12T16:30:11.000Z",
-      "summary": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author"
-    },
-    {
-      "id": "4aaf92f254c0",
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-12T16:13:10.000Z",
-      "summary": "Article URL: https://prophitt.me/writing/a-modern-web-app-in-c Comments URL: https://news.ycombinator.com/item?id=50058528 Points: 639 # Comments: 279"
-    },
-    {
-      "id": "b6603a0a4aa6",
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-12T16:11:45.000Z",
-      "summary": "Article URL: https://z.ai/blog/glm-legal Comments URL: https://news.ycombinator.com/item?id=50058507 Points: 619 # Comments: 346"
-    },
-    {
-      "id": "b06c4bf6b0d6",
-      "title": "Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions",
-      "url": "https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-12T16:00:00.000Z",
-      "summary": "CVE-2026-105445: Docker Hub account conversion could re-assign personal access tokens to a new owner. Read what happened, who was affected, and the fix."
-    },
-    {
-      "id": "ae4b5b752a8d",
-      "title": "Filter, reshape, and redact logs before export with Transformers",
-      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-12T14:44:59.000Z",
-      "summary": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the destination."
-    },
-    {
-      "id": "1ac16a9fa078",
-      "title": "Anonymous organization-level registries for Dependabot",
-      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-12T14:04:16.000Z",
-      "summary": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror"
-    },
-    {
-      "id": "ca43aef1e636",
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-12T12:16:42.000Z",
-      "summary": "https://www.reuters.com/business/retail-consumer/french-supe... , https://www.bbc.com/news/articles/crq5nzxv9q4yo , https://www.lemonde.fr/en/france/article/2026/10/12/french-s... Related: https://www.claroty.com/team82/research/freeze-the-controlle..."
-    },
-    {
-      "id": "fa2d6a2e978e",
-      "title": "Structured Concurrency Looms",
-      "url": "https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/",
-      "source": "Java (Inside Java)",
+      "id": "288a44c8c89a",
+      "title": "Python 3.16.0 alpha 1 is now available",
+      "url": "https://blog.python.org/2026/10/python-3160-alpha-1-is-now-available/",
+      "source": "Python",
       "category": "Frameworks & Languages",
-      "published": "2026-10-12T00:00:00.000Z",
-      "summary": "Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved."
-    },
-    {
-      "id": "0057a5cdecb3",
-      "title": "Java - The Year of the Runtime!",
-      "url": "https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-11T00:00:00.000Z",
-      "summary": "As AI coding agents make language syntax less central, runtime performance and operability become increasingly important."
-    },
-    {
-      "id": "1e0e6608c184",
-      "title": "New controls and chat improvements in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-10T18:53:39.000Z",
-      "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and"
-    },
-    {
-      "id": "6229f18e6ef4",
-      "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-      "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-09T18:27:34.000Z",
-      "summary": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x."
+      "published": "2026-10-13T00:00:00.000Z",
+      "summary": "The first developer preview of Python 3.16 is ready for testing."
     },
     {
       "id": "ff91befc1789",
