@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-14T11:59:04.643Z",
+  "generatedAt": "2026-10-14T17:15:54.172Z",
   "items": [
     {
-      "id": "b9b5b90f2398",
-      "title": "Visual Studio Code 1.142 (Insiders)",
-      "url": "https://code.visualstudio.com/updates/v1_142",
-      "source": "VS Code",
+      "id": "672ebf75c430",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-14T16:12:42.000Z",
+      "summary": ""
+    },
+    {
+      "id": "a3b7e4ededda",
+      "title": "GitHub Actions workflow lockfiles in public preview",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "source": "GitHub Changelog",
       "category": "Developer Tools",
-      "published": "2026-10-14T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.142 (Insiders)"
+      "published": "2026-10-14T13:49:15.000Z",
+      "summary": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a"
+    },
+    {
+      "id": "3dc14211951e",
+      "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+      "url": "https://blog.cloudflare.com/hyperdrive-mysql/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-14T13:00:00.000Z",
+      "summary": "While adding MySQL support to Hyperdrive, we found a subtle protocol bug when caching query results. Here is how we tracked down a 0.001% rate error and made Hyperdrive MySQL generally available."
+    },
+    {
+      "id": "a0e0fec2c2b5",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-14T12:00:00.000Z",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+      "id": "e181547094b0",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-14T07:00:00.000Z",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
     },
     {
       "id": "58e4191fcfe4",
@@ -54,15 +90,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-13T19:43:07.000Z",
       "summary": ""
-    },
-    {
-      "id": "01b0fbae59fa",
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-13T19:11:48.000Z",
-      "summary": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners."
     },
     {
       "id": "619c2f7b72d8",
@@ -119,15 +146,6 @@
       "summary": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is"
     },
     {
-      "id": "11ff46a9a047",
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-13T16:03:16.000Z",
-      "summary": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869 Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 1338 # Comments: 933"
-    },
-    {
       "id": "884ebf3c3978",
       "title": "Gemini 4 Argon for Robotics",
       "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
@@ -135,24 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-13T16:01:58.000Z",
       "summary": ""
-    },
-    {
-      "id": "f174716114a9",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-10-13T16:01:52.000Z",
-      "summary": ""
-    },
-    {
-      "id": "1b098e6fcbea",
-      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-13T15:59:06.000Z",
-      "summary": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon ElastiCache peaked at during the event. Prime Day ran back in June, so this post always lands as"
     },
     {
       "id": "ff91befc1789",
