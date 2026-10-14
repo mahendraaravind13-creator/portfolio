@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-14T17:15:54.172Z",
+  "generatedAt": "2026-10-14T21:45:08.809Z",
   "items": [
+    {
+      "id": "aad24f89887b",
+      "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-14T20:24:19.000Z",
+      "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks."
+    },
+    {
+      "id": "86f0f518c779",
+      "title": "GitHub availability report: September 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-14T20:01:35.000Z",
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services."
+    },
+    {
+      "id": "116eea760bcf",
+      "title": "HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-14T20:01:35.000Z",
+      "summary": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot"
+    },
+    {
+      "id": "46392662fc43",
+      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-14T19:30:48.000Z",
+      "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
+    },
+    {
+      "id": "cc3cc3fb0e33",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-14T19:11:33.000Z",
+      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made."
+    },
+    {
+      "id": "79b2b05e2955",
+      "title": "Next.js Security Update for Upstream Vulnerabilities",
+      "url": "https://nextjs.org/blog/nextjs-security-update-october-14-2026",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-14T18:00:00.000Z",
+      "summary": "The October 14, 2026 out-of-band security update for Next.js is now available"
+    },
+    {
+      "id": "b9b5b90f2398",
+      "title": "Visual Studio Code 1.142",
+      "url": "https://code.visualstudio.com/updates/v1_142",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-10-14T17:00:00.000Z",
+      "summary": "Learn what's new in Visual Studio Code 1.142"
+    },
     {
       "id": "672ebf75c430",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
@@ -17,7 +80,7 @@
       "source": "GitHub Changelog",
       "category": "Developer Tools",
       "published": "2026-10-14T13:49:15.000Z",
-      "summary": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a"
+      "summary": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud, GitHub Enterprise Cloud with data residency, Team, and Free plans. Tags and branches can move after"
     },
     {
       "id": "3dc14211951e",
@@ -36,6 +99,15 @@
       "category": "AI & LLMs",
       "published": "2026-10-14T12:00:00.000Z",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+      "id": "24cc989c02db",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-14T12:00:00.000Z",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
     },
     {
       "id": "e181547094b0",
@@ -81,78 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-13T23:17:55.000Z",
       "summary": "We're releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We've also made it easier for"
-    },
-    {
-      "id": "471508c04c30",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-10-13T19:43:07.000Z",
-      "summary": ""
-    },
-    {
-      "id": "619c2f7b72d8",
-      "title": "Gemini 4 Argon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-13T18:39:56.000Z",
-      "summary": "Gemini 4 Argon, Google's newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon"
-    },
-    {
-      "id": "3612cc431738",
-      "title": "Audit GitHub Code Quality finding dismissals and reopenings",
-      "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-13T17:58:36.000Z",
-      "summary": "You can now review manual dismissals and reopenings of GitHub Code Quality findings in your organization or enterprise audit log. Findings may appear in either your repository's default-branch backlog or"
-    },
-    {
-      "id": "22c6ef693aee",
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-13T17:56:33.000Z",
-      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%."
-    },
-    {
-      "id": "550c4c02e9ff",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-13T17:05:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "6ec21beb693f",
-      "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
-      "url": "https://blog.cloudflare.com/d1-control-plane/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-13T16:20:18.000Z",
-      "summary": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively."
-    },
-    {
-      "id": "1cc80f01608a",
-      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-13T16:12:36.000Z",
-      "summary": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is"
-    },
-    {
-      "id": "884ebf3c3978",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-10-13T16:01:58.000Z",
-      "summary": ""
     },
     {
       "id": "ff91befc1789",
