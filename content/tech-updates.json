@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:49:03.681Z",
+  "generatedAt": "2026-10-14T04:58:50.920Z",
   "items": [
     {
       "id": "b9b5b90f2398",
@@ -9,6 +9,24 @@
       "category": "Developer Tools",
       "published": "2026-10-14T17:00:00.000Z",
       "summary": "Learn what's new in Visual Studio Code 1.142 (Insiders)"
+    },
+    {
+      "id": "58e4191fcfe4",
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-14T02:00:14.000Z",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+    },
+    {
+      "id": "0acb22f373dc",
+      "title": "GitHub App improvements for least privilege and management",
+      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-13T23:17:55.000Z",
+      "summary": "We're releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We've also made it easier for"
     },
     {
       "id": "471508c04c30",
@@ -128,15 +146,6 @@
       "summary": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help"
     },
     {
-      "id": "243a01f7d00c",
-      "title": "Search and filter for budgets now available",
-      "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-13T12:06:09.000Z",
-      "summary": "The \"Budgets and alerts\" page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for"
-    },
-    {
       "id": "ffc748cb8d88",
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "url": "https://openai.com/index/higgsfield-longer-videos-voice",
@@ -144,15 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-13T12:00:00.000Z",
       "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-    },
-    {
-      "id": "288a44c8c89a",
-      "title": "Python 3.16.0 alpha 1 is now available",
-      "url": "https://blog.python.org/2026/10/python-3160-alpha-1-is-now-available/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-13T00:00:00.000Z",
-      "summary": "The first developer preview of Python 3.16 is ready for testing."
     },
     {
       "id": "ff91befc1789",
