@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-10-15T11:35:48.549Z",
+  "generatedAt": "2026-10-15T17:05:35.793Z",
   "items": [
+    {
+      "id": "996b33c09ad5",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-15T16:08:03.000Z",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+    },
+    {
+      "id": "39ed69c21fb1",
+      "title": "AI Scan for pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-15T15:04:51.000Z",
+      "summary": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently"
+    },
+    {
+      "id": "41ee710a4e24",
+      "title": "Deploy with Void",
+      "url": "https://blog.cloudflare.com/deploy-with-void/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-15T14:00:00.000Z",
+      "summary": "Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare."
+    },
+    {
+      "id": "b7ac4657df6f",
+      "title": "Agentic autofix for code scanning alerts general availability",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-15T13:49:20.000Z",
+      "summary": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,"
+    },
+    {
+      "id": "5fff4f29fe90",
+      "title": "Email notifications for repository push events have been retired",
+      "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-15T13:42:19.000Z",
+      "summary": "As of October 15, 2026, email notifications for repository push events have been retired and are no longer sent. We shut down this feature to help prevent spam and abuse."
+    },
+    {
+      "id": "fa14b8f7db46",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-15T13:00:00.000Z",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+    },
+    {
+      "id": "39780551d507",
+      "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+      "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-15T13:00:00.000Z",
+      "summary": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike."
+    },
+    {
+      "id": "e3c36d4422c6",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-15T09:08:45.000Z",
+      "summary": ""
+    },
+    {
+      "id": "3733c75a28bf",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-15T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "7671baef8e33",
+      "title": "How Does Java Fit Into the World of AI—and How Can It Become an Even Better Fit?",
+      "url": "https://inside.java/2026/10/15/java-fit-ai-world/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-15T00:00:00.000Z",
+      "summary": "In this video, we discuss why Java is already a good choice for AI and how existing and future Java platform features can make it even stronger."
+    },
     {
       "id": "b618e518b0e7",
       "title": "Tiny Little Office",
@@ -8,7 +98,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-14T22:10:08.000Z",
-      "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 473 # Comments: 86"
+      "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 607 # Comments: 158"
     },
     {
       "id": "d0cedaaec5f4",
@@ -35,7 +125,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-14T20:48:24.000Z",
-      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 651 # Comments: 261"
+      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 798 # Comments: 343"
     },
     {
       "id": "aad24f89887b",
@@ -63,96 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-14T20:01:35.000Z",
       "summary": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot"
-    },
-    {
-      "id": "46392662fc43",
-      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-14T19:30:48.000Z",
-      "summary": "Amazon Simple Storage Service (Amazon S3), including Amazon S3 Tables and Amazon S3 Vectors, is natively available on the Vercel Marketplace and v0 by Vercel."
-    },
-    {
-      "id": "0c1a0ba99d14",
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-14T19:26:30.000Z",
-      "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 1457 # Comments: 361"
-    },
-    {
-      "id": "cc3cc3fb0e33",
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-14T19:11:33.000Z",
-      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made."
-    },
-    {
-      "id": "8c274fdc33d2",
-      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-      "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
-      "source": "Kubernetes",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-14T18:35:00.000Z",
-      "summary": "You submit a Kubernetes Job and wait for its Pods to appear. A minute passes. Then another. The Job is still suspended, there are no application logs, and there may not even be a Pod to inspect. In a cluster managed by Kueue , this can be completely normal."
-    },
-    {
-      "id": "79b2b05e2955",
-      "title": "Next.js Security Update for Upstream Vulnerabilities",
-      "url": "https://nextjs.org/blog/nextjs-security-update-october-14-2026",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-14T18:00:00.000Z",
-      "summary": "The October 14, 2026 out-of-band security update for Next.js is now available"
-    },
-    {
-      "id": "1d15ef475cf5",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-14T17:45:23.000Z",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 911 # Comments: 548"
-    },
-    {
-      "id": "b9b5b90f2398",
-      "title": "Visual Studio Code 1.142",
-      "url": "https://code.visualstudio.com/updates/v1_142",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-10-14T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.142"
-    },
-    {
-      "id": "672ebf75c430",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-14T16:12:42.000Z",
-      "summary": ""
-    },
-    {
-      "id": "0fff9d0e9cb3",
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-14T16:09:00.000Z",
-      "summary": "Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years Comments URL: https://news.ycombinator.com/item?id=50089921 Points: 431 # Comments: 391"
-    },
-    {
-      "id": "a3b7e4ededda",
-      "title": "GitHub Actions workflow lockfiles in public preview",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-14T13:49:15.000Z",
-      "summary": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud, GitHub Enterprise Cloud with data residency, Team, and Free plans. Tags and branches can move after"
     },
     {
       "id": "ff91befc1789",
