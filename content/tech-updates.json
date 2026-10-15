@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-14T21:45:08.809Z",
+  "generatedAt": "2026-10-15T04:46:23.283Z",
   "items": [
+    {
+      "id": "d0cedaaec5f4",
+      "title": "AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own",
+      "url": "https://www.docker.com/blog/ai-agent-security-risks/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-14T22:08:33.000Z",
+      "summary": "Learn the top AI agent security risks, from prompt injection to excessive autonomy and credential exposure, and how to contain them."
+    },
+    {
+      "id": "b2acc86b4fa4",
+      "title": "Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals",
+      "url": "https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-14T21:45:27.000Z",
+      "summary": "Harbor can now run every eval task in Docker Sandboxes Docker Sandboxes are MicroVM environments to run agents like Claude Code, Codex, Cursor, and more safely With Sandboxes, define custom network policies for fair, reproducible evals Run your evals locally or in the cloud: starting for free on Docker Sandboxes on…"
+    },
     {
       "id": "aad24f89887b",
       "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
@@ -35,7 +53,7 @@
       "source": "AWS",
       "category": "Cloud & DevOps",
       "published": "2026-10-14T19:30:48.000Z",
-      "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
+      "summary": "Amazon Simple Storage Service (Amazon S3), including Amazon S3 Tables and Amazon S3 Vectors, is natively available on the Vercel Marketplace and v0 by Vercel."
     },
     {
       "id": "cc3cc3fb0e33",
@@ -45,6 +63,15 @@
       "category": "Developer Tools",
       "published": "2026-10-14T19:11:33.000Z",
       "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made."
+    },
+    {
+      "id": "8c274fdc33d2",
+      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+      "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-14T18:35:00.000Z",
+      "summary": "You submit a Kubernetes Job and wait for its Pods to appear. A minute passes. Then another. The Job is still suspended, there are no application logs, and there may not even be a Pod to inspect. In a cluster managed by Kueue , this can be completely normal."
     },
     {
       "id": "79b2b05e2955",
@@ -119,40 +146,13 @@
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
     },
     {
-      "id": "58e4191fcfe4",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-10-14T02:00:14.000Z",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-    },
-    {
-      "id": "2f3282e48314",
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "id": "7d10f0ddfecf",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
       "source": "OpenAI",
       "category": "AI & LLMs",
-      "published": "2026-10-14T00:00:00.000Z",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-    },
-    {
-      "id": "6a56fc729463",
-      "title": "Everyday JSON in Java",
-      "url": "https://inside.java/2026/10/14/devoxxbelgium-everyday-json/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-14T00:00:00.000Z",
-      "summary": "JSON is ubiquitous in modern software, and many use cases are just too small to justify adding external dependencies. To address these everyday use cases, a new JEP proposes a simple, incubating API for parsing, navigating, and generating JSON documents-both for Java developers and for the JDK itself."
-    },
-    {
-      "id": "0acb22f373dc",
-      "title": "GitHub App improvements for least privilege and management",
-      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-13T23:17:55.000Z",
-      "summary": "We're releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We've also made it easier for"
+      "published": "2026-10-14T07:00:00.000Z",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
     },
     {
       "id": "ff91befc1789",
