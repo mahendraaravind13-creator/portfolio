@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-15T04:46:23.283Z",
+  "generatedAt": "2026-10-15T11:35:48.549Z",
   "items": [
+    {
+      "id": "b618e518b0e7",
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-14T22:10:08.000Z",
+      "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 473 # Comments: 86"
+    },
     {
       "id": "d0cedaaec5f4",
       "title": "AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own",
@@ -18,6 +27,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-14T21:45:27.000Z",
       "summary": "Harbor can now run every eval task in Docker Sandboxes Docker Sandboxes are MicroVM environments to run agents like Claude Code, Codex, Cursor, and more safely With Sandboxes, define custom network policies for fair, reproducible evals Run your evals locally or in the cloud: starting for free on Docker Sandboxes on…"
+    },
+    {
+      "id": "a4e6a72e3ac2",
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-14T20:48:24.000Z",
+      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 651 # Comments: 261"
     },
     {
       "id": "aad24f89887b",
@@ -56,6 +74,15 @@
       "summary": "Amazon Simple Storage Service (Amazon S3), including Amazon S3 Tables and Amazon S3 Vectors, is natively available on the Vercel Marketplace and v0 by Vercel."
     },
     {
+      "id": "0c1a0ba99d14",
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-14T19:26:30.000Z",
+      "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 1457 # Comments: 361"
+    },
+    {
       "id": "cc3cc3fb0e33",
       "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
       "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
@@ -83,6 +110,15 @@
       "summary": "The October 14, 2026 out-of-band security update for Next.js is now available"
     },
     {
+      "id": "1d15ef475cf5",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-14T17:45:23.000Z",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 911 # Comments: 548"
+    },
+    {
       "id": "b9b5b90f2398",
       "title": "Visual Studio Code 1.142",
       "url": "https://code.visualstudio.com/updates/v1_142",
@@ -101,6 +137,15 @@
       "summary": ""
     },
     {
+      "id": "0fff9d0e9cb3",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-14T16:09:00.000Z",
+      "summary": "Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years Comments URL: https://news.ycombinator.com/item?id=50089921 Points: 431 # Comments: 391"
+    },
+    {
       "id": "a3b7e4ededda",
       "title": "GitHub Actions workflow lockfiles in public preview",
       "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
@@ -108,51 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-14T13:49:15.000Z",
       "summary": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud, GitHub Enterprise Cloud with data residency, Team, and Free plans. Tags and branches can move after"
-    },
-    {
-      "id": "3dc14211951e",
-      "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
-      "url": "https://blog.cloudflare.com/hyperdrive-mysql/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-14T13:00:00.000Z",
-      "summary": "While adding MySQL support to Hyperdrive, we found a subtle protocol bug when caching query results. Here is how we tracked down a 0.001% rate error and made Hyperdrive MySQL generally available."
-    },
-    {
-      "id": "a0e0fec2c2b5",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-14T12:00:00.000Z",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
-      "id": "24cc989c02db",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-14T12:00:00.000Z",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-    },
-    {
-      "id": "e181547094b0",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-14T07:00:00.000Z",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-    },
-    {
-      "id": "7d10f0ddfecf",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-14T07:00:00.000Z",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
     },
     {
       "id": "ff91befc1789",
