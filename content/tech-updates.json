@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T15:39:56.475Z",
+  "generatedAt": "2026-10-17T20:40:02.736Z",
   "items": [
     {
-      "id": "1fd6dd971a81",
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "id": "9b13d6a721a0",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-17T08:37:46.000Z",
-      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 466 # Comments: 247"
+      "published": "2026-10-17T08:21:25.000Z",
+      "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 562 # Comments: 506"
     },
     {
       "id": "9055b43032d8",
@@ -20,6 +20,15 @@
       "summary": "A critical bug in JDK 27 and how it was fixed, some conference news, and how JDK 28 is shaping up"
     },
     {
+      "id": "7f14563d8df6",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-16T19:01:17.000Z",
+      "summary": "https://twitter.com/heyyalexwang/status/2111158818730397932 Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 448 # Comments: 107"
+    },
+    {
       "id": "65442e708214",
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
@@ -27,15 +36,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-16T19:00:00.000Z",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-    },
-    {
-      "id": "7a6a342eb958",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-16T18:55:59.000Z",
-      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 961 # Comments: 344"
     },
     {
       "id": "db9c1e9d1cbd",
@@ -101,15 +101,6 @@
       "summary": ""
     },
     {
-      "id": "51fcdd9a49b7",
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-16T01:32:45.000Z",
-      "summary": "https://www.youtube.com/watch?v=7p5LxFdc-Qg https://twitter.com/Tesla/status/2110788059008819215 Comments URL: https://news.ycombinator.com/item?id=50112657 Points: 1544 # Comments: 2810"
-    },
-    {
       "id": "4a2f3ca18eb9",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
@@ -153,6 +144,15 @@
       "category": "AI & LLMs",
       "published": "2026-10-15T20:34:01.000Z",
       "summary": ""
+    },
+    {
+      "id": "a0a3bd711ccb",
+      "title": "Download GitHub Code Quality license usage as a CSV",
+      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-15T20:11:26.000Z",
+      "summary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who"
     },
     {
       "id": "ff91befc1789",
