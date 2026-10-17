@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T04:33:39.779Z",
+  "generatedAt": "2026-10-17T10:50:26.154Z",
   "items": [
     {
       "id": "65442e708214",
@@ -9,24 +9,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-16T19:00:00.000Z",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-    },
-    {
-      "id": "7a6a342eb958",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-16T18:55:59.000Z",
-      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 756 # Comments: 293"
-    },
-    {
-      "id": "9795228c1bdc",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-16T17:08:38.000Z",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 441 # Comments: 385"
     },
     {
       "id": "db9c1e9d1cbd",
@@ -92,15 +74,6 @@
       "summary": ""
     },
     {
-      "id": "51fcdd9a49b7",
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-16T01:32:45.000Z",
-      "summary": "https://www.youtube.com/watch?v=7p5LxFdc-Qg https://twitter.com/Tesla/status/2110788059008819215 Comments URL: https://news.ycombinator.com/item?id=50112657 Points: 1292 # Comments: 2293"
-    },
-    {
       "id": "9db4940a53f8",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -108,6 +81,15 @@
       "category": "AI & LLMs",
       "published": "2026-10-16T00:00:00.000Z",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+    },
+    {
+      "id": "4a2f3ca18eb9",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-16T00:00:00.000Z",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
       "id": "849b423196d1",
@@ -153,6 +135,24 @@
       "category": "Developer Tools",
       "published": "2026-10-15T19:39:27.000Z",
       "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building."
+    },
+    {
+      "id": "818ecaf77f93",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-15T19:35:13.000Z",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date"
+    },
+    {
+      "id": "a72d1e4da6b0",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-15T19:00:00.000Z",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
     },
     {
       "id": "ff91befc1789",
