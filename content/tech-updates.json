@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-18T04:39:08.819Z",
+  "generatedAt": "2026-10-18T15:55:39.566Z",
   "items": [
+    {
+      "id": "6881e07bf0c9",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-17T15:55:09.000Z",
+      "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 514 # Comments: 47"
+    },
+    {
+      "id": "9b13d6a721a0",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-17T08:21:25.000Z",
+      "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 918 # Comments: 680"
+    },
     {
       "id": "9055b43032d8",
       "title": "Episode 72 “OpenJDK Bug Fixing, JavaOne, and JDK 28” [IJN]",
@@ -9,6 +27,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-17T00:00:00.000Z",
       "summary": "A critical bug in JDK 27 and how it was fixed, some conference news, and how JDK 28 is shaping up"
+    },
+    {
+      "id": "f8b040014d2e",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-16T23:38:27.000Z",
+      "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 515 # Comments: 106"
     },
     {
       "id": "65442e708214",
@@ -126,33 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-15T20:34:01.000Z",
       "summary": ""
-    },
-    {
-      "id": "a0a3bd711ccb",
-      "title": "Download GitHub Code Quality license usage as a CSV",
-      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-15T20:11:26.000Z",
-      "summary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who"
-    },
-    {
-      "id": "5b6680e2f8b9",
-      "title": "The next developer interface is ambient intelligence",
-      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-15T19:39:27.000Z",
-      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building."
-    },
-    {
-      "id": "818ecaf77f93",
-      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
-      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-15T19:35:13.000Z",
-      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date"
     },
     {
       "id": "ff91befc1789",
