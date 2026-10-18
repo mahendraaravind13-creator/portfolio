@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-10-17T20:40:02.736Z",
+  "generatedAt": "2026-10-18T04:39:08.819Z",
   "items": [
-    {
-      "id": "9b13d6a721a0",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-17T08:21:25.000Z",
-      "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 562 # Comments: 506"
-    },
     {
       "id": "9055b43032d8",
       "title": "Episode 72 “OpenJDK Bug Fixing, JavaOne, and JDK 28” [IJN]",
@@ -18,15 +9,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-17T00:00:00.000Z",
       "summary": "A critical bug in JDK 27 and how it was fixed, some conference news, and how JDK 28 is shaping up"
-    },
-    {
-      "id": "7f14563d8df6",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-16T19:01:17.000Z",
-      "summary": "https://twitter.com/heyyalexwang/status/2111158818730397932 Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 448 # Comments: 107"
     },
     {
       "id": "65442e708214",
@@ -153,6 +135,24 @@
       "category": "Developer Tools",
       "published": "2026-10-15T20:11:26.000Z",
       "summary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who"
+    },
+    {
+      "id": "5b6680e2f8b9",
+      "title": "The next developer interface is ambient intelligence",
+      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-15T19:39:27.000Z",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building."
+    },
+    {
+      "id": "818ecaf77f93",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-15T19:35:13.000Z",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date"
     },
     {
       "id": "ff91befc1789",
