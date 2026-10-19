@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-19T13:25:00.313Z",
+  "generatedAt": "2026-10-19T22:24:10.424Z",
   "items": [
+    {
+      "id": "9db7d13375ba",
+      "title": "Copilot model policy API for enterprise, orgs, and teams",
+      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-19T21:32:18.000Z",
+      "summary": "You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What's new GET and PATCH endpoints are now"
+    },
+    {
+      "id": "6101472dca29",
+      "title": "GitHub Copilot models deprecated on October 19, 2026",
+      "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-19T21:27:10.000Z",
+      "summary": "As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These"
+    },
+    {
+      "id": "a26c408d34d1",
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-19T19:12:53.000Z",
+      "summary": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews."
+    },
+    {
+      "id": "0f3dfef227c0",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-19T18:47:22.000Z",
+      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context."
+    },
+    {
+      "id": "d6e3fbf6ac8e",
+      "title": "Introducing Clairic, a new System One class of extraction models",
+      "url": "https://blog.cloudflare.com/clairic-extraction-model/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-19T17:48:26.000Z",
+      "summary": "Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs."
+    },
+    {
+      "id": "8b2fe0bdc5ab",
+      "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-19T15:34:59.000Z",
+      "summary": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the"
+    },
     {
       "id": "acdbe7df1a24",
       "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
@@ -9,6 +63,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-19T13:00:00.000Z",
       "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code."
+    },
+    {
+      "id": "6d407442437e",
+      "title": "Some Git over HTTPS may temporarily require authentication",
+      "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-19T10:37:30.000Z",
+      "summary": "During periods of unusual traffic, GitHub may temporarily require authentication for some clones and fetches of public repositories over HTTPS to help protect github.com's availability. If an operation is affected,"
     },
     {
       "id": "d409fbacfd0d",
@@ -20,6 +83,15 @@
       "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As"
     },
     {
+      "id": "9dbc0d55ff91",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-19T00:00:00.000Z",
+      "summary": ""
+    },
+    {
       "id": "d0ee7311b2ae",
       "title": "JEP targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC",
       "url": "https://inside.java/2026/10/19/jep546-target-jdk28/",
@@ -27,42 +99,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-19T00:00:00.000Z",
       "summary": "The following JEP is targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC"
-    },
-    {
-      "id": "a5bb32320853",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-18T20:48:14.000Z",
-      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 447 # Comments: 217"
-    },
-    {
-      "id": "488c55737f7d",
-      "title": "Someone behind the software",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-18T16:32:00.000Z",
-      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 488 # Comments: 176"
-    },
-    {
-      "id": "643666daab59",
-      "title": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-18T13:48:48.000Z",
-      "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 414 # Comments: 66"
-    },
-    {
-      "id": "f39dc488c779",
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-17T23:26:35.000Z",
-      "summary": "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc Comments URL: https://news.ycombinator.com/item?id=50136150 Points: 432 # Comments: 535"
     },
     {
       "id": "9055b43032d8",
@@ -117,42 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-16T13:00:00.000Z",
       "summary": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time."
-    },
-    {
-      "id": "038384fba558",
-      "title": "Xcode 27 runner image generally available",
-      "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-16T04:36:30.000Z",
-      "summary": "You can now use the generally available Xcode 27 runner image to build and test your Apple applications in GitHub Actions. Previously in public preview, this GitHub-hosted image runs on"
-    },
-    {
-      "id": "5c6d7a0c4df6",
-      "title": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-16T02:16:35.000Z",
-      "summary": "@GitHub in Slack and Teams now supports working across multiple repositories in a single conversation. Whether you're creating issues, opening pull requests, or investigating bugs, you can work across repositories"
-    },
-    {
-      "id": "ba4e7337aba2",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-16T01:44:47.000Z",
-      "summary": ""
-    },
-    {
-      "id": "4a2f3ca18eb9",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-16T00:00:00.000Z",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
       "id": "ff91befc1789",
