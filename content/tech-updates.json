@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-10-18T20:48:59.644Z",
+  "generatedAt": "2026-10-19T04:46:53.891Z",
   "items": [
-    {
-      "id": "870d9f0665d1",
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-18T06:50:36.000Z",
-      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 493 # Comments: 238"
-    },
     {
       "id": "9055b43032d8",
       "title": "Episode 72 “OpenJDK Bug Fixing, JavaOne, and JDK 28” [IJN]",
@@ -153,6 +144,15 @@
       "category": "Developer Tools",
       "published": "2026-10-15T19:39:27.000Z",
       "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building."
+    },
+    {
+      "id": "818ecaf77f93",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-15T19:35:13.000Z",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date"
     },
     {
       "id": "ff91befc1789",
