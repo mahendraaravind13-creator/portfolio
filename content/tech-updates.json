@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:24:10.424Z",
+  "generatedAt": "2026-10-20T04:56:12.782Z",
   "items": [
     {
       "id": "9db7d13375ba",
@@ -63,6 +63,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-19T13:00:00.000Z",
       "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code."
+    },
+    {
+      "id": "7a364f356aab",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-19T12:00:00.000Z",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
     },
     {
       "id": "6d407442437e",
@@ -144,15 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-16T14:00:32.000Z",
       "summary": "Enterprises can now manage their dependencies' licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud"
-    },
-    {
-      "id": "90fc70b28273",
-      "title": "Continuous accountability for Verified bots",
-      "url": "https://blog.cloudflare.com/verified-bots-accountability/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-16T13:00:00.000Z",
-      "summary": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time."
     },
     {
       "id": "ff91befc1789",
