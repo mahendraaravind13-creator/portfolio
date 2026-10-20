@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-20T04:56:12.782Z",
+  "generatedAt": "2026-10-20T11:44:17.362Z",
   "items": [
+    {
+      "id": "79e072c52849",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-20T09:08:54.000Z",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 485 # Comments: 171"
+    },
+    {
+      "id": "3eb18e5ff7f2",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-20T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "efa8c4c666c6",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-19T23:22:18.000Z",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 492 # Comments: 146"
+    },
     {
       "id": "9db7d13375ba",
       "title": "Copilot model policy API for enterprise, orgs, and teams",
@@ -47,6 +74,15 @@
       "summary": "Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs."
     },
     {
+      "id": "98f4bf4049cf",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-19T16:39:09.000Z",
+      "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 479 # Comments: 206"
+    },
+    {
       "id": "8b2fe0bdc5ab",
       "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
@@ -54,6 +90,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-19T15:34:59.000Z",
       "summary": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the"
+    },
+    {
+      "id": "419420d460ec",
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-19T13:35:34.000Z",
+      "summary": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 575 # Comments: 195"
     },
     {
       "id": "acdbe7df1a24",
@@ -74,6 +119,15 @@
       "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
     },
     {
+      "id": "e7fd8cf2b322",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-19T11:24:34.000Z",
+      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box."
+    },
+    {
       "id": "6d407442437e",
       "title": "Some Git over HTTPS may temporarily require authentication",
       "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
@@ -92,67 +146,13 @@
       "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As"
     },
     {
-      "id": "9dbc0d55ff91",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-19T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "d0ee7311b2ae",
-      "title": "JEP targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC",
-      "url": "https://inside.java/2026/10/19/jep546-target-jdk28/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-19T00:00:00.000Z",
-      "summary": "The following JEP is targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC"
-    },
-    {
-      "id": "9055b43032d8",
-      "title": "Episode 72 “OpenJDK Bug Fixing, JavaOne, and JDK 28” [IJN]",
-      "url": "https://inside.java/2026/10/17/podcast-072/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-17T00:00:00.000Z",
-      "summary": "A critical bug in JDK 27 and how it was fixed, some conference news, and how JDK 28 is shaping up"
-    },
-    {
-      "id": "65442e708214",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-16T19:00:00.000Z",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-    },
-    {
-      "id": "db9c1e9d1cbd",
-      "title": "From Containers to Sandboxes: Developer Trust in the Agentic Era",
-      "url": "https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-16T16:00:00.000Z",
-      "summary": "The 2026 Stack Overflow Developer Survey shows only 7% of developers trust AI output for important decisions. Here’s what that means for running agents safely."
-    },
-    {
-      "id": "21bdf0ae3112",
-      "title": "Improving navigation experience in v0 with Next.js 16.4",
-      "url": "https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-16T15:00:00.000Z",
-      "summary": "How we used Partial Prefetching and a coding agent to improve navigation across v0 with Next.js 16.4."
-    },
-    {
-      "id": "f70342f0ac6b",
-      "title": "Open source license compliance generally available",
-      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-16T14:00:32.000Z",
-      "summary": "Enterprises can now manage their dependencies' licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud"
+      "id": "9ce4d647f3f6",
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-19T09:05:07.000Z",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Ndftcft6XhU Comments URL: https://news.ycombinator.com/item?id=50150089 Points: 565 # Comments: 129"
     },
     {
       "id": "ff91befc1789",
