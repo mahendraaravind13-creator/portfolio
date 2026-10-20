@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:13:58.617Z",
+  "generatedAt": "2026-10-20T21:40:43.401Z",
   "items": [
     {
       "id": "1b2663e01a1f",
@@ -9,6 +9,51 @@
       "category": "Developer Tools",
       "published": "2026-10-21T17:00:00.000Z",
       "summary": "Learn what is new in Visual Studio Code Insiders, including the latest features and improvements."
+    },
+    {
+      "id": "4eb9f7080b11",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-20T18:17:47.000Z",
+      "summary": ""
+    },
+    {
+      "id": "3ff47d8e81e2",
+      "title": "Bulk migrate branch protections to rulesets for a repository",
+      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-20T18:06:21.000Z",
+      "summary": "You can now convert all branch protection rules of a repository to rulesets in a single action. This is an extension of the ability to convert a single branch protection"
+    },
+    {
+      "id": "f20872bccced",
+      "title": "Updates to GitHub secret scanning",
+      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-20T18:03:55.000Z",
+      "summary": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log"
+    },
+    {
+      "id": "70e377b36043",
+      "title": "Announcing TypeScript 7.1 Beta",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+      "source": "TypeScript",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-20T17:53:06.000Z",
+      "summary": "Today we're excited to announce the beta release of TypeScript 7.1! npm install -D typescript@beta Let's take a look at what's new in TypeScript 7.1! Support for Import Attributes in Ambient Modules Import attributes are metadata that are attached to import statements."
+    },
+    {
+      "id": "7b02d478c08b",
+      "title": "Dependabot alerts REST API now includes dependency versions",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-20T17:13:40.000Z",
+      "summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert's dependency object includes a new version_requirement field with the"
     },
     {
       "id": "d4a0f01e3351",
@@ -74,6 +119,24 @@
       "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory."
     },
     {
+      "id": "b3fcb2e42d32",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-20T10:00:00.000Z",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+    },
+    {
+      "id": "dbaa90254253",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-20T00:00:00.000Z",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
+    },
+    {
       "id": "84cd8d44e982",
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "url": "https://huggingface.co/blog/hf-torchtpu",
@@ -90,69 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-20T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "id": "3eb18e5ff7f2",
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-20T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "1a7908131b3d",
-      "title": "This Week in Spring - October 20th, 2026",
-      "url": "https://spring.io/blog/2026/10/20/this-week-in-spring-october-20th-2026",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-20T00:00:00.000Z",
-      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! It's almost Halloween! What're you going dressed as, if you celebrate? I'm going dressed as PHP code."
-    },
-    {
-      "id": "7791e9dc0bee",
-      "title": "Reflect, Transform, Accelerate: Bringing GPU Computing to Java",
-      "url": "https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-20T00:00:00.000Z",
-      "summary": "Java’s code reflection API, developed in OpenJDK Project Babylon, opens a new path to targeting foreign programming models directly from Java—including GPUs."
-    },
-    {
-      "id": "9db7d13375ba",
-      "title": "Copilot model policy API for enterprise, orgs, and teams",
-      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-19T21:32:18.000Z",
-      "summary": "You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What's new GET and PATCH endpoints are now"
-    },
-    {
-      "id": "6101472dca29",
-      "title": "GitHub Copilot models deprecated on October 19, 2026",
-      "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-19T21:27:10.000Z",
-      "summary": "As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These"
-    },
-    {
-      "id": "a26c408d34d1",
-      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-19T19:12:53.000Z",
-      "summary": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews."
-    },
-    {
-      "id": "0f3dfef227c0",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-19T18:47:22.000Z",
-      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context."
     },
     {
       "id": "ff91befc1789",
