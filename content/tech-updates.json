@@ -1,14 +1,95 @@
 {
-  "generatedAt": "2026-10-20T11:44:17.362Z",
+  "generatedAt": "2026-10-20T17:13:58.617Z",
   "items": [
     {
-      "id": "79e072c52849",
-      "title": "DeepSeek just open-sourced its inference engine",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-20T09:08:54.000Z",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 485 # Comments: 171"
+      "id": "1b2663e01a1f",
+      "title": "Visual Studio Code 1.143 (Insiders)",
+      "url": "https://code.visualstudio.com/updates/v1_143",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-10-21T17:00:00.000Z",
+      "summary": "Learn what is new in Visual Studio Code Insiders, including the latest features and improvements."
+    },
+    {
+      "id": "d4a0f01e3351",
+      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-20T17:03:38.000Z",
+      "summary": "Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account."
+    },
+    {
+      "id": "0d4fac5e3f00",
+      "title": "GitHub package firewall in public preview",
+      "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-20T16:11:53.000Z",
+      "summary": "An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package's code. To stem this tide"
+    },
+    {
+      "id": "ca293d8533a3",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-20T16:09:19.000Z",
+      "summary": ""
+    },
+    {
+      "id": "d3ec3a595c33",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-20T16:05:03.000Z",
+      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results."
+    },
+    {
+      "id": "94e7f4f5c0e5",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-20T15:19:48.000Z",
+      "summary": ""
+    },
+    {
+      "id": "50fb4bee4f24",
+      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-20T13:52:38.000Z",
+      "summary": "You can now upgrade your projects to npm 12, pnpm 11 or 12, or Bun 1.4 and keep receiving Dependabot updates. Support for these package manager versions is available to"
+    },
+    {
+      "id": "c5209e141bd8",
+      "title": "Introducing tsrs: A port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-20T13:00:00.000Z",
+      "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory."
+    },
+    {
+      "id": "84cd8d44e982",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-20T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "2596ff929aee",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-20T00:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "3eb18e5ff7f2",
@@ -20,13 +101,22 @@
       "summary": ""
     },
     {
-      "id": "efa8c4c666c6",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-19T23:22:18.000Z",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 492 # Comments: 146"
+      "id": "1a7908131b3d",
+      "title": "This Week in Spring - October 20th, 2026",
+      "url": "https://spring.io/blog/2026/10/20/this-week-in-spring-october-20th-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-20T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! It's almost Halloween! What're you going dressed as, if you celebrate? I'm going dressed as PHP code."
+    },
+    {
+      "id": "7791e9dc0bee",
+      "title": "Reflect, Transform, Accelerate: Bringing GPU Computing to Java",
+      "url": "https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-20T00:00:00.000Z",
+      "summary": "Java’s code reflection API, developed in OpenJDK Project Babylon, opens a new path to targeting foreign programming models directly from Java—including GPUs."
     },
     {
       "id": "9db7d13375ba",
@@ -63,96 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-19T18:47:22.000Z",
       "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context."
-    },
-    {
-      "id": "d6e3fbf6ac8e",
-      "title": "Introducing Clairic, a new System One class of extraction models",
-      "url": "https://blog.cloudflare.com/clairic-extraction-model/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-19T17:48:26.000Z",
-      "summary": "Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs."
-    },
-    {
-      "id": "98f4bf4049cf",
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-19T16:39:09.000Z",
-      "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 479 # Comments: 206"
-    },
-    {
-      "id": "8b2fe0bdc5ab",
-      "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-19T15:34:59.000Z",
-      "summary": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the"
-    },
-    {
-      "id": "419420d460ec",
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-19T13:35:34.000Z",
-      "summary": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 575 # Comments: 195"
-    },
-    {
-      "id": "acdbe7df1a24",
-      "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
-      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-19T13:00:00.000Z",
-      "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code."
-    },
-    {
-      "id": "7a364f356aab",
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-19T12:00:00.000Z",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
-    },
-    {
-      "id": "e7fd8cf2b322",
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-19T11:24:34.000Z",
-      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box."
-    },
-    {
-      "id": "6d407442437e",
-      "title": "Some Git over HTTPS may temporarily require authentication",
-      "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-19T10:37:30.000Z",
-      "summary": "During periods of unusual traffic, GitHub may temporarily require authentication for some clones and fetches of public repositories over HTTPS to help protect github.com's availability. If an operation is affected,"
-    },
-    {
-      "id": "d409fbacfd0d",
-      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-19T10:29:09.000Z",
-      "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As"
-    },
-    {
-      "id": "9ce4d647f3f6",
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-19T09:05:07.000Z",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Ndftcft6XhU Comments URL: https://news.ycombinator.com/item?id=50150089 Points: 565 # Comments: 129"
     },
     {
       "id": "ff91befc1789",
