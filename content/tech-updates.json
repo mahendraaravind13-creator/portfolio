@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:40:43.401Z",
+  "generatedAt": "2026-10-21T04:55:40.736Z",
   "items": [
     {
       "id": "1b2663e01a1f",
@@ -9,6 +9,33 @@
       "category": "Developer Tools",
       "published": "2026-10-21T17:00:00.000Z",
       "summary": "Learn what is new in Visual Studio Code Insiders, including the latest features and improvements."
+    },
+    {
+      "id": "1778fb273dbb",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T04:00:00.000Z",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+    },
+    {
+      "id": "8d204ac3a718",
+      "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+      "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-20T22:20:16.000Z",
+      "summary": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next."
+    },
+    {
+      "id": "3e2f34074954",
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-20T18:29:09.000Z",
+      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 660 # Comments: 343"
     },
     {
       "id": "4eb9f7080b11",
@@ -92,6 +119,15 @@
       "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results."
     },
     {
+      "id": "835e678b11fa",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-20T16:02:07.000Z",
+      "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 570 # Comments: 147"
+    },
+    {
       "id": "94e7f4f5c0e5",
       "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
@@ -101,6 +137,15 @@
       "summary": ""
     },
     {
+      "id": "8ffede9af239",
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-20T13:58:33.000Z",
+      "summary": "https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 766 # Comments: 358"
+    },
+    {
       "id": "50fb4bee4f24",
       "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
       "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
@@ -108,51 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-20T13:52:38.000Z",
       "summary": "You can now upgrade your projects to npm 12, pnpm 11 or 12, or Bun 1.4 and keep receiving Dependabot updates. Support for these package manager versions is available to"
-    },
-    {
-      "id": "c5209e141bd8",
-      "title": "Introducing tsrs: A port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-20T13:00:00.000Z",
-      "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory."
-    },
-    {
-      "id": "b3fcb2e42d32",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-20T10:00:00.000Z",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
-    },
-    {
-      "id": "dbaa90254253",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-20T00:00:00.000Z",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
-    },
-    {
-      "id": "84cd8d44e982",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-20T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "2596ff929aee",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-20T00:00:00.000Z",
-      "summary": ""
     },
     {
       "id": "ff91befc1789",
