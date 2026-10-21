@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-21T17:16:29.074Z",
+  "generatedAt": "2026-10-21T21:46:26.384Z",
   "items": [
+    {
+      "id": "7104bc51c295",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T18:26:30.000Z",
+      "summary": ""
+    },
+    {
+      "id": "354f89a6c7db",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T17:35:36.000Z",
+      "summary": ""
+    },
+    {
+      "id": "4ab93569e260",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T17:00:00.000Z",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+    },
     {
       "id": "1b2663e01a1f",
       "title": "Visual Studio Code 1.143",
@@ -101,15 +128,6 @@
       "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control."
     },
     {
-      "id": "38715d90bd30",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T12:51:24.000Z",
-      "summary": ""
-    },
-    {
       "id": "61f4d0141ff3",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
@@ -135,24 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-21T07:00:00.000Z",
       "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
-    },
-    {
-      "id": "1de8e62ff715",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T04:50:00.000Z",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
-    },
-    {
-      "id": "1778fb273dbb",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T04:00:00.000Z",
-      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
     },
     {
       "id": "ff91befc1789",
