@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:56:19.211Z",
+  "generatedAt": "2026-10-21T17:16:29.074Z",
   "items": [
     {
       "id": "1b2663e01a1f",
@@ -11,13 +11,139 @@
       "summary": "Learn what's new in Visual Studio Code 1.143"
     },
     {
-      "id": "99ae24e773f8",
-      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "id": "e4263c8cf454",
+      "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-21T16:43:23.000Z",
+      "summary": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a"
+    },
+    {
+      "id": "ad8116f3d1fd",
+      "title": "Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.",
+      "url": "https://www.docker.com/blog/band-ai-agents-docker-sandboxes/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-21T16:10:49.000Z",
+      "summary": "Run AI agents in Docker Sandboxes with BAND AI. Learn how to connect isolated agents, collaborate across environments, and manage access securely."
+    },
+    {
+      "id": "f9b499debdda",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "source": "Hugging Face",
       "category": "AI & LLMs",
-      "published": "2026-10-21T10:59:42.000Z",
+      "published": "2026-10-21T16:04:43.000Z",
       "summary": ""
+    },
+    {
+      "id": "de7b920d0b90",
+      "title": "From baseline to Secure Software Factory: securing the systems that build your software",
+      "url": "https://www.docker.com/blog/from-baseline-to-secure-software-factory-securing-the-systems-that-build-your-software/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-21T16:00:00.000Z",
+      "summary": "In July, Docker, Snyk and Keycard published Agent Baseline, an open, vendor-neutral reference architecture that defines security outcomes for running AI agents in the enterprise."
+    },
+    {
+      "id": "d345d7957a6f",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-21T16:00:00.000Z",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently."
+    },
+    {
+      "id": "9b35c0bfb2f0",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T14:58:18.000Z",
+      "summary": ""
+    },
+    {
+      "id": "ad57fe470f5c",
+      "title": "Introducing full transaction detection for Cloudflare WAF",
+      "url": "https://blog.cloudflare.com/full-transaction-waf/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-21T14:10:42.000Z",
+      "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss."
+    },
+    {
+      "id": "daa5082a90c1",
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-21T13:56:45.000Z",
+      "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers."
+    },
+    {
+      "id": "74fcf21eca7a",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T13:00:00.000Z",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+    },
+    {
+      "id": "1318e449418c",
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-21T13:00:00.000Z",
+      "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control."
+    },
+    {
+      "id": "38715d90bd30",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T12:51:24.000Z",
+      "summary": ""
+    },
+    {
+      "id": "61f4d0141ff3",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T12:00:00.000Z",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+    },
+    {
+      "id": "d3f519557f32",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T07:00:00.000Z",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+    },
+    {
+      "id": "edef63b51aed",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T07:00:00.000Z",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+    },
+    {
+      "id": "1de8e62ff715",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T04:50:00.000Z",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
     },
     {
       "id": "1778fb273dbb",
@@ -27,132 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-21T04:00:00.000Z",
       "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
-    },
-    {
-      "id": "e7bdc4707706",
-      "title": "The Future of CSS",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-21T01:47:28.000Z",
-      "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 416 # Comments: 170"
-    },
-    {
-      "id": "5a873a29ff81",
-      "title": "JEP targeted to JDK 28: 543: Structured Concurrency",
-      "url": "https://inside.java/2026/10/21/jep543-target-jdk28/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-21T00:00:00.000Z",
-      "summary": "The following JEP is targeted to JDK 28: 543: Structured Concurrency"
-    },
-    {
-      "id": "8d204ac3a718",
-      "title": "8 eMudhra certificates are compromised. Here's what you need to know",
-      "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-20T22:20:16.000Z",
-      "summary": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next."
-    },
-    {
-      "id": "428d542adc49",
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "url": "https://news-web.php.net/php.announce/509",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-20T20:15:50.000Z",
-      "summary": "https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 1069 # Comments: 441"
-    },
-    {
-      "id": "3e2f34074954",
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-20T18:29:09.000Z",
-      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 825 # Comments: 384"
-    },
-    {
-      "id": "3ff47d8e81e2",
-      "title": "Bulk migrate branch protections to rulesets for a repository",
-      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-20T18:06:21.000Z",
-      "summary": "You can now convert all branch protection rules of a repository to rulesets in a single action. This is an extension of the ability to convert a single branch protection"
-    },
-    {
-      "id": "f20872bccced",
-      "title": "Updates to GitHub secret scanning",
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-20T18:03:55.000Z",
-      "summary": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log"
-    },
-    {
-      "id": "70e377b36043",
-      "title": "Announcing TypeScript 7.1 Beta",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
-      "source": "TypeScript",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-20T17:53:06.000Z",
-      "summary": "Today we're excited to announce the beta release of TypeScript 7.1! npm install -D typescript@beta Let's take a look at what's new in TypeScript 7.1! Support for Import Attributes in Ambient Modules Import attributes are metadata that are attached to import statements."
-    },
-    {
-      "id": "c6afd5cf7a3f",
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-20T17:25:07.000Z",
-      "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 416 # Comments: 488"
-    },
-    {
-      "id": "7b02d478c08b",
-      "title": "Dependabot alerts REST API now includes dependency versions",
-      "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-20T17:13:40.000Z",
-      "summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert's dependency object includes a new version_requirement field with the"
-    },
-    {
-      "id": "d4a0f01e3351",
-      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-20T17:03:38.000Z",
-      "summary": "Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account."
-    },
-    {
-      "id": "0d4fac5e3f00",
-      "title": "GitHub package firewall in public preview",
-      "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-20T16:11:53.000Z",
-      "summary": "An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package's code. To stem this tide"
-    },
-    {
-      "id": "ca293d8533a3",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-20T16:09:19.000Z",
-      "summary": ""
-    },
-    {
-      "id": "d3ec3a595c33",
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-20T16:05:03.000Z",
-      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results."
     },
     {
       "id": "ff91befc1789",
