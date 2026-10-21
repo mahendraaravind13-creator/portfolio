@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-21T04:55:40.736Z",
+  "generatedAt": "2026-10-21T11:56:19.211Z",
   "items": [
     {
       "id": "1b2663e01a1f",
-      "title": "Visual Studio Code 1.143 (Insiders)",
+      "title": "Visual Studio Code 1.143",
       "url": "https://code.visualstudio.com/updates/v1_143",
       "source": "VS Code",
       "category": "Developer Tools",
       "published": "2026-10-21T17:00:00.000Z",
-      "summary": "Learn what is new in Visual Studio Code Insiders, including the latest features and improvements."
+      "summary": "Learn what's new in Visual Studio Code 1.143"
+    },
+    {
+      "id": "99ae24e773f8",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T10:59:42.000Z",
+      "summary": ""
     },
     {
       "id": "1778fb273dbb",
@@ -20,6 +29,24 @@
       "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
     },
     {
+      "id": "e7bdc4707706",
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-21T01:47:28.000Z",
+      "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 416 # Comments: 170"
+    },
+    {
+      "id": "5a873a29ff81",
+      "title": "JEP targeted to JDK 28: 543: Structured Concurrency",
+      "url": "https://inside.java/2026/10/21/jep543-target-jdk28/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-21T00:00:00.000Z",
+      "summary": "The following JEP is targeted to JDK 28: 543: Structured Concurrency"
+    },
+    {
       "id": "8d204ac3a718",
       "title": "8 eMudhra certificates are compromised. Here's what you need to know",
       "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
@@ -29,22 +56,22 @@
       "summary": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next."
     },
     {
+      "id": "428d542adc49",
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-20T20:15:50.000Z",
+      "summary": "https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 1069 # Comments: 441"
+    },
+    {
       "id": "3e2f34074954",
       "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-20T18:29:09.000Z",
-      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 660 # Comments: 343"
-    },
-    {
-      "id": "4eb9f7080b11",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-20T18:17:47.000Z",
-      "summary": ""
+      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 825 # Comments: 384"
     },
     {
       "id": "3ff47d8e81e2",
@@ -72,6 +99,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-20T17:53:06.000Z",
       "summary": "Today we're excited to announce the beta release of TypeScript 7.1! npm install -D typescript@beta Let's take a look at what's new in TypeScript 7.1! Support for Import Attributes in Ambient Modules Import attributes are metadata that are attached to import statements."
+    },
+    {
+      "id": "c6afd5cf7a3f",
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-20T17:25:07.000Z",
+      "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 416 # Comments: 488"
     },
     {
       "id": "7b02d478c08b",
@@ -117,42 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-20T16:05:03.000Z",
       "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results."
-    },
-    {
-      "id": "835e678b11fa",
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-20T16:02:07.000Z",
-      "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 570 # Comments: 147"
-    },
-    {
-      "id": "94e7f4f5c0e5",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-20T15:19:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "8ffede9af239",
-      "title": "eMudhra intermediate CA compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-20T13:58:33.000Z",
-      "summary": "https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 766 # Comments: 358"
-    },
-    {
-      "id": "50fb4bee4f24",
-      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
-      "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-20T13:52:38.000Z",
-      "summary": "You can now upgrade your projects to npm 12, pnpm 11 or 12, or Bun 1.4 and keep receiving Dependabot updates. Support for these package manager versions is available to"
     },
     {
       "id": "ff91befc1789",
