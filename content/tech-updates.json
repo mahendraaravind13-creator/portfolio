@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-22T04:55:10.837Z",
+  "generatedAt": "2026-10-22T11:58:41.284Z",
   "items": [
+    {
+      "id": "51179ce3e672",
+      "title": "ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers",
+      "url": "https://www.docker.com/blog/docker-activestate-partnership/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-22T11:30:00.000Z",
+      "summary": "Container security spans the image, build, and runtime. See the practical steps that shrink your attack surface and keep vulnerabilities out of production."
+    },
+    {
+      "id": "5d118fadbe79",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-22T07:51:31.000Z",
+      "summary": ""
+    },
     {
       "id": "2ed22a61b2f1",
       "title": "Broad access through consistent standards",
@@ -20,15 +38,6 @@
       "summary": ""
     },
     {
-      "id": "af5d3897eb07",
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-21T17:45:13.000Z",
-      "summary": "https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 449 # Comments: 283"
-    },
-    {
       "id": "354f89a6c7db",
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
@@ -36,15 +45,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-21T17:35:36.000Z",
       "summary": ""
-    },
-    {
-      "id": "bbc988e4da29",
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-21T17:29:33.000Z",
-      "summary": "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 580 # Comments: 350"
     },
     {
       "id": "4ab93569e260",
@@ -110,15 +110,6 @@
       "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently."
     },
     {
-      "id": "5ae1819d713f",
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-21T15:48:56.000Z",
-      "summary": "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 ) Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 700 # Comments: 346"
-    },
-    {
       "id": "9b35c0bfb2f0",
       "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
@@ -137,15 +128,6 @@
       "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss."
     },
     {
-      "id": "871d740e46f9",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-21T14:00:26.000Z",
-      "summary": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 466 # Comments: 158"
-    },
-    {
       "id": "daa5082a90c1",
       "title": "Cloudflare deploys protections against php2shell vulnerability",
       "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
@@ -153,6 +135,24 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-21T13:56:45.000Z",
       "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers."
+    },
+    {
+      "id": "74fcf21eca7a",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-21T13:00:00.000Z",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+    },
+    {
+      "id": "1318e449418c",
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-21T13:00:00.000Z",
+      "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control."
     },
     {
       "id": "ff91befc1789",
