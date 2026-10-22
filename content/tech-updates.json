@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-22T17:14:38.736Z",
+  "generatedAt": "2026-10-22T21:40:33.702Z",
   "items": [
+    {
+      "id": "658f804bcd1d",
+      "title": "Global default for Copilot features generally available",
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-22T20:44:28.000Z",
+      "summary": "In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans. Starting today, we're gradually rolling"
+    },
+    {
+      "id": "f45aa9c83d4e",
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-22T20:33:10.000Z",
+      "summary": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination."
+    },
+    {
+      "id": "27825e300358",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-22T19:00:00.000Z",
+      "summary": "Fast, focused, low-cost decisions for any application."
+    },
+    {
+      "id": "9e2347f83650",
+      "title": "Meta API endpoints updated for Actions blob storage",
+      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-22T18:14:16.000Z",
+      "summary": "We're adding blob storage endpoints for GitHub Actions on github.com as part of our ongoing work to improve capacity and reliability. The meta API now includes these new endpoints. If"
+    },
+    {
+      "id": "b72f858af9a1",
+      "title": "Public monitoring now available with data residency",
+      "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-22T18:12:58.000Z",
+      "summary": "Public monitoring is now available in public preview for GitHub Enterprise Cloud with data residency (GHEC DR). Public monitoring with data residency Public monitoring extends secret scanning beyond internal repositories"
+    },
+    {
+      "id": "9a5f283c00b1",
+      "title": "Pull requests: Saved whitespace preferences and improved split view",
+      "url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-22T17:24:56.000Z",
+      "summary": "Two improvements make it easier to review pull requests in the \"Files changed\" page: You can save your whitespace visibility preference across pull requests New and deleted files now use"
+    },
+    {
+      "id": "a55661f586f7",
+      "title": "Security Update on PHP2Shell: Impact for Docker Customers",
+      "url": "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-22T17:22:47.000Z",
+      "summary": "On Tuesday, October 20, 2026, Docker began tracking two critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619, commonly known as PHP2Shell."
+    },
+    {
+      "id": "09be57be38cc",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-22T17:21:30.000Z",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers."
+    },
     {
       "id": "c655f75f90af",
       "title": "Industry comparisons in the Copilot impact dashboard",
@@ -20,6 +92,15 @@
       "summary": ""
     },
     {
+      "id": "43a30fc6a7f8",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-22T14:32:38.000Z",
+      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 791 # Comments: 297"
+    },
+    {
       "id": "e66e9796ba6b",
       "title": "Beyond tree cover: mapping the world’s forest types",
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -35,7 +116,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-22T13:33:39.000Z",
-      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 543 # Comments: 416"
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 848 # Comments: 587"
     },
     {
       "id": "9873cb1e1a06",
@@ -62,7 +143,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-22T08:01:52.000Z",
-      "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 495 # Comments: 181"
+      "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 640 # Comments: 229"
     },
     {
       "id": "5d118fadbe79",
@@ -71,87 +152,6 @@
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-10-22T07:51:31.000Z",
-      "summary": ""
-    },
-    {
-      "id": "63c31ca523f9",
-      "title": "What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-22T06:00:00.000Z",
-      "summary": "What forward deployed engineering means at OpenAI"
-    },
-    {
-      "id": "7561119c6ee1",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-22T02:18:41.000Z",
-      "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 431 # Comments: 134"
-    },
-    {
-      "id": "ba6fa07d677a",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-22T00:00:00.000Z",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-    },
-    {
-      "id": "550d7b7f81d3",
-      "title": "What's Going Wrong with My JVM?! A Guide to First-Time Failure Diagnosis",
-      "url": "https://inside.java/2026/10/22/jvm-diagnosis/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-22T00:00:00.000Z",
-      "summary": "It's 2 AM Friday night when you get alerts your primary business application stopped responding and user tickets are piling up. For situations like these, you need to have already captured the data that can help you quickly get a sense of what's going wrong."
-    },
-    {
-      "id": "5699ea0146a9",
-      "title": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-21T21:58:03.000Z",
-      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 553 # Comments: 322"
-    },
-    {
-      "id": "2ed22a61b2f1",
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T21:00:00.000Z",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-    },
-    {
-      "id": "5dbb54a00540",
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-21T19:14:01.000Z",
-      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 514 # Comments: 474"
-    },
-    {
-      "id": "7104bc51c295",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T18:26:30.000Z",
-      "summary": ""
-    },
-    {
-      "id": "354f89a6c7db",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T17:35:36.000Z",
       "summary": ""
     },
     {
