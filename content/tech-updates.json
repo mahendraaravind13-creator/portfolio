@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-22T11:58:41.284Z",
+  "generatedAt": "2026-10-22T17:14:38.736Z",
   "items": [
+    {
+      "id": "c655f75f90af",
+      "title": "Industry comparisons in the Copilot impact dashboard",
+      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-22T16:28:24.000Z",
+      "summary": "The Copilot impact dashboard now includes an \"Industry comparison\" section. Enterprises, and organizations that aren't owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks"
+    },
+    {
+      "id": "eaa0ebff7daf",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-22T16:11:31.000Z",
+      "summary": ""
+    },
+    {
+      "id": "e66e9796ba6b",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-22T14:30:24.000Z",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+    },
+    {
+      "id": "c857d00b04e6",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-22T13:33:39.000Z",
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 543 # Comments: 416"
+    },
+    {
+      "id": "9873cb1e1a06",
+      "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+      "url": "https://blog.cloudflare.com/k-isms/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-22T13:00:00.000Z",
+      "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program."
+    },
     {
       "id": "51179ce3e672",
       "title": "ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers",
@@ -9,6 +54,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-22T11:30:00.000Z",
       "summary": "Container security spans the image, build, and runtime. See the practical steps that shrink your attack surface and keep vulnerabilities out of production."
+    },
+    {
+      "id": "401cc970cbdd",
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-22T08:01:52.000Z",
+      "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 495 # Comments: 181"
     },
     {
       "id": "5d118fadbe79",
@@ -20,6 +74,51 @@
       "summary": ""
     },
     {
+      "id": "63c31ca523f9",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-22T06:00:00.000Z",
+      "summary": "What forward deployed engineering means at OpenAI"
+    },
+    {
+      "id": "7561119c6ee1",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-22T02:18:41.000Z",
+      "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 431 # Comments: 134"
+    },
+    {
+      "id": "ba6fa07d677a",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-22T00:00:00.000Z",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+    },
+    {
+      "id": "550d7b7f81d3",
+      "title": "What's Going Wrong with My JVM?! A Guide to First-Time Failure Diagnosis",
+      "url": "https://inside.java/2026/10/22/jvm-diagnosis/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-22T00:00:00.000Z",
+      "summary": "It's 2 AM Friday night when you get alerts your primary business application stopped responding and user tickets are piling up. For situations like these, you need to have already captured the data that can help you quickly get a sense of what's going wrong."
+    },
+    {
+      "id": "5699ea0146a9",
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-21T21:58:03.000Z",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 553 # Comments: 322"
+    },
+    {
       "id": "2ed22a61b2f1",
       "title": "Broad access through consistent standards",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
@@ -27,6 +126,15 @@
       "category": "AI & LLMs",
       "published": "2026-10-21T21:00:00.000Z",
       "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+    },
+    {
+      "id": "5dbb54a00540",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-21T19:14:01.000Z",
+      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 514 # Comments: 474"
     },
     {
       "id": "7104bc51c295",
@@ -45,114 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-21T17:35:36.000Z",
       "summary": ""
-    },
-    {
-      "id": "4ab93569e260",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T17:00:00.000Z",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-    },
-    {
-      "id": "1b2663e01a1f",
-      "title": "Visual Studio Code 1.143",
-      "url": "https://code.visualstudio.com/updates/v1_143",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-10-21T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.143"
-    },
-    {
-      "id": "e4263c8cf454",
-      "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-21T16:43:23.000Z",
-      "summary": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a"
-    },
-    {
-      "id": "ad8116f3d1fd",
-      "title": "Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.",
-      "url": "https://www.docker.com/blog/band-ai-agents-docker-sandboxes/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-21T16:10:49.000Z",
-      "summary": "Run AI agents in Docker Sandboxes with BAND AI. Learn how to connect isolated agents, collaborate across environments, and manage access securely."
-    },
-    {
-      "id": "f9b499debdda",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T16:04:43.000Z",
-      "summary": ""
-    },
-    {
-      "id": "de7b920d0b90",
-      "title": "From baseline to Secure Software Factory: securing the systems that build your software",
-      "url": "https://www.docker.com/blog/from-baseline-to-secure-software-factory-securing-the-systems-that-build-your-software/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-21T16:00:00.000Z",
-      "summary": "In July, Docker, Snyk and Keycard published Agent Baseline, an open, vendor-neutral reference architecture that defines security outcomes for running AI agents in the enterprise."
-    },
-    {
-      "id": "d345d7957a6f",
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-21T16:00:00.000Z",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently."
-    },
-    {
-      "id": "9b35c0bfb2f0",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T14:58:18.000Z",
-      "summary": ""
-    },
-    {
-      "id": "ad57fe470f5c",
-      "title": "Introducing full transaction detection for Cloudflare WAF",
-      "url": "https://blog.cloudflare.com/full-transaction-waf/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-21T14:10:42.000Z",
-      "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss."
-    },
-    {
-      "id": "daa5082a90c1",
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-21T13:56:45.000Z",
-      "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers."
-    },
-    {
-      "id": "74fcf21eca7a",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-21T13:00:00.000Z",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "id": "1318e449418c",
-      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-      "url": "https://blog.cloudflare.com/webmcp-commerce/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-21T13:00:00.000Z",
-      "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control."
     },
     {
       "id": "ff91befc1789",
