@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-23T11:44:44.041Z",
+  "generatedAt": "2026-10-23T17:12:57.829Z",
   "items": [
+    {
+      "id": "298c8de07d18",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-23T17:00:00.000Z",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+    },
+    {
+      "id": "d5dfb55b0129",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-23T16:15:50.000Z",
+      "summary": ""
+    },
+    {
+      "id": "09f5c3d32ac1",
+      "title": "Enterprise installations for GitHub Apps generally available",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-23T15:03:30.000Z",
+      "summary": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API"
+    },
     {
       "id": "ab26bfe89fae",
       "title": "GitHub Copilot in Visual Studio — September update",
@@ -20,13 +47,31 @@
       "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
     },
     {
-      "id": "5e98e89e4d91",
-      "title": "Spring Boot 4.1.2 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
+      "id": "6430909168b5",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "67633cee8781",
+      "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
+      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
       "source": "Spring",
       "category": "Frameworks & Languages",
       "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.2 has been released and is now available from Maven Central. This release includes 126 bug fixes, documentation improvements, and dependency upgrades ."
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-RC1 and 2.0.2 have been released and are now available from Maven Central!"
+    },
+    {
+      "id": "4d3eb4f5f9c9",
+      "title": "Spring Cloud 2025.1.4 (aka Northfields) Has Been Released",
+      "url": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary": "On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.4 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.4 release notes for more information ."
     },
     {
       "id": "d56f64672547",
@@ -38,22 +83,13 @@
       "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-RC1 has been released and is now available from Maven Central. This release includes 113 enhancements, documentation improvements, dependency upgrades, and bug fixes ."
     },
     {
-      "id": "fc162148b0d4",
-      "title": "Spring Boot 4.0.9 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
+      "id": "5e98e89e4d91",
+      "title": "Spring Boot 4.1.2 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
       "source": "Spring",
       "category": "Frameworks & Languages",
       "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.0.9 has been released and is now available from Maven Central. This release includes 99 bug fixes, documentation improvements, and dependency upgrades ."
-    },
-    {
-      "id": "0584b5caf44f",
-      "title": "Spring Modulith 2.2 RC1, 2.1.2, 2.0.9, and 1.4.14 released",
-      "url": "https://spring.io/blog/2026/10/23/spring-modulith-2-2-rc1-2-1-2-2-0-9-and-1-4-14-released",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the community, I am excited to announce the availability of Spring Modulith 2.2 RC1, 2.1.2, 2.0.9, and 1.4.14. The bug fix releases primarily ship the usual dependency upgrades, plus a number of fixes to the event publication registry that have been ported back where applicable."
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.2 has been released and is now available from Maven Central. This release includes 126 bug fixes, documentation improvements, and dependency upgrades ."
     },
     {
       "id": "8583ab430ee3",
@@ -71,7 +107,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-22T23:45:56.000Z",
-      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 538 # Comments: 234"
+      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 756 # Comments: 303"
     },
     {
       "id": "76226e9df68a",
@@ -80,7 +116,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-22T23:01:18.000Z",
-      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 487 # Comments: 116"
+      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 940 # Comments: 181"
+    },
+    {
+      "id": "1360bd8eb5a8",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-22T22:54:43.000Z",
+      "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 412 # Comments: 252"
     },
     {
       "id": "95eb6975ad24",
@@ -101,58 +146,13 @@
       "summary": "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under"
     },
     {
-      "id": "658f804bcd1d",
-      "title": "Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-22T20:44:28.000Z",
-      "summary": "In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans. Starting today, we're gradually rolling"
-    },
-    {
-      "id": "f45aa9c83d4e",
-      "title": "AWS Continuum for code vulnerabilities is now generally available",
-      "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-22T20:33:10.000Z",
-      "summary": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination."
-    },
-    {
-      "id": "27825e300358",
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-22T19:00:00.000Z",
-      "summary": "Fast, focused, low-cost decisions for any application."
-    },
-    {
-      "id": "9e2347f83650",
-      "title": "Meta API endpoints updated for Actions blob storage",
-      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-22T18:14:16.000Z",
-      "summary": "We're adding blob storage endpoints for GitHub Actions on github.com as part of our ongoing work to improve capacity and reliability. The meta API now includes these new endpoints. If"
-    },
-    {
-      "id": "b72f858af9a1",
-      "title": "Public monitoring now available with data residency",
-      "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-22T18:12:58.000Z",
-      "summary": "Public monitoring is now available in public preview for GitHub Enterprise Cloud with data residency (GHEC DR). Public monitoring with data residency Public monitoring extends secret scanning beyond internal repositories"
-    },
-    {
-      "id": "4dcdb9557827",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
+      "id": "ce7fed74f496",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-22T17:44:06.000Z",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 412 # Comments: 195"
+      "published": "2026-10-22T21:03:55.000Z",
+      "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?"
     },
     {
       "id": "ff91befc1789",
