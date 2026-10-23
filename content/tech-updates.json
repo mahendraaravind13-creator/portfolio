@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-22T21:40:33.702Z",
+  "generatedAt": "2026-10-23T04:57:07.909Z",
   "items": [
+    {
+      "id": "ab26bfe89fae",
+      "title": "GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-23T00:17:51.000Z",
+      "summary": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags"
+    },
+    {
+      "id": "95eb6975ad24",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-22T22:24:34.000Z",
+      "summary": ""
+    },
+    {
+      "id": "be8869e5946c",
+      "title": "Custom skills, agents, and MCP servers in usage metrics API",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-22T22:19:17.000Z",
+      "summary": "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under"
+    },
     {
       "id": "658f804bcd1d",
       "title": "Global default for Copilot features generally available",
@@ -74,15 +101,6 @@
       "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers."
     },
     {
-      "id": "c655f75f90af",
-      "title": "Industry comparisons in the Copilot impact dashboard",
-      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-22T16:28:24.000Z",
-      "summary": "The Copilot impact dashboard now includes an \"Industry comparison\" section. Enterprises, and organizations that aren't owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks"
-    },
-    {
       "id": "eaa0ebff7daf",
       "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
@@ -98,7 +116,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-22T14:32:38.000Z",
-      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 791 # Comments: 297"
+      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 1073 # Comments: 383"
     },
     {
       "id": "e66e9796ba6b",
@@ -116,7 +134,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-22T13:33:39.000Z",
-      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 848 # Comments: 587"
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 986 # Comments: 658"
+    },
+    {
+      "id": "5c6af7d29d4e",
+      "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
+      "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-22T13:11:00.000Z",
+      "summary": "Article URL: https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/ Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 596 # Comments: 591"
     },
     {
       "id": "9873cb1e1a06",
@@ -126,33 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-22T13:00:00.000Z",
       "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program."
-    },
-    {
-      "id": "51179ce3e672",
-      "title": "ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers",
-      "url": "https://www.docker.com/blog/docker-activestate-partnership/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-22T11:30:00.000Z",
-      "summary": "Container security spans the image, build, and runtime. See the practical steps that shrink your attack surface and keep vulnerabilities out of production."
-    },
-    {
-      "id": "401cc970cbdd",
-      "title": "Jailbreaking the Switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-22T08:01:52.000Z",
-      "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 640 # Comments: 229"
-    },
-    {
-      "id": "5d118fadbe79",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-22T07:51:31.000Z",
-      "summary": ""
     },
     {
       "id": "ff91befc1789",
