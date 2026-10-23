@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-23T17:12:57.829Z",
+  "generatedAt": "2026-10-23T21:27:41.139Z",
   "items": [
+    {
+      "id": "94660a1aa166",
+      "title": "Origin Range Requests: Serving large files without range-request tuning",
+      "url": "https://blog.cloudflare.com/origin-range-requests/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-23T18:22:59.000Z",
+      "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half."
+    },
+    {
+      "id": "c3aa2fd898c5",
+      "title": "Bringing post-quantum cryptography to geographically fenced key management",
+      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-23T18:06:56.000Z",
+      "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world."
+    },
     {
       "id": "298c8de07d18",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -9,6 +27,24 @@
       "category": "AI & LLMs",
       "published": "2026-10-23T17:00:00.000Z",
       "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+    },
+    {
+      "id": "1fd8476b4493",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-23T16:59:08.000Z",
+      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 519 # Comments: 320"
+    },
+    {
+      "id": "46834880ed25",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-23T16:21:50.000Z",
+      "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 596 # Comments: 402"
     },
     {
       "id": "d5dfb55b0129",
@@ -27,6 +63,15 @@
       "category": "Developer Tools",
       "published": "2026-10-23T15:03:30.000Z",
       "summary": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API"
+    },
+    {
+      "id": "48e2274fdf2b",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-23T10:00:00.000Z",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
     },
     {
       "id": "ab26bfe89fae",
@@ -101,58 +146,13 @@
       "summary": "Pooled confined arenas provide a significant performance improvement for short-lived native allocations."
     },
     {
-      "id": "46a214f27141",
-      "title": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-22T23:45:56.000Z",
-      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 756 # Comments: 303"
-    },
-    {
       "id": "76226e9df68a",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-22T23:01:18.000Z",
-      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 940 # Comments: 181"
-    },
-    {
-      "id": "1360bd8eb5a8",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-22T22:54:43.000Z",
-      "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 412 # Comments: 252"
-    },
-    {
-      "id": "95eb6975ad24",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-22T22:24:34.000Z",
-      "summary": ""
-    },
-    {
-      "id": "be8869e5946c",
-      "title": "Custom skills, agents, and MCP servers in usage metrics API",
-      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-22T22:19:17.000Z",
-      "summary": "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under"
-    },
-    {
-      "id": "ce7fed74f496",
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "url": "https://news.ycombinator.com/item?id=50200997",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-22T21:03:55.000Z",
-      "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?"
+      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 1121 # Comments: 218"
     },
     {
       "id": "ff91befc1789",
