@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:57:07.909Z",
+  "generatedAt": "2026-10-23T11:44:44.041Z",
   "items": [
     {
       "id": "ab26bfe89fae",
@@ -9,6 +9,78 @@
       "category": "Developer Tools",
       "published": "2026-10-23T00:17:51.000Z",
       "summary": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags"
+    },
+    {
+      "id": "15c1f8ef7a58",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+    },
+    {
+      "id": "5e98e89e4d91",
+      "title": "Spring Boot 4.1.2 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.2 has been released and is now available from Maven Central. This release includes 126 bug fixes, documentation improvements, and dependency upgrades ."
+    },
+    {
+      "id": "d56f64672547",
+      "title": "Spring Boot 4.2.0-RC1 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-RC1 has been released and is now available from Maven Central. This release includes 113 enhancements, documentation improvements, dependency upgrades, and bug fixes ."
+    },
+    {
+      "id": "fc162148b0d4",
+      "title": "Spring Boot 4.0.9 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.0.9 has been released and is now available from Maven Central. This release includes 99 bug fixes, documentation improvements, and dependency upgrades ."
+    },
+    {
+      "id": "0584b5caf44f",
+      "title": "Spring Modulith 2.2 RC1, 2.1.2, 2.0.9, and 1.4.14 released",
+      "url": "https://spring.io/blog/2026/10/23/spring-modulith-2-2-rc1-2-1-2-2-0-9-and-1-4-14-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary": "On behalf of the community, I am excited to announce the availability of Spring Modulith 2.2 RC1, 2.1.2, 2.0.9, and 1.4.14. The bug fix releases primarily ship the usual dependency upgrades, plus a number of fixes to the event publication registry that have been ported back where applicable."
+    },
+    {
+      "id": "8583ab430ee3",
+      "title": "Allocating Off-Heap Memory: Typically 6-18x Faster in JDK 28",
+      "url": "https://inside.java/2026/10/23/confined-pools/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary": "Pooled confined arenas provide a significant performance improvement for short-lived native allocations."
+    },
+    {
+      "id": "46a214f27141",
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-22T23:45:56.000Z",
+      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 538 # Comments: 234"
+    },
+    {
+      "id": "76226e9df68a",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-22T23:01:18.000Z",
+      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 487 # Comments: 116"
     },
     {
       "id": "95eb6975ad24",
@@ -74,85 +146,13 @@
       "summary": "Public monitoring is now available in public preview for GitHub Enterprise Cloud with data residency (GHEC DR). Public monitoring with data residency Public monitoring extends secret scanning beyond internal repositories"
     },
     {
-      "id": "9a5f283c00b1",
-      "title": "Pull requests: Saved whitespace preferences and improved split view",
-      "url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-22T17:24:56.000Z",
-      "summary": "Two improvements make it easier to review pull requests in the \"Files changed\" page: You can save your whitespace visibility preference across pull requests New and deleted files now use"
-    },
-    {
-      "id": "a55661f586f7",
-      "title": "Security Update on PHP2Shell: Impact for Docker Customers",
-      "url": "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-22T17:22:47.000Z",
-      "summary": "On Tuesday, October 20, 2026, Docker began tracking two critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619, commonly known as PHP2Shell."
-    },
-    {
-      "id": "09be57be38cc",
-      "title": "How bug bounty sharpens one researcher’s security skills",
-      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-22T17:21:30.000Z",
-      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers."
-    },
-    {
-      "id": "eaa0ebff7daf",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-22T16:11:31.000Z",
-      "summary": ""
-    },
-    {
-      "id": "43a30fc6a7f8",
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "id": "4dcdb9557827",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-22T14:32:38.000Z",
-      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 1073 # Comments: 383"
-    },
-    {
-      "id": "e66e9796ba6b",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-10-22T14:30:24.000Z",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
-    },
-    {
-      "id": "c857d00b04e6",
-      "title": "eMudhra to exit global SSL/TLS certificate business",
-      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-22T13:33:39.000Z",
-      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 986 # Comments: 658"
-    },
-    {
-      "id": "5c6af7d29d4e",
-      "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
-      "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-22T13:11:00.000Z",
-      "summary": "Article URL: https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/ Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 596 # Comments: 591"
-    },
-    {
-      "id": "9873cb1e1a06",
-      "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
-      "url": "https://blog.cloudflare.com/k-isms/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-22T13:00:00.000Z",
-      "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program."
+      "published": "2026-10-22T17:44:06.000Z",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 412 # Comments: 195"
     },
     {
       "id": "ff91befc1789",
