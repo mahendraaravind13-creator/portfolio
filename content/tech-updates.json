@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-23T21:27:41.139Z",
+  "generatedAt": "2026-10-24T04:42:14.253Z",
   "items": [
+    {
+      "id": "ba4d3ab8dded",
+      "title": "Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-23T23:42:03.000Z",
+      "summary": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren't previously captured in your reports."
+    },
+    {
+      "id": "62c869d7dbe2",
+      "title": "Turn notifications into code with GitHub Copilot in Teams",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-23T21:29:58.000Z",
+      "summary": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group"
+    },
+    {
+      "id": "2d587e070d12",
+      "title": "EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-23T18:56:18.000Z",
+      "summary": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a"
+    },
     {
       "id": "94660a1aa166",
       "title": "Origin Range Requests: Serving large files without range-request tuning",
@@ -20,6 +47,15 @@
       "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world."
     },
     {
+      "id": "248f354eb1af",
+      "title": "Public monitoring adds triage, validity, API, and webhooks",
+      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-23T17:17:58.000Z",
+      "summary": "Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and filtering Always-on validity"
+    },
+    {
       "id": "298c8de07d18",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -35,7 +71,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-23T16:59:08.000Z",
-      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 519 # Comments: 320"
+      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 792 # Comments: 484"
     },
     {
       "id": "46834880ed25",
@@ -44,7 +80,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-23T16:21:50.000Z",
-      "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 596 # Comments: 402"
+      "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 791 # Comments: 527"
     },
     {
       "id": "d5dfb55b0129",
@@ -63,6 +99,15 @@
       "category": "Developer Tools",
       "published": "2026-10-23T15:03:30.000Z",
       "summary": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API"
+    },
+    {
+      "id": "adb9608fdcbc",
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-23T12:28:47.000Z",
+      "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 659 # Comments: 210"
     },
     {
       "id": "48e2274fdf2b",
@@ -108,51 +153,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-23T00:00:00.000Z",
       "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-RC1 and 2.0.2 have been released and are now available from Maven Central!"
-    },
-    {
-      "id": "4d3eb4f5f9c9",
-      "title": "Spring Cloud 2025.1.4 (aka Northfields) Has Been Released",
-      "url": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.4 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.4 release notes for more information ."
-    },
-    {
-      "id": "d56f64672547",
-      "title": "Spring Boot 4.2.0-RC1 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-RC1 has been released and is now available from Maven Central. This release includes 113 enhancements, documentation improvements, dependency upgrades, and bug fixes ."
-    },
-    {
-      "id": "5e98e89e4d91",
-      "title": "Spring Boot 4.1.2 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.2 has been released and is now available from Maven Central. This release includes 126 bug fixes, documentation improvements, and dependency upgrades ."
-    },
-    {
-      "id": "8583ab430ee3",
-      "title": "Allocating Off-Heap Memory: Typically 6-18x Faster in JDK 28",
-      "url": "https://inside.java/2026/10/23/confined-pools/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "Pooled confined arenas provide a significant performance improvement for short-lived native allocations."
-    },
-    {
-      "id": "76226e9df68a",
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-22T23:01:18.000Z",
-      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 1121 # Comments: 218"
     },
     {
       "id": "ff91befc1789",
