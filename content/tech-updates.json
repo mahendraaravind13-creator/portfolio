@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-25T04:47:51.350Z",
+  "generatedAt": "2026-10-25T11:38:02.940Z",
   "items": [
     {
-      "id": "031828a0b81e",
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
+      "id": "1c7c260bd7a6",
+      "title": "JEP targeted to JDK 28: 544: Ahead-of-Time Code Compilation",
+      "url": "https://inside.java/2026/10/25/jep544-target-jdk28/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-25T00:00:00.000Z",
+      "summary": "The following JEP is targeted to JDK 28: 544: Ahead-of-Time Code Compilation"
+    },
+    {
+      "id": "90bf1782f390",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-24T20:30:31.000Z",
-      "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 438 # Comments: 264"
+      "published": "2026-10-24T21:47:31.000Z",
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 465 # Comments: 410"
+    },
+    {
+      "id": "01ffbd34f502",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-24T19:06:55.000Z",
+      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 430 # Comments: 263"
     },
     {
       "id": "ba4d3ab8dded",
@@ -135,24 +153,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-23T00:00:00.000Z",
       "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-RC1 and 2.0.2 have been released and are now available from Maven Central!"
-    },
-    {
-      "id": "fc162148b0d4",
-      "title": "Spring Boot 4.0.9 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.0.9 has been released and is now available from Maven Central. This release includes 99 bug fixes, documentation improvements, and dependency upgrades ."
-    },
-    {
-      "id": "5e98e89e4d91",
-      "title": "Spring Boot 4.1.2 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.2 has been released and is now available from Maven Central. This release includes 126 bug fixes, documentation improvements, and dependency upgrades ."
     },
     {
       "id": "ff91befc1789",
