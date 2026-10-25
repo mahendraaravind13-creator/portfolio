@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:38:02.940Z",
+  "generatedAt": "2026-10-25T16:28:01.512Z",
   "items": [
     {
       "id": "1c7c260bd7a6",
@@ -11,13 +11,22 @@
       "summary": "The following JEP is targeted to JDK 28: 544: Ahead-of-Time Code Compilation"
     },
     {
+      "id": "8f5707e9a13c",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-24T23:11:54.000Z",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 446 # Comments: 469"
+    },
+    {
       "id": "90bf1782f390",
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-24T21:47:31.000Z",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 465 # Comments: 410"
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 589 # Comments: 582"
     },
     {
       "id": "01ffbd34f502",
@@ -26,7 +35,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-24T19:06:55.000Z",
-      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 430 # Comments: 263"
+      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 509 # Comments: 310"
     },
     {
       "id": "ba4d3ab8dded",
@@ -144,15 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-23T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "id": "67633cee8781",
-      "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
-      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-RC1 and 2.0.2 have been released and are now available from Maven Central!"
     },
     {
       "id": "ff91befc1789",
