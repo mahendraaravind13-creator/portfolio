@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:28:01.512Z",
+  "generatedAt": "2026-10-25T20:54:45.731Z",
   "items": [
     {
       "id": "1c7c260bd7a6",
@@ -11,22 +11,13 @@
       "summary": "The following JEP is targeted to JDK 28: 544: Ahead-of-Time Code Compilation"
     },
     {
-      "id": "8f5707e9a13c",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-24T23:11:54.000Z",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 446 # Comments: 469"
-    },
-    {
       "id": "90bf1782f390",
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-24T21:47:31.000Z",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 589 # Comments: 582"
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 707 # Comments: 648"
     },
     {
       "id": "01ffbd34f502",
@@ -35,7 +26,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-24T19:06:55.000Z",
-      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 509 # Comments: 310"
+      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 544 # Comments: 340"
+    },
+    {
+      "id": "30e2978fb647",
+      "title": "Root shell on Samsung TV",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-24T05:49:57.000Z",
+      "summary": "Merged threads: \"Samsung running a TensorFlow lite model on 960x540 image to track you\": https://twitter.com/mike64_t/status/2114150399406202896 \"Samsung TVs look for microphones in your house via Bluetooth and then spy events\": https://twitter.com/freddier/status/2114042326758867453 Comments URL:…"
     },
     {
       "id": "ba4d3ab8dded",
