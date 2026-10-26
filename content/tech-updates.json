@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:53:19.540Z",
+  "generatedAt": "2026-10-26T13:10:22.614Z",
   "items": [
     {
       "id": "efcececa5afa",
@@ -20,22 +20,13 @@
       "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister."
     },
     {
-      "id": "2db6ac785444",
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "url": "https://talkweb.eu/openweb/4558/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-25T17:30:55.000Z",
-      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 430 # Comments: 207"
-    },
-    {
       "id": "1dc75a32fc6a",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-25T17:15:38.000Z",
-      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 494 # Comments: 224"
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 599 # Comments: 252"
     },
     {
       "id": "1c7c260bd7a6",
@@ -53,7 +44,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-24T21:47:31.000Z",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 767 # Comments: 699"
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 828 # Comments: 726"
     },
     {
       "id": "ba4d3ab8dded",
@@ -135,6 +126,15 @@
       "category": "Developer Tools",
       "published": "2026-10-23T15:03:30.000Z",
       "summary": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API"
+    },
+    {
+      "id": "aecfe29a547e",
+      "title": "PHP2Shell and eMudhra Patched",
+      "url": "https://www.docker.com/blog/php2shell-and-emudhra-patched/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-23T13:08:08.000Z",
+      "summary": "PHP2Shell and the eMudhra certificate compromise landed in the same week. Docker published a fixed PHP image within 24 hours and rebuilt the trust store across the catalog."
     },
     {
       "id": "48e2274fdf2b",
