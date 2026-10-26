@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-25T20:54:45.731Z",
+  "generatedAt": "2026-10-26T04:53:19.540Z",
   "items": [
+    {
+      "id": "efcececa5afa",
+      "title": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out",
+      "url": "https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-26T00:00:00.000Z",
+      "summary": "Five expedited security releases to distrust the compromised eMudhra intermediate CA keys."
+    },
+    {
+      "id": "89e06d81e035",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-25T18:23:54.000Z",
+      "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister."
+    },
+    {
+      "id": "2db6ac785444",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-25T17:30:55.000Z",
+      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 430 # Comments: 207"
+    },
+    {
+      "id": "1dc75a32fc6a",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-25T17:15:38.000Z",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 494 # Comments: 224"
+    },
     {
       "id": "1c7c260bd7a6",
       "title": "JEP targeted to JDK 28: 544: Ahead-of-Time Code Compilation",
@@ -17,25 +53,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-24T21:47:31.000Z",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 707 # Comments: 648"
-    },
-    {
-      "id": "01ffbd34f502",
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-24T19:06:55.000Z",
-      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 544 # Comments: 340"
-    },
-    {
-      "id": "30e2978fb647",
-      "title": "Root shell on Samsung TV",
-      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-24T05:49:57.000Z",
-      "summary": "Merged threads: \"Samsung running a TensorFlow lite model on 960x540 image to track you\": https://twitter.com/mike64_t/status/2114150399406202896 \"Samsung TVs look for microphones in your house via Bluetooth and then spy events\": https://twitter.com/freddier/status/2114042326758867453 Comments URL:…"
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 767 # Comments: 699"
     },
     {
       "id": "ba4d3ab8dded",
@@ -135,24 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-23T00:17:51.000Z",
       "summary": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags"
-    },
-    {
-      "id": "15c1f8ef7a58",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-    },
-    {
-      "id": "6430909168b5",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-23T00:00:00.000Z",
-      "summary": ""
     },
     {
       "id": "ff91befc1789",
