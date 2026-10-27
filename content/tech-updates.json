@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-27T05:11:16.600Z",
+  "generatedAt": "2026-10-27T12:18:22.310Z",
   "items": [
+    {
+      "id": "bd1f05936786",
+      "title": "Quality Outreach Heads-up - JDK 28: Value Classes",
+      "url": "https://inside.java/2026/10/27/quality-heads-up/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-27T00:00:00.000Z",
+      "summary": "This Heads-Up is part of the regular communication sent to the projects involved; it covers the introduction of value classes and strict fields"
+    },
     {
       "id": "e3d7ad0ea6ab",
       "title": "GitHub Copilot assisted permissions generally available",
@@ -29,6 +38,24 @@
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
     },
     {
+      "id": "820116fa460f",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-26T21:59:15.000Z",
+      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 664 # Comments: 250"
+    },
+    {
+      "id": "0db83d2728d9",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-26T21:35:28.000Z",
+      "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 969 # Comments: 513"
+    },
+    {
       "id": "344482fd6d72",
       "title": "GPT-6.1 Terra in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
@@ -38,6 +65,15 @@
       "summary": "GPT-6.1 Terra, OpenAI's newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In"
     },
     {
+      "id": "0d8cdf08f809",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-26T17:56:55.000Z",
+      "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 461 # Comments: 271"
+    },
+    {
       "id": "be77c96c39b4",
       "title": "Our newest AI Quest: Mapping the human brain",
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -45,6 +81,24 @@
       "category": "AI & LLMs",
       "published": "2026-10-26T16:00:00.000Z",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+    },
+    {
+      "id": "55b026e279e0",
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-26T15:51:23.000Z",
+      "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 497 # Comments: 107"
+    },
+    {
+      "id": "d1a3b4fa5d93",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-26T15:11:59.000Z",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 739 # Comments: 102"
     },
     {
       "id": "743b592063fc",
@@ -74,6 +128,15 @@
       "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
     },
     {
+      "id": "d7b6b5fce56b",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-26T13:04:50.000Z",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1637 # Comments: 1559"
+    },
+    {
       "id": "64d59b55a8fb",
       "title": "ChatGPT’s expanding world of work",
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
@@ -90,69 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-26T07:00:00.000Z",
       "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
-    },
-    {
-      "id": "8f2f08b6e197",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-26T07:00:00.000Z",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
-    },
-    {
-      "id": "8ef77e2fb944",
-      "title": "Spring Office Hours Podcast: S5E27 - Hugging Face for Java Developers with Pratik Patel",
-      "url": "https://spring.io/blog/2026/10/26/spring-office-hours-podcast-S5E27",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-26T00:00:00.000Z",
-      "summary": "Join Dan Vega and DaShaun Carter for the latest updates from the Spring Ecosystem. In this episode, Dan and DaShaun are joined by Java Champion Pratik Patel to talk about Hugging Face for Java developers. Hugging Face hosts over a million open models, but most Java developers have never used one."
-    },
-    {
-      "id": "efcececa5afa",
-      "title": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out",
-      "url": "https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-26T00:00:00.000Z",
-      "summary": "Five expedited security releases to distrust the compromised eMudhra intermediate CA keys."
-    },
-    {
-      "id": "89676eaabfde",
-      "title": "Tune GitHub Copilot Inline Suggestions with Configurable Eagerness",
-      "url": "https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-10-26T00:00:00.000Z",
-      "summary": "Choose how proactively Copilot offers inline suggestions."
-    },
-    {
-      "id": "1c7c260bd7a6",
-      "title": "JEP targeted to JDK 28: 544: Ahead-of-Time Code Compilation",
-      "url": "https://inside.java/2026/10/25/jep544-target-jdk28/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-25T00:00:00.000Z",
-      "summary": "The following JEP is targeted to JDK 28: 544: Ahead-of-Time Code Compilation"
-    },
-    {
-      "id": "ba4d3ab8dded",
-      "title": "Usage metrics API adds usage from tools like OpenCode",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-23T23:42:03.000Z",
-      "summary": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren't previously captured in your reports."
-    },
-    {
-      "id": "62c869d7dbe2",
-      "title": "Turn notifications into code with GitHub Copilot in Teams",
-      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-23T21:29:58.000Z",
-      "summary": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group"
     },
     {
       "id": "ff91befc1789",
