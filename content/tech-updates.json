@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-26T22:42:45.907Z",
+  "generatedAt": "2026-10-27T05:11:16.600Z",
   "items": [
+    {
+      "id": "e3d7ad0ea6ab",
+      "title": "GitHub Copilot assisted permissions generally available",
+      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-26T22:31:30.000Z",
+      "summary": "Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,"
+    },
     {
       "id": "bfdba109b967",
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
@@ -29,15 +38,6 @@
       "summary": "GPT-6.1 Terra, OpenAI's newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In"
     },
     {
-      "id": "f108b5ceacfa",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T18:01:17.000Z",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 438 # Comments: 275"
-    },
-    {
       "id": "be77c96c39b4",
       "title": "Our newest AI Quest: Mapping the human brain",
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -45,24 +45,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-26T16:00:00.000Z",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
-    },
-    {
-      "id": "a922da08e496",
-      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T15:35:12.000Z",
-      "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 641 # Comments: 548"
-    },
-    {
-      "id": "d1a3b4fa5d93",
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T15:11:59.000Z",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 498 # Comments: 75"
     },
     {
       "id": "743b592063fc",
@@ -92,15 +74,6 @@
       "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
     },
     {
-      "id": "d7b6b5fce56b",
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T13:04:50.000Z",
-      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1397 # Comments: 1364"
-    },
-    {
       "id": "64d59b55a8fb",
       "title": "ChatGPT’s expanding world of work",
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
@@ -108,15 +81,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-26T10:00:00.000Z",
       "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
-    },
-    {
-      "id": "1c46105f3c54",
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "url": "https://blocks.manifold3d.ch/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T08:46:09.000Z",
-      "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 450 # Comments: 212"
     },
     {
       "id": "eb7708c5f537",
@@ -153,6 +117,42 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-26T00:00:00.000Z",
       "summary": "Five expedited security releases to distrust the compromised eMudhra intermediate CA keys."
+    },
+    {
+      "id": "89676eaabfde",
+      "title": "Tune GitHub Copilot Inline Suggestions with Configurable Eagerness",
+      "url": "https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-10-26T00:00:00.000Z",
+      "summary": "Choose how proactively Copilot offers inline suggestions."
+    },
+    {
+      "id": "1c7c260bd7a6",
+      "title": "JEP targeted to JDK 28: 544: Ahead-of-Time Code Compilation",
+      "url": "https://inside.java/2026/10/25/jep544-target-jdk28/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-25T00:00:00.000Z",
+      "summary": "The following JEP is targeted to JDK 28: 544: Ahead-of-Time Code Compilation"
+    },
+    {
+      "id": "ba4d3ab8dded",
+      "title": "Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-23T23:42:03.000Z",
+      "summary": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren't previously captured in your reports."
+    },
+    {
+      "id": "62c869d7dbe2",
+      "title": "Turn notifications into code with GitHub Copilot in Teams",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-23T21:29:58.000Z",
+      "summary": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group"
     },
     {
       "id": "ff91befc1789",
