@@ -1,6 +1,105 @@
 {
-  "generatedAt": "2026-10-27T12:18:22.310Z",
+  "generatedAt": "2026-10-27T22:18:58.615Z",
   "items": [
+    {
+      "id": "da0e4aeadd91",
+      "title": "Visual Studio Code 1.144 (Insiders)",
+      "url": "https://code.visualstudio.com/updates/v1_144",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-10-28T17:00:00.000Z",
+      "summary": "Learn what is new in Visual Studio Code 1.144 (Insiders)"
+    },
+    {
+      "id": "747b76bde702",
+      "title": "GitHub Copilot supports server-to-server authentication",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-27T21:36:55.000Z",
+      "summary": "GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on"
+    },
+    {
+      "id": "db98bf59a6c7",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-27T17:16:52.000Z",
+      "summary": ""
+    },
+    {
+      "id": "34370e88c88d",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-27T16:12:42.000Z",
+      "summary": ""
+    },
+    {
+      "id": "d17d13a0006a",
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-27T16:01:38.000Z",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+    },
+    {
+      "id": "54be98d07f34",
+      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+      "url": "https://blog.cloudflare.com/php-ctf/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-27T13:00:00.000Z",
+      "summary": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer."
+    },
+    {
+      "id": "1332586c84a4",
+      "title": "What took the Internet offline in Q3 2026",
+      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-27T13:00:00.000Z",
+      "summary": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic."
+    },
+    {
+      "id": "a3a879144b29",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-27T07:00:00.000Z",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+    },
+    {
+      "id": "72f530f5e4c9",
+      "title": "Announcing the Workload Conformance Working Group",
+      "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-27T04:30:00.000Z",
+      "summary": "We are excited to announce that the Kubernetes community now has a Workload Conformance Working Group . The working group is writing a shared standard for how workloads behave at runtime on Kubernetes."
+    },
+    {
+      "id": "8cb333260a17",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-27T00:00:00.000Z",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+    },
+    {
+      "id": "92c175632a1e",
+      "title": "This Week in Spring - October 27th, 2026",
+      "url": "https://spring.io/blog/2026/10/27/this-week-in-spring-october-27th-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-27T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring , which I write from the paradise-like environs Barcelona, Spain, where I was lucky enough to be a part of the amazing Vaadin Create event today and tomorrow."
+    },
     {
       "id": "bd1f05936786",
       "title": "Quality Outreach Heads-up - JDK 28: Value Classes",
@@ -38,24 +137,6 @@
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
     },
     {
-      "id": "820116fa460f",
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T21:59:15.000Z",
-      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 664 # Comments: 250"
-    },
-    {
-      "id": "0db83d2728d9",
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T21:35:28.000Z",
-      "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 969 # Comments: 513"
-    },
-    {
       "id": "344482fd6d72",
       "title": "GPT-6.1 Terra in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
@@ -65,15 +146,6 @@
       "summary": "GPT-6.1 Terra, OpenAI's newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In"
     },
     {
-      "id": "0d8cdf08f809",
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T17:56:55.000Z",
-      "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 461 # Comments: 271"
-    },
-    {
       "id": "be77c96c39b4",
       "title": "Our newest AI Quest: Mapping the human brain",
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -81,78 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-26T16:00:00.000Z",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
-    },
-    {
-      "id": "55b026e279e0",
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T15:51:23.000Z",
-      "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 497 # Comments: 107"
-    },
-    {
-      "id": "d1a3b4fa5d93",
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T15:11:59.000Z",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 739 # Comments: 102"
-    },
-    {
-      "id": "743b592063fc",
-      "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-26T15:02:24.000Z",
-      "summary": "A few weeks ago I presented to a small group of commercial and technology leaders from Brazilian agribusiness at the AWS office in São Paulo. My talk ran through where generative AI fits across the different stages of an agribusiness operation, and the point I kept returning to is that the markets we call traditional"
-    },
-    {
-      "id": "f16aefe89a6e",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-26T14:30:00.000Z",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
-    },
-    {
-      "id": "1a1d4bf2fc11",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-26T13:45:00.000Z",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
-    },
-    {
-      "id": "d7b6b5fce56b",
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-26T13:04:50.000Z",
-      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1637 # Comments: 1559"
-    },
-    {
-      "id": "64d59b55a8fb",
-      "title": "ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-26T10:00:00.000Z",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
-    },
-    {
-      "id": "eb7708c5f537",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-26T07:00:00.000Z",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
     },
     {
       "id": "ff91befc1789",
