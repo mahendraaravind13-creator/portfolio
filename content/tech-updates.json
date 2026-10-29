@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:39:08.647Z",
+  "generatedAt": "2026-10-29T05:53:13.439Z",
   "items": [
     {
       "id": "ac5d768d6a43",
@@ -9,6 +9,33 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-28T20:00:00.000Z",
       "summary": "Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools."
+    },
+    {
+      "id": "2365cd15a328",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-28T17:13:29.000Z",
+      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 1009 # Comments: 206"
+    },
+    {
+      "id": "8157c9aecda2",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-28T17:10:37.000Z",
+      "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 541 # Comments: 922"
+    },
+    {
+      "id": "185e559c77b9",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-28T17:01:23.000Z",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 867 # Comments: 715"
     },
     {
       "id": "b0da25ea6c1a",
@@ -110,49 +137,22 @@
       "summary": ""
     },
     {
-      "id": "75e2017ed4c5",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-28T13:15:00.000Z",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+      "id": "e110f678c5c3",
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-28T14:38:22.000Z",
+      "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 445 # Comments: 124"
     },
     {
-      "id": "dc7f31090ea9",
-      "title": "Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program",
-      "url": "https://www.docker.com/blog/docker-navigator-partner-program/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-28T13:00:00.000Z",
-      "summary": "Docker is launching the Navigator Partner Program, with three tiers, co-selling benefits, and a new incentive for every registered AI governance deal."
-    },
-    {
-      "id": "0dc3cf0b7c98",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-28T10:00:00.000Z",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us."
-    },
-    {
-      "id": "41c97fe8dc29",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-28T09:30:00.000Z",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
-    },
-    {
-      "id": "de96adf12bfa",
-      "title": "Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip",
-      "url": "https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-28T00:00:00.000Z",
-      "summary": "Spring AI: Message Parts Doc | Upgrade Notes | OpenAI Responses Doc | Session Doc Reasoning models do more than think before they answer. They hand part of that thinking back to you and expect to get it back on the next request. Claude signs its thinking blocks. Gemini attaches thought signatures to its function calls."
+      "id": "e5b3578f0403",
+      "title": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-28T13:25:11.000Z",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 466 # Comments: 193"
     },
     {
       "id": "ff91befc1789",
