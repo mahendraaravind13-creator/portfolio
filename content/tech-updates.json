@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-10-29T05:53:13.439Z",
+  "generatedAt": "2026-10-29T13:09:02.724Z",
   "items": [
+    {
+      "id": "6b5b11dae9da",
+      "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
+      "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-29T13:00:00.000Z",
+      "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification."
+    },
+    {
+      "id": "470f90e2de1e",
+      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-29T12:55:00.000Z",
+      "summary": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes."
+    },
+    {
+      "id": "eaceb9188b83",
+      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "url": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-29T05:00:00.000Z",
+      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (Red Hat) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
+    },
+    {
+      "id": "271134257c4a",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-29T03:33:42.000Z",
+      "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 453 # Comments: 184"
+    },
+    {
+      "id": "44e3e5f137f8",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-29T00:25:45.000Z",
+      "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 571 # Comments: 115"
+    },
+    {
+      "id": "85d975255b4f",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "b2587f37e413",
+      "title": "A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder",
+      "url": "https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary": "Hi, Spring fans! In this conversation, Josh Long explores how JOOQ turns SQL into a type-safe, fluent Java language—making complex database work safer, cleaner, and far more expressive."
+    },
+    {
+      "id": "9b3547e9ab8d",
+      "title": "Episode 73 “Immutable Data Beyond Value Classes” [AtA]",
+      "url": "https://inside.java/2026/10/29/podcast-073/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
+    },
+    {
+      "id": "75f2ee2fae25",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-28T23:35:02.000Z",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 574 # Comments: 483"
+    },
     {
       "id": "ac5d768d6a43",
       "title": "Ship less JavaScript in Next.js with your AI agent",
@@ -17,16 +98,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-28T17:13:29.000Z",
-      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 1009 # Comments: 206"
-    },
-    {
-      "id": "8157c9aecda2",
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-28T17:10:37.000Z",
-      "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 541 # Comments: 922"
+      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 1368 # Comments: 253"
     },
     {
       "id": "185e559c77b9",
@@ -35,7 +107,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-28T17:01:23.000Z",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 867 # Comments: 715"
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 960 # Comments: 771"
     },
     {
       "id": "b0da25ea6c1a",
@@ -81,78 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-10-28T16:00:00.000Z",
       "summary": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you."
-    },
-    {
-      "id": "f3aa6dba8d09",
-      "title": "GitHub Copilot app, Universe releases",
-      "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-28T15:55:00.000Z",
-      "summary": "Work doesn't always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository"
-    },
-    {
-      "id": "393d97d2e447",
-      "title": "GitHub Enterprise now includes access to GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-28T15:50:00.000Z",
-      "summary": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many"
-    },
-    {
-      "id": "adf1996fc970",
-      "title": "Security extension for the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-28T15:45:00.000Z",
-      "summary": "You can now work through your repository's GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the"
-    },
-    {
-      "id": "3a09379f6ade",
-      "title": "GitHub intelligence puts your code, context, and history to work",
-      "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-28T15:40:00.000Z",
-      "summary": "Agents should understand more than your codebase–they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in"
-    },
-    {
-      "id": "2304fbe0fd69",
-      "title": "Build shared workflows for your team with Copilot Automations",
-      "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-28T15:35:00.000Z",
-      "summary": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the"
-    },
-    {
-      "id": "7ae8eb20550e",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-28T14:58:17.000Z",
-      "summary": ""
-    },
-    {
-      "id": "e110f678c5c3",
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-28T14:38:22.000Z",
-      "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 445 # Comments: 124"
-    },
-    {
-      "id": "e5b3578f0403",
-      "title": "Emacs Turns 50",
-      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-28T13:25:11.000Z",
-      "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 466 # Comments: 193"
     },
     {
       "id": "ff91befc1789",
