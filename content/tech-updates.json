@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-29T13:09:02.724Z",
+  "generatedAt": "2026-10-29T22:48:27.148Z",
   "items": [
+    {
+      "id": "1ffd1f6b6f1e",
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-29T19:41:39.000Z",
+      "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 1836 # Comments: 368"
+    },
+    {
+      "id": "3bf0ecbcedeb",
+      "title": "Webhook IP ranges added to the Meta API",
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-10-29T17:14:38.000Z",
+      "summary": "We're adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for"
+    },
+    {
+      "id": "7bf0065ceb16",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T17:00:00.000Z",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+    },
+    {
+      "id": "779b541ff77b",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-29T14:13:21.000Z",
+      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1077 # Comments: 313"
+    },
+    {
+      "id": "f3538b6fb36f",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T13:37:07.000Z",
+      "summary": ""
+    },
     {
       "id": "6b5b11dae9da",
       "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
@@ -17,7 +62,25 @@
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
       "published": "2026-10-29T12:55:00.000Z",
-      "summary": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes."
+      "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns."
+    },
+    {
+      "id": "d28967fce9c6",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T09:00:00.000Z",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+    },
+    {
+      "id": "2d9928289658",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T07:00:00.000Z",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
     },
     {
       "id": "eaceb9188b83",
@@ -29,22 +92,22 @@
       "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (Red Hat) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
     },
     {
-      "id": "271134257c4a",
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-29T03:33:42.000Z",
-      "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 453 # Comments: 184"
+      "id": "e1c742c1d925",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary": ""
     },
     {
-      "id": "44e3e5f137f8",
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-29T00:25:45.000Z",
-      "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 571 # Comments: 115"
+      "id": "a1765f446c5b",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "85d975255b4f",
@@ -74,15 +137,6 @@
       "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
     },
     {
-      "id": "75f2ee2fae25",
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-28T23:35:02.000Z",
-      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 574 # Comments: 483"
-    },
-    {
       "id": "ac5d768d6a43",
       "title": "Ship less JavaScript in Next.js with your AI agent",
       "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
@@ -92,24 +146,6 @@
       "summary": "Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools."
     },
     {
-      "id": "2365cd15a328",
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-28T17:13:29.000Z",
-      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 1368 # Comments: 253"
-    },
-    {
-      "id": "185e559c77b9",
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-28T17:01:23.000Z",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 960 # Comments: 771"
-    },
-    {
       "id": "b0da25ea6c1a",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -117,42 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-28T17:00:58.000Z",
       "summary": ""
-    },
-    {
-      "id": "da0e4aeadd91",
-      "title": "Visual Studio Code 1.144",
-      "url": "https://code.visualstudio.com/updates/v1_144",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-10-28T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.144"
-    },
-    {
-      "id": "6c275e5fd0ef",
-      "title": "GitHub Universe 2026: Evolving every layer of the stack",
-      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-28T16:09:28.000Z",
-      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world."
-    },
-    {
-      "id": "bedf4f2776b5",
-      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-28T16:07:40.000Z",
-      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report."
-    },
-    {
-      "id": "194ab4b69c2c",
-      "title": "Route and orchestrate models with GitHub Copilot Fusion",
-      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-28T16:00:00.000Z",
-      "summary": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you."
     },
     {
       "id": "ff91befc1789",
