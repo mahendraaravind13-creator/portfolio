@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-30T05:54:38.734Z",
+  "generatedAt": "2026-10-30T13:01:36.457Z",
   "items": [
+    {
+      "id": "7757e3201b71",
+      "title": "JDK 27 G1/Parallel/Serial GC changes",
+      "url": "https://inside.java/2026/10/30/jdk27-gc-changes/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-30T00:00:00.000Z",
+      "summary": "Now that the JDK 27 has been released, I thought it would be time to discuss interesting changes in OpenJDK’s stop-the-world collectors in the HotSpot VM once more."
+    },
     {
       "id": "4c4b30fd3641",
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
@@ -8,16 +17,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-29T21:38:59.000Z",
-      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1013 # Comments: 607"
-    },
-    {
-      "id": "1ffd1f6b6f1e",
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-29T19:41:39.000Z",
-      "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 2672 # Comments: 564"
+      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1522 # Comments: 988"
     },
     {
       "id": "3bf0ecbcedeb",
@@ -38,13 +38,22 @@
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
     },
     {
+      "id": "05dc4b1256cb",
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-29T15:53:03.000Z",
+      "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 464 # Comments: 153"
+    },
+    {
       "id": "739e0b5535e3",
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-29T14:57:55.000Z",
-      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 401 # Comments: 210"
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 512 # Comments: 269"
     },
     {
       "id": "779b541ff77b",
@@ -53,7 +62,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-29T14:13:21.000Z",
-      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1299 # Comments: 360"
+      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1556 # Comments: 408"
     },
     {
       "id": "f3538b6fb36f",
@@ -81,15 +90,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-29T12:55:00.000Z",
       "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns."
-    },
-    {
-      "id": "7d7fff6eeb19",
-      "title": "DoorDash to acquire Instacart",
-      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-29T12:33:05.000Z",
-      "summary": "Article URL: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart Comments URL: https://news.ycombinator.com/item?id=50287919 Points: 457 # Comments: 626"
     },
     {
       "id": "d28967fce9c6",
