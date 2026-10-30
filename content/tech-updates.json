@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-29T22:48:27.148Z",
+  "generatedAt": "2026-10-30T05:54:38.734Z",
   "items": [
+    {
+      "id": "4c4b30fd3641",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-29T21:38:59.000Z",
+      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1013 # Comments: 607"
+    },
     {
       "id": "1ffd1f6b6f1e",
       "title": "Patrick Stewart has died",
@@ -8,7 +17,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-29T19:41:39.000Z",
-      "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 1836 # Comments: 368"
+      "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 2672 # Comments: 564"
     },
     {
       "id": "3bf0ecbcedeb",
@@ -29,13 +38,22 @@
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
     },
     {
+      "id": "739e0b5535e3",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-29T14:57:55.000Z",
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 401 # Comments: 210"
+    },
+    {
       "id": "779b541ff77b",
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-29T14:13:21.000Z",
-      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1077 # Comments: 313"
+      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1299 # Comments: 360"
     },
     {
       "id": "f3538b6fb36f",
@@ -63,6 +81,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-29T12:55:00.000Z",
       "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns."
+    },
+    {
+      "id": "7d7fff6eeb19",
+      "title": "DoorDash to acquire Instacart",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-29T12:33:05.000Z",
+      "summary": "Article URL: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart Comments URL: https://news.ycombinator.com/item?id=50287919 Points: 457 # Comments: 626"
     },
     {
       "id": "d28967fce9c6",
@@ -126,33 +153,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-29T00:00:00.000Z",
       "summary": "Hi, Spring fans! In this conversation, Josh Long explores how JOOQ turns SQL into a type-safe, fluent Java language—making complex database work safer, cleaner, and far more expressive."
-    },
-    {
-      "id": "9b3547e9ab8d",
-      "title": "Episode 73 “Immutable Data Beyond Value Classes” [AtA]",
-      "url": "https://inside.java/2026/10/29/podcast-073/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-29T00:00:00.000Z",
-      "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
-    },
-    {
-      "id": "ac5d768d6a43",
-      "title": "Ship less JavaScript in Next.js with your AI agent",
-      "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-28T20:00:00.000Z",
-      "summary": "Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools."
-    },
-    {
-      "id": "b0da25ea6c1a",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-10-28T17:00:58.000Z",
-      "summary": ""
     },
     {
       "id": "ff91befc1789",
