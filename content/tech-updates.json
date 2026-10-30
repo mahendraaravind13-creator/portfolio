@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-30T13:01:36.457Z",
+  "generatedAt": "2026-10-30T22:25:03.570Z",
   "items": [
+    {
+      "id": "b2263e9f8412",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-30T17:57:24.000Z",
+      "summary": ""
+    },
+    {
+      "id": "132cf9739027",
+      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+      "url": "https://blog.cloudflare.com/emudhra-patching/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-30T17:38:50.000Z",
+      "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed."
+    },
+    {
+      "id": "9e37c40a85b3",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-30T15:52:18.000Z",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 443 # Comments: 329"
+    },
+    {
+      "id": "5e6112ff1e03",
+      "title": "Cloudflare services for private origins is now generally available",
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-30T14:23:43.000Z",
+      "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity."
+    },
+    {
+      "id": "25cc4c9bb2e3",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-30T09:30:00.000Z",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    },
+    {
+      "id": "c7606af40dbb",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-30T09:00:00.000Z",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    },
+    {
+      "id": "1925bee6805a",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-30T07:09:12.000Z",
+      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 685 # Comments: 434"
+    },
+    {
+      "id": "d2282bcce162",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-30T00:00:00.000Z",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    },
     {
       "id": "7757e3201b71",
       "title": "JDK 27 G1/Parallel/Serial GC changes",
@@ -9,15 +81,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-10-30T00:00:00.000Z",
       "summary": "Now that the JDK 27 has been released, I thought it would be time to discuss interesting changes in OpenJDK’s stop-the-world collectors in the HotSpot VM once more."
-    },
-    {
-      "id": "4c4b30fd3641",
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-29T21:38:59.000Z",
-      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1522 # Comments: 988"
     },
     {
       "id": "3bf0ecbcedeb",
@@ -36,33 +99,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-29T17:00:00.000Z",
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
-    },
-    {
-      "id": "05dc4b1256cb",
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-29T15:53:03.000Z",
-      "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 464 # Comments: 153"
-    },
-    {
-      "id": "739e0b5535e3",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-29T14:57:55.000Z",
-      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 512 # Comments: 269"
-    },
-    {
-      "id": "779b541ff77b",
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-29T14:13:21.000Z",
-      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1556 # Comments: 408"
     },
     {
       "id": "f3538b6fb36f",
@@ -116,43 +152,7 @@
       "source": "Kubernetes",
       "category": "Cloud & DevOps",
       "published": "2026-10-29T05:00:00.000Z",
-      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (Red Hat) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
-    },
-    {
-      "id": "e1c742c1d925",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "a1765f446c5b",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "85d975255b4f",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "b2587f37e413",
-      "title": "A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder",
-      "url": "https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-29T00:00:00.000Z",
-      "summary": "Hi, Spring fans! In this conversation, Josh Long explores how JOOQ turns SQL into a type-safe, fluent Java language—making complex database work safer, cleaner, and far more expressive."
+      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (TensorScale AI) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
     },
     {
       "id": "ff91befc1789",
