@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:25:03.570Z",
+  "generatedAt": "2026-10-31T05:50:35.576Z",
   "items": [
     {
       "id": "b2263e9f8412",
@@ -26,7 +26,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-30T15:52:18.000Z",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 443 # Comments: 329"
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 548 # Comments: 408"
+    },
+    {
+      "id": "0e232296f4e5",
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-30T15:10:31.000Z",
+      "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 401 # Comments: 296"
     },
     {
       "id": "5e6112ff1e03",
@@ -62,7 +71,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-30T07:09:12.000Z",
-      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 685 # Comments: 434"
+      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 856 # Comments: 512"
     },
     {
       "id": "d2282bcce162",
@@ -144,15 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-29T07:00:00.000Z",
       "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
-    },
-    {
-      "id": "eaceb9188b83",
-      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
-      "url": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
-      "source": "Kubernetes",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-29T05:00:00.000Z",
-      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (TensorScale AI) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
     },
     {
       "id": "ff91befc1789",
