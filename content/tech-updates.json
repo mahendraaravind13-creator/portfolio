@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:50:35.576Z",
+  "generatedAt": "2026-10-31T12:39:59.611Z",
   "items": [
     {
       "id": "b2263e9f8412",
@@ -20,22 +20,13 @@
       "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed."
     },
     {
-      "id": "9e37c40a85b3",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-30T15:52:18.000Z",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 548 # Comments: 408"
-    },
-    {
       "id": "0e232296f4e5",
       "title": "Northflank Breached",
       "url": "https://status.northflank.com",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-30T15:10:31.000Z",
-      "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 401 # Comments: 296"
+      "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 449 # Comments: 321"
     },
     {
       "id": "5e6112ff1e03",
@@ -45,6 +36,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-30T14:23:43.000Z",
       "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity."
+    },
+    {
+      "id": "b192f74f0acd",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-30T12:50:01.000Z",
+      "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 484 # Comments: 337"
     },
     {
       "id": "25cc4c9bb2e3",
@@ -71,7 +71,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-30T07:09:12.000Z",
-      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 856 # Comments: 512"
+      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 917 # Comments: 535"
     },
     {
       "id": "d2282bcce162",
