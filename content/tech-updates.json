@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-31T12:39:59.611Z",
+  "generatedAt": "2026-10-31T21:39:57.592Z",
   "items": [
+    {
+      "id": "0cc0a6009edf",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-31T10:21:30.000Z",
+      "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 762 # Comments: 442"
+    },
     {
       "id": "b2263e9f8412",
       "title": "nemotron-halloween",
@@ -20,15 +29,6 @@
       "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed."
     },
     {
-      "id": "0e232296f4e5",
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-30T15:10:31.000Z",
-      "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 449 # Comments: 321"
-    },
-    {
       "id": "5e6112ff1e03",
       "title": "Cloudflare services for private origins is now generally available",
       "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
@@ -36,15 +36,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-30T14:23:43.000Z",
       "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity."
-    },
-    {
-      "id": "b192f74f0acd",
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-30T12:50:01.000Z",
-      "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 484 # Comments: 337"
     },
     {
       "id": "25cc4c9bb2e3",
@@ -63,15 +54,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-30T09:00:00.000Z",
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-    },
-    {
-      "id": "1925bee6805a",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-30T07:09:12.000Z",
-      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 917 # Comments: 535"
     },
     {
       "id": "d2282bcce162",
@@ -153,6 +135,24 @@
       "category": "AI & LLMs",
       "published": "2026-10-29T07:00:00.000Z",
       "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+    },
+    {
+      "id": "eaceb9188b83",
+      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "url": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-29T05:00:00.000Z",
+      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (TensorScale AI) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
+    },
+    {
+      "id": "e1c742c1d925",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "ff91befc1789",
