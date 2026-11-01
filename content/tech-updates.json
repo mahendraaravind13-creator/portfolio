@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-01T13:33:33.150Z",
+  "generatedAt": "2026-11-01T22:06:27.175Z",
   "items": [
+    {
+      "id": "8efc4c266dc3",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-01T21:36:00.000Z",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key."
+    },
+    {
+      "id": "664224e893fc",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-01T15:58:28.000Z",
+      "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page."
+    },
+    {
+      "id": "f9b8a9efbf26",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-31T22:46:12.000Z",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 410 # Comments: 200"
+    },
     {
       "id": "8774e31fd6aa",
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
@@ -8,7 +35,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-31T22:41:06.000Z",
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 534 # Comments: 164"
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 729 # Comments: 194"
     },
     {
       "id": "c241855c2841",
@@ -17,7 +44,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-31T19:56:53.000Z",
-      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 1521 # Comments: 405"
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 2101 # Comments: 512"
     },
     {
       "id": "6bd209feefbe",
@@ -26,7 +53,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-31T19:16:30.000Z",
-      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 560 # Comments: 258"
+      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 675 # Comments: 321"
     },
     {
       "id": "b2263e9f8412",
@@ -126,33 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-29T13:00:00.000Z",
       "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification."
-    },
-    {
-      "id": "470f90e2de1e",
-      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
-      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-29T12:55:00.000Z",
-      "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns."
-    },
-    {
-      "id": "d28967fce9c6",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T09:00:00.000Z",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
-    },
-    {
-      "id": "2d9928289658",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T07:00:00.000Z",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
     },
     {
       "id": "ff91befc1789",
