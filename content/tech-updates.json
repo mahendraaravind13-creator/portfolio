@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-31T21:39:57.592Z",
+  "generatedAt": "2026-11-01T06:14:00.854Z",
   "items": [
     {
-      "id": "0cc0a6009edf",
-      "title": "Serbia just elected the world's brainiest parliament",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "id": "c241855c2841",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-31T10:21:30.000Z",
-      "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 762 # Comments: 442"
+      "published": "2026-10-31T19:56:53.000Z",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 1009 # Comments: 310"
+    },
+    {
+      "id": "6bd209feefbe",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-31T19:16:30.000Z",
+      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 441 # Comments: 206"
     },
     {
       "id": "b2263e9f8412",
@@ -144,15 +153,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-29T05:00:00.000Z",
       "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (TensorScale AI) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
-    },
-    {
-      "id": "e1c742c1d925",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T00:00:00.000Z",
-      "summary": ""
     },
     {
       "id": "ff91befc1789",
