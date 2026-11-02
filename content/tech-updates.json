@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-02T06:14:31.992Z",
+  "generatedAt": "2026-11-02T16:12:09.746Z",
   "items": [
+    {
+      "id": "dd3056a1e7aa",
+      "title": "Security risk assessments include repository protection status",
+      "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-02T15:47:21.000Z",
+      "summary": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization"
+    },
+    {
+      "id": "19244c7aa206",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-02T15:00:00.000Z",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+    },
+    {
+      "id": "0e6629be9749",
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-02T14:52:00.000Z",
+      "summary": "Article URL: https://chalmovsky.com/posts/wtf-ubuntu Comments URL: https://news.ycombinator.com/item?id=50337608 Points: 501 # Comments: 223"
+    },
+    {
+      "id": "eb6ff7302710",
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-02T14:00:00.000Z",
+      "summary": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay."
+    },
+    {
+      "id": "7437f847aaed",
+      "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
+      "url": "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-02T14:00:00.000Z",
+      "summary": "Docker is a founding member of the Blueprint Alliance, a 12-company reference architecture for securing AI agents, built around four governance questions."
+    },
+    {
+      "id": "a6ff3130e98e",
+      "title": "Where should your code live in a Docker Sandbox?",
+      "url": "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-02T14:00:00.000Z",
+      "summary": "Docker Sandboxes support three ways to organize an agent’s code: shared mounts, Git worktrees, and clone mode. Here’s how to choose between them."
+    },
     {
       "id": "8efc4c266dc3",
       "title": "Game Off 2026: The theme is SHIFT",
@@ -9,6 +63,15 @@
       "category": "Developer Tools",
       "published": "2026-11-01T21:36:00.000Z",
       "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key."
+    },
+    {
+      "id": "242d15603b74",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-01T19:35:27.000Z",
+      "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium."
     },
     {
       "id": "664224e893fc",
@@ -20,13 +83,13 @@
       "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page."
     },
     {
-      "id": "4f15df393063",
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "id": "fe548f549737",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-01T14:34:43.000Z",
-      "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 440 # Comments: 157"
+      "published": "2026-11-01T06:06:19.000Z",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 442 # Comments: 330"
     },
     {
       "id": "c241855c2841",
@@ -35,7 +98,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-31T19:56:53.000Z",
-      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 2425 # Comments: 554"
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 2759 # Comments: 607"
+    },
+    {
+      "id": "bb0036b97413",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-10-31T01:38:56.000Z",
+      "summary": "Article URL: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html Comments URL: https://news.ycombinator.com/item?id=50312408 Points: 718 # Comments: 433"
     },
     {
       "id": "b2263e9f8412",
@@ -65,6 +137,15 @@
       "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity."
     },
     {
+      "id": "094c331a98fa",
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-30T14:18:30.000Z",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times"
+    },
+    {
       "id": "25cc4c9bb2e3",
       "title": "Making it easier for websites to express AI training preferences",
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -72,87 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-10-30T09:30:00.000Z",
       "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-    },
-    {
-      "id": "c7606af40dbb",
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-30T09:00:00.000Z",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-    },
-    {
-      "id": "d2282bcce162",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-30T00:00:00.000Z",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
-    },
-    {
-      "id": "7757e3201b71",
-      "title": "JDK 27 G1/Parallel/Serial GC changes",
-      "url": "https://inside.java/2026/10/30/jdk27-gc-changes/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-30T00:00:00.000Z",
-      "summary": "Now that the JDK 27 has been released, I thought it would be time to discuss interesting changes in OpenJDK’s stop-the-world collectors in the HotSpot VM once more."
-    },
-    {
-      "id": "3bf0ecbcedeb",
-      "title": "Webhook IP ranges added to the Meta API",
-      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-10-29T17:14:38.000Z",
-      "summary": "We're adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for"
-    },
-    {
-      "id": "7bf0065ceb16",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T17:00:00.000Z",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
-    },
-    {
-      "id": "f3538b6fb36f",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T13:37:07.000Z",
-      "summary": ""
-    },
-    {
-      "id": "6b5b11dae9da",
-      "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
-      "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-29T13:00:00.000Z",
-      "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification."
-    },
-    {
-      "id": "470f90e2de1e",
-      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
-      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-29T12:55:00.000Z",
-      "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns."
-    },
-    {
-      "id": "d28967fce9c6",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-10-29T09:00:00.000Z",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
     },
     {
       "id": "ff91befc1789",
