@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T22:06:27.175Z",
+  "generatedAt": "2026-11-02T06:14:31.992Z",
   "items": [
     {
       "id": "8efc4c266dc3",
@@ -20,22 +20,13 @@
       "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page."
     },
     {
-      "id": "f9b8a9efbf26",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "id": "4f15df393063",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-10-31T22:46:12.000Z",
-      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 410 # Comments: 200"
-    },
-    {
-      "id": "8774e31fd6aa",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-31T22:41:06.000Z",
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 729 # Comments: 194"
+      "published": "2026-11-01T14:34:43.000Z",
+      "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 440 # Comments: 157"
     },
     {
       "id": "c241855c2841",
@@ -44,16 +35,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-10-31T19:56:53.000Z",
-      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 2101 # Comments: 512"
-    },
-    {
-      "id": "6bd209feefbe",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-10-31T19:16:30.000Z",
-      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 675 # Comments: 321"
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 2425 # Comments: 554"
     },
     {
       "id": "b2263e9f8412",
@@ -153,6 +135,24 @@
       "category": "Cloud & DevOps",
       "published": "2026-10-29T13:00:00.000Z",
       "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification."
+    },
+    {
+      "id": "470f90e2de1e",
+      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-29T12:55:00.000Z",
+      "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns."
+    },
+    {
+      "id": "d28967fce9c6",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-10-29T09:00:00.000Z",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
     },
     {
       "id": "ff91befc1789",
