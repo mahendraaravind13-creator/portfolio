@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-03T01:02:23.316Z",
+  "generatedAt": "2026-11-03T14:23:21.402Z",
   "items": [
+    {
+      "id": "af5c97bd7711",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-03T14:00:00.000Z",
+      "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure."
+    },
+    {
+      "id": "342dbac0cf1e",
+      "title": "Dependabot now supports Python 3.15",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-03T13:49:32.000Z",
+      "summary": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub"
+    },
+    {
+      "id": "08b710f1e780",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T08:00:00.000Z",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+    },
+    {
+      "id": "d29389a04866",
+      "title": "GitHub Desktop adds short-lived authentication tokens",
+      "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-03T07:55:58.000Z",
+      "summary": "When you sign in to GitHub Desktop 3.6.10 or later, eligible accounts can now use short-lived, automatically refreshing authentication tokens. Short-lived access tokens reduce how long a leaked token can"
+    },
+    {
+      "id": "fec0e46ceba4",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "d6d51e5a2cab",
+      "title": "This Week in Spring - November 3rd, 2026",
+      "url": "https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-03T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! It's Tuesday, and you know what that means? I'm thinking about production. Now, to be fair, I'm always thinking about production."
+    },
     {
       "id": "3c51f6aa7437",
       "title": "Astra can read and write weights to improve Qwen",
@@ -8,7 +62,25 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-02T18:21:28.000Z",
-      "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 1850 # Comments: 581"
+      "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 2863 # Comments: 862"
+    },
+    {
+      "id": "262cfa35f430",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-02T18:00:00.000Z",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+    },
+    {
+      "id": "6fd6ad7938fa",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-02T18:00:00.000Z",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
     },
     {
       "id": "b810030289ed",
@@ -36,6 +108,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-02T16:45:48.000Z",
       "summary": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. They were about reach. AWS Step Functions, which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite. In the"
+    },
+    {
+      "id": "903f1f8926f3",
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-02T16:34:36.000Z",
+      "summary": "Article URL: https://namedaisy.com/blog/boy-names-that-became-girl-names Comments URL: https://news.ycombinator.com/item?id=50339397 Points: 442 # Comments: 424"
     },
     {
       "id": "dd3056a1e7aa",
@@ -72,87 +153,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-02T15:00:00.000Z",
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-    },
-    {
-      "id": "0e6629be9749",
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-02T14:52:00.000Z",
-      "summary": "Article URL: https://chalmovsky.com/posts/wtf-ubuntu Comments URL: https://news.ycombinator.com/item?id=50337608 Points: 1298 # Comments: 580"
-    },
-    {
-      "id": "eb6ff7302710",
-      "title": "How we halved DNS build delay and cut memory use by 85%",
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T14:00:00.000Z",
-      "summary": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay."
-    },
-    {
-      "id": "7437f847aaed",
-      "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
-      "url": "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T14:00:00.000Z",
-      "summary": "Docker is a founding member of the Blueprint Alliance, a 12-company reference architecture for securing AI agents, built around four governance questions."
-    },
-    {
-      "id": "a6ff3130e98e",
-      "title": "Where should your code live in a Docker Sandbox?",
-      "url": "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T14:00:00.000Z",
-      "summary": "Docker Sandboxes support three ways to organize an agent’s code: shared mounts, Git worktrees, and clone mode. Here’s how to choose between them."
-    },
-    {
-      "id": "ed4b58253682",
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-02T09:00:00.000Z",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
-    },
-    {
-      "id": "598c6194c0d3",
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-02T00:00:00.000Z",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
-    },
-    {
-      "id": "ff138f709a7e",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-02T00:00:00.000Z",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
-    },
-    {
-      "id": "8efc4c266dc3",
-      "title": "Game Off 2026: The theme is SHIFT",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-01T21:36:00.000Z",
-      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key."
-    },
-    {
-      "id": "b2263e9f8412",
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-10-30T17:57:24.000Z",
-      "summary": ""
     },
     {
       "id": "ff91befc1789",
