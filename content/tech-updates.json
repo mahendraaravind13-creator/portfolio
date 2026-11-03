@@ -1,6 +1,123 @@
 {
-  "generatedAt": "2026-11-03T14:23:21.402Z",
+  "generatedAt": "2026-11-03T23:27:53.559Z",
   "items": [
+    {
+      "id": "56787cc309ca",
+      "title": "Visual Studio Code 1.145 (Insiders)",
+      "url": "https://code.visualstudio.com/updates/v1_145",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-11-04T17:00:00.000Z",
+      "summary": "Learn what is new in Visual Studio Code 1.145 (Insiders)."
+    },
+    {
+      "id": "51a16b58b850",
+      "title": "Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-03T20:24:07.000Z",
+      "summary": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported"
+    },
+    {
+      "id": "62c039c795aa",
+      "title": "November 2026 Security Release",
+      "url": "https://nextjs.org/blog/november-2026-security-release",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-03T18:00:00.000Z",
+      "summary": "The November 2026 security release for Next.js is now available"
+    },
+    {
+      "id": "6857dc224a41",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-03T17:40:00.000Z",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 437 # Comments: 139"
+    },
+    {
+      "id": "da9a5824109f",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-03T17:22:37.000Z",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 932 # Comments: 303"
+    },
+    {
+      "id": "a55665cf4895",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T17:15:21.000Z",
+      "summary": ""
+    },
+    {
+      "id": "7b04a568c5ad",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T17:01:49.000Z",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+    },
+    {
+      "id": "bc4177032a04",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T16:35:36.000Z",
+      "summary": ""
+    },
+    {
+      "id": "a9339aac474e",
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-03T16:00:00.000Z",
+      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone."
+    },
+    {
+      "id": "d175d4f66bfd",
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-03T15:29:15.000Z",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/ Comments URL: https://news.ycombinator.com/item?id=50353229 Points: 426 # Comments: 357"
+    },
+    {
+      "id": "946f3d391d21",
+      "title": "Look up a resource's cost center with the GitHub REST API",
+      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-03T15:27:13.000Z",
+      "summary": "You can now use the GitHub REST API to find which cost center a user, organization, repository, or enterprise team belongs to. Previously, you had to list every cost center"
+    },
+    {
+      "id": "9c22661ce9de",
+      "title": "GitHub Copilot is now available in JetBrains Air",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-03T15:11:46.000Z",
+      "summary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your"
+    },
+    {
+      "id": "1a23e7744710",
+      "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-03T14:56:03.000Z",
+      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We've recently released CodeQL 2.27.3. It supports new Python 3.15 language"
+    },
     {
       "id": "af5c97bd7711",
       "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
@@ -20,139 +137,22 @@
       "summary": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub"
     },
     {
-      "id": "08b710f1e780",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T08:00:00.000Z",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    },
-    {
-      "id": "d29389a04866",
-      "title": "GitHub Desktop adds short-lived authentication tokens",
-      "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-03T07:55:58.000Z",
-      "summary": "When you sign in to GitHub Desktop 3.6.10 or later, eligible accounts can now use short-lived, automatically refreshing authentication tokens. Short-lived access tokens reduce how long a leaked token can"
-    },
-    {
-      "id": "fec0e46ceba4",
-      "title": "Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "d6d51e5a2cab",
-      "title": "This Week in Spring - November 3rd, 2026",
-      "url": "https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-03T00:00:00.000Z",
-      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! It's Tuesday, and you know what that means? I'm thinking about production. Now, to be fair, I'm always thinking about production."
-    },
-    {
-      "id": "3c51f6aa7437",
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "id": "435a4449f912",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-02T18:21:28.000Z",
-      "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 2863 # Comments: 862"
+      "published": "2026-11-03T12:21:17.000Z",
+      "summary": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 861 # Comments: 189"
     },
     {
-      "id": "262cfa35f430",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "id": "26c6032e1d26",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "source": "OpenAI",
       "category": "AI & LLMs",
-      "published": "2026-11-02T18:00:00.000Z",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
-    },
-    {
-      "id": "6fd6ad7938fa",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-02T18:00:00.000Z",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
-    },
-    {
-      "id": "b810030289ed",
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-02T17:45:00.000Z",
-      "summary": "Here are Google’s latest AI updates from October 2026"
-    },
-    {
-      "id": "a31b3b7224a8",
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-02T17:16:17.000Z",
-      "summary": "Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech."
-    },
-    {
-      "id": "01d19205bbea",
-      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T16:45:48.000Z",
-      "summary": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. They were about reach. AWS Step Functions, which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite. In the"
-    },
-    {
-      "id": "903f1f8926f3",
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-02T16:34:36.000Z",
-      "summary": "Article URL: https://namedaisy.com/blog/boy-names-that-became-girl-names Comments URL: https://news.ycombinator.com/item?id=50339397 Points: 442 # Comments: 424"
-    },
-    {
-      "id": "dd3056a1e7aa",
-      "title": "Security risk assessments include repository protection status",
-      "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-02T15:47:21.000Z",
-      "summary": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization"
-    },
-    {
-      "id": "de4cf53f9db9",
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-02T15:30:00.000Z",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
-    },
-    {
-      "id": "0e5ffbeff8b8",
-      "title": "pull_request_target blocked by default December 2",
-      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-02T15:14:46.000Z",
-      "summary": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for"
-    },
-    {
-      "id": "19244c7aa206",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-02T15:00:00.000Z",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+      "published": "2026-11-03T12:00:00.000Z",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
     },
     {
       "id": "ff91befc1789",
