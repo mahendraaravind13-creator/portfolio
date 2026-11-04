@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:27:53.559Z",
+  "generatedAt": "2026-11-04T06:32:18.445Z",
   "items": [
     {
       "id": "56787cc309ca",
@@ -9,6 +9,15 @@
       "category": "Developer Tools",
       "published": "2026-11-04T17:00:00.000Z",
       "summary": "Learn what is new in Visual Studio Code 1.145 (Insiders)."
+    },
+    {
+      "id": "0f281cabd4f6",
+      "title": "BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-04T00:32:19.000Z",
+      "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of"
     },
     {
       "id": "51a16b58b850",
@@ -35,7 +44,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-03T17:40:00.000Z",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 437 # Comments: 139"
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 561 # Comments: 172"
     },
     {
       "id": "da9a5824109f",
@@ -44,7 +53,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-03T17:22:37.000Z",
-      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 932 # Comments: 303"
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1165 # Comments: 381"
     },
     {
       "id": "a55665cf4895",
@@ -65,6 +74,15 @@
       "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
     },
     {
+      "id": "95dce5da618a",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-03T16:47:29.000Z",
+      "summary": "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 496 # Comments: 170"
+    },
+    {
       "id": "bc4177032a04",
       "title": "Palette: teaching a small model to build decks in your design language",
       "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
@@ -81,15 +99,6 @@
       "category": "Developer Tools",
       "published": "2026-11-03T16:00:00.000Z",
       "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone."
-    },
-    {
-      "id": "d175d4f66bfd",
-      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-03T15:29:15.000Z",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/ Comments URL: https://news.ycombinator.com/item?id=50353229 Points: 426 # Comments: 357"
     },
     {
       "id": "946f3d391d21",
@@ -143,16 +152,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-03T12:21:17.000Z",
-      "summary": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 861 # Comments: 189"
-    },
-    {
-      "id": "26c6032e1d26",
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T12:00:00.000Z",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+      "summary": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 950 # Comments: 197"
     },
     {
       "id": "ff91befc1789",
