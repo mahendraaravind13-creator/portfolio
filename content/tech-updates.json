@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-05T06:54:12.174Z",
+  "generatedAt": "2026-11-05T20:01:05.233Z",
   "items": [
+    {
+      "id": "e8690f74b67f",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-05T19:35:16.000Z",
+      "summary": ""
+    },
+    {
+      "id": "825a50d1c0ad",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-05T17:05:16.000Z",
+      "summary": ""
+    },
+    {
+      "id": "f64889a7b3b6",
+      "title": "Agents aren’t humans (but they kinda are)",
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-05T17:03:04.000Z",
+      "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic."
+    },
+    {
+      "id": "485010988bfc",
+      "title": "Accessibility statements now have a home on GitHub",
+      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-05T16:00:00.000Z",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes."
+    },
+    {
+      "id": "e6f7bb0a09ee",
+      "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
+      "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-05T15:48:50.000Z",
+      "summary": "This update expands secret scanning's detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,"
+    },
+    {
+      "id": "d8887584f5f6",
+      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
+      "url": "https://www.docker.com/blog/docker-activestate-trusted-content/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-05T15:28:22.000Z",
+      "summary": "Docker partners with ActiveState to continue to provide one standard for trusted content across everything you and your teams build on."
+    },
+    {
+      "id": "a5d316f6e693",
+      "title": "CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program",
+      "url": "https://www.docker.com/blog/cncf-score-project-improved-its-security-posture-by-joining-the-docker-sponsored-open-source-program/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-05T14:00:00.000Z",
+      "summary": "See how CNCF Score improved container security with Docker Scout, Hardened Images, and the Docker-Sponsored Open Source Program."
+    },
+    {
+      "id": "53c56afbaf05",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-05T09:00:00.000Z",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+    },
+    {
+      "id": "3bcdfa6e04aa",
+      "title": "New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-05T08:00:00.000Z",
+      "summary": "On a long pull request, checking what's blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you're there, you still"
+    },
+    {
+      "id": "f93567576105",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-05T02:00:00.000Z",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+    },
+    {
+      "id": "89209ab642b1",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-05T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "4c012bfddd71",
+      "title": "Episode 74 “Ask the Architects at Devoxx” [AtA]",
+      "url": "https://inside.java/2026/11/05/podcast-074/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-05T00:00:00.000Z",
+      "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
+    },
     {
       "id": "096a6a1486b3",
       "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
@@ -9,15 +117,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-04T23:34:52.000Z",
       "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
-    },
-    {
-      "id": "ecbe88ccc357",
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-04T20:45:18.000Z",
-      "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network Comments URL: https://news.ycombinator.com/item?id=50371246 Points: 902 # Comments: 276"
     },
     {
       "id": "03daee1e1f91",
@@ -56,15 +155,6 @@
       "summary": "Learn what's new in Visual Studio Code 1.145"
     },
     {
-      "id": "7838c87736f9",
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-04T15:30:30.000Z",
-      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 468 # Comments: 133"
-    },
-    {
       "id": "3a06f84c0f51",
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -83,15 +173,6 @@
       "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
     },
     {
-      "id": "68c44263a0af",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-04T11:52:17.000Z",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1146 # Comments: 664"
-    },
-    {
       "id": "a4f4c423c542",
       "title": "A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
@@ -108,51 +189,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-04T07:00:00.000Z",
       "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
-    },
-    {
-      "id": "0f281cabd4f6",
-      "title": "BYOK and enterprise custom models in the Copilot usage API",
-      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-04T00:32:19.000Z",
-      "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of"
-    },
-    {
-      "id": "0a437d67f2ef",
-      "title": "Introducing Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-04T00:00:00.000Z",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
-    },
-    {
-      "id": "bf25be8f8779",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-04T00:00:00.000Z",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
-    },
-    {
-      "id": "c36fcbfe7ffb",
-      "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes",
-      "url": "https://inside.java/2026/11/04/devoxxbelgium-project-detroit/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-04T00:00:00.000Z",
-      "summary": "Interacting with foreign libraries from Java has never been easier, thanks to the Foreign Function & Memory (FFM) API. But interacting with entire foreign language runtimes, like JavaScript or Python, remains hard."
-    },
-    {
-      "id": "51a16b58b850",
-      "title": "Dependabot version updates support Agent Package Manager",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-03T20:24:07.000Z",
-      "summary": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported"
     },
     {
       "id": "ff91befc1789",
@@ -660,58 +696,6 @@
       "importance": "important",
       "headline": "Helidon 27 released as first Tip-and-Tail release; requires Java 27",
       "paragraph": "Helidon, a Java microservices framework, released version 27 on September 22, 2026. It is the first Helidon release to fully adopt Tip-and-Tail, the OpenJDK model where a fast-moving newest release (the tip) runs alongside long-supported older lines (the tail). Helidon releases now align with JDK releases, and the minimum Java version rises to match: Helidon 27 requires Java 27. It is a feature release; Helidon 4 remains the LTS (long-term support) line, and Helidon 29 will be the next LTS. Teams wanting long support should stay on Helidon 4, while those already on JDK 27 can try 27 after checking the CHANGELOG for breaking changes."
-    },
-    {
-      "id": "a668dc129d9d",
-      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-      "url": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
-      "source": "Kubernetes",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-21T18:30:00.000Z",
-      "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default).",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Kubernetes v1.37 promotes PVC Unused condition to beta, on by default",
-      "paragraph": "Kubernetes v1.37 enables PersistentVolumeClaimUnusedSinceTime by default, adding an Unused condition whose lastTransitionTime shows when a PVC stopped being used by any running pod."
-    },
-    {
-      "id": "9c4cac25fc24",
-      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-21T16:11:24.000Z",
-      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checking",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Amazon Corretto 27 released with G1 default GC and post-quantum TLS 1.3",
-      "paragraph": "AWS made Amazon Corretto 27, its no-cost OpenJDK distribution, available for Linux, Windows and macOS, per the September 21, 2026 AWS Weekly Roundup. It is a feature release, not a long-term-support one, with support only through April 2027. Changes include G1 as the default garbage collector in all environments (JEP 523, a formal Java enhancement proposal), post-quantum hybrid key exchange for TLS 1.3 (JEP 527), compact object headers on by default for a smaller memory footprint (JEP 534), and redaction of sensitive data from Java Flight Recorder recordings in the JVM (JEP 536). Use it to test JDK 27; production services should stay on an LTS release."
-    },
-    {
-      "id": "c701b57089c5",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-09-21T13:44:34.000Z",
-      "summary": "",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Multiverse Computing prunes half of Llama-3.3-70B's blocks via Ising optimization",
-      "paragraph": "Multiverse Computing's open-sourced method removed 40 of 80 blocks from Llama-3.3-70B-Instruct without retraining, scoring 76.9 on MMLU versus 54.0 for a block-influence baseline."
-    },
-    {
-      "id": "5a3a5fde415d",
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-21T13:00:00.000Z",
-      "summary": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Cloudflare Python Workers are now generally available",
-      "paragraph": "Cloudflare declared Python Workers generally available on September 21, 2026, making Python a fully supported language on its Workers platform. Code runs on Pyodide, a Python interpreter compiled to WebAssembly. FastAPI runs through the workers.asgi connector and Django and Flask through workers.wsgi; any ASGI or WSGI framework is supported. Python code can call Workers AI, R2, D1, Hyperdrive (Postgres and MySQL over TCP), Durable Objects, Queues and Workflows without JavaScript glue code. Package support is growing through PEP 783, which standardises PyEmscripten as a platform for Python wheels, and cibuildwheel can now build them. FastAPI developers can try it, after checking that native-extension dependencies are supported."
     }
   ]
 }
