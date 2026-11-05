@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-04T19:50:11.999Z",
+  "generatedAt": "2026-11-05T06:54:12.174Z",
   "items": [
+    {
+      "id": "096a6a1486b3",
+      "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-04T23:34:52.000Z",
+      "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
+    },
+    {
+      "id": "ecbe88ccc357",
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-04T20:45:18.000Z",
+      "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network Comments URL: https://news.ycombinator.com/item?id=50371246 Points: 902 # Comments: 276"
+    },
+    {
+      "id": "03daee1e1f91",
+      "title": "CodeQL 2.27.4 improves accuracy and query metadata",
+      "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-04T20:04:52.000Z",
+      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We've recently released CodeQL 2.27.4 with query accuracy improvements across several"
+    },
+    {
+      "id": "a05548ef29e1",
+      "title": "GitHub Copilot is now available in Xcode's coding assistant",
+      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-04T19:10:40.000Z",
+      "summary": "You can now work with GitHub Copilot directly in Xcode's built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with"
+    },
     {
       "id": "5afc49da7bd4",
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
@@ -18,6 +54,15 @@
       "category": "Developer Tools",
       "published": "2026-11-04T17:00:00.000Z",
       "summary": "Learn what's new in Visual Studio Code 1.145"
+    },
+    {
+      "id": "7838c87736f9",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-04T15:30:30.000Z",
+      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 468 # Comments: 133"
     },
     {
       "id": "3a06f84c0f51",
@@ -38,6 +83,24 @@
       "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
     },
     {
+      "id": "68c44263a0af",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-04T11:52:17.000Z",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1146 # Comments: 664"
+    },
+    {
+      "id": "a4f4c423c542",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-04T08:00:00.000Z",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+    },
+    {
       "id": "75679f5aa60b",
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "url": "https://openai.com/index/daybreak-red-aws-govcloud",
@@ -56,6 +119,24 @@
       "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of"
     },
     {
+      "id": "0a437d67f2ef",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-04T00:00:00.000Z",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+    },
+    {
+      "id": "bf25be8f8779",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-04T00:00:00.000Z",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+    },
+    {
       "id": "c36fcbfe7ffb",
       "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes",
       "url": "https://inside.java/2026/11/04/devoxxbelgium-project-detroit/",
@@ -72,87 +153,6 @@
       "category": "Developer Tools",
       "published": "2026-11-03T20:24:07.000Z",
       "summary": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported"
-    },
-    {
-      "id": "62c039c795aa",
-      "title": "November 2026 Security Release",
-      "url": "https://nextjs.org/blog/november-2026-security-release",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-03T18:00:00.000Z",
-      "summary": "The November 2026 security release for Next.js is now available"
-    },
-    {
-      "id": "a55665cf4895",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T17:15:21.000Z",
-      "summary": ""
-    },
-    {
-      "id": "7b04a568c5ad",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T17:01:49.000Z",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-    },
-    {
-      "id": "bc4177032a04",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T16:35:36.000Z",
-      "summary": ""
-    },
-    {
-      "id": "a9339aac474e",
-      "title": "Arnis turns any place on Earth into a Minecraft world",
-      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-03T16:00:00.000Z",
-      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone."
-    },
-    {
-      "id": "946f3d391d21",
-      "title": "Look up a resource's cost center with the GitHub REST API",
-      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-03T15:27:13.000Z",
-      "summary": "You can now use the GitHub REST API to find which cost center a user, organization, repository, or enterprise team belongs to. Previously, you had to list every cost center"
-    },
-    {
-      "id": "9c22661ce9de",
-      "title": "GitHub Copilot is now available in JetBrains Air",
-      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-03T15:11:46.000Z",
-      "summary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your"
-    },
-    {
-      "id": "1a23e7744710",
-      "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-03T14:56:03.000Z",
-      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We've recently released CodeQL 2.27.3. It supports new Python 3.15 language"
-    },
-    {
-      "id": "af5c97bd7711",
-      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-      "url": "https://blog.cloudflare.com/zero-wire/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-03T14:00:00.000Z",
-      "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure."
     },
     {
       "id": "ff91befc1789",
