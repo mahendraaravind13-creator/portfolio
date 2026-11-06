@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-06T06:54:35.428Z",
+  "generatedAt": "2026-11-06T19:28:15.236Z",
   "items": [
+    {
+      "id": "be1ba71e55b7",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-06T14:00:48.000Z",
+      "summary": ""
+    },
+    {
+      "id": "5668b3c66977",
+      "title": "The post-quantum future of web privacy",
+      "url": "https://blog.cloudflare.com/vole-mole/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-06T14:00:00.000Z",
+      "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap."
+    },
+    {
+      "id": "119dda2f4fb7",
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-06T12:13:51.000Z",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 494 # Comments: 1156"
+    },
+    {
+      "id": "25a6a123ca91",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-06T09:27:12.000Z",
+      "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 577 # Comments: 361"
+    },
+    {
+      "id": "bc8f9eac1966",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-06T08:00:00.000Z",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+    },
+    {
+      "id": "3a41e3472432",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-06T07:40:35.000Z",
+      "summary": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 587 # Comments: 238"
+    },
     {
       "id": "b683d1c42a66",
       "title": "Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents",
@@ -29,22 +83,40 @@
       "summary": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in"
     },
     {
+      "id": "cfd4354afa14",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-06T00:00:00.000Z",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+      "id": "82196d4ece0a",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-06T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "91dfb96a8eea",
+      "title": "Spring Boot 4.2.0-RC2 available now",
+      "url": "https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-06T00:00:00.000Z",
+      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-RC2 has been released and is now available from Maven Central. This release includes 99 enhancements, documentation improvements, dependency upgrades, and bug fixes ."
+    },
+    {
       "id": "3b58ffb304e7",
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-05T22:17:15.000Z",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 872 # Comments: 289"
-    },
-    {
-      "id": "296687f94cd4",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-05T20:43:42.000Z",
-      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 448 # Comments: 173"
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1516 # Comments: 477"
     },
     {
       "id": "e8ad3aaf9c4e",
@@ -54,24 +126,6 @@
       "category": "Developer Tools",
       "published": "2026-11-05T20:23:21.000Z",
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works."
-    },
-    {
-      "id": "ad82ed3373ee",
-      "title": "Search for everyone",
-      "url": "https://kagi.com/changelog#11820",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-05T20:03:34.000Z",
-      "summary": "Article URL: https://kagi.com/changelog#11820 Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 631 # Comments: 325"
-    },
-    {
-      "id": "f41b14b1064e",
-      "title": "Goodbye from Salon",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-05T20:03:29.000Z",
-      "summary": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 543 # Comments: 201"
     },
     {
       "id": "c88b52d0b210",
@@ -119,15 +173,6 @@
       "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
     },
     {
-      "id": "ead45f6819df",
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-05T16:01:34.000Z",
-      "summary": "Article URL: https://motorolanews.com/motorola-signature-27-2/ Comments URL: https://news.ycombinator.com/item?id=50380810 Points: 446 # Comments: 325"
-    },
-    {
       "id": "485010988bfc",
       "title": "Accessibility statements now have a home on GitHub",
       "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
@@ -164,15 +209,6 @@
       "summary": "See how CNCF Score improved container security with Docker Scout, Hardened Images, and the Docker-Sponsored Open Source Program."
     },
     {
-      "id": "8d1473191036",
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-05T12:19:02.000Z",
-      "summary": "Related: https://hachyderm.io/@damienmiller/117563026759098135 / https://news.ycombinator.com/item?id=50377221 https://www.openssh.org/releasenotes.html#10.6p2 https://alpinelinux.org/posts/2026-11-05-openssh-password-au... Comments URL: https://news.ycombinator.com/item?id=50378228 Points: 2546 # Comments: 621"
-    },
-    {
       "id": "53c56afbaf05",
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
@@ -200,22 +236,13 @@
       "summary": "On a long pull request, checking what's blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you're there, you still"
     },
     {
-      "id": "f93567576105",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI",
+      "id": "89209ab642b1",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "source": "Hugging Face",
       "category": "AI & LLMs",
-      "published": "2026-11-05T02:00:00.000Z",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-    },
-    {
-      "id": "1f9981de5700",
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-05T00:45:15.000Z",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
+      "published": "2026-11-05T00:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "ff91befc1789",
@@ -645,45 +672,6 @@
       "importance": "important",
       "headline": "CloudWatch Omni adds tracing and 17 built-in evaluators for AI agent workloads",
       "paragraph": "Alongside the September 22, 2026 general availability of Amazon CloudWatch Omni, AWS detailed its features for generative AI and agent workloads. Omni records each agent run as a timeline of LLM calls, tool invocations and reasoning steps, and a Trace Explorer compares runs side by side. Token usage appears next to latency and cost. Seventeen built-in evaluators score outputs for coherence, helpfulness, faithfulness and routing correctness, and it integrates with Amazon Bedrock AgentCore. Instrumentation uses OpenInference and ADOT (AWS Distro for OpenTelemetry) and supports LangChain, LangGraph, CrewAI, OpenAI SDK, Strands and Vercel AI SDK in Python and TypeScript. Relevant for teams running RAG or agent services on AWS."
-    },
-    {
-      "id": "7ff979043df9",
-      "title": "Next.js Security Update for a Critical Upstream Issue",
-      "url": "https://nextjs.org/blog/nextjs-security-update-september-22-2026",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-22T18:00:00.000Z",
-      "summary": "The September 22, 2026 out-of-band security update for Next.js is now available",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Next.js 16.3.6 fixes critical remote code execution bug in next/og ImageResponse",
-      "paragraph": "Vercel released Next.js 16.3.6 (Active LTS) and 15.5.26 (Maintenance LTS) on September 22, 2026 as an out-of-band security update. The critical issue, GHSA-vcvr-r3jv-pc5j (CVE-2026-94545, CVSS v4 score 9.5), sits in the Node.js ImageResponse implementation in next/og: improper escaping in SVG output from Satori, the library that turns JSX into images, could lead to remote code execution through other upstream dependencies. Only versions 16.2.0 up to 16.3.5 are affected; the Edge ImageResponse and Next.js 15.x are not, and 15.5.26 adds related hardening. Teams on 16.2 or 16.3 should upgrade now and keep attacker-controlled values out of SVG content rendered by ImageResponse."
-    },
-    {
-      "id": "f665e9d50590",
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "url": "https://blog.cloudflare.com/vary-support/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-22T14:04:31.000Z",
-      "summary": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Cloudflare Cache Rules now support the HTTP Vary header on every plan",
-      "paragraph": "Cloudflare added Vary support to Cache Rules on September 22, 2026, on Free, Pro, Business and Enterprise plans. Vary is the response header an origin uses to say content differs by request headers such as Accept-Language. Each varied header can be normalized (en-US collapses to en, sharing one cache entry), passed through exactly so casing and ordering create separate variants, or set to bypass cache for unpredictable headers like Cookie. A scan of over 120 million responses from about 50,000 sites found nearly 3,000 varying on four or more headers. Sites serving language- or format-negotiated content can configure it via dashboard, Rulesets API or Terraform."
-    },
-    {
-      "id": "55b3c8585e3f",
-      "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
-      "url": "https://blog.cloudflare.com/worker-previews/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-22T13:00:00.000Z",
-      "summary": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Cloudflare launches Worker Previews: isolated per-branch environments for Workers",
-      "paragraph": "Cloudflare introduced Worker Previews on September 22, 2026, giving each Git branch of a Workers project its own production-like environment. Every preview gets a stable URL, its own variables, secrets and bindings, dedicated Durable Objects namespaces and Container applications, plus logs, errors, metrics and traces scoped to that preview. Previews are created with npx wrangler preview, or automatically by Workers Builds for Git-connected projects, from a base configuration in a previews block of wrangler.toml with per-preview overrides. The aim is letting developers and coding agents test changes in parallel without touching production. Multi-Worker previews, Queues and Workflows isolation, and long-lived staging previews are still in development."
     }
   ]
 }
