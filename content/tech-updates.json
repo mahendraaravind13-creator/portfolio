@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:04:36.098Z",
+  "generatedAt": "2026-11-07T13:09:53.015Z",
   "items": [
     {
       "id": "d28d7745dd02",
@@ -17,7 +17,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-06T23:30:52.000Z",
-      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 441 # Comments: 71"
+      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 743 # Comments: 121"
     },
     {
       "id": "df141a94aef9",
@@ -62,7 +62,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-06T19:48:51.000Z",
-      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 407 # Comments: 91"
+      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 510 # Comments: 122"
     },
     {
       "id": "be1ba71e55b7",
@@ -89,7 +89,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-06T12:13:51.000Z",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 938 # Comments: 1796"
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 1050 # Comments: 1909"
     },
     {
       "id": "bc8f9eac1966",
@@ -279,6 +279,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-05T00:00:00.000Z",
       "summary": "Hi, Spring fans! In this nostalgic, wide-ranging conversation, I revisit my first podcast episode from 2018 with Cornelia Davis and catch up on her career across Pivotal, VMware, Weaveworks, Amazon, Kubernetes, and now Temporal."
+    },
+    {
+      "id": "4c012bfddd71",
+      "title": "Episode 74 “Ask the Architects at Devoxx” [AtA]",
+      "url": "https://inside.java/2026/11/05/podcast-074/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-05T00:00:00.000Z",
+      "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
     },
     {
       "id": "ff91befc1789",
@@ -643,19 +652,6 @@
       "importance": "important",
       "headline": "Google releases Gemini 3.8 Flash TTS and Flash-Lite TTS in the Gemini API",
       "paragraph": "Google released two text-to-speech models on September 23, 2026: Gemini 3.8 Flash TTS for expressive character voices and Gemini 3.8 Flash-Lite TTS for cheaper, high-volume use. Both are available now in the Gemini API and Google AI Studio, with Gemini Enterprise support coming later. Compared with Gemini 3.1 Flash TTS, they add line-by-line direction of pacing, dialect and acting cues, native two-speaker dialogue, scripted laughs and sighs, and new voices designed from a text prompt. Google cites 2,000+ voices, 100+ languages, voice replication from a 30-second sample and a top score of 71.4 on Hume AI's Voice Design Benchmark. Worth testing for voice agents or narration."
-    },
-    {
-      "id": "cded7a7a02c2",
-      "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
-      "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-09-23T13:00:00.000Z",
-      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "GitHub and Yale survey: 80% of developers want tools for energy-efficient code",
-      "paragraph": "Surveying 1,039 US GitHub users, GitHub and Yale found 80% want tools for energy-efficient code and 74% want impact measurement, yet only 10% think their practices matter much."
     }
   ]
 }
