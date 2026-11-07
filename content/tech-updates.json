@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:09:53.015Z",
+  "generatedAt": "2026-11-07T21:55:41.150Z",
   "items": [
     {
       "id": "d28d7745dd02",
@@ -9,15 +9,6 @@
       "category": "Developer Tools",
       "published": "2026-11-07T00:27:19.000Z",
       "summary": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot's review overview comment is now more compact,"
-    },
-    {
-      "id": "68be897c8b54",
-      "title": "Libghostty 1.0",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-06T23:30:52.000Z",
-      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 743 # Comments: 121"
     },
     {
       "id": "df141a94aef9",
@@ -56,15 +47,6 @@
       "summary": "Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests–all without leaving your conversation. What's new Build and review together"
     },
     {
-      "id": "ef2a83f7f3a4",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-06T19:48:51.000Z",
-      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 510 # Comments: 122"
-    },
-    {
       "id": "be1ba71e55b7",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -81,15 +63,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-06T14:00:00.000Z",
       "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap."
-    },
-    {
-      "id": "119dda2f4fb7",
-      "title": "Tesla to wind down Cybertruck production",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-06T12:13:51.000Z",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 1050 # Comments: 1909"
     },
     {
       "id": "bc8f9eac1966",
@@ -288,6 +261,78 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-05T00:00:00.000Z",
       "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
+    },
+    {
+      "id": "096a6a1486b3",
+      "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-04T23:34:52.000Z",
+      "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
+    },
+    {
+      "id": "5afc49da7bd4",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-04T17:50:10.000Z",
+      "summary": ""
+    },
+    {
+      "id": "56787cc309ca",
+      "title": "Visual Studio Code 1.145",
+      "url": "https://code.visualstudio.com/updates/v1_145",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-11-04T17:00:00.000Z",
+      "summary": "Learn what's new in Visual Studio Code 1.145"
+    },
+    {
+      "id": "c62c3211dde6",
+      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-04T14:00:00.000Z",
+      "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
+    },
+    {
+      "id": "c36fcbfe7ffb",
+      "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes",
+      "url": "https://inside.java/2026/11/04/devoxxbelgium-project-detroit/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-04T00:00:00.000Z",
+      "summary": "Interacting with foreign libraries from Java has never been easier, thanks to the Foreign Function & Memory (FFM) API. But interacting with entire foreign language runtimes, like JavaScript or Python, remains hard."
+    },
+    {
+      "id": "62c039c795aa",
+      "title": "November 2026 Security Release",
+      "url": "https://nextjs.org/blog/november-2026-security-release",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-03T18:00:00.000Z",
+      "summary": "The November 2026 security release for Next.js is now available"
+    },
+    {
+      "id": "7b04a568c5ad",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T17:01:49.000Z",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+    },
+    {
+      "id": "bc4177032a04",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T16:35:36.000Z",
+      "summary": ""
     },
     {
       "id": "ff91befc1789",
@@ -587,71 +632,6 @@
       "importance": "minor",
       "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
       "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
-    },
-    {
-      "id": "078c955aa93d",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-09-23T18:29:49.000Z",
-      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "How GitHub made the Copilot app open million-line pull requests smoothly",
-      "paragraph": "GitHub explained how it rebuilt the diff view in the GitHub Copilot app to open a pull request with 2,200 files, over a million changed lines and more than 400 inline review comments. Standard virtualization broke because comment heights are unknown until rendered. The team split geometry: code rows have exact precomputed heights, while comment blocks start with estimates corrected by one idle-time measurement pass per frame instead of ResizeObserver callbacks. Scroll anchoring tracks the row being read, not the pixel offset. Syntax highlighting runs off the main thread, and only blocks within about 2,400px of the viewport are measured. Useful reading for anyone building large virtualized lists in React."
-    },
-    {
-      "id": "ff8607213777",
-      "title": "Upcoming Next.js September Security Release",
-      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-23T18:00:00.000Z",
-      "summary": "Next.js is preparing a scheduled September security release for September 30, 2026.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Next.js schedules September 30 security release fixing nine vulnerabilities",
-      "paragraph": "Next.js maintainers announced on September 23, 2026 that a scheduled security release will ship on September 30, 2026. It will fix nine vulnerabilities: one rated critical, two high, five medium and one low. Patched versions 16.3.7 and 15.5.27 are planned, and the full advisories, covering impact, affected versions and upgrade steps, will be published at the same time. Until then, no technical details are public. Teams running Next.js 16.3 or 15.5 in production should set aside time around September 30 to upgrade to 16.3.7 or 15.5.27 and read the advisories to check whether their app is exposed."
-    },
-    {
-      "id": "dff539682bf2",
-      "title": "Visual Studio Code 1.139",
-      "url": "https://code.visualstudio.com/updates/v1_139",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-09-23T17:00:00.000Z",
-      "summary": "Learn what is new in Visual Studio Code 1.139",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "VS Code 1.139 speeds up agent session lists and renames Linux desktop files",
-      "paragraph": "Visual Studio Code 1.139 was released on September 23, 2026. Agent sessions can now use Dev Containers on remote hosts reached over SSH, tunnels or WSL, behind the chat.agentHost.devContainer.enabled setting. Session lists load about 12x faster initially and refresh about 4x faster in tests with around 645 sessions, and sessions can be renamed in place with F2. Word-wrapped lines now show arrow indicators, and bracket auto-closing no longer adds a duplicate closing bracket. Linux users should note that the DEB and RPM desktop files were renamed to com.microsoft.VSCode.desktop, so pinned launchers may need to be removed and re-added."
-    },
-    {
-      "id": "4c4abcff4acd",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T16:00:57.000Z",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Google adds encrypted server-side memory to Private AI Compute",
-      "paragraph": "Google now keeps personal AI memory in encrypted per-user cloud storage, decrypted only inside attested hardware enclaves with keys held on the user's devices; no developer API was announced."
-    },
-    {
-      "id": "be2314c62992",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-09-23T15:25:14.000Z",
-      "summary": "",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Google releases Gemini 3.8 Flash TTS and Flash-Lite TTS in the Gemini API",
-      "paragraph": "Google released two text-to-speech models on September 23, 2026: Gemini 3.8 Flash TTS for expressive character voices and Gemini 3.8 Flash-Lite TTS for cheaper, high-volume use. Both are available now in the Gemini API and Google AI Studio, with Gemini Enterprise support coming later. Compared with Gemini 3.1 Flash TTS, they add line-by-line direction of pacing, dialect and acting cues, native two-speaker dialogue, scripted laughs and sighs, and new voices designed from a text prompt. Google cites 2,000+ voices, 100+ languages, voice replication from a 30-second sample and a top score of 71.4 on Hume AI's Voice Design Benchmark. Worth testing for voice agents or narration."
     }
   ]
 }
