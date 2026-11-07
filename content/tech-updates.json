@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-06T19:28:15.236Z",
+  "generatedAt": "2026-11-07T06:04:36.098Z",
   "items": [
+    {
+      "id": "d28d7745dd02",
+      "title": "Copilot code review: API management and review overview updates",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-07T00:27:19.000Z",
+      "summary": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot's review overview comment is now more compact,"
+    },
+    {
+      "id": "68be897c8b54",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-06T23:30:52.000Z",
+      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 441 # Comments: 71"
+    },
+    {
+      "id": "df141a94aef9",
+      "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-06T22:17:28.000Z",
+      "summary": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption"
+    },
+    {
+      "id": "5ab88d15c948",
+      "title": "Beyond code generation: A developer's guide to agentic engineering",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-06T22:15:59.000Z",
+      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment."
+    },
+    {
+      "id": "5175c20e07f3",
+      "title": "GitHub Copilot weekly releases — November 2",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-06T21:00:26.000Z",
+      "summary": "This week, Copilot comes to JetBrains Air and Xcode's coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge"
+    },
+    {
+      "id": "23359978bbf7",
+      "title": "@GitHub in Slack and Teams is generally available and more",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-06T20:31:08.000Z",
+      "summary": "Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests–all without leaving your conversation. What's new Build and review together"
+    },
+    {
+      "id": "ef2a83f7f3a4",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-06T19:48:51.000Z",
+      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 407 # Comments: 91"
+    },
     {
       "id": "be1ba71e55b7",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -26,16 +89,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-06T12:13:51.000Z",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 494 # Comments: 1156"
-    },
-    {
-      "id": "25a6a123ca91",
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-06T09:27:12.000Z",
-      "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 577 # Comments: 361"
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 938 # Comments: 1796"
     },
     {
       "id": "bc8f9eac1966",
@@ -45,15 +99,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-06T08:00:00.000Z",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
-      "id": "3a41e3472432",
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "url": "https://github.com/ppmpreetham/BUI",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-06T07:40:35.000Z",
-      "summary": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 587 # Comments: 238"
     },
     {
       "id": "b683d1c42a66",
@@ -108,15 +153,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-06T00:00:00.000Z",
       "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-RC2 has been released and is now available from Maven Central. This release includes 99 enhancements, documentation improvements, dependency upgrades, and bug fixes ."
-    },
-    {
-      "id": "3b58ffb304e7",
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-05T22:17:15.000Z",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1516 # Comments: 477"
     },
     {
       "id": "e8ad3aaf9c4e",
@@ -182,15 +218,6 @@
       "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes."
     },
     {
-      "id": "e6f7bb0a09ee",
-      "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
-      "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-05T15:48:50.000Z",
-      "summary": "This update expands secret scanning's detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,"
-    },
-    {
       "id": "d8887584f5f6",
       "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
       "url": "https://www.docker.com/blog/docker-activestate-trusted-content/",
@@ -227,15 +254,6 @@
       "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
     },
     {
-      "id": "3bcdfa6e04aa",
-      "title": "New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-05T08:00:00.000Z",
-      "summary": "On a long pull request, checking what's blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you're there, you still"
-    },
-    {
       "id": "89209ab642b1",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
@@ -243,6 +261,24 @@
       "category": "AI & LLMs",
       "published": "2026-11-05T00:00:00.000Z",
       "summary": ""
+    },
+    {
+      "id": "ab77d4b5b67e",
+      "title": "Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-05T00:00:00.000Z",
+      "summary": "On behalf of the community, I am pleased to announce that the Release Candidate 2 (RC2) of the Spring Cloud 2026.0.0-RC2 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-RC2 release notes for more information ."
+    },
+    {
+      "id": "3eb96fe66d60",
+      "title": "A Bootiful Podcast: Temporal.io's Cornelia Davis",
+      "url": "https://spring.io/blog/2026/11/05/a-bootiful-podcast-cornelia-davis",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-05T00:00:00.000Z",
+      "summary": "Hi, Spring fans! In this nostalgic, wide-ranging conversation, I revisit my first podcast episode from 2018 with Cornelia Davis and catch up on her career across Pivotal, VMware, Weaveworks, Amazon, Kubernetes, and now Temporal."
     },
     {
       "id": "ff91befc1789",
@@ -620,58 +656,6 @@
       "importance": "minor",
       "headline": "GitHub and Yale survey: 80% of developers want tools for energy-efficient code",
       "paragraph": "Surveying 1,039 US GitHub users, GitHub and Yale found 80% want tools for energy-efficient code and 74% want impact measurement, yet only 10% think their practices matter much."
-    },
-    {
-      "id": "b39bf31f6b2f",
-      "title": "Building the new GitHub Copilot Inline Suggestions Model: Part Two",
-      "url": "https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-09-23T00:00:00.000Z",
-      "summary": "See how GitHub Copilot added completions to its unified inline suggestions model, refined ghost text and editor behavior, and improved user satisfaction.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "GitHub Copilot merges completions and next-edit suggestions into one inline model",
-      "paragraph": "GitHub and the VS Code team published part two of their write-up on the Copilot inline suggestions model on September 23, 2026. Ghost-text completions, next edit suggestions (NES, predicted edits away from the cursor) and distant edits now come from a single 3-in-1 model instead of separate calls. Online, it cut dismissals by 10.1% against the previous setup with no statistically significant regressions. A key lesson came from the client: ignored ghost text was resurfacing as an NES edit, and toggling that behaviour in an ablation swung the dismissal change from +15.9% to -10.1%. Useful reading for anyone building AI features into editors or other developer tools."
-    },
-    {
-      "id": "900365345474",
-      "title": "Quality Outreach Heads-up - JDK 28: Rich JavaDoc Notes",
-      "url": "https://inside.java/2026/09/23/quality-heads-up/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-23T00:00:00.000Z",
-      "summary": "This Heads-Up is part of the regular communication sent to the projects involved; it covers a new JavaDoc tag `@note` to highlight the presence of additional information in API documentation.",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "JDK 28 proposes a new @note JavaDoc tag for tips and warnings",
-      "paragraph": "A new {@note} JavaDoc tag proposed for JDK 28 (JDK-8363700) highlights tips and warnings inline or as blocks, with optional header, kind and id attributes."
-    },
-    {
-      "id": "12574c6c5a5f",
-      "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-22T22:23:14.000Z",
-      "summary": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Amazon CloudWatch Omni is generally available with AI-guided investigations",
-      "paragraph": "AWS made Amazon CloudWatch Omni generally available on September 22, 2026 as a new observability workspace built on top of CloudWatch. It opens from a dedicated URL with enterprise single sign-on rather than the AWS Console, and existing customers can start from a Try CloudWatch Omni button in the console without reconfiguring anything. Omni discovers services and maps their dependencies automatically, answers plain-English questions, and brings in AWS DevOps Agent to correlate signals and suggest root causes during shared investigations. Any OpenTelemetry-instrumented workload can send data through OTLP endpoints, and existing alarms, dashboards and APIs keep working. Teams already on CloudWatch can try it now."
-    },
-    {
-      "id": "4f007c6a12dc",
-      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-22T22:21:13.000Z",
-      "summary": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "CloudWatch Omni adds tracing and 17 built-in evaluators for AI agent workloads",
-      "paragraph": "Alongside the September 22, 2026 general availability of Amazon CloudWatch Omni, AWS detailed its features for generative AI and agent workloads. Omni records each agent run as a timeline of LLM calls, tool invocations and reasoning steps, and a Trace Explorer compares runs side by side. Token usage appears next to latency and cost. Seventeen built-in evaluators score outputs for coherence, helpfulness, faithfulness and routing correctness, and it integrates with Amazon Bedrock AgentCore. Instrumentation uses OpenInference and ADOT (AWS Distro for OpenTelemetry) and supports LangChain, LangGraph, CrewAI, OpenAI SDK, Strands and Vercel AI SDK in Python and TypeScript. Relevant for teams running RAG or agent services on AWS."
     }
   ]
 }
