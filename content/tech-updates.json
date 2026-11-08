@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-07T21:55:41.150Z",
+  "generatedAt": "2026-11-08T06:08:57.569Z",
   "items": [
+    {
+      "id": "b2196d54740f",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-07T18:12:12.000Z",
+      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 476 # Comments: 97"
+    },
+    {
+      "id": "1eeaf5457cb1",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-07T18:02:17.000Z",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 430 # Comments: 255"
+    },
+    {
+      "id": "9c95d9f4cc46",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-07T17:06:36.000Z",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 419 # Comments: 275"
+    },
+    {
+      "id": "5ec03af4da1d",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-07T09:46:03.000Z",
+      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 665 # Comments: 371"
+    },
+    {
+      "id": "822aa1f84e50",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-07T09:36:36.000Z",
+      "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 891 # Comments: 240"
+    },
     {
       "id": "d28d7745dd02",
       "title": "Copilot code review: API management and review overview updates",
@@ -308,33 +353,6 @@
       "summary": "Interacting with foreign libraries from Java has never been easier, thanks to the Foreign Function & Memory (FFM) API. But interacting with entire foreign language runtimes, like JavaScript or Python, remains hard."
     },
     {
-      "id": "62c039c795aa",
-      "title": "November 2026 Security Release",
-      "url": "https://nextjs.org/blog/november-2026-security-release",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-03T18:00:00.000Z",
-      "summary": "The November 2026 security release for Next.js is now available"
-    },
-    {
-      "id": "7b04a568c5ad",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T17:01:49.000Z",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-    },
-    {
-      "id": "bc4177032a04",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T16:35:36.000Z",
-      "summary": ""
-    },
-    {
       "id": "ff91befc1789",
       "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
       "url": "https://inside.java/2026/09/26/jep539-target-jdk28/",
@@ -606,32 +624,6 @@
       "importance": "important",
       "headline": "Liquid AI releases DSpark draft model to speed up LFM2.5-VL-3B decoding",
       "paragraph": "Liquid AI released LFM2.5-VL-3B-DSpark, an open-weight draft model that adds speculative decoding to its 3-billion-parameter vision-language model. Speculative decoding has a small model propose several tokens that the large model then checks in one pass. The drafter adds 280M parameters (8.9% overhead) and reads hidden states from the target model, so it handles image and text inputs alike. Decoding ran 2.30-3.13x faster with MLX on an M5 Max and 2.66-20.4x faster on an H100, with end-to-end gains of 1.56-2.62x and 1.64-2.27x. It does not speed up image encoding or prefill. Weights come in Safetensors and GGUF, supported by llama.cpp, MLX-VLM and SGLang."
-    },
-    {
-      "id": "ead81158a84d",
-      "title": "Spring Batch 6.1.0-M2 is out!",
-      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-24T00:00:00.000Z",
-      "summary": "On behalf of the team and all contributors, I am pleased to announce that Spring Batch 6.1.0-M2 is available now from Maven Central! This second milestone brings a number of new features, enhancements and a few breaking changes on top of 6.1.0-M1 .",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Spring Batch 6.1.0-M2 adds compile-checked builders and moves async writers to core",
-      "paragraph": "Spring Batch 6.1.0-M2, the second milestone of 6.1, was released to Maven Central on September 24, 2026. AsyncItemProcessor, AsyncItemWriter and ChunkTaskExecutorItemWriter move from spring-batch-integration into spring-batch-core, dropping unneeded transitive dependencies. FlatFileItemReaderBuilder, FlatFileItemWriterBuilder and JdbcBatchItemWriterBuilder now use a staged DSL that catches invalid configurations at compile time, which breaks code that stores builder return values in builder-typed variables. The MongoDB job repository supports collection prefixes, RepositoryItemWriter can flush, and resource readers accept location patterns such as classpath:data/input/file-*.txt. No GA date was given. Batch developers should test against it now to catch the builder changes early."
-    },
-    {
-      "id": "b7efb590f404",
-      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-24T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the Milestone 1 (M1) of the Spring Cloud 2026.0.0-M1 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-M1 release notes for more information .",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Spring Cloud 2026.0.0-M1 (Paddington) arrives, built on Spring Boot 4.2.0-M2",
-      "paragraph": "First milestone of the 2026.0 train moves modules to 5.1.0-M1 on Spring Boot 4.2.0-M2, upgrading Resilience4J to 2.4.0, Feign to 13.14 and Spring Vault to 4.1.0."
     }
   ]
 }
