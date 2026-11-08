@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-08T06:08:57.569Z",
+  "generatedAt": "2026-11-08T13:31:01.408Z",
   "items": [
+    {
+      "id": "e66f4eeac8f3",
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-08T03:11:48.000Z",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 413 # Comments: 263"
+    },
+    {
+      "id": "5186d80b7eef",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-07T20:45:32.000Z",
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 451 # Comments: 315"
+    },
     {
       "id": "b2196d54740f",
       "title": "What I run on my $10 USD OpenStick homelab",
@@ -8,7 +26,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-07T18:12:12.000Z",
-      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 476 # Comments: 97"
+      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 645 # Comments: 118"
     },
     {
       "id": "1eeaf5457cb1",
@@ -17,16 +35,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-07T18:02:17.000Z",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 430 # Comments: 255"
-    },
-    {
-      "id": "9c95d9f4cc46",
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-07T17:06:36.000Z",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 419 # Comments: 275"
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 475 # Comments: 285"
     },
     {
       "id": "5ec03af4da1d",
@@ -35,7 +44,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-07T09:46:03.000Z",
-      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 665 # Comments: 371"
+      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 761 # Comments: 412"
     },
     {
       "id": "822aa1f84e50",
@@ -44,7 +53,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-07T09:36:36.000Z",
-      "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 891 # Comments: 240"
+      "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 1038 # Comments: 257"
     },
     {
       "id": "d28d7745dd02",
@@ -342,15 +351,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-04T14:00:00.000Z",
       "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
-    },
-    {
-      "id": "c36fcbfe7ffb",
-      "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes",
-      "url": "https://inside.java/2026/11/04/devoxxbelgium-project-detroit/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-04T00:00:00.000Z",
-      "summary": "Interacting with foreign libraries from Java has never been easier, thanks to the Foreign Function & Memory (FFM) API. But interacting with entire foreign language runtimes, like JavaScript or Python, remains hard."
     },
     {
       "id": "ff91befc1789",
