@@ -1,59 +1,14 @@
 {
-  "generatedAt": "2026-11-08T13:31:01.408Z",
+  "generatedAt": "2026-11-08T22:11:33.156Z",
   "items": [
     {
-      "id": "e66f4eeac8f3",
-      "title": "Goodbye Claude, Hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-08T03:11:48.000Z",
-      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 413 # Comments: 263"
-    },
-    {
-      "id": "5186d80b7eef",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-07T20:45:32.000Z",
-      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 451 # Comments: 315"
-    },
-    {
-      "id": "b2196d54740f",
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-07T18:12:12.000Z",
-      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 645 # Comments: 118"
-    },
-    {
-      "id": "1eeaf5457cb1",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-07T18:02:17.000Z",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 475 # Comments: 285"
-    },
-    {
-      "id": "5ec03af4da1d",
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-07T09:46:03.000Z",
-      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 761 # Comments: 412"
-    },
-    {
-      "id": "822aa1f84e50",
-      "title": "Need for Speed Underground 2 online in the browser",
-      "url": "https://nfsu2.xyz/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-07T09:36:36.000Z",
-      "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 1038 # Comments: 257"
+      "id": "7b7c66d75a93",
+      "title": "Java and the Next Generation of Programming Models",
+      "url": "https://inside.java/2026/11/08/devoxxbelgium-java-next-programming-models/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-08T00:00:00.000Z",
+      "summary": "Modern software increasingly interacts with AI models, query languages, and other specialized programming models, forcing you to switch contexts, embed foreign code, or write verbose wrappers to bridge the gap. What if you could express logic from outside the JVM directly in Java?"
     },
     {
       "id": "d28d7745dd02",
@@ -353,6 +308,132 @@
       "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
     },
     {
+      "id": "c36fcbfe7ffb",
+      "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes",
+      "url": "https://inside.java/2026/11/04/devoxxbelgium-project-detroit/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-04T00:00:00.000Z",
+      "summary": "Interacting with foreign libraries from Java has never been easier, thanks to the Foreign Function & Memory (FFM) API. But interacting with entire foreign language runtimes, like JavaScript or Python, remains hard."
+    },
+    {
+      "id": "62c039c795aa",
+      "title": "November 2026 Security Release",
+      "url": "https://nextjs.org/blog/november-2026-security-release",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-03T18:00:00.000Z",
+      "summary": "The November 2026 security release for Next.js is now available"
+    },
+    {
+      "id": "7b04a568c5ad",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T17:01:49.000Z",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+    },
+    {
+      "id": "bc4177032a04",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-03T16:35:36.000Z",
+      "summary": ""
+    },
+    {
+      "id": "a9339aac474e",
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-03T16:00:00.000Z",
+      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone."
+    },
+    {
+      "id": "af5c97bd7711",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-03T14:00:00.000Z",
+      "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure."
+    },
+    {
+      "id": "d6d51e5a2cab",
+      "title": "This Week in Spring - November 3rd, 2026",
+      "url": "https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-03T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! It's Tuesday, and you know what that means? I'm thinking about production. Now, to be fair, I'm always thinking about production."
+    },
+    {
+      "id": "b810030289ed",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-02T17:45:00.000Z",
+      "summary": "Here are Google’s latest AI updates from October 2026"
+    },
+    {
+      "id": "01d19205bbea",
+      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-02T16:45:48.000Z",
+      "summary": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. They were about reach. AWS Step Functions, which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite. In the"
+    },
+    {
+      "id": "eb6ff7302710",
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-02T14:00:00.000Z",
+      "summary": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay."
+    },
+    {
+      "id": "7437f847aaed",
+      "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
+      "url": "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-02T14:00:00.000Z",
+      "summary": "Docker is a founding member of the Blueprint Alliance, a 12-company reference architecture for securing AI agents, built around four governance questions."
+    },
+    {
+      "id": "a6ff3130e98e",
+      "title": "Where should your code live in a Docker Sandbox?",
+      "url": "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-02T14:00:00.000Z",
+      "summary": "Docker Sandboxes support three ways to organize an agent’s code: shared mounts, Git worktrees, and clone mode. Here’s how to choose between them."
+    },
+    {
+      "id": "8efc4c266dc3",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-01T21:36:00.000Z",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key."
+    },
+    {
+      "id": "132cf9739027",
+      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+      "url": "https://blog.cloudflare.com/emudhra-patching/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-30T17:38:50.000Z",
+      "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed."
+    },
+    {
       "id": "ff91befc1789",
       "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
       "url": "https://inside.java/2026/09/26/jep539-target-jdk28/",
@@ -507,123 +588,6 @@
       "importance": "important",
       "headline": "Running a load generator in the same JVM hides GC pauses and skews p99 latency",
       "paragraph": "A study linked from Inside Java on 25 September 2026 tests running a benchmark's workload generator in the same JVM as the system under test. Using SPECjbb2015 v1.04 at 6,000 requests per second on OpenJDK 27, the author shows that a garbage-collection pause also stops the generator, so no requests are scheduled and coordinated-omission correction (adjusting for requests delayed by a stall) cannot capture the delay. With ZGC (pauses under 1 ms) results matched; G1 and Parallel showed roughly 2-3x differences in p99 latency, and Serial GC on a 6 GB heap gave 1,750 ms versus 278 ms. When benchmarking JVM tail latency, run the generator in its own JVM."
-    },
-    {
-      "id": "3612a7c1fb6f",
-      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-24T20:58:46.000Z",
-      "summary": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and improved economics at scale.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Amazon EventBridge adds enhanced custom event bus with org-wide sharing and ordering",
-      "paragraph": "AWS introduced an enhanced custom event bus for Amazon EventBridge on 24 September 2026. One bus can be shared with every account in an AWS Organization, specific organizational units or individual IAM principals through AWS RAM (Resource Access Manager). Publishers can set an EventGroupId, and subscribers that opt into ordered delivery receive events with the same ID in sequence. A new Subscriber resource bundles filtering, targets, retry policies and dead-letter destinations, with a default quota of 10,000 per bus. Pricing moves from per-event charges to ingress and egress throughput. Existing buses keep working unchanged, now labelled \"classic\". Teams running multi-account event-driven systems should evaluate it in supported Regions."
-    },
-    {
-      "id": "234391b377f9",
-      "title": "When chat is the wrong UI",
-      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-09-24T20:00:00.000Z",
-      "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases.",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "GitHub Copilot app canvases let agents build small custom UIs instead of chatting",
-      "paragraph": "GitHub explains canvases in the Copilot app: small full-stack apps, created by asking the agent, that run inside the app and exchange messages with the agent."
-    },
-    {
-      "id": "5d810621a5e7",
-      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-09-24T18:26:12.000Z",
-      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "GitHub Security Lab releases an AI-driven fuzzing taskflow for C/C++ projects",
-      "paragraph": "GitHub Security Lab published a fuzzing taskflow on September 24, 2026, built on its Taskflow Agent framework for LLM-driven security automation. Given a repository, it picks entry points, reads the build system, writes harnesses, runs AFL++ (a coverage-guided fuzzer), reads coverage reports, improves the harnesses and triages every crash into a vulnerability report. Time budgets double from 30 to 960 seconds, with plateau detection to stop when coverage stalls. Crashes are minimised and deduplicated by stack hash, and Claude Sonnet 5 is the default model. It supports C/C++ only, and the post reports no bug counts yet. It runs build commands without container isolation, so use a disposable machine."
-    },
-    {
-      "id": "e7107d9a76d9",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-09-24T16:20:39.000Z",
-      "summary": "",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Google adds Live Avatar to Gemini 3.8 Live in Gemini Enterprise",
-      "paragraph": "Google released Gemini 3.8 Live with Live Avatar on September 24, 2026, adding a generated, talking video face to its real-time voice dialogue model. It is available in Gemini Enterprise through the console and API. Avatars are rendered in near real time with lip-sync and facial expressions, and the model processes video and audio input together. Tool calls can run in the background while the conversation continues, and lip-sync adapts across 97 languages. Developers can create avatars from a reference image, but custom avatars currently require enterprise allowlisting. All output carries a SynthID watermark. No pricing was given. Relevant for teams building customer-service or guided-walkthrough agents."
-    },
-    {
-      "id": "d28cb3fe2c26",
-      "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
-      "url": "https://www.docker.com/blog/docker-sandbox-kit-spec/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-24T16:00:00.000Z",
-      "summary": "Docker's Sandbox Kit Specification v3 packages an AI agent's network rules, credentials, and volumes as an ordinary, pinnable OCI image.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Docker Sandbox Kit Spec v3 packages AI agent permissions as OCI images",
-      "paragraph": "Docker published version 3 of its Sandbox Kit Specification, an Apache 2.0 open standard in the docker/sandbox-kit-spec repository. A Kit is an ordinary OCI (Open Container Initiative) image that declares what an AI agent may reach: allowed hosts and HTTP methods, credentials injected through a proxy, persistent volumes, lifecycle hooks, ports and devices. Rules can be fine-grained, for example allowing the GitHub API while denying DELETE on repository paths. Kits build with docker buildx, push to standard registries, pin by digest and are checked by two conformance suites. The sbx CLI runs them. Worth reading if you run coding agents and want their permissions reviewed and versioned like code."
-    },
-    {
-      "id": "bfc64acbfc4f",
-      "title": "Docker and CNCF partner on an open spec for agent permissions",
-      "url": "https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-24T16:00:00.000Z",
-      "summary": "Docker is bringing the open source Sandbox Kit Spec to the CNCF, so AI agent permissions become a neutral, vendor independent standard built on OCI.",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Docker contributes its Sandbox Kit Spec for AI agent permissions to the CNCF",
-      "paragraph": "Docker is moving its Apache 2.0 Sandbox Kit Spec to CNCF governance, with partners including AWS, Datadog, JFrog, Palo Alto Networks and Snyk."
-    },
-    {
-      "id": "cd2149d6a732",
-      "title": "Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud",
-      "url": "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-24T16:00:00.000Z",
-      "summary": "Run agents on your laptop, in the cloud, and move between them with one command, all safely. Earlier this year we launched Docker Sandboxes: microVM environments where coding agents can work autonomously in a safe way.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Docker Cloud Sandboxes reach general availability with per-second pricing",
-      "paragraph": "Docker made Cloud Sandboxes generally available on September 24, 2026, running the same microVM (lightweight virtual machine) sandboxes used locally on Docker-managed compute, with identical isolation and CLI. The command sbx move my-project --to cloud copies a sandbox's filesystem across, in either direction. Billing is per second, from $0.07 an hour for 1 vCPU and 2 GiB up to $1.12 for 16 vCPUs and 32 GiB; sessions default to one hour and can run up to 24. It needs sbx 0.45.1 or later and a pay-as-you-go Personal or Pro account, with ready-made Kits for Claude Code, Codex, Copilot and others. New accounts get $250 in credit for a limited time."
-    },
-    {
-      "id": "4224c10f9445",
-      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-24T15:00:00.000Z",
-      "summary": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Cloudflare fixes Containers flaw that exposed leftover disk data across tenants",
-      "paragraph": "Cloudflare disclosed and fixed a cross-tenant flaw in Cloudflare Containers, reported on September 4, 2026 by Oren Yomtov of Accomplish through its HackerOne bug bounty. Linux device-mapper thin provisioning was configured with skip_block_zeroing, so newly allocated 64 KiB blocks could keep data from a previous customer's workload when smaller writes did not overwrite them. A fix began rolling out the same day and finished on September 7; old disks and cached snapshots were cleared by September 19. Researchers found residual data in 18 of 24 placements, but Cloudflare saw no exploitation. Customers need do nothing; anyone running multi-tenant storage should check that freed blocks are zeroed."
-    },
-    {
-      "id": "c2a53f233272",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-09-24T14:08:57.000Z",
-      "summary": "",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Liquid AI releases DSpark draft model to speed up LFM2.5-VL-3B decoding",
-      "paragraph": "Liquid AI released LFM2.5-VL-3B-DSpark, an open-weight draft model that adds speculative decoding to its 3-billion-parameter vision-language model. Speculative decoding has a small model propose several tokens that the large model then checks in one pass. The drafter adds 280M parameters (8.9% overhead) and reads hidden states from the target model, so it handles image and text inputs alike. Decoding ran 2.30-3.13x faster with MLX on an M5 Max and 2.66-20.4x faster on an H100, with end-to-end gains of 1.56-2.62x and 1.64-2.27x. It does not speed up image encoding or prefill. Weights come in Safetensors and GGUF, supported by llama.cpp, MLX-VLM and SGLang."
     }
   ]
 }
