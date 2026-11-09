@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-08T22:11:33.156Z",
+  "generatedAt": "2026-11-09T06:42:41.786Z",
   "items": [
+    {
+      "id": "9709ee9b2939",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-08T22:20:09.000Z",
+      "summary": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff... , https://archive.ph/Hxn5h https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a... , https://archive.ph/atMcp https://www.cnn.com/2026/11/08/business/nvidia-investigation..."
+    },
+    {
+      "id": "a78801b83036",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-08T18:16:07.000Z",
+      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 700 # Comments: 388"
+    },
+    {
+      "id": "5e9d3fd0e59c",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-08T10:22:04.000Z",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 403 # Comments: 181"
+    },
+    {
+      "id": "e66f4eeac8f3",
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-08T03:11:48.000Z",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 730 # Comments: 451"
+    },
     {
       "id": "7b7c66d75a93",
       "title": "Java and the Next Generation of Programming Models",
@@ -9,6 +45,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-08T00:00:00.000Z",
       "summary": "Modern software increasingly interacts with AI models, query languages, and other specialized programming models, forcing you to switch contexts, embed foreign code, or write verbose wrappers to bridge the gap. What if you could express logic from outside the JVM directly in Java?"
+    },
+    {
+      "id": "5186d80b7eef",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-07T20:45:32.000Z",
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 599 # Comments: 408"
     },
     {
       "id": "d28d7745dd02",
@@ -290,6 +335,15 @@
       "summary": ""
     },
     {
+      "id": "62b8c6bdaaf8",
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-04T17:05:07.000Z",
+      "summary": "Article URL: https://declarative-dragging.github.io/ Comments URL: https://news.ycombinator.com/item?id=50368481 Points: 461 # Comments: 61"
+    },
+    {
       "id": "56787cc309ca",
       "title": "Visual Studio Code 1.145",
       "url": "https://code.visualstudio.com/updates/v1_145",
@@ -407,33 +461,6 @@
       "summary": "Docker is a founding member of the Blueprint Alliance, a 12-company reference architecture for securing AI agents, built around four governance questions."
     },
     {
-      "id": "a6ff3130e98e",
-      "title": "Where should your code live in a Docker Sandbox?",
-      "url": "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T14:00:00.000Z",
-      "summary": "Docker Sandboxes support three ways to organize an agent’s code: shared mounts, Git worktrees, and clone mode. Here’s how to choose between them."
-    },
-    {
-      "id": "8efc4c266dc3",
-      "title": "Game Off 2026: The theme is SHIFT",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-01T21:36:00.000Z",
-      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key."
-    },
-    {
-      "id": "132cf9739027",
-      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
-      "url": "https://blog.cloudflare.com/emudhra-patching/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-30T17:38:50.000Z",
-      "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed."
-    },
-    {
       "id": "ff91befc1789",
       "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
       "url": "https://inside.java/2026/09/26/jep539-target-jdk28/",
@@ -549,45 +576,6 @@
       "importance": "important",
       "headline": "Cloudflare Turnstile Spin has your AI coding agent wire up server-side bot checks",
       "paragraph": "Cloudflare detailed Turnstile Spin on 25 September 2026, a free tool released in July that has your AI coding agent finish setting up Turnstile, its CAPTCHA replacement. Sites that embed the Turnstile widget but never call the Siteverify API from their backend stay open to bots. From the dashboard or Wrangler CLI, Spin produces a prompt or skill URL that agents such as Claude Code, Cursor or Codex use to add the widget and backend validation after you approve a plan. Widgets with no server-side validation now show a \"Fix with Spin\" banner, and over 65,000 Spin widgets have been created. Turnstile users should confirm their backend validates tokens."
-    },
-    {
-      "id": "89d99fa23758",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-25T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-M1 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation 2.1.0-M1 is the first milestone of the 2.1 line.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Spring AI 2.1.0-M1 released with ordered message parts and OpenAI Responses API support",
-      "paragraph": "Spring AI 2.1.0-M1, the first milestone of the 2.1 line, was released to Maven Central on 25 September 2026 and builds against Spring Boot 4.2.0-M2. Messages can now hold ordered parts (text, reasoning, tool calls, tool results and media) kept in the order the model provider produced them. A new OpenAiResponsesChatModel supports OpenAI's Responses API, including tool calling combined with a reasoning effort other than none. VectorStore.upsert() stores embeddings computed elsewhere, and new customizer beans tune stateless MCP (Model Context Protocol) servers. Redis vector store auto-configuration accepts custom metadata fields. Milestone APIs may change before GA, so Spring developers building RAG or agent features should try it outside production."
-    },
-    {
-      "id": "b987e79c844e",
-      "title": "Spring Boot 4.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-25T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes .",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Spring Boot 4.2.0-M2 adds LDAPS via SSL bundles and OpenTelemetry semantic conventions",
-      "paragraph": "Spring Boot 4.2.0-M2 was released to Maven Central on 25 September 2026 with 141 enhancements, documentation improvements, dependency upgrades and bug fixes. LDAP connections can now use SSL bundles, and the embedded LDAP server supports LDAPS (LDAP over TLS). Setting management.observations.conventions to open-telemetry opts in to OpenTelemetry semantic conventions, and a shared management.opentelemetry.otlp prefix configures the common OTLP endpoint, headers and compression. @DefaultValue now accepts property placeholders. It moves to Spring Framework 7.1.0-M2 and Micrometer 1.18.0-M2, and deprecates the buildProperties methods in KafkaProperties in favour of KafkaConfigBuilder. Kafka and observability users should test against it before 4.2 goes GA."
-    },
-    {
-      "id": "999cfb9cf2dd",
-      "title": "The Limitations of Running a Workload Generator In the Same JVM as the System-Under-Test",
-      "url": "https://inside.java/2026/09/25/limitations-of-running-a-workload-generator-in-the-same-jvm/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-09-25T00:00:00.000Z",
-      "summary": "When you evaluate a system with a garbage collector and want to understand its tail latency, you often see SPECjbb2015 or DaCapo used.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Running a load generator in the same JVM hides GC pauses and skews p99 latency",
-      "paragraph": "A study linked from Inside Java on 25 September 2026 tests running a benchmark's workload generator in the same JVM as the system under test. Using SPECjbb2015 v1.04 at 6,000 requests per second on OpenJDK 27, the author shows that a garbage-collection pause also stops the generator, so no requests are scheduled and coordinated-omission correction (adjusting for requests delayed by a stall) cannot capture the delay. With ZGC (pauses under 1 ms) results matched; G1 and Parallel showed roughly 2-3x differences in p99 latency, and Serial GC on a 6 GB heap gave 1,750 ms versus 278 ms. When benchmarking JVM tail latency, run the generator in its own JVM."
     }
   ]
 }
