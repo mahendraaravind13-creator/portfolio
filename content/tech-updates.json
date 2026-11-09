@@ -1,41 +1,140 @@
 {
-  "generatedAt": "2026-11-09T06:42:41.786Z",
+  "generatedAt": "2026-11-09T22:26:08.674Z",
   "items": [
     {
-      "id": "9709ee9b2939",
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-08T22:20:09.000Z",
-      "summary": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff... , https://archive.ph/Hxn5h https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a... , https://archive.ph/atMcp https://www.cnn.com/2026/11/08/business/nvidia-investigation..."
+      "id": "9c331579e229",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-09T19:00:00.000Z",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
     },
     {
-      "id": "a78801b83036",
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "id": "796a7f7ee338",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-08T18:16:07.000Z",
-      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 700 # Comments: 388"
+      "published": "2026-11-09T18:56:29.000Z",
+      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 776 # Comments: 453"
     },
     {
-      "id": "5e9d3fd0e59c",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-08T10:22:04.000Z",
-      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 403 # Comments: 181"
+      "id": "cc7861f47980",
+      "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-09T17:55:26.000Z",
+      "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few"
     },
     {
-      "id": "e66f4eeac8f3",
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "id": "3ef732dd0eb2",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-08T03:11:48.000Z",
-      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 730 # Comments: 451"
+      "published": "2026-11-09T16:00:45.000Z",
+      "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 425 # Comments: 231"
+    },
+    {
+      "id": "057e22ab69c0",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-09T15:05:57.000Z",
+      "summary": ""
+    },
+    {
+      "id": "f37b680abcf7",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-09T13:00:00.000Z",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+    },
+    {
+      "id": "d079a8b6909b",
+      "title": "Launching the Vite Ecosystem Fund",
+      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-09T13:00:00.000Z",
+      "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare."
+    },
+    {
+      "id": "7b1451fc786c",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-09T12:34:29.000Z",
+      "summary": ""
+    },
+    {
+      "id": "2f5d27c93321",
+      "title": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-09T12:19:22.000Z",
+      "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 764 # Comments: 129"
+    },
+    {
+      "id": "06e2b9999d4d",
+      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-09T09:01:37.000Z",
+      "summary": "GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How"
+    },
+    {
+      "id": "23b94c697622",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-09T08:00:00.000Z",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+    },
+    {
+      "id": "932fe34bad72",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-09T08:00:00.000Z",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+    },
+    {
+      "id": "f49487fb0428",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-09T07:04:25.000Z",
+      "summary": "Article URL: https://twitter.com/shanemelaugh/status/2119192075505893695 Comments URL: https://news.ycombinator.com/item?id=50422069 Points: 669 # Comments: 438"
+    },
+    {
+      "id": "0021230a4ff4",
+      "title": "Spring AI 2.1.0-RC2 Available Now",
+      "url": "https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-09T00:00:00.000Z",
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-RC2 has been released and is now available from Maven Central!"
+    },
+    {
+      "id": "7c94ae21fcaf",
+      "title": "A Valhalla Ticker in One int",
+      "url": "https://inside.java/2026/11/09/inside-java-ticker-value-class/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-09T00:00:00.000Z",
+      "summary": "Learn how to pack a short ticker symbol into one int with a value class implementing CharSequence and Comparable."
     },
     {
       "id": "7b7c66d75a93",
@@ -45,15 +144,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-08T00:00:00.000Z",
       "summary": "Modern software increasingly interacts with AI models, query languages, and other specialized programming models, forcing you to switch contexts, embed foreign code, or write verbose wrappers to bridge the gap. What if you could express logic from outside the JVM directly in Java?"
-    },
-    {
-      "id": "5186d80b7eef",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-07T20:45:32.000Z",
-      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 599 # Comments: 408"
     },
     {
       "id": "d28d7745dd02",
@@ -146,15 +236,6 @@
       "summary": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed"
     },
     {
-      "id": "b6de41f0f45e",
-      "title": "Usage metrics API flags telemetry and version gaps",
-      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-06T00:08:31.000Z",
-      "summary": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in"
-    },
-    {
       "id": "cfd4354afa14",
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
@@ -191,24 +272,6 @@
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works."
     },
     {
-      "id": "c88b52d0b210",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-05T20:00:00.000Z",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    },
-    {
-      "id": "e8690f74b67f",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-05T19:35:16.000Z",
-      "summary": ""
-    },
-    {
       "id": "825a50d1c0ad",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -225,15 +288,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-05T17:03:04.000Z",
       "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic."
-    },
-    {
-      "id": "b58fee4edbbb",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-05T17:00:00.000Z",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
     },
     {
       "id": "485010988bfc",
@@ -261,24 +315,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-05T14:00:00.000Z",
       "summary": "See how CNCF Score improved container security with Docker Scout, Hardened Images, and the Docker-Sponsored Open Source Program."
-    },
-    {
-      "id": "53c56afbaf05",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-05T09:00:00.000Z",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
-    },
-    {
-      "id": "300d91101f21",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-05T08:00:00.000Z",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
     },
     {
       "id": "89209ab642b1",
@@ -335,15 +371,6 @@
       "summary": ""
     },
     {
-      "id": "62b8c6bdaaf8",
-      "title": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-04T17:05:07.000Z",
-      "summary": "Article URL: https://declarative-dragging.github.io/ Comments URL: https://news.ycombinator.com/item?id=50368481 Points: 461 # Comments: 61"
-    },
-    {
       "id": "56787cc309ca",
       "title": "Visual Studio Code 1.145",
       "url": "https://code.visualstudio.com/updates/v1_145",
@@ -354,7 +381,7 @@
     },
     {
       "id": "c62c3211dde6",
-      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "title": "See the agents, set the terms: New visibility and control for personal agents",
       "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
@@ -389,15 +416,6 @@
       "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
     },
     {
-      "id": "bc4177032a04",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T16:35:36.000Z",
-      "summary": ""
-    },
-    {
       "id": "a9339aac474e",
       "title": "Arnis turns any place on Earth into a Minecraft world",
       "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
@@ -414,15 +432,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-03T14:00:00.000Z",
       "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure."
-    },
-    {
-      "id": "d6d51e5a2cab",
-      "title": "This Week in Spring - November 3rd, 2026",
-      "url": "https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-03T00:00:00.000Z",
-      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! It's Tuesday, and you know what that means? I'm thinking about production. Now, to be fair, I'm always thinking about production."
     },
     {
       "id": "b810030289ed",
@@ -461,6 +470,60 @@
       "summary": "Docker is a founding member of the Blueprint Alliance, a 12-company reference architecture for securing AI agents, built around four governance questions."
     },
     {
+      "id": "a6ff3130e98e",
+      "title": "Where should your code live in a Docker Sandbox?",
+      "url": "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-02T14:00:00.000Z",
+      "summary": "Docker Sandboxes support three ways to organize an agent’s code: shared mounts, Git worktrees, and clone mode. Here’s how to choose between them."
+    },
+    {
+      "id": "8efc4c266dc3",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-01T21:36:00.000Z",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key."
+    },
+    {
+      "id": "094c331a98fa",
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-30T14:18:30.000Z",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times"
+    },
+    {
+      "id": "7757e3201b71",
+      "title": "JDK 27 G1/Parallel/Serial GC changes",
+      "url": "https://inside.java/2026/10/30/jdk27-gc-changes/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-30T00:00:00.000Z",
+      "summary": "Now that the JDK 27 has been released, I thought it would be time to discuss interesting changes in OpenJDK’s stop-the-world collectors in the HotSpot VM once more."
+    },
+    {
+      "id": "6b5b11dae9da",
+      "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
+      "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-29T13:00:00.000Z",
+      "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification."
+    },
+    {
+      "id": "eaceb9188b83",
+      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "url": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-10-29T05:00:00.000Z",
+      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (TensorScale AI) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
+    },
+    {
       "id": "ff91befc1789",
       "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
       "url": "https://inside.java/2026/09/26/jep539-target-jdk28/",
@@ -485,97 +548,6 @@
       "importance": "minor",
       "headline": "GitHub adds an in-product validator for Copilot enterprise managed settings",
       "paragraph": "Enterprise admins now see errors in Copilot managed-settings.json and team-mappings.json files, such as malformed JSON or invalid team mappings, on the AI controls page."
-    },
-    {
-      "id": "0447a6245098",
-      "title": "Usage metrics API adds pull request review stages",
-      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-25T21:09:40.000Z",
-      "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "Copilot usage metrics API adds pull request review-stage timings",
-      "paragraph": "Enterprise and organization repos-1-day Copilot metrics reports gain a pull_request_review_times array with median and p90 minutes per review stage, collected from 21 September 2026."
-    },
-    {
-      "id": "27d48753d2e1",
-      "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-25T19:05:03.000Z",
-      "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. \"Relates to\" issue relationship",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "GitHub issues get private saved views; \"Relates to\" relationship is generally available",
-      "paragraph": "Repository issue pages now support private saved views, and the \"Relates to\" issue relationship is generally available across the REST and GraphQL APIs, webhooks and search."
-    },
-    {
-      "id": "e3b548de0eee",
-      "title": "Changes to query results in the GitHub Actions API and UI",
-      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-25T18:17:06.000Z",
-      "summary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "GitHub Actions API now reports workflow run counts above 2,500 as \"2,500+\"",
-      "paragraph": "GitHub changed how the Actions API and UI count workflow runs on 25 September 2026. When you search runs by workflow, event, status, branch or actor and more than 2,500 records match, the count is now shown as \"2,500+\" instead of an exact number. GitHub says exact counts on queries that large often timed out and returned incomplete totals, so the capped figure is less precise but more accurate. The change is rolling out on github.com and GitHub Enterprise Cloud. If your scripts, dashboards or cleanup jobs depend on counts or results beyond 2,500 runs, narrow the filters, for example with a date range, to get the runs you need."
-    },
-    {
-      "id": "925b830b81ef",
-      "title": "Agentic autofix now uses Copilot Memory",
-      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-25T17:25:50.000Z",
-      "summary": "Agentic autofix now uses Copilot Memory for customers who've enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "GitHub agentic autofix now reads and saves Copilot Memory",
-      "paragraph": "Agentic autofix, in public preview, now uses Copilot Memory to find context for fixing security alerts and saves successful fix patterns for reuse across the organization."
-    },
-    {
-      "id": "6edfaac73238",
-      "title": "GitHub Copilot weekly releases — September 21",
-      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-09-25T16:42:48.000Z",
-      "summary": "This week's releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "GitHub Copilot adds Claude Opus 5.5, GPT-6 Sol/Luna and Grok 4.7, plus local sandboxing",
-      "paragraph": "GitHub's Copilot release roundup for the week of 21 September 2026 adds four models: Claude Opus 5.5 and GPT-6 Sol for Pro+, Max, Business and Enterprise plans, and GPT-6 Luna and Grok 4.7 from the Pro plan up. In the Copilot app, local sandboxing is now in public preview, limiting agents' access to files, networks and credentials. JetBrains IDEs get assisted approvals (preview), which auto-approve low-risk tool calls and prompt for riskier ones. VS Code 1.139 lets agents run in Dev Containers on SSH, Tunnel and WSL hosts. Paid Copilot users can try the new models now; anyone running agents locally should test sandboxing."
-    },
-    {
-      "id": "4b83598dbd94",
-      "title": "Improving site performance by shipping more CSS",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-09-25T15:00:00.000Z",
-      "summary": "How we fully migrated github.com away from CSS-in-JS.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "GitHub completes move of github.com from CSS-in-JS to CSS Modules, cutting SSR time",
-      "paragraph": "GitHub finished migrating github.com from styled-components (a CSS-in-JS library) to CSS Modules in June 2026. CSS-in-JS initialized styles on the client, slowed server-side rendering (SSR) and added runtime cost through the dynamic sx style prop. Migrating the Primer design system first, completed in December 2024, cut SSR time by 55% and component initialization time by 25%. A rotation of 8 engineers then migrated 6,419 sx props over six months, and in April 2026 two engineers helped by Copilot coding agents cleared the last 895 in three weeks. Individual pages saw SSR gains of 1% to 22%. React teams using runtime CSS-in-JS can borrow its feature-flagged, staged rollout."
-    },
-    {
-      "id": "f8742313b30e",
-      "title": "Agents can now set up your website’s security with Turnstile Spin",
-      "url": "https://blog.cloudflare.com/turnstile-spin/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-09-25T13:00:00.000Z",
-      "summary": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "Cloudflare Turnstile Spin has your AI coding agent wire up server-side bot checks",
-      "paragraph": "Cloudflare detailed Turnstile Spin on 25 September 2026, a free tool released in July that has your AI coding agent finish setting up Turnstile, its CAPTCHA replacement. Sites that embed the Turnstile widget but never call the Siteverify API from their backend stay open to bots. From the dashboard or Wrangler CLI, Spin produces a prompt or skill URL that agents such as Claude Code, Cursor or Codex use to add the widget and backend validation after you approve a plan. Widgets with no server-side validation now show a \"Fix with Spin\" banner, and over 65,000 Spin widgets have been created. Turnstile users should confirm their backend validates tokens."
     }
   ]
 }
