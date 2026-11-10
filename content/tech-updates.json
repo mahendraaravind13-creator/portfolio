@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:26:08.674Z",
+  "generatedAt": "2026-11-10T07:25:23.162Z",
   "items": [
     {
       "id": "9c331579e229",
@@ -11,15 +11,6 @@
       "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
     },
     {
-      "id": "796a7f7ee338",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-09T18:56:29.000Z",
-      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 776 # Comments: 453"
-    },
-    {
       "id": "cc7861f47980",
       "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
@@ -29,13 +20,13 @@
       "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few"
     },
     {
-      "id": "3ef732dd0eb2",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-09T16:00:45.000Z",
-      "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 425 # Comments: 231"
+      "id": "773234e7b2ac",
+      "title": "Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-09T16:46:43.000Z",
+      "summary": "Claude Fable 5.2, Anthropic's newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable"
     },
     {
       "id": "057e22ab69c0",
@@ -74,15 +65,6 @@
       "summary": ""
     },
     {
-      "id": "2f5d27c93321",
-      "title": "Fold Epic Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-09T12:19:22.000Z",
-      "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 764 # Comments: 129"
-    },
-    {
       "id": "06e2b9999d4d",
       "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
       "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
@@ -108,15 +90,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-09T08:00:00.000Z",
       "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
-    },
-    {
-      "id": "f49487fb0428",
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-09T07:04:25.000Z",
-      "summary": "Article URL: https://twitter.com/shanemelaugh/status/2119192075505893695 Comments URL: https://news.ycombinator.com/item?id=50422069 Points: 669 # Comments: 438"
     },
     {
       "id": "0021230a4ff4",
@@ -225,15 +198,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-06T03:17:04.000Z",
       "summary": "A container shares the host kernel. Docker Sandboxes are microVMs with their own kernel and private Docker Engine. See how they differ and when to use each."
-    },
-    {
-      "id": "dcf7efe8bcfb",
-      "title": "Usage metrics API adds code review details and addressed rate",
-      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-06T00:19:07.000Z",
-      "summary": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed"
     },
     {
       "id": "cfd4354afa14",
@@ -524,30 +488,58 @@
       "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (TensorScale AI) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
     },
     {
-      "id": "ff91befc1789",
-      "title": "JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
-      "url": "https://inside.java/2026/09/26/jep539-target-jdk28/",
+      "id": "9b3547e9ab8d",
+      "title": "Episode 73 “Immutable Data Beyond Value Classes” [AtA]",
+      "url": "https://inside.java/2026/10/29/podcast-073/",
       "source": "Java (Inside Java)",
       "category": "Frameworks & Languages",
-      "published": "2026-09-26T00:00:00.000Z",
-      "summary": "The following JEP is targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)",
-      "reviewed": true,
-      "importance": "important",
-      "headline": "JEP 539 targeted to JDK 28: strict field initialization in the JVM (preview)",
-      "paragraph": "JEP 539 (a formal Java enhancement proposal), Strict Field Initialization in the JVM, was targeted to JDK 28 as a preview feature on 26 September 2026. Fields marked with a new ACC_STRICT_INIT class-file flag (0x0800) get no default value: the JVM refuses reads before they are assigned, and every read of a final strict field sees the same value. Static fields are enforced at runtime with exceptions; instance fields are checked by the bytecode verifier using a new early_larval_frame stack-map entry. Java syntax and javac are unchanged. It underpins Project Valhalla value classes, so JVM language and compiler authors should follow it; it needs --enable-preview."
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
     },
     {
-      "id": "123d8dcecccf",
-      "title": "Enterprise managed settings in-product validator",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "source": "GitHub Changelog",
+      "id": "ac5d768d6a43",
+      "title": "Ship less JavaScript in Next.js with your AI agent",
+      "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-10-28T20:00:00.000Z",
+      "summary": "Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools."
+    },
+    {
+      "id": "b0da25ea6c1a",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-10-28T17:00:58.000Z",
+      "summary": ""
+    },
+    {
+      "id": "da0e4aeadd91",
+      "title": "Visual Studio Code 1.144",
+      "url": "https://code.visualstudio.com/updates/v1_144",
+      "source": "VS Code",
       "category": "Developer Tools",
-      "published": "2026-09-25T23:24:57.000Z",
-      "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent",
-      "reviewed": true,
-      "importance": "minor",
-      "headline": "GitHub adds an in-product validator for Copilot enterprise managed settings",
-      "paragraph": "Enterprise admins now see errors in Copilot managed-settings.json and team-mappings.json files, such as malformed JSON or invalid team mappings, on the AI controls page."
+      "published": "2026-10-28T17:00:00.000Z",
+      "summary": "Learn what's new in Visual Studio Code 1.144"
+    },
+    {
+      "id": "6c275e5fd0ef",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-10-28T16:09:28.000Z",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world."
+    },
+    {
+      "id": "d2042a30ecc4",
+      "title": "VS Code Wrapped: GitHub Universe 2026",
+      "url": "https://code.visualstudio.com/blogs/2026/10/28/vscode-wrapped",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-10-28T00:00:00.000Z",
+      "summary": "Explore how VS Code evolved between GitHub Universe 2025 and 2026, with new ways to code, collaborate with agents, and manage work across tools and environments."
     }
   ]
 }
