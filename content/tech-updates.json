@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-11-10T07:25:23.162Z",
+  "generatedAt": "2026-11-10T19:47:37.655Z",
   "items": [
+    {
+      "id": "e7907f72eed8",
+      "title": "Visual Studio Code 1.146 (Insiders)",
+      "url": "https://code.visualstudio.com/updates/v1_146",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-11-11T17:00:00.000Z",
+      "summary": "Learn what is new in Visual Studio Code Insiders."
+    },
+    {
+      "id": "ac5a661efbfd",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T19:00:00.000Z",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+    },
+    {
+      "id": "7bd6d5785093",
+      "title": "Git security vulnerabilities announced",
+      "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-10T18:00:00.000Z",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know."
+    },
+    {
+      "id": "685df558780e",
+      "title": "C++ language server now auto-configures MSBuild builds",
+      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-10T17:04:10.000Z",
+      "summary": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a"
+    },
+    {
+      "id": "0b2e1c02de47",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T16:03:47.000Z",
+      "summary": ""
+    },
+    {
+      "id": "b7cb9f6e5192",
+      "title": "Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-10T14:20:05.000Z",
+      "summary": "Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can"
+    },
+    {
+      "id": "c5fffc8a0cbd",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T14:00:00.000Z",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+    },
+    {
+      "id": "155d33cae726",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T13:00:00.000Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+    },
+    {
+      "id": "428ac4b42c0b",
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-10T12:11:12.000Z",
+      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 496 # Comments: 161"
+    },
+    {
+      "id": "46ecb159c153",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T12:00:00.000Z",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "id": "5ca4dc7b6d88",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T10:00:00.000Z",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+    },
+    {
+      "id": "01a8528fa117",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T09:00:00.000Z",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+    },
+    {
+      "id": "3588ceed4155",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T07:00:00.000Z",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+    },
+    {
+      "id": "fe0656248ddf",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-10T06:01:08.000Z",
+      "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 648 # Comments: 225"
+    },
+    {
+      "id": "724fae925148",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "3229de0d9192",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "cfeaedcb835d",
+      "title": "Announcing a New Home for Spring for Apache Pulsar",
+      "url": "https://spring.io/blog/2026/11/10/spring-pulsar-new-home-asf",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-10T00:00:00.000Z",
+      "summary": "We are excited to announce an important transition for the Spring for Apache Pulsar project! To foster even deeper integration and collaboration with the broader Pulsar community, the project is moving to a new official home as a subproject within the Apache Pulsar project at the Apache Software Foundation."
+    },
+    {
+      "id": "742eecc196d0",
+      "title": "This Week in Spring - November 10th, 2026",
+      "url": "https://spring.io/blog/2026/11/10/this-week-in-spring-november-10th-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-10T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Welcome to another rip-roarin' installment of This Week in Spring! I'm writing this from St. Louis, where the weather is suuprisingly pleasant! Isn't this supposed to be November?"
+    },
+    {
+      "id": "af0b10afed04",
+      "title": "Tutorial: The G1 Garbage Collector",
+      "url": "https://inside.java/2026/11/10/g1gc-tutorial/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-10T00:00:00.000Z",
+      "summary": "In this tutorial, we will cover a brief history of G1, its key design concepts, and how to use it."
+    },
+    {
+      "id": "a98763b80c84",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-09T19:51:47.000Z",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
+    },
     {
       "id": "9c331579e229",
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -74,24 +254,6 @@
       "summary": "GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How"
     },
     {
-      "id": "23b94c697622",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-09T08:00:00.000Z",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
-    },
-    {
-      "id": "932fe34bad72",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-09T08:00:00.000Z",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
-    },
-    {
       "id": "0021230a4ff4",
       "title": "Spring AI 2.1.0-RC2 Available Now",
       "url": "https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now",
@@ -146,24 +308,6 @@
       "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment."
     },
     {
-      "id": "5175c20e07f3",
-      "title": "GitHub Copilot weekly releases — November 2",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-06T21:00:26.000Z",
-      "summary": "This week, Copilot comes to JetBrains Air and Xcode's coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge"
-    },
-    {
-      "id": "23359978bbf7",
-      "title": "@GitHub in Slack and Teams is generally available and more",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-06T20:31:08.000Z",
-      "summary": "Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests–all without leaving your conversation. What's new Build and review together"
-    },
-    {
       "id": "be1ba71e55b7",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -182,15 +326,6 @@
       "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap."
     },
     {
-      "id": "bc8f9eac1966",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-06T08:00:00.000Z",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
       "id": "b683d1c42a66",
       "title": "Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents",
       "url": "https://www.docker.com/blog/docker-sandboxes-vs-containers/",
@@ -198,15 +333,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-06T03:17:04.000Z",
       "summary": "A container shares the host kernel. Docker Sandboxes are microVMs with their own kernel and private Docker Engine. See how they differ and when to use each."
-    },
-    {
-      "id": "cfd4354afa14",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-06T00:00:00.000Z",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
     },
     {
       "id": "82196d4ece0a",
@@ -281,33 +407,6 @@
       "summary": "See how CNCF Score improved container security with Docker Scout, Hardened Images, and the Docker-Sponsored Open Source Program."
     },
     {
-      "id": "89209ab642b1",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-05T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "ab77d4b5b67e",
-      "title": "Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-05T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the Release Candidate 2 (RC2) of the Spring Cloud 2026.0.0-RC2 Release Train is available today. The release can be found in the Spring milestone repository . You can check out the 2026.0.0-RC2 release notes for more information ."
-    },
-    {
-      "id": "3eb96fe66d60",
-      "title": "A Bootiful Podcast: Temporal.io's Cornelia Davis",
-      "url": "https://spring.io/blog/2026/11/05/a-bootiful-podcast-cornelia-davis",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-05T00:00:00.000Z",
-      "summary": "Hi, Spring fans! In this nostalgic, wide-ranging conversation, I revisit my first podcast episode from 2018 with Cornelia Davis and catch up on her career across Pivotal, VMware, Weaveworks, Amazon, Kubernetes, and now Temporal."
-    },
-    {
       "id": "4c012bfddd71",
       "title": "Episode 74 “Ask the Architects at Devoxx” [AtA]",
       "url": "https://inside.java/2026/11/05/podcast-074/",
@@ -324,15 +423,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-04T23:34:52.000Z",
       "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
-    },
-    {
-      "id": "5afc49da7bd4",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-04T17:50:10.000Z",
-      "summary": ""
     },
     {
       "id": "56787cc309ca",
@@ -450,96 +540,6 @@
       "category": "Developer Tools",
       "published": "2026-11-01T21:36:00.000Z",
       "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key."
-    },
-    {
-      "id": "094c331a98fa",
-      "title": "Speeding up planning decisions with AI",
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-10-30T14:18:30.000Z",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times"
-    },
-    {
-      "id": "7757e3201b71",
-      "title": "JDK 27 G1/Parallel/Serial GC changes",
-      "url": "https://inside.java/2026/10/30/jdk27-gc-changes/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-30T00:00:00.000Z",
-      "summary": "Now that the JDK 27 has been released, I thought it would be time to discuss interesting changes in OpenJDK’s stop-the-world collectors in the HotSpot VM once more."
-    },
-    {
-      "id": "6b5b11dae9da",
-      "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
-      "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-29T13:00:00.000Z",
-      "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification."
-    },
-    {
-      "id": "eaceb9188b83",
-      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
-      "url": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
-      "source": "Kubernetes",
-      "category": "Cloud & DevOps",
-      "published": "2026-10-29T05:00:00.000Z",
-      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (TensorScale AI) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject."
-    },
-    {
-      "id": "9b3547e9ab8d",
-      "title": "Episode 73 “Immutable Data Beyond Value Classes” [AtA]",
-      "url": "https://inside.java/2026/10/29/podcast-073/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-29T00:00:00.000Z",
-      "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
-    },
-    {
-      "id": "ac5d768d6a43",
-      "title": "Ship less JavaScript in Next.js with your AI agent",
-      "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-10-28T20:00:00.000Z",
-      "summary": "Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools."
-    },
-    {
-      "id": "b0da25ea6c1a",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-10-28T17:00:58.000Z",
-      "summary": ""
-    },
-    {
-      "id": "da0e4aeadd91",
-      "title": "Visual Studio Code 1.144",
-      "url": "https://code.visualstudio.com/updates/v1_144",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-10-28T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.144"
-    },
-    {
-      "id": "6c275e5fd0ef",
-      "title": "GitHub Universe 2026: Evolving every layer of the stack",
-      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-10-28T16:09:28.000Z",
-      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world."
-    },
-    {
-      "id": "d2042a30ecc4",
-      "title": "VS Code Wrapped: GitHub Universe 2026",
-      "url": "https://code.visualstudio.com/blogs/2026/10/28/vscode-wrapped",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-10-28T00:00:00.000Z",
-      "summary": "Explore how VS Code evolved between GitHub Universe 2025 and 2026, with new ways to code, collaborate with agents, and manage work across tools and environments."
     }
   ]
 }
