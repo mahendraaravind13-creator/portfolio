@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:33:03.246Z",
+  "generatedAt": "2026-11-11T19:39:56.691Z",
   "items": [
     {
       "id": "f28f90d2895a",
@@ -11,13 +11,76 @@
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
     },
     {
+      "id": "a51ec6936371",
+      "title": "Test your applications against AWS locally with AWS Emulator",
+      "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-11T19:00:44.000Z",
+      "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior."
+    },
+    {
+      "id": "8e4104a923ec",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-11T18:00:00.000Z",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+    },
+    {
+      "id": "08418a010464",
+      "title": "Issue types and fields are available for personal accounts",
+      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-11T17:16:46.000Z",
+      "summary": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize"
+    },
+    {
       "id": "e7907f72eed8",
-      "title": "Visual Studio Code 1.146 (Insiders)",
+      "title": "Visual Studio Code 1.146",
       "url": "https://code.visualstudio.com/updates/v1_146",
       "source": "VS Code",
       "category": "Developer Tools",
       "published": "2026-11-11T17:00:00.000Z",
-      "summary": "Learn what is new in Visual Studio Code Insiders."
+      "summary": "Learn what's new in Visual Studio Code 1.146"
+    },
+    {
+      "id": "97adab01dbf7",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-11T16:00:00.000Z",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
+    },
+    {
+      "id": "5b916f1bea87",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-11T15:00:15.000Z",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+    },
+    {
+      "id": "d8029d8e4141",
+      "title": "Choosing QuePaxa, an unusual consensus algorithm",
+      "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-11T14:24:46.000Z",
+      "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it."
+    },
+    {
+      "id": "7e65614cc89a",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-11T09:00:00.000Z",
+      "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
     },
     {
       "id": "80b38ea7da37",
@@ -47,13 +110,31 @@
       "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible"
     },
     {
-      "id": "9fbcbefb9fa2",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-10T19:50:46.000Z",
-      "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 424 # Comments: 288"
+      "id": "8c999d6885d2",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-11T00:00:00.000Z",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
+      "id": "d2296a64c0dc",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-11T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "69e17578228a",
+      "title": "Withdrawing the Primitive Patterns Preview Feature",
+      "url": "https://inside.java/2026/11/11/withdraw-primitive-patterns-preview/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-11T00:00:00.000Z",
+      "summary": "We have decided to cease development of Primitive Types in Patterns, instanceof, and switch. The draft JEP https://openjdk.org/jeps/8393282 that would have been the sixth preview of this feature will be withdrawn, and the feature will be removed from JDK 28."
     },
     {
       "id": "0fe8b882dbb9",
@@ -92,15 +173,6 @@
       "summary": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a"
     },
     {
-      "id": "590119449a48",
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-10T16:37:44.000Z",
-      "summary": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 757 # Comments: 169"
-    },
-    {
       "id": "0b2e1c02de47",
       "title": "Gemini 4 Carbon is now available",
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -108,15 +180,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T16:03:47.000Z",
       "summary": ""
-    },
-    {
-      "id": "a6d621267b87",
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-10T15:25:20.000Z",
-      "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 837 # Comments: 298"
     },
     {
       "id": "b7cb9f6e5192",
@@ -147,12 +210,12 @@
     },
     {
       "id": "428ac4b42c0b",
-      "title": "AlphaProof Code",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-10T12:11:12.000Z",
-      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 607 # Comments: 182"
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-10T12:02:28.000Z",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
     },
     {
       "id": "46ecb159c153",
@@ -173,15 +236,6 @@
       "summary": "Since the new dashboard experience became the default, we've heard from developers that it used too much space to show too little. Generous padding, wrapped titles, and a low default"
     },
     {
-      "id": "593498d54f69",
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-10T10:25:58.000Z",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 471 # Comments: 457"
-    },
-    {
       "id": "5ca4dc7b6d88",
       "title": "Introducing Businesses in ChatGPT",
       "url": "https://openai.com/index/introducing-businesses-chatgpt",
@@ -198,15 +252,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T09:00:00.000Z",
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "id": "3588ceed4155",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-10T07:00:00.000Z",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
     },
     {
       "id": "724fae925148",
@@ -281,15 +326,6 @@
       "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few"
     },
     {
-      "id": "773234e7b2ac",
-      "title": "Claude Fable 5.2 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-09T16:46:43.000Z",
-      "summary": "Claude Fable 5.2, Anthropic's newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable"
-    },
-    {
       "id": "057e22ab69c0",
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -351,15 +387,6 @@
       "category": "Developer Tools",
       "published": "2026-11-06T22:15:59.000Z",
       "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment."
-    },
-    {
-      "id": "be1ba71e55b7",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-06T14:00:48.000Z",
-      "summary": ""
     },
     {
       "id": "5668b3c66977",
@@ -513,33 +540,6 @@
       "category": "Developer Tools",
       "published": "2026-11-03T16:00:00.000Z",
       "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone."
-    },
-    {
-      "id": "af5c97bd7711",
-      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-      "url": "https://blog.cloudflare.com/zero-wire/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-03T14:00:00.000Z",
-      "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure."
-    },
-    {
-      "id": "b810030289ed",
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-02T17:45:00.000Z",
-      "summary": "Here are Google’s latest AI updates from October 2026"
-    },
-    {
-      "id": "01d19205bbea",
-      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T16:45:48.000Z",
-      "summary": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. They were about reach. AWS Step Functions, which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite. In the"
     }
   ]
 }
