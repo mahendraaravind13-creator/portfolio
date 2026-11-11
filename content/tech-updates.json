@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-10T19:47:37.655Z",
+  "generatedAt": "2026-11-11T06:33:03.246Z",
   "items": [
+    {
+      "id": "f28f90d2895a",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T00:00:00.000Z",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
     {
       "id": "e7907f72eed8",
       "title": "Visual Studio Code 1.146 (Insiders)",
@@ -9,6 +18,51 @@
       "category": "Developer Tools",
       "published": "2026-11-11T17:00:00.000Z",
       "summary": "Learn what is new in Visual Studio Code Insiders."
+    },
+    {
+      "id": "80b38ea7da37",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-11T08:00:00.000Z",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "id": "b22522d14a17",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-11T05:01:16.000Z",
+      "summary": ""
+    },
+    {
+      "id": "871ae47d300c",
+      "title": "GitHub App support for Enterprise Copilot seat management",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-11T00:10:31.000Z",
+      "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible"
+    },
+    {
+      "id": "9fbcbefb9fa2",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-10T19:50:46.000Z",
+      "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 424 # Comments: 288"
+    },
+    {
+      "id": "0fe8b882dbb9",
+      "title": "Gemini 4 Carbon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-10T19:26:51.000Z",
+      "summary": "Gemini 4 Carbon, Google's latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation"
     },
     {
       "id": "ac5a661efbfd",
@@ -38,6 +92,15 @@
       "summary": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a"
     },
     {
+      "id": "590119449a48",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-10T16:37:44.000Z",
+      "summary": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 757 # Comments: 169"
+    },
+    {
       "id": "0b2e1c02de47",
       "title": "Gemini 4 Carbon is now available",
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -45,6 +108,15 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T16:03:47.000Z",
       "summary": ""
+    },
+    {
+      "id": "a6d621267b87",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-10T15:25:20.000Z",
+      "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 837 # Comments: 298"
     },
     {
       "id": "b7cb9f6e5192",
@@ -80,7 +152,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-10T12:11:12.000Z",
-      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 496 # Comments: 161"
+      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 607 # Comments: 182"
     },
     {
       "id": "46ecb159c153",
@@ -90,6 +162,24 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T12:00:00.000Z",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "id": "6590936a5723",
+      "title": "A more informative GitHub dashboard",
+      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-10T10:34:35.000Z",
+      "summary": "Since the new dashboard experience became the default, we've heard from developers that it used too much space to show too little. Generous padding, wrapped titles, and a low default"
+    },
+    {
+      "id": "593498d54f69",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-10T10:25:58.000Z",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 471 # Comments: 457"
     },
     {
       "id": "5ca4dc7b6d88",
@@ -117,15 +207,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T07:00:00.000Z",
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
-    },
-    {
-      "id": "fe0656248ddf",
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-10T06:01:08.000Z",
-      "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 648 # Comments: 225"
     },
     {
       "id": "724fae925148",
@@ -164,6 +245,15 @@
       "summary": "Hi, Spring fans! Welcome to another rip-roarin' installment of This Week in Spring! I'm writing this from St. Louis, where the weather is suuprisingly pleasant! Isn't this supposed to be November?"
     },
     {
+      "id": "17f71397914d",
+      "title": "Python 3.16.0 alpha 2 is now available",
+      "url": "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-10T00:00:00.000Z",
+      "summary": "The second developer preview of Python 3.16 is ready for testing."
+    },
+    {
       "id": "af0b10afed04",
       "title": "Tutorial: The G1 Garbage Collector",
       "url": "https://inside.java/2026/11/10/g1gc-tutorial/",
@@ -180,15 +270,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-09T19:51:47.000Z",
       "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
-    },
-    {
-      "id": "9c331579e229",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-09T19:00:00.000Z",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
     },
     {
       "id": "cc7861f47980",
@@ -218,15 +299,6 @@
       "summary": ""
     },
     {
-      "id": "f37b680abcf7",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-09T13:00:00.000Z",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
-    },
-    {
       "id": "d079a8b6909b",
       "title": "Launching the Vite Ecosystem Fund",
       "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
@@ -243,15 +315,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-09T12:34:29.000Z",
       "summary": ""
-    },
-    {
-      "id": "06e2b9999d4d",
-      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
-      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-09T09:01:37.000Z",
-      "summary": "GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How"
     },
     {
       "id": "0021230a4ff4",
@@ -279,24 +342,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-08T00:00:00.000Z",
       "summary": "Modern software increasingly interacts with AI models, query languages, and other specialized programming models, forcing you to switch contexts, embed foreign code, or write verbose wrappers to bridge the gap. What if you could express logic from outside the JVM directly in Java?"
-    },
-    {
-      "id": "d28d7745dd02",
-      "title": "Copilot code review: API management and review overview updates",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-07T00:27:19.000Z",
-      "summary": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot's review overview comment is now more compact,"
-    },
-    {
-      "id": "df141a94aef9",
-      "title": "Copilot impact dashboard adds chat and VS Code agent usage",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-06T22:17:28.000Z",
-      "summary": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption"
     },
     {
       "id": "5ab88d15c948",
@@ -333,15 +378,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-06T03:17:04.000Z",
       "summary": "A container shares the host kernel. Docker Sandboxes are microVMs with their own kernel and private Docker Engine. See how they differ and when to use each."
-    },
-    {
-      "id": "82196d4ece0a",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-06T00:00:00.000Z",
-      "summary": ""
     },
     {
       "id": "91dfb96a8eea",
@@ -504,42 +540,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-02T16:45:48.000Z",
       "summary": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. They were about reach. AWS Step Functions, which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite. In the"
-    },
-    {
-      "id": "eb6ff7302710",
-      "title": "How we halved DNS build delay and cut memory use by 85%",
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T14:00:00.000Z",
-      "summary": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay."
-    },
-    {
-      "id": "7437f847aaed",
-      "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
-      "url": "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T14:00:00.000Z",
-      "summary": "Docker is a founding member of the Blueprint Alliance, a 12-company reference architecture for securing AI agents, built around four governance questions."
-    },
-    {
-      "id": "a6ff3130e98e",
-      "title": "Where should your code live in a Docker Sandbox?",
-      "url": "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-02T14:00:00.000Z",
-      "summary": "Docker Sandboxes support three ways to organize an agent’s code: shared mounts, Git worktrees, and clone mode. Here’s how to choose between them."
-    },
-    {
-      "id": "8efc4c266dc3",
-      "title": "Game Off 2026: The theme is SHIFT",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-01T21:36:00.000Z",
-      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key."
     }
   ]
 }
