@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-11-12T07:17:30.565Z",
+  "generatedAt": "2026-11-12T19:59:16.011Z",
   "items": [
+    {
+      "id": "a88bddb17214",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T19:07:35.000Z",
+      "summary": ""
+    },
+    {
+      "id": "4bad5afe01a1",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T18:00:50.000Z",
+      "summary": ""
+    },
+    {
+      "id": "459a57b4750a",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T18:00:00.000Z",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
+    },
+    {
+      "id": "500bc7867e53",
+      "title": "Secret scanning detects Cloudflare service tokens",
+      "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-12T14:38:25.000Z",
+      "summary": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are"
+    },
+    {
+      "id": "95156f597c41",
+      "title": "Public monitoring alerts now have direct links",
+      "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-12T14:37:38.000Z",
+      "summary": "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise's Public monitoring view, click an alert number to open the alert. You"
+    },
+    {
+      "id": "8e60012da5d1",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-12T13:52:29.000Z",
+      "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens..."
+    },
+    {
+      "id": "56c83c766ce1",
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-12T11:46:41.000Z",
+      "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 699 # Comments: 703"
+    },
+    {
+      "id": "0990939c7d6e",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T09:30:00.000Z",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+    },
+    {
+      "id": "b06379671ede",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T00:00:00.000Z",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
     {
       "id": "f28f90d2895a",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -11,22 +92,22 @@
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
     },
     {
-      "id": "081caafcc522",
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-11T22:31:06.000Z",
-      "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 866 # Comments: 1223"
+      "id": "56dac742ff29",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T00:00:00.000Z",
+      "summary": ""
     },
     {
-      "id": "1399104b4951",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-11T21:24:35.000Z",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 514 # Comments: 502"
+      "id": "78fdddee7000",
+      "title": "A Bootiful Podcast: Atomikos founder Guy Pardon on distributed transactions, data integrity, and more",
+      "url": "https://spring.io/blog/2026/11/12/a-bootiful-podcast-guy-pardon",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-12T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Tired of worrying whether your data is actually correct?"
     },
     {
       "id": "a51ec6936371",
@@ -36,15 +117,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-11T19:00:44.000Z",
       "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior."
-    },
-    {
-      "id": "70a69d3bb582",
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-11T18:21:38.000Z",
-      "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 797 # Comments: 231"
     },
     {
       "id": "8e4104a923ec",
@@ -74,15 +146,6 @@
       "summary": "Learn what's new in Visual Studio Code 1.146"
     },
     {
-      "id": "b8e33e17317c",
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-11T16:38:44.000Z",
-      "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 465 # Comments: 236"
-    },
-    {
       "id": "97adab01dbf7",
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
@@ -110,15 +173,6 @@
       "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it."
     },
     {
-      "id": "8d8bc38f54a7",
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-11T12:05:22.000Z",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 969 # Comments: 354"
-    },
-    {
       "id": "7e65614cc89a",
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
@@ -135,15 +189,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-11T08:00:00.000Z",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    },
-    {
-      "id": "8363ca58553c",
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-11T07:03:17.000Z",
-      "summary": "https://www.reddit.com/r/Python/s/2Cm5dBcvQw Comments URL: https://news.ycombinator.com/item?id=50450488 Points: 1090 # Comments: 121"
     },
     {
       "id": "b22522d14a17",
@@ -236,15 +281,6 @@
       "summary": ""
     },
     {
-      "id": "b7cb9f6e5192",
-      "title": "Dependabot alerts will pause on inactive repositories",
-      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-10T14:20:05.000Z",
-      "summary": "Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can"
-    },
-    {
       "id": "c5fffc8a0cbd",
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
@@ -252,15 +288,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T14:00:00.000Z",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
-    },
-    {
-      "id": "155d33cae726",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-10T13:00:00.000Z",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
     },
     {
       "id": "428ac4b42c0b",
@@ -281,31 +308,13 @@
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
     },
     {
-      "id": "6590936a5723",
-      "title": "A more informative GitHub dashboard",
-      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-10T10:34:35.000Z",
-      "summary": "Since the new dashboard experience became the default, we've heard from developers that it used too much space to show too little. Generous padding, wrapped titles, and a low default"
-    },
-    {
-      "id": "5ca4dc7b6d88",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-10T10:00:00.000Z",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
-    },
-    {
-      "id": "01a8528fa117",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-10T09:00:00.000Z",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+      "id": "de5b3076bff4",
+      "title": "Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-10T10:18:22.000Z",
+      "summary": "Article URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md Comments URL: https://news.ycombinator.com/item?id=50438261 Points: 604 # Comments: 136"
     },
     {
       "id": "724fae925148",
@@ -380,15 +389,6 @@
       "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few"
     },
     {
-      "id": "057e22ab69c0",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-09T15:05:57.000Z",
-      "summary": ""
-    },
-    {
       "id": "d079a8b6909b",
       "title": "Launching the Vite Ecosystem Fund",
       "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
@@ -396,15 +396,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-09T13:00:00.000Z",
       "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare."
-    },
-    {
-      "id": "7b1451fc786c",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-09T12:34:29.000Z",
-      "summary": ""
     },
     {
       "id": "0021230a4ff4",
@@ -459,15 +450,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-06T03:17:04.000Z",
       "summary": "A container shares the host kernel. Docker Sandboxes are microVMs with their own kernel and private Docker Engine. See how they differ and when to use each."
-    },
-    {
-      "id": "91dfb96a8eea",
-      "title": "Spring Boot 4.2.0-RC2 available now",
-      "url": "https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-06T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-RC2 has been released and is now available from Maven Central. This release includes 99 enhancements, documentation improvements, dependency upgrades, and bug fixes ."
     },
     {
       "id": "e8ad3aaf9c4e",
@@ -540,6 +522,24 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-04T23:34:52.000Z",
       "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
+    },
+    {
+      "id": "56787cc309ca",
+      "title": "Visual Studio Code 1.145",
+      "url": "https://code.visualstudio.com/updates/v1_145",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-11-04T17:00:00.000Z",
+      "summary": "Learn what's new in Visual Studio Code 1.145"
+    },
+    {
+      "id": "c62c3211dde6",
+      "title": "See the agents, set the terms: New visibility and control for personal agents",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-04T14:00:00.000Z",
+      "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
     }
   ]
 }
