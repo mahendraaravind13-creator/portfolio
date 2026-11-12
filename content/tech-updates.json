@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:39:56.691Z",
+  "generatedAt": "2026-11-12T07:17:30.565Z",
   "items": [
     {
       "id": "f28f90d2895a",
@@ -11,6 +11,24 @@
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
     },
     {
+      "id": "081caafcc522",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-11T22:31:06.000Z",
+      "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 866 # Comments: 1223"
+    },
+    {
+      "id": "1399104b4951",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-11T21:24:35.000Z",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 514 # Comments: 502"
+    },
+    {
       "id": "a51ec6936371",
       "title": "Test your applications against AWS locally with AWS Emulator",
       "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
@@ -18,6 +36,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-11T19:00:44.000Z",
       "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior."
+    },
+    {
+      "id": "70a69d3bb582",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-11T18:21:38.000Z",
+      "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 797 # Comments: 231"
     },
     {
       "id": "8e4104a923ec",
@@ -47,6 +74,15 @@
       "summary": "Learn what's new in Visual Studio Code 1.146"
     },
     {
+      "id": "b8e33e17317c",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-11T16:38:44.000Z",
+      "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 465 # Comments: 236"
+    },
+    {
       "id": "97adab01dbf7",
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
@@ -74,6 +110,15 @@
       "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it."
     },
     {
+      "id": "8d8bc38f54a7",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-11T12:05:22.000Z",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 969 # Comments: 354"
+    },
+    {
       "id": "7e65614cc89a",
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
@@ -90,6 +135,15 @@
       "category": "AI & LLMs",
       "published": "2026-11-11T08:00:00.000Z",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "id": "8363ca58553c",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-11T07:03:17.000Z",
+      "summary": "https://www.reddit.com/r/Python/s/2Cm5dBcvQw Comments URL: https://news.ycombinator.com/item?id=50450488 Points: 1090 # Comments: 121"
     },
     {
       "id": "b22522d14a17",
@@ -486,60 +540,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-04T23:34:52.000Z",
       "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
-    },
-    {
-      "id": "56787cc309ca",
-      "title": "Visual Studio Code 1.145",
-      "url": "https://code.visualstudio.com/updates/v1_145",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-11-04T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.145"
-    },
-    {
-      "id": "c62c3211dde6",
-      "title": "See the agents, set the terms: New visibility and control for personal agents",
-      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-04T14:00:00.000Z",
-      "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
-    },
-    {
-      "id": "c36fcbfe7ffb",
-      "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes",
-      "url": "https://inside.java/2026/11/04/devoxxbelgium-project-detroit/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-04T00:00:00.000Z",
-      "summary": "Interacting with foreign libraries from Java has never been easier, thanks to the Foreign Function & Memory (FFM) API. But interacting with entire foreign language runtimes, like JavaScript or Python, remains hard."
-    },
-    {
-      "id": "62c039c795aa",
-      "title": "November 2026 Security Release",
-      "url": "https://nextjs.org/blog/november-2026-security-release",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-03T18:00:00.000Z",
-      "summary": "The November 2026 security release for Next.js is now available"
-    },
-    {
-      "id": "7b04a568c5ad",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-11-03T17:01:49.000Z",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-    },
-    {
-      "id": "a9339aac474e",
-      "title": "Arnis turns any place on Earth into a Minecraft world",
-      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-03T16:00:00.000Z",
-      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone."
     }
   ]
 }
