@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-12T19:59:16.011Z",
+  "generatedAt": "2026-11-13T06:51:33.751Z",
   "items": [
+    {
+      "id": "126f79483dcc",
+      "title": "GitHub availability report: October 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-13T00:20:16.000Z",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services."
+    },
+    {
+      "id": "657af3312af0",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-12T22:54:52.000Z",
+      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them."
+    },
+    {
+      "id": "05a61ad7e4a9",
+      "title": "Actions for ARM32 Linux Windows retirement",
+      "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-12T20:59:36.000Z",
+      "summary": "GitHub Actions hosted runners will be ending support for ARM32 job execution on Windows and Linux by 8th Dec 2026. This follows our end of support for node20 where Node"
+    },
+    {
+      "id": "5b0f73df89a6",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T20:00:00.000Z",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+    },
     {
       "id": "a88bddb17214",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
@@ -47,22 +83,13 @@
       "summary": "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise's Public monitoring view, click an alert number to open the alert. You"
     },
     {
-      "id": "8e60012da5d1",
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-12T13:52:29.000Z",
-      "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens..."
-    },
-    {
-      "id": "56c83c766ce1",
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-12T11:46:41.000Z",
-      "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 699 # Comments: 703"
+      "id": "90d79223706e",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-12T12:00:00.000Z",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
     },
     {
       "id": "0990939c7d6e",
@@ -209,15 +236,6 @@
       "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible"
     },
     {
-      "id": "8c999d6885d2",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-11T00:00:00.000Z",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
-    },
-    {
       "id": "d2296a64c0dc",
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "url": "https://huggingface.co/blog/token-pooling",
@@ -263,15 +281,6 @@
       "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know."
     },
     {
-      "id": "685df558780e",
-      "title": "C++ language server now auto-configures MSBuild builds",
-      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-10T17:04:10.000Z",
-      "summary": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a"
-    },
-    {
       "id": "0b2e1c02de47",
       "title": "Gemini 4 Carbon is now available",
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -297,24 +306,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T12:02:28.000Z",
       "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
-    },
-    {
-      "id": "46ecb159c153",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-10T12:00:00.000Z",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-    },
-    {
-      "id": "de5b3076bff4",
-      "title": "Socratic Tutor",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-10T10:18:22.000Z",
-      "summary": "Article URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md Comments URL: https://news.ycombinator.com/item?id=50438261 Points: 604 # Comments: 136"
     },
     {
       "id": "724fae925148",
@@ -540,6 +531,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-04T14:00:00.000Z",
       "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
+    },
+    {
+      "id": "c36fcbfe7ffb",
+      "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes",
+      "url": "https://inside.java/2026/11/04/devoxxbelgium-project-detroit/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-04T00:00:00.000Z",
+      "summary": "Interacting with foreign libraries from Java has never been easier, thanks to the Foreign Function & Memory (FFM) API. But interacting with entire foreign language runtimes, like JavaScript or Python, remains hard."
     }
   ]
 }
