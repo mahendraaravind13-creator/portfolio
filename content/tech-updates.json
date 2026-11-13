@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-11-13T06:51:33.751Z",
+  "generatedAt": "2026-11-13T19:47:32.192Z",
   "items": [
+    {
+      "id": "de58dd928045",
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-13T19:26:07.000Z",
+      "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures."
+    },
+    {
+      "id": "18a36c2817e7",
+      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-13T18:27:13.000Z",
+      "summary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This"
+    },
+    {
+      "id": "e8c3c469932b",
+      "title": "Gemini 4 Hydrogen in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-13T18:23:48.000Z",
+      "summary": "Gemini 4 Hydrogen, Google's latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction"
+    },
+    {
+      "id": "2427bacb74a9",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-13T18:00:39.000Z",
+      "summary": ""
+    },
+    {
+      "id": "8400bdfe1e2a",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-13T17:02:35.000Z",
+      "summary": ""
+    },
+    {
+      "id": "5bf4951adbe9",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-13T15:00:00.000Z",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+    },
+    {
+      "id": "40e78db6601d",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-13T14:05:22.000Z",
+      "summary": ""
+    },
+    {
+      "id": "1c51c03338d0",
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "url": "https://blog.cloudflare.com/spend-management/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-13T14:00:00.000Z",
+      "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions."
+    },
+    {
+      "id": "fba640cc6c89",
+      "title": "Manage AI Scan for repositories using the REST API",
+      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-13T12:22:41.000Z",
+      "summary": "You can now turn GitHub code scanning's AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan"
+    },
     {
       "id": "126f79483dcc",
       "title": "GitHub availability report: October 2026",
@@ -155,15 +236,6 @@
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
     },
     {
-      "id": "08418a010464",
-      "title": "Issue types and fields are available for personal accounts",
-      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-11T17:16:46.000Z",
-      "summary": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize"
-    },
-    {
       "id": "e7907f72eed8",
       "title": "Visual Studio Code 1.146",
       "url": "https://code.visualstudio.com/updates/v1_146",
@@ -209,39 +281,12 @@
       "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
     },
     {
-      "id": "80b38ea7da37",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-11T08:00:00.000Z",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    },
-    {
       "id": "b22522d14a17",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-11-11T05:01:16.000Z",
-      "summary": ""
-    },
-    {
-      "id": "871ae47d300c",
-      "title": "GitHub App support for Enterprise Copilot seat management",
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-11T00:10:31.000Z",
-      "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible"
-    },
-    {
-      "id": "d2296a64c0dc",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-11T00:00:00.000Z",
       "summary": ""
     },
     {
@@ -252,15 +297,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-11T00:00:00.000Z",
       "summary": "We have decided to cease development of Primitive Types in Patterns, instanceof, and switch. The draft JEP https://openjdk.org/jeps/8393282 that would have been the sixth preview of this feature will be withdrawn, and the feature will be removed from JDK 28."
-    },
-    {
-      "id": "0fe8b882dbb9",
-      "title": "Gemini 4 Carbon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-10T19:26:51.000Z",
-      "summary": "Gemini 4 Carbon, Google's latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation"
     },
     {
       "id": "ac5a661efbfd",
@@ -308,22 +344,13 @@
       "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
     },
     {
-      "id": "724fae925148",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "Hugging Face",
+      "id": "51d2fad24045",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "source": "Google DeepMind",
       "category": "AI & LLMs",
-      "published": "2026-11-10T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "3229de0d9192",
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-10T00:00:00.000Z",
-      "summary": ""
+      "published": "2026-11-10T11:13:04.000Z",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
     },
     {
       "id": "cfeaedcb835d",
@@ -452,15 +479,6 @@
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works."
     },
     {
-      "id": "825a50d1c0ad",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-11-05T17:05:16.000Z",
-      "summary": ""
-    },
-    {
       "id": "f64889a7b3b6",
       "title": "Agents aren’t humans (but they kinda are)",
       "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
@@ -522,24 +540,6 @@
       "category": "Developer Tools",
       "published": "2026-11-04T17:00:00.000Z",
       "summary": "Learn what's new in Visual Studio Code 1.145"
-    },
-    {
-      "id": "c62c3211dde6",
-      "title": "See the agents, set the terms: New visibility and control for personal agents",
-      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-04T14:00:00.000Z",
-      "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access."
-    },
-    {
-      "id": "c36fcbfe7ffb",
-      "title": "Project Detroit: From Foreign Libraries to Foreign Language Runtimes",
-      "url": "https://inside.java/2026/11/04/devoxxbelgium-project-detroit/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-04T00:00:00.000Z",
-      "summary": "Interacting with foreign libraries from Java has never been easier, thanks to the Foreign Function & Memory (FFM) API. But interacting with entire foreign language runtimes, like JavaScript or Python, remains hard."
     }
   ]
 }
