@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-13T19:47:32.192Z",
+  "generatedAt": "2026-11-14T06:31:59.954Z",
   "items": [
+    {
+      "id": "bc1ca702be31",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-13T20:40:05.000Z",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date"
+    },
+    {
+      "id": "76962f5e09a0",
+      "title": "Kitesurf is now open source",
+      "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-13T20:20:21.000Z",
+      "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers."
+    },
     {
       "id": "de58dd928045",
       "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
@@ -83,6 +101,15 @@
       "summary": "You can now turn GitHub code scanning's AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan"
     },
     {
+      "id": "d1318183fe17",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-13T08:00:00.000Z",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+    },
+    {
       "id": "126f79483dcc",
       "title": "GitHub availability report: October 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
@@ -155,15 +182,6 @@
       "summary": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are"
     },
     {
-      "id": "95156f597c41",
-      "title": "Public monitoring alerts now have direct links",
-      "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-12T14:37:38.000Z",
-      "summary": "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise's Public monitoring view, click an alert number to open the alert. You"
-    },
-    {
       "id": "90d79223706e",
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "url": "https://openai.com/business/customer-stories/gondola",
@@ -189,15 +207,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-12T00:00:00.000Z",
       "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
-    },
-    {
-      "id": "f28f90d2895a",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-12T00:00:00.000Z",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
     },
     {
       "id": "56dac742ff29",
@@ -477,15 +486,6 @@
       "category": "Developer Tools",
       "published": "2026-11-05T20:23:21.000Z",
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works."
-    },
-    {
-      "id": "f64889a7b3b6",
-      "title": "Agents aren’t humans (but they kinda are)",
-      "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-05T17:03:04.000Z",
-      "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic."
     },
     {
       "id": "485010988bfc",
