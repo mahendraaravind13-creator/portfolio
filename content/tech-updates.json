@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-14T06:31:59.954Z",
+  "generatedAt": "2026-11-14T18:10:38.226Z",
   "items": [
+    {
+      "id": "c6caa4d4f0b0",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-14T02:52:59.000Z",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 952 # Comments: 577"
+    },
+    {
+      "id": "63100678a468",
+      "title": "Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns - Inside Java Newscast #117",
+      "url": "https://inside.java/newscast/117/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-14T00:00:00.000Z",
+      "summary": "ZGC gets adaptive heap sizing, value classes complicate numeric conversions, and primitive patterns are withdrawn as JDK 28 takes shape."
+    },
+    {
+      "id": "9c247e087592",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-13T21:05:53.000Z",
+      "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1622 # Comments: 1251"
+    },
     {
       "id": "bc1ca702be31",
       "title": "Upcoming deprecation of selected GitHub Copilot models in December",
@@ -513,33 +540,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-05T14:00:00.000Z",
       "summary": "See how CNCF Score improved container security with Docker Scout, Hardened Images, and the Docker-Sponsored Open Source Program."
-    },
-    {
-      "id": "4c012bfddd71",
-      "title": "Episode 74 “Ask the Architects at Devoxx” [AtA]",
-      "url": "https://inside.java/2026/11/05/podcast-074/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-05T00:00:00.000Z",
-      "summary": "Recent and upcoming Java features (e.g. value classes, withers, and lazy constants) make it easier to define, construct, copy, and access immutable data"
-    },
-    {
-      "id": "096a6a1486b3",
-      "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-04T23:34:52.000Z",
-      "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running."
-    },
-    {
-      "id": "56787cc309ca",
-      "title": "Visual Studio Code 1.145",
-      "url": "https://code.visualstudio.com/updates/v1_145",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-11-04T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.145"
     }
   ]
 }
