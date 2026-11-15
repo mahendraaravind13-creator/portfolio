@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-14T22:29:58.750Z",
+  "generatedAt": "2026-11-15T06:40:58.031Z",
   "items": [
+    {
+      "id": "0322d2a0d024",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-14T22:26:30.000Z",
+      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 403 # Comments: 199"
+    },
+    {
+      "id": "4e501f9826d0",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-14T21:22:24.000Z",
+      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1022 # Comments: 683"
+    },
     {
       "id": "c8d55e521b5b",
       "title": "Lovable apps expose passport details and more than 200K private messages",
@@ -8,25 +26,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-14T17:43:10.000Z",
-      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 509 # Comments: 184"
+      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 750 # Comments: 298"
     },
     {
-      "id": "f67a5ae71b6e",
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "id": "fbb4c2fd353e",
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-14T12:45:45.000Z",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 405 # Comments: 152"
-    },
-    {
-      "id": "a33801e4ff46",
-      "title": "Monkey Island: all 13 versions side by side",
-      "url": "https://monkeyisland.pages.dev/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-14T04:23:30.000Z",
-      "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 445 # Comments: 141"
+      "published": "2026-11-14T13:43:28.000Z",
+      "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 433 # Comments: 93"
     },
     {
       "id": "63100678a468",
@@ -377,7 +386,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-10T14:16:05.000Z",
-      "summary": "Article URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ Comments URL: https://news.ycombinator.com/item?id=50440709 Points: 473 # Comments: 268"
+      "summary": "Article URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ Comments URL: https://news.ycombinator.com/item?id=50440709 Points: 537 # Comments: 293"
     },
     {
       "id": "c5fffc8a0cbd",
@@ -531,15 +540,6 @@
       "category": "Developer Tools",
       "published": "2026-11-05T20:23:21.000Z",
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works."
-    },
-    {
-      "id": "485010988bfc",
-      "title": "Accessibility statements now have a home on GitHub",
-      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-05T16:00:00.000Z",
-      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes."
     }
   ]
 }
