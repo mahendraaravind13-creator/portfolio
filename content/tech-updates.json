@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-15T06:40:58.031Z",
+  "generatedAt": "2026-11-15T18:55:10.723Z",
   "items": [
     {
-      "id": "0322d2a0d024",
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "id": "df7a37179ad8",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-14T22:26:30.000Z",
-      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 403 # Comments: 199"
+      "published": "2026-11-15T14:46:58.000Z",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 660 # Comments: 354"
+    },
+    {
+      "id": "14ba8d169059",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-15T01:18:36.000Z",
+      "summary": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 413 # Comments: 192"
     },
     {
       "id": "4e501f9826d0",
@@ -17,7 +26,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-14T21:22:24.000Z",
-      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1022 # Comments: 683"
+      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1530 # Comments: 1062"
+    },
+    {
+      "id": "2d95802617f2",
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-14T17:45:19.000Z",
+      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 403 # Comments: 195"
     },
     {
       "id": "c8d55e521b5b",
@@ -26,16 +44,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-14T17:43:10.000Z",
-      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 750 # Comments: 298"
-    },
-    {
-      "id": "fbb4c2fd353e",
-      "title": "KDE: The documentary [video]",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-14T13:43:28.000Z",
-      "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 433 # Comments: 93"
+      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 955 # Comments: 366"
     },
     {
       "id": "63100678a468",
@@ -378,15 +387,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T16:03:47.000Z",
       "summary": ""
-    },
-    {
-      "id": "4d0da182e408",
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-10T14:16:05.000Z",
-      "summary": "Article URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ Comments URL: https://news.ycombinator.com/item?id=50440709 Points: 537 # Comments: 293"
     },
     {
       "id": "c5fffc8a0cbd",
