@@ -1,41 +1,185 @@
 {
-  "generatedAt": "2026-11-16T06:37:32.552Z",
+  "generatedAt": "2026-11-16T22:10:52.249Z",
   "items": [
     {
-      "id": "87d7014c15ee",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-15T22:00:01.000Z",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+      "id": "11d51b8e09bb",
+      "title": "GitHub Copilot weekly releases — November 9",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-16T21:34:53.000Z",
+      "summary": "This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude"
     },
     {
-      "id": "4b0fc5b701ff",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-15T22:00:00.000Z",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+      "id": "338471667e07",
+      "title": "Budget limit increased to 40,000 budgets per account",
+      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-16T21:30:49.000Z",
+      "summary": "You can now create up to 40,000 budgets per GitHub Enterprise Cloud account, up from 10,000. If you set budgets for individual users, or manage budgets across many cost centers"
     },
     {
-      "id": "357c9f3ea7ee",
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "id": "f9ace2a74e66",
+      "title": "GitHub Copilot models deprecated on November 16, 2026",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-16T20:25:20.000Z",
+      "summary": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note"
+    },
+    {
+      "id": "13f7e0f611d7",
+      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-15T18:36:10.000Z",
-      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 481 # Comments: 207"
+      "published": "2026-11-16T18:31:30.000Z",
+      "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 601 # Comments: 463"
     },
     {
-      "id": "edccaa36305e",
-      "title": "The MacBook Pro's OLED PWM problem",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "id": "cbc8566eda8d",
+      "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-16T17:55:46.000Z",
+      "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS"
+    },
+    {
+      "id": "f26f2a4dfd6b",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T17:00:00.000Z",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+    },
+    {
+      "id": "b1c71d07875a",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T17:00:00.000Z",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+    },
+    {
+      "id": "2799af16e9a0",
+      "title": "Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-16T15:50:22.000Z",
+      "summary": "AI Scan for repositories finds security vulnerabilities on your repository's default branch. It covers languages CodeQL doesn't support and finds additional issues in languages CodeQL already analyzes. Findings appear in"
+    },
+    {
+      "id": "4f85959693f9",
+      "title": "Take GitHub Mobile with you on iPhone Duo",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-16T14:30:07.000Z",
+      "summary": "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications."
+    },
+    {
+      "id": "717626b76ea0",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T14:00:00.000Z",
+      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+    },
+    {
+      "id": "530c3cc370b1",
+      "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
+      "url": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-16T14:00:00.000Z",
+      "summary": "Give AI coding agents live web access with the Firecrawl kit for Docker Sandboxes. Learn to search, scrape, and crawl websites with network controls."
+    },
+    {
+      "id": "d654cfb91fc2",
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-15T13:15:22.000Z",
-      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 462 # Comments: 255"
+      "published": "2026-11-16T13:39:07.000Z",
+      "summary": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/ Comments URL: https://news.ycombinator.com/item?id=50517488 Points: 749 # Comments: 463"
+    },
+    {
+      "id": "f891bd93f3d2",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T12:00:00.000Z",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+    },
+    {
+      "id": "91e58e2ea930",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T09:00:00.000Z",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+    },
+    {
+      "id": "ebd9eb949639",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T08:00:00.000Z",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+    },
+    {
+      "id": "b0ded74e06b0",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T06:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "c0c1bfd994d1",
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-16T05:50:37.000Z",
+      "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 810 # Comments: 137"
+    },
+    {
+      "id": "853b24ff0d6e",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "6996cdc17999",
+      "title": "XTM Transifex sponsors Python’s documentation translations",
+      "url": "https://blog.python.org/2026/11/transifex-sponsors-python-docs/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-16T00:00:00.000Z",
+      "summary": "XTM Transifex is supporting Python’s documentation translation teams with a year of free access to its Growth plan."
+    },
+    {
+      "id": "edfbff30bbcf",
+      "title": "Why It Takes 3000 Commits to Bring Valhalla’s Value Objects to the JDK",
+      "url": "https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-16T00:00:00.000Z",
+      "summary": "JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List<int>."
     },
     {
       "id": "63100678a468",
@@ -74,24 +218,6 @@
       "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures."
     },
     {
-      "id": "18a36c2817e7",
-      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-13T18:27:13.000Z",
-      "summary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This"
-    },
-    {
-      "id": "e8c3c469932b",
-      "title": "Gemini 4 Hydrogen in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-13T18:23:48.000Z",
-      "summary": "Gemini 4 Hydrogen, Google's latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction"
-    },
-    {
       "id": "2427bacb74a9",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
@@ -108,15 +234,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-13T17:02:35.000Z",
       "summary": ""
-    },
-    {
-      "id": "5bf4951adbe9",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-13T15:00:00.000Z",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
     },
     {
       "id": "40e78db6601d",
@@ -137,24 +254,6 @@
       "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions."
     },
     {
-      "id": "fba640cc6c89",
-      "title": "Manage AI Scan for repositories using the REST API",
-      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-13T12:22:41.000Z",
-      "summary": "You can now turn GitHub code scanning's AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan"
-    },
-    {
-      "id": "d1318183fe17",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-13T08:00:00.000Z",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
-    },
-    {
       "id": "126f79483dcc",
       "title": "GitHub availability report: October 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
@@ -171,24 +270,6 @@
       "category": "Developer Tools",
       "published": "2026-11-12T22:54:52.000Z",
       "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them."
-    },
-    {
-      "id": "05a61ad7e4a9",
-      "title": "Actions for ARM32 Linux Windows retirement",
-      "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-12T20:59:36.000Z",
-      "summary": "GitHub Actions hosted runners will be ending support for ARM32 job execution on Windows and Linux by 8th Dec 2026. This follows our end of support for node20 where Node"
-    },
-    {
-      "id": "5b0f73df89a6",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-12T20:00:00.000Z",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
     },
     {
       "id": "a88bddb17214",
@@ -218,33 +299,6 @@
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
     },
     {
-      "id": "500bc7867e53",
-      "title": "Secret scanning detects Cloudflare service tokens",
-      "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-12T14:38:25.000Z",
-      "summary": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are"
-    },
-    {
-      "id": "90d79223706e",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-12T12:00:00.000Z",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
-    },
-    {
-      "id": "95021f2d6b06",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-12T05:29:24.000Z",
-      "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI Comments URL: https://news.ycombinator.com/item?id=50463399 Points: 404 # Comments: 196"
-    },
-    {
       "id": "56dac742ff29",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "url": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -261,6 +315,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-12T00:00:00.000Z",
       "summary": "Hi, Spring fans! Tired of worrying whether your data is actually correct?"
+    },
+    {
+      "id": "a686b78e7107",
+      "title": "Announcing Oracle WebLogic Server and Coherence 26",
+      "url": "https://inside.java/2026/11/12/announcing-oracle-weblogic-server-and-coherence-26/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-12T00:00:00.000Z",
+      "summary": "Oracle is pleased to announce Oracle WebLogic Server and Coherence 26! This release brings Jakarta EE 11 support, Java SE 21 and 25 support, new application development capabilities, stronger security defaults, and improvements to data processing, persistence, and operational management."
     },
     {
       "id": "a51ec6936371",
@@ -326,15 +389,6 @@
       "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
     },
     {
-      "id": "b22522d14a17",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-11T05:01:16.000Z",
-      "summary": ""
-    },
-    {
       "id": "69e17578228a",
       "title": "Withdrawing the Primitive Patterns Preview Feature",
       "url": "https://inside.java/2026/11/11/withdraw-primitive-patterns-preview/",
@@ -369,15 +423,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T16:03:47.000Z",
       "summary": ""
-    },
-    {
-      "id": "c5fffc8a0cbd",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-10T14:00:00.000Z",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
     },
     {
       "id": "428ac4b42c0b",
@@ -479,15 +524,6 @@
       "summary": "Learn how to pack a short ticker symbol into one int with a value class implementing CharSequence and Comparable."
     },
     {
-      "id": "7b7c66d75a93",
-      "title": "Java and the Next Generation of Programming Models",
-      "url": "https://inside.java/2026/11/08/devoxxbelgium-java-next-programming-models/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-08T00:00:00.000Z",
-      "summary": "Modern software increasingly interacts with AI models, query languages, and other specialized programming models, forcing you to switch contexts, embed foreign code, or write verbose wrappers to bridge the gap. What if you could express logic from outside the JVM directly in Java?"
-    },
-    {
       "id": "5ab88d15c948",
       "title": "Beyond code generation: A developer's guide to agentic engineering",
       "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
@@ -504,42 +540,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-06T14:00:00.000Z",
       "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap."
-    },
-    {
-      "id": "b683d1c42a66",
-      "title": "Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents",
-      "url": "https://www.docker.com/blog/docker-sandboxes-vs-containers/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-06T03:17:04.000Z",
-      "summary": "A container shares the host kernel. Docker Sandboxes are microVMs with their own kernel and private Docker Engine. See how they differ and when to use each."
-    },
-    {
-      "id": "e8ad3aaf9c4e",
-      "title": "Inside GitHub's new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-05T20:23:21.000Z",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works."
-    },
-    {
-      "id": "485010988bfc",
-      "title": "Accessibility statements now have a home on GitHub",
-      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-05T16:00:00.000Z",
-      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes."
-    },
-    {
-      "id": "d8887584f5f6",
-      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
-      "url": "https://www.docker.com/blog/docker-activestate-trusted-content/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-05T15:28:22.000Z",
-      "summary": "Docker partners with ActiveState to continue to provide one standard for trusted content across everything you and your teams build on."
     }
   ]
 }
