@@ -1,50 +1,41 @@
 {
-  "generatedAt": "2026-11-15T18:55:10.723Z",
+  "generatedAt": "2026-11-16T06:37:32.552Z",
   "items": [
     {
-      "id": "df7a37179ad8",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-15T14:46:58.000Z",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 660 # Comments: 354"
+      "id": "87d7014c15ee",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-15T22:00:01.000Z",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
     },
     {
-      "id": "14ba8d169059",
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-15T01:18:36.000Z",
-      "summary": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 413 # Comments: 192"
+      "id": "4b0fc5b701ff",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-15T22:00:00.000Z",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
     },
     {
-      "id": "4e501f9826d0",
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "id": "357c9f3ea7ee",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-14T21:22:24.000Z",
-      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1530 # Comments: 1062"
+      "published": "2026-11-15T18:36:10.000Z",
+      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 481 # Comments: 207"
     },
     {
-      "id": "2d95802617f2",
-      "title": "A family tree of software job titles",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "id": "edccaa36305e",
+      "title": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-14T17:45:19.000Z",
-      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 403 # Comments: 195"
-    },
-    {
-      "id": "c8d55e521b5b",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-14T17:43:10.000Z",
-      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 955 # Comments: 366"
+      "published": "2026-11-15T13:15:22.000Z",
+      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 462 # Comments: 255"
     },
     {
       "id": "63100678a468",
@@ -245,22 +236,13 @@
       "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
     },
     {
-      "id": "0990939c7d6e",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-12T09:30:00.000Z",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
-    },
-    {
-      "id": "b06379671ede",
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-12T00:00:00.000Z",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+      "id": "95021f2d6b06",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-12T05:29:24.000Z",
+      "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI Comments URL: https://news.ycombinator.com/item?id=50463399 Points: 404 # Comments: 196"
     },
     {
       "id": "56dac742ff29",
@@ -540,6 +522,24 @@
       "category": "Developer Tools",
       "published": "2026-11-05T20:23:21.000Z",
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works."
+    },
+    {
+      "id": "485010988bfc",
+      "title": "Accessibility statements now have a home on GitHub",
+      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-05T16:00:00.000Z",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes."
+    },
+    {
+      "id": "d8887584f5f6",
+      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
+      "url": "https://www.docker.com/blog/docker-activestate-trusted-content/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-05T15:28:22.000Z",
+      "summary": "Docker partners with ActiveState to continue to provide one standard for trusted content across everything you and your teams build on."
     }
   ]
 }
