@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-16T22:10:52.249Z",
+  "generatedAt": "2026-11-17T07:59:47.922Z",
   "items": [
+    {
+      "id": "18a4aa790fbb",
+      "title": "Dependabot alert dismissal requests now last one year",
+      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-17T00:09:27.000Z",
+      "summary": "If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires"
+    },
+    {
+      "id": "590cb0b9c5dd",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-17T00:00:00.000Z",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+    },
+    {
+      "id": "01af437af651",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-16T22:58:20.000Z",
+      "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 529 # Comments: 368"
+    },
     {
       "id": "11d51b8e09bb",
       "title": "GitHub Copilot weekly releases — November 9",
@@ -9,6 +36,15 @@
       "category": "Developer Tools",
       "published": "2026-11-16T21:34:53.000Z",
       "summary": "This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude"
+    },
+    {
+      "id": "ae2c27b931ec",
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-16T21:32:17.000Z",
+      "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 489 # Comments: 223"
     },
     {
       "id": "338471667e07",
@@ -20,6 +56,15 @@
       "summary": "You can now create up to 40,000 budgets per GitHub Enterprise Cloud account, up from 10,000. If you set budgets for individual users, or manage budgets across many cost centers"
     },
     {
+      "id": "3c9943ba4f13",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-16T20:43:36.000Z",
+      "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1321 # Comments: 182"
+    },
+    {
       "id": "f9ace2a74e66",
       "title": "GitHub Copilot models deprecated on November 16, 2026",
       "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
@@ -29,13 +74,40 @@
       "summary": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note"
     },
     {
+      "id": "4b8c3044ce82",
+      "title": "Control where GitHub Copilot customizations come from",
+      "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-16T19:48:33.000Z",
+      "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,"
+    },
+    {
+      "id": "f7b1ad47e7a9",
+      "title": "VS Code retires the Local harness in February 2027",
+      "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-16T19:22:56.000Z",
+      "summary": "Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will"
+    },
+    {
+      "id": "2d69f72d1326",
+      "title": "Scheduling the removal of the kube-proxy IPVS backend",
+      "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-16T18:35:00.000Z",
+      "summary": "The ipvs backend for kube-proxy was an experiment in providing a service proxy implementation with better performance than the iptables backend."
+    },
+    {
       "id": "13f7e0f611d7",
-      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
       "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-16T18:31:30.000Z",
-      "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 601 # Comments: 463"
+      "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 760 # Comments: 635"
     },
     {
       "id": "cbc8566eda8d",
@@ -65,24 +137,6 @@
       "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
     },
     {
-      "id": "2799af16e9a0",
-      "title": "Bulk start AI Scan for repositories",
-      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-16T15:50:22.000Z",
-      "summary": "AI Scan for repositories finds security vulnerabilities on your repository's default branch. It covers languages CodeQL doesn't support and finds additional issues in languages CodeQL already analyzes. Findings appear in"
-    },
-    {
-      "id": "4f85959693f9",
-      "title": "Take GitHub Mobile with you on iPhone Duo",
-      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-16T14:30:07.000Z",
-      "summary": "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications."
-    },
-    {
       "id": "717626b76ea0",
       "title": "New Ask Maps features to help with holiday travel and prep",
       "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
@@ -101,15 +155,6 @@
       "summary": "Give AI coding agents live web access with the Firecrawl kit for Docker Sandboxes. Learn to search, scrape, and crawl websites with network controls."
     },
     {
-      "id": "d654cfb91fc2",
-      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
-      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-16T13:39:07.000Z",
-      "summary": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/ Comments URL: https://news.ycombinator.com/item?id=50517488 Points: 749 # Comments: 463"
-    },
-    {
       "id": "f891bd93f3d2",
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "url": "https://openai.com/index/science-at-the-frontier",
@@ -117,6 +162,15 @@
       "category": "AI & LLMs",
       "published": "2026-11-16T12:00:00.000Z",
       "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+    },
+    {
+      "id": "f054a54f8228",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-16T09:30:00.000Z",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
     },
     {
       "id": "91e58e2ea930",
@@ -128,33 +182,6 @@
       "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
     },
     {
-      "id": "ebd9eb949639",
-      "title": "Our first phase of embedded assessments",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-16T08:00:00.000Z",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
-    },
-    {
-      "id": "b0ded74e06b0",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-16T06:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "c0c1bfd994d1",
-      "title": "How to make almost anything",
-      "url": "https://pub.cba.mit.edu/863.26/site/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-16T05:50:37.000Z",
-      "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 810 # Comments: 137"
-    },
-    {
       "id": "853b24ff0d6e",
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "url": "https://huggingface.co/blog/openrouter",
@@ -162,6 +189,15 @@
       "category": "AI & LLMs",
       "published": "2026-11-16T00:00:00.000Z",
       "summary": ""
+    },
+    {
+      "id": "615fe9482638",
+      "title": "Spring Office Hours Podcast: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov",
+      "url": "https://spring.io/blog/2026/11/16/spring-office-hours-podcast-S5E30",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-16T00:00:00.000Z",
+      "summary": "Join Dan Vega and DaShaun Carter for the latest updates from the Spring Ecosystem. This week, Dan and DaShaun are joined by Anton Arhipov from JetBrains to talk about what’s new in IntelliJ IDEA and AIR."
     },
     {
       "id": "6996cdc17999",
@@ -189,15 +225,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-14T00:00:00.000Z",
       "summary": "ZGC gets adaptive heap sizing, value classes complicate numeric conversions, and primitive patterns are withdrawn as JDK 28 takes shape."
-    },
-    {
-      "id": "bc1ca702be31",
-      "title": "Upcoming deprecation of selected GitHub Copilot models in December",
-      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-13T20:40:05.000Z",
-      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date"
     },
     {
       "id": "76962f5e09a0",
@@ -506,15 +533,6 @@
       "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare."
     },
     {
-      "id": "0021230a4ff4",
-      "title": "Spring AI 2.1.0-RC2 Available Now",
-      "url": "https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-09T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0-RC2 has been released and is now available from Maven Central!"
-    },
-    {
       "id": "7c94ae21fcaf",
       "title": "A Valhalla Ticker in One int",
       "url": "https://inside.java/2026/11/09/inside-java-ticker-value-class/",
@@ -522,24 +540,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-09T00:00:00.000Z",
       "summary": "Learn how to pack a short ticker symbol into one int with a value class implementing CharSequence and Comparable."
-    },
-    {
-      "id": "5ab88d15c948",
-      "title": "Beyond code generation: A developer's guide to agentic engineering",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-06T22:15:59.000Z",
-      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment."
-    },
-    {
-      "id": "5668b3c66977",
-      "title": "The post-quantum future of web privacy",
-      "url": "https://blog.cloudflare.com/vole-mole/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-06T14:00:00.000Z",
-      "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap."
     }
   ]
 }
