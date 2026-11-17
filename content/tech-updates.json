@@ -1,14 +1,158 @@
 {
-  "generatedAt": "2026-11-17T07:59:47.922Z",
+  "generatedAt": "2026-11-17T20:59:49.332Z",
   "items": [
     {
-      "id": "18a4aa790fbb",
-      "title": "Dependabot alert dismissal requests now last one year",
-      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "id": "ea57010167d4",
+      "title": "Visual Studio Code 1.147 (Insiders)",
+      "url": "https://code.visualstudio.com/updates/v1_147",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-11-18T17:00:00.000Z",
+      "summary": "Learn what is new in Visual Studio Code Insiders, including agent session management, chat resources, and Markdown editing."
+    },
+    {
+      "id": "797d638b0571",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-17T20:24:27.000Z",
+      "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet."
+    },
+    {
+      "id": "96ff71f54c6e",
+      "title": "OpenAI's GPT-6.2 Astra and GPT-6.2 Sol now available",
+      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
       "source": "GitHub Changelog",
       "category": "Developer Tools",
-      "published": "2026-11-17T00:09:27.000Z",
-      "summary": "If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires"
+      "published": "2026-11-17T20:20:29.000Z",
+      "summary": "OpenAI's GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6"
+    },
+    {
+      "id": "59bdce587758",
+      "title": "How we're using AI to make Next.js more secure",
+      "url": "https://nextjs.org/blog/how-were-using-ai-to-make-nextjs-more-secure",
+      "source": "Next.js",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-17T20:00:00.000Z",
+      "summary": "Why you're seeing more Next.js security advisories, and what we're doing about it."
+    },
+    {
+      "id": "aa9ce3deb1b1",
+      "title": "Maintainers don't need more AI bug reports. They need fixes.",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-17T18:29:29.000Z",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half."
+    },
+    {
+      "id": "e2c93b2ad7cf",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-17T18:20:40.000Z",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud."
+    },
+    {
+      "id": "08a8dbd9f09a",
+      "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-17T18:04:48.000Z",
+      "summary": "Today, we're expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare"
+    },
+    {
+      "id": "0fb6d41b1c23",
+      "title": "GitHub Copilot app, Microsoft Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-17T18:03:42.000Z",
+      "summary": "Copilot is most useful when it can work where you do. The GitHub Copilot app now supports your Azure DevOps repositories, your GitHub Enterprise Server instance, and the browser you're"
+    },
+    {
+      "id": "d463ce808607",
+      "title": "Copilot code review: Adaptive effort, secret detection, and more",
+      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-17T18:02:05.000Z",
+      "summary": "GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and"
+    },
+    {
+      "id": "1fae7e83ee21",
+      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-17T18:01:45.000Z",
+      "summary": "The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot. Introducing MAI Code 2 and MAI Code 2 Flash, two new models that represent a major"
+    },
+    {
+      "id": "16585d72ac90",
+      "title": "GitHub Copilot in JetBrains, Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-17T18:00:59.000Z",
+      "summary": "This update brings remote access, on-device voice dictation, and browser use controls to GitHub Copilot for JetBrains. Copilot users in JetBrains IDEs also get context usage shortcuts, historical diffs, simpler"
+    },
+    {
+      "id": "9fe7768ba977",
+      "title": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-17T17:47:14.000Z",
+      "summary": "Article URL: https://developer.apple.com/system-status/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 458 # Comments: 255"
+    },
+    {
+      "id": "725c967606ce",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-17T17:46:43.000Z",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 764 # Comments: 472"
+    },
+    {
+      "id": "549a77347d5e",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-17T17:45:00.000Z",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+    },
+    {
+      "id": "e9e2922593bd",
+      "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
+      "url": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-17T17:06:43.000Z",
+      "summary": "As AWS re:Invent is around the corner, we’re proud to recognize a new group of AWS Heroes. Every Hero finds their own way to give back, whether through sharing what they know, bringing people together, or building tools that help others succeed."
+    },
+    {
+      "id": "357d085ae06f",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-17T17:00:00.000Z",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
+    },
+    {
+      "id": "76e95097d061",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-17T11:45:51.000Z",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html Comments URL: https://news.ycombinator.com/item?id=50530163 Points: 1037 # Comments: 519"
     },
     {
       "id": "590cb0b9c5dd",
@@ -20,40 +164,22 @@
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
     },
     {
-      "id": "01af437af651",
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-16T22:58:20.000Z",
-      "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 529 # Comments: 368"
+      "id": "58da9c66b145",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-17T00:00:00.000Z",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
     },
     {
-      "id": "11d51b8e09bb",
-      "title": "GitHub Copilot weekly releases — November 9",
-      "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-16T21:34:53.000Z",
-      "summary": "This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude"
-    },
-    {
-      "id": "ae2c27b931ec",
-      "title": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-16T21:32:17.000Z",
-      "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 489 # Comments: 223"
-    },
-    {
-      "id": "338471667e07",
-      "title": "Budget limit increased to 40,000 budgets per account",
-      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-16T21:30:49.000Z",
-      "summary": "You can now create up to 40,000 budgets per GitHub Enterprise Cloud account, up from 10,000. If you set budgets for individual users, or manage budgets across many cost centers"
+      "id": "0604bc2b50fc",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-17T00:00:00.000Z",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
     },
     {
       "id": "3c9943ba4f13",
@@ -62,34 +188,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-16T20:43:36.000Z",
-      "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1321 # Comments: 182"
-    },
-    {
-      "id": "f9ace2a74e66",
-      "title": "GitHub Copilot models deprecated on November 16, 2026",
-      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-16T20:25:20.000Z",
-      "summary": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note"
-    },
-    {
-      "id": "4b8c3044ce82",
-      "title": "Control where GitHub Copilot customizations come from",
-      "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-16T19:48:33.000Z",
-      "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,"
-    },
-    {
-      "id": "f7b1ad47e7a9",
-      "title": "VS Code retires the Local harness in February 2027",
-      "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-16T19:22:56.000Z",
-      "summary": "Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will"
+      "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 2233 # Comments: 302"
     },
     {
       "id": "2d69f72d1326",
@@ -99,15 +198,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-16T18:35:00.000Z",
       "summary": "The ipvs backend for kube-proxy was an experiment in providing a service proxy implementation with better performance than the iptables backend."
-    },
-    {
-      "id": "13f7e0f611d7",
-      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-16T18:31:30.000Z",
-      "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 760 # Comments: 635"
     },
     {
       "id": "cbc8566eda8d",
@@ -153,33 +243,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-16T14:00:00.000Z",
       "summary": "Give AI coding agents live web access with the Firecrawl kit for Docker Sandboxes. Learn to search, scrape, and crawl websites with network controls."
-    },
-    {
-      "id": "f891bd93f3d2",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-16T12:00:00.000Z",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
-    },
-    {
-      "id": "f054a54f8228",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-16T09:30:00.000Z",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
-    },
-    {
-      "id": "91e58e2ea930",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-16T09:00:00.000Z",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
     },
     {
       "id": "853b24ff0d6e",
@@ -425,15 +488,6 @@
       "summary": "We have decided to cease development of Primitive Types in Patterns, instanceof, and switch. The draft JEP https://openjdk.org/jeps/8393282 that would have been the sixth preview of this feature will be withdrawn, and the feature will be removed from JDK 28."
     },
     {
-      "id": "ac5a661efbfd",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-10T19:00:00.000Z",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
-    },
-    {
       "id": "7bd6d5785093",
       "title": "Git security vulnerabilities announced",
       "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
@@ -486,60 +540,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-10T00:00:00.000Z",
       "summary": "Hi, Spring fans! Welcome to another rip-roarin' installment of This Week in Spring! I'm writing this from St. Louis, where the weather is suuprisingly pleasant! Isn't this supposed to be November?"
-    },
-    {
-      "id": "17f71397914d",
-      "title": "Python 3.16.0 alpha 2 is now available",
-      "url": "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-10T00:00:00.000Z",
-      "summary": "The second developer preview of Python 3.16 is ready for testing."
-    },
-    {
-      "id": "af0b10afed04",
-      "title": "Tutorial: The G1 Garbage Collector",
-      "url": "https://inside.java/2026/11/10/g1gc-tutorial/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-10T00:00:00.000Z",
-      "summary": "In this tutorial, we will cover a brief history of G1, its key design concepts, and how to use it."
-    },
-    {
-      "id": "a98763b80c84",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-11-09T19:51:47.000Z",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
-    },
-    {
-      "id": "cc7861f47980",
-      "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-09T17:55:26.000Z",
-      "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few"
-    },
-    {
-      "id": "d079a8b6909b",
-      "title": "Launching the Vite Ecosystem Fund",
-      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-09T13:00:00.000Z",
-      "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare."
-    },
-    {
-      "id": "7c94ae21fcaf",
-      "title": "A Valhalla Ticker in One int",
-      "url": "https://inside.java/2026/11/09/inside-java-ticker-value-class/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-09T00:00:00.000Z",
-      "summary": "Learn how to pack a short ticker symbol into one int with a value class implementing CharSequence and Comparable."
     }
   ]
 }
