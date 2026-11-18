@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:59:49.332Z",
+  "generatedAt": "2026-11-18T07:35:49.134Z",
   "items": [
     {
       "id": "ea57010167d4",
@@ -11,13 +11,31 @@
       "summary": "Learn what is new in Visual Studio Code Insiders, including agent session management, chat resources, and Markdown editing."
     },
     {
+      "id": "89c64076e8d6",
+      "title": "This Week in Spring - November 18th, 2026",
+      "url": "https://spring.io/blog/2026/11/18/this-week-in-spring-november-18th-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-18T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! I've literally just touched down in gorgeous Thessaloniki, Greece for the Voxxed Days Thessaloniki event. I'm so excited! We've got a ton of stuff to look into, then.. I'm headed to bed!"
+    },
+    {
       "id": "797d638b0571",
-      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
       "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-17T20:24:27.000Z",
-      "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet."
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-17T22:13:34.000Z",
+      "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 473 # Comments: 148"
+    },
+    {
+      "id": "4d9c0f5d9260",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-17T21:11:28.000Z",
+      "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 787 # Comments: 209"
     },
     {
       "id": "96ff71f54c6e",
@@ -107,7 +125,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-17T17:47:14.000Z",
-      "summary": "Article URL: https://developer.apple.com/system-status/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 458 # Comments: 255"
+      "summary": "Article URL: https://developer.apple.com/system-status/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 680 # Comments: 380"
     },
     {
       "id": "725c967606ce",
@@ -116,7 +134,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-17T17:46:43.000Z",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 764 # Comments: 472"
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1225 # Comments: 762"
     },
     {
       "id": "549a77347d5e",
@@ -126,6 +144,15 @@
       "category": "AI & LLMs",
       "published": "2026-11-17T17:45:00.000Z",
       "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+    },
+    {
+      "id": "851193cad36b",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-17T17:12:06.000Z",
+      "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 499 # Comments: 223"
     },
     {
       "id": "e9e2922593bd",
@@ -146,13 +173,22 @@
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
     },
     {
-      "id": "76e95097d061",
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "id": "e3f80aa13f80",
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-17T11:45:51.000Z",
-      "summary": "Article URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html Comments URL: https://news.ycombinator.com/item?id=50530163 Points: 1037 # Comments: 519"
+      "published": "2026-11-17T15:38:28.000Z",
+      "summary": "https://www.reuters.com/technology/highly-classified-us-nati... Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 551 # Comments: 642"
+    },
+    {
+      "id": "c6c361c53bc4",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-17T08:00:00.000Z",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
     },
     {
       "id": "590cb0b9c5dd",
@@ -164,15 +200,6 @@
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
     },
     {
-      "id": "58da9c66b145",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-17T00:00:00.000Z",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
-    },
-    {
       "id": "0604bc2b50fc",
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
@@ -182,13 +209,13 @@
       "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
     },
     {
-      "id": "3c9943ba4f13",
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-16T20:43:36.000Z",
-      "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 2233 # Comments: 302"
+      "id": "58da9c66b145",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-17T00:00:00.000Z",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
     },
     {
       "id": "2d69f72d1326",
@@ -216,15 +243,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-16T17:00:00.000Z",
       "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-    },
-    {
-      "id": "b1c71d07875a",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-16T17:00:00.000Z",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
     },
     {
       "id": "717626b76ea0",
@@ -494,7 +512,7 @@
       "source": "GitHub",
       "category": "Developer Tools",
       "published": "2026-11-10T18:00:00.000Z",
-      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know."
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know."
     },
     {
       "id": "0b2e1c02de47",
@@ -522,24 +540,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-10T11:13:04.000Z",
       "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
-    },
-    {
-      "id": "cfeaedcb835d",
-      "title": "Announcing a New Home for Spring for Apache Pulsar",
-      "url": "https://spring.io/blog/2026/11/10/spring-pulsar-new-home-asf",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-10T00:00:00.000Z",
-      "summary": "We are excited to announce an important transition for the Spring for Apache Pulsar project! To foster even deeper integration and collaboration with the broader Pulsar community, the project is moving to a new official home as a subproject within the Apache Pulsar project at the Apache Software Foundation."
-    },
-    {
-      "id": "742eecc196d0",
-      "title": "This Week in Spring - November 10th, 2026",
-      "url": "https://spring.io/blog/2026/11/10/this-week-in-spring-november-10th-2026",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-10T00:00:00.000Z",
-      "summary": "Hi, Spring fans! Welcome to another rip-roarin' installment of This Week in Spring! I'm writing this from St. Louis, where the weather is suuprisingly pleasant! Isn't this supposed to be November?"
     }
   ]
 }
