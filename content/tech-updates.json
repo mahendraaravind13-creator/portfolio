@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-19T07:31:59.092Z",
+  "generatedAt": "2026-11-19T20:42:34.921Z",
   "items": [
+    {
+      "id": "4501efae01a1",
+      "title": "Enterprise Live Migrations from Azure DevOps generally available",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-19T18:50:57.000Z",
+      "summary": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then"
+    },
+    {
+      "id": "c0849b8081a4",
+      "title": "Red Hat Enterprise Linux runner images now generally available",
+      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-19T18:48:46.000Z",
+      "summary": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red"
+    },
+    {
+      "id": "57728669e048",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-19T18:00:00.000Z",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
+    },
+    {
+      "id": "7de5b9ea5d58",
+      "title": "Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images",
+      "url": "https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-19T17:38:08.000Z",
+      "summary": "Docker publishes fixed images for both Java4Shell and the NGINX HTTP/2 in the Docker Hardened Images (DHI) catalog."
+    },
+    {
+      "id": "450b4071a471",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-19T17:02:40.000Z",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 534 # Comments: 842"
+    },
+    {
+      "id": "c3e7758a2373",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-19T17:00:00.000Z",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
+    },
+    {
+      "id": "c1b9965f46fa",
+      "title": "Meet the New Docker: Built to Run on Trust",
+      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-19T17:00:00.000Z",
+      "summary": "Docker launches a new brand built on trust. Learn why Docker is evolving for AI agents, what stays the same, and how to run agents securely with Docker."
+    },
+    {
+      "id": "1359fddbf694",
+      "title": "The best things in open source are built together",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-19T16:00:00.000Z",
+      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion."
+    },
+    {
+      "id": "948bd5f16aa8",
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-19T14:00:00.000Z",
+      "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks."
+    },
+    {
+      "id": "12516b56a5a7",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-19T10:58:29.000Z",
+      "summary": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 601 # Comments: 285"
+    },
+    {
+      "id": "f704844d2600",
+      "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+      "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-19T08:27:16.000Z",
+      "summary": "You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you"
+    },
+    {
+      "id": "6687f7be62c3",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-19T08:00:00.000Z",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+    },
     {
       "id": "7e8aaa6e499c",
       "title": "Wait for pull request events with GitHub CLI",
@@ -11,13 +119,13 @@
       "summary": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it"
     },
     {
-      "id": "c61034d207d7",
-      "title": "We need smart people who give a shit",
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-18T23:53:49.000Z",
-      "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 454 # Comments: 231"
+      "id": "5c74d930eb39",
+      "title": "A Bootiful Podcast: JobRunr founder Ronald Dehuysser",
+      "url": "https://spring.io/blog/2026/11/19/a-bootiful-podcast-november-19th-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-19T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Come listen in on a conversation you won’t want to miss: a deep dive into JobRunner 9 with its creator, Ronald Dehuysser."
     },
     {
       "id": "cc3b86f9d99d",
@@ -35,7 +143,7 @@
       "source": "Cloudflare",
       "category": "Cloud & DevOps",
       "published": "2026-11-18T22:00:00.000Z",
-      "summary": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models."
+      "summary": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models."
     },
     {
       "id": "f6cf8ded0e75",
@@ -54,15 +162,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-18T21:35:43.000Z",
       "summary": ""
-    },
-    {
-      "id": "e2b6407cfa68",
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-18T21:34:07.000Z",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 716 # Comments: 606"
     },
     {
       "id": "f689168723dc",
@@ -119,60 +218,6 @@
       "summary": "Learn what's new in Visual Studio Code 1.147"
     },
     {
-      "id": "720876e98218",
-      "title": "Security risk assessments run automatically on GitHub Team",
-      "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-18T16:54:26.000Z",
-      "summary": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code"
-    },
-    {
-      "id": "208b7ebb3cea",
-      "title": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-18T16:08:24.000Z",
-      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 514 # Comments: 340"
-    },
-    {
-      "id": "f9b17ed5db16",
-      "title": "Customize GitHub Copilot for your team",
-      "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-18T16:00:13.000Z",
-      "summary": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team"
-    },
-    {
-      "id": "7222d21645ca",
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-18T15:49:34.000Z",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 441 # Comments: 192"
-    },
-    {
-      "id": "db253b67c20c",
-      "title": "Inside Deutsche Bank",
-      "url": "https://www.inside-db.com/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-18T15:38:33.000Z",
-      "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 646 # Comments: 205"
-    },
-    {
-      "id": "ff0c2dfa0648",
-      "title": "Unauthenticated remote code execution in Nginx",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-18T15:19:55.000Z",
-      "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 1294 # Comments: 566"
-    },
-    {
       "id": "bf1424b145e4",
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
       "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
@@ -209,15 +254,6 @@
       "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
     },
     {
-      "id": "9fa731b0ef6c",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-18T08:00:00.000Z",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-    },
-    {
       "id": "b527b6f0ddce",
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
@@ -225,6 +261,15 @@
       "category": "AI & LLMs",
       "published": "2026-11-18T08:00:00.000Z",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "id": "9fa731b0ef6c",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-18T08:00:00.000Z",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
     },
     {
       "id": "53f2a14376dd",
@@ -245,15 +290,6 @@
       "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
     },
     {
-      "id": "6cab9c8cd383",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-18T00:00:00.000Z",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
-    },
-    {
       "id": "af1852b4c46d",
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
       "url": "https://huggingface.co/blog/moe-expert-streaming",
@@ -272,15 +308,6 @@
       "summary": ""
     },
     {
-      "id": "89c64076e8d6",
-      "title": "This Week in Spring - November 18th, 2026",
-      "url": "https://spring.io/blog/2026/11/18/this-week-in-spring-november-18th-2026",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-18T00:00:00.000Z",
-      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! I've literally just touched down in gorgeous Thessaloniki, Greece for the Voxxed Days Thessaloniki event. I'm so excited! We've got a ton of stuff to look into, then.. I'm headed to bed!"
-    },
-    {
       "id": "aec5c3752a6b",
       "title": "The Copilot harness: Building on a shared foundation",
       "url": "https://code.visualstudio.com/blogs/2026/11/18/copilot-harness",
@@ -297,15 +324,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-17T20:24:27.000Z",
       "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet."
-    },
-    {
-      "id": "96ff71f54c6e",
-      "title": "OpenAI's GPT-6.2 Astra and GPT-6.2 Sol now available",
-      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-17T20:20:29.000Z",
-      "summary": "OpenAI's GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6"
     },
     {
       "id": "59bdce587758",
@@ -353,6 +371,15 @@
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
     },
     {
+      "id": "757a24b5cf1f",
+      "title": "This Week in Spring - November 17th, 2026",
+      "url": "https://spring.io/blog/2026/11/17/this-week-in-spring-november-17th-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-17T00:00:00.000Z",
+      "summary": "Hi, Spring fans! Welcome to another installment of This Week in Spring ! I've literally just touched down in gorgeous Thessaloniki, Greece for the Voxxed Days Thessaloniki event. I'm so excited! We've got a ton of stuff to look into, then.. I'm headed to bed!"
+    },
+    {
       "id": "2d69f72d1326",
       "title": "Scheduling the removal of the kube-proxy IPVS backend",
       "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
@@ -369,6 +396,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-16T17:55:46.000Z",
       "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS"
+    },
+    {
+      "id": "b1247ace6444",
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-16T16:13:36.000Z",
+      "summary": "Article URL: https://blog.harrison.page/garage-door-spam/ Comments URL: https://news.ycombinator.com/item?id=50519231 Points: 618 # Comments: 261"
     },
     {
       "id": "717626b76ea0",
@@ -452,15 +488,6 @@
       "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures."
     },
     {
-      "id": "1c51c03338d0",
-      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
-      "url": "https://blog.cloudflare.com/spend-management/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-13T14:00:00.000Z",
-      "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions."
-    },
-    {
       "id": "126f79483dcc",
       "title": "GitHub availability report: October 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
@@ -513,33 +540,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-12T00:00:00.000Z",
       "summary": "Oracle is pleased to announce Oracle WebLogic Server and Coherence 26! This release brings Jakarta EE 11 support, Java SE 21 and 25 support, new application development capabilities, stronger security defaults, and improvements to data processing, persistence, and operational management."
-    },
-    {
-      "id": "a51ec6936371",
-      "title": "Test your applications against AWS locally with AWS Emulator",
-      "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-11T19:00:44.000Z",
-      "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior."
-    },
-    {
-      "id": "8e4104a923ec",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-11T18:00:00.000Z",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
-    },
-    {
-      "id": "e7907f72eed8",
-      "title": "Visual Studio Code 1.146",
-      "url": "https://code.visualstudio.com/updates/v1_146",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-11-11T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.146"
     }
   ]
 }
