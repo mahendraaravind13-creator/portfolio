@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-20T20:27:02.747Z",
+  "generatedAt": "2026-11-21T07:16:09.414Z",
   "items": [
+    {
+      "id": "be4290fbec4e",
+      "title": "JavaOne 2027 & Java 28 Value Objects - Inside Java Newsletter",
+      "url": "https://inside.java/2026/11/21/inside-java-newsletter/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-21T00:00:00.000Z",
+      "summary": "In this edition, we share content highlights from recent events featuring the Java team and take a look at Value Objects in JDK 28. With technical articles, videos, and podcasts, there’s something for everyone."
+    },
+    {
+      "id": "2f9d0bc4d147",
+      "title": "Security advisory permissions are now generally available",
+      "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-20T21:49:29.000Z",
+      "summary": "Organization owners can now let people work on repository security advisories, including private vulnerability reports, through custom repository roles. You no longer have to make them repository administrators or give"
+    },
+    {
+      "id": "8f3afc444413",
+      "title": "GitHub Enterprise Server 3.23 release candidate",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-20T20:41:26.000Z",
+      "summary": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you"
+    },
     {
       "id": "53a222836069",
       "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
@@ -11,6 +38,15 @@
       "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap."
     },
     {
+      "id": "b9db119f86f5",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-20T20:12:19.000Z",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 895 # Comments: 168"
+    },
+    {
       "id": "9cc860f8d2c5",
       "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
       "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
@@ -18,6 +54,33 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-20T20:00:45.000Z",
       "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release."
+    },
+    {
+      "id": "81fd9565f775",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-20T18:33:14.000Z",
+      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1884 # Comments: 867"
+    },
+    {
+      "id": "f171afb8f16c",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-20T17:21:36.000Z",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 405 # Comments: 171"
+    },
+    {
+      "id": "bbe099f2944c",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-20T14:16:21.000Z",
+      "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2530 # Comments: 1746"
     },
     {
       "id": "b9417c5606ab",
@@ -65,6 +128,15 @@
       "summary": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here's what's new! Clearer merge status and next steps Failed optional checks"
     },
     {
+      "id": "d15c45643214",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-20T00:00:00.000Z",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
       "id": "f4784c304003",
       "title": "Can AI help scientists identify promising drug candidates?",
       "url": "https://openai.com/index/introducing-medchembench",
@@ -92,15 +164,6 @@
       "summary": ""
     },
     {
-      "id": "913a0c1689ff",
-      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
-      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
-    },
-    {
       "id": "d91d1c588775",
       "title": "Spring Boot 4.0.10 available now",
       "url": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
@@ -119,6 +182,24 @@
       "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.3 has been released and is now available from Maven Central. This release includes 112 bug fixes, documentation improvements, and dependency upgrades ."
     },
     {
+      "id": "913a0c1689ff",
+      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
+      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-20T00:00:00.000Z",
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
+    },
+    {
+      "id": "50a0be0681b4",
+      "title": "Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released",
+      "url": "https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-20T00:00:00.000Z",
+      "summary": "On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.5 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.5 release notes for more information ."
+    },
+    {
       "id": "1971f8878793",
       "title": "JEP targeted to JDK 28: 547: Lazy Constants (4th Preview)",
       "url": "https://inside.java/2026/11/20/jep547-target-jdk28/",
@@ -135,15 +216,6 @@
       "category": "Developer Tools",
       "published": "2026-11-19T18:50:57.000Z",
       "summary": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then"
-    },
-    {
-      "id": "c0849b8081a4",
-      "title": "Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-19T18:48:46.000Z",
-      "summary": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red"
     },
     {
       "id": "57728669e048",
@@ -200,15 +272,6 @@
       "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks."
     },
     {
-      "id": "f704844d2600",
-      "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-      "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-19T08:27:16.000Z",
-      "summary": "You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you"
-    },
-    {
       "id": "6687f7be62c3",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
@@ -227,15 +290,6 @@
       "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
     },
     {
-      "id": "4b08ec50268e",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-19T00:00:00.000Z",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-    },
-    {
       "id": "cb99e2baa62e",
       "title": "See PR scans in action",
       "url": "https://openai.com/business/learn/pr-scans-demo",
@@ -243,15 +297,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-19T00:00:00.000Z",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
-    },
-    {
-      "id": "a4241d219011",
-      "title": "Spring Boot 4.2.0 available now",
-      "url": "https://spring.io/blog/2026/11/19/spring-boot-4-2-0-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-19T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0 has been released and is now available from Maven Central. This release includes a number of improvements, new features and dependency upgrades."
     },
     {
       "id": "93049162414a",
@@ -495,51 +540,6 @@
       "category": "Developer Tools",
       "published": "2026-11-12T22:54:52.000Z",
       "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them."
-    },
-    {
-      "id": "4bad5afe01a1",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
-      "category": "AI & LLMs",
-      "published": "2026-11-12T18:00:50.000Z",
-      "summary": ""
-    },
-    {
-      "id": "459a57b4750a",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-12T18:00:00.000Z",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
-    },
-    {
-      "id": "a686b78e7107",
-      "title": "Announcing Oracle WebLogic Server and Coherence 26",
-      "url": "https://inside.java/2026/11/12/announcing-oracle-weblogic-server-and-coherence-26/",
-      "source": "Java (Inside Java)",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-12T00:00:00.000Z",
-      "summary": "Oracle is pleased to announce Oracle WebLogic Server and Coherence 26! This release brings Jakarta EE 11 support, Java SE 21 and 25 support, new application development capabilities, stronger security defaults, and improvements to data processing, persistence, and operational management."
-    },
-    {
-      "id": "a51ec6936371",
-      "title": "Test your applications against AWS locally with AWS Emulator",
-      "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-11T19:00:44.000Z",
-      "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior."
-    },
-    {
-      "id": "e7907f72eed8",
-      "title": "Visual Studio Code 1.146",
-      "url": "https://code.visualstudio.com/updates/v1_146",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-11-11T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.146"
     }
   ]
 }
