@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-21T07:16:09.414Z",
+  "generatedAt": "2026-11-21T19:21:19.956Z",
   "items": [
+    {
+      "id": "de6a6b768afb",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-21T14:36:45.000Z",
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 507 # Comments: 399"
+    },
     {
       "id": "be4290fbec4e",
       "title": "JavaOne 2027 & Java 28 Value Objects - Inside Java Newsletter",
@@ -9,6 +18,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-21T00:00:00.000Z",
       "summary": "In this edition, we share content highlights from recent events featuring the Java team and take a look at Value Objects in JDK 28. With technical articles, videos, and podcasts, there’s something for everyone."
+    },
+    {
+      "id": "35f854dd7615",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-20T23:18:32.000Z",
+      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household."
     },
     {
       "id": "2f9d0bc4d147",
@@ -44,7 +62,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-20T20:12:19.000Z",
-      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 895 # Comments: 168"
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1270 # Comments: 257"
     },
     {
       "id": "9cc860f8d2c5",
@@ -62,7 +80,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-20T18:33:14.000Z",
-      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1884 # Comments: 867"
+      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2328 # Comments: 1118"
+    },
+    {
+      "id": "e1a223b73868",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-20T18:17:51.000Z",
+      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 543 # Comments: 297"
     },
     {
       "id": "f171afb8f16c",
@@ -71,16 +98,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-20T17:21:36.000Z",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 405 # Comments: 171"
-    },
-    {
-      "id": "bbe099f2944c",
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-20T14:16:21.000Z",
-      "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2530 # Comments: 1746"
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 514 # Comments: 222"
     },
     {
       "id": "b9417c5606ab",
@@ -522,24 +540,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-14T00:00:00.000Z",
       "summary": "ZGC gets adaptive heap sizing, value classes complicate numeric conversions, and primitive patterns are withdrawn as JDK 28 takes shape."
-    },
-    {
-      "id": "126f79483dcc",
-      "title": "GitHub availability report: October 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-13T00:20:16.000Z",
-      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services."
-    },
-    {
-      "id": "657af3312af0",
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-      "source": "GitHub",
-      "category": "Developer Tools",
-      "published": "2026-11-12T22:54:52.000Z",
-      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them."
     }
   ]
 }
