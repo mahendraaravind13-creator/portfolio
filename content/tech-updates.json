@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-21T19:21:19.956Z",
+  "generatedAt": "2026-11-22T06:56:37.153Z",
   "items": [
+    {
+      "id": "c6e0f6fe1d32",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-21T18:02:19.000Z",
+      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 429 # Comments: 107"
+    },
     {
       "id": "de6a6b768afb",
       "title": "Lean verification of the Riemann Hypothesis",
@@ -8,7 +17,25 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-21T14:36:45.000Z",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 507 # Comments: 399"
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 945 # Comments: 807"
+    },
+    {
+      "id": "07a481fe6b0c",
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-21T13:23:14.000Z",
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 583 # Comments: 377"
+    },
+    {
+      "id": "4f0d7815da49",
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-21T10:36:32.000Z",
+      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 551 # Comments: 264"
     },
     {
       "id": "be4290fbec4e",
@@ -38,6 +65,15 @@
       "summary": "Organization owners can now let people work on repository security advisories, including private vulnerability reports, through custom repository roles. You no longer have to make them repository administrators or give"
     },
     {
+      "id": "6784575ef645",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-20T21:03:12.000Z",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 867 # Comments: 201"
+    },
+    {
       "id": "8f3afc444413",
       "title": "GitHub Enterprise Server 3.23 release candidate",
       "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
@@ -56,15 +92,6 @@
       "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap."
     },
     {
-      "id": "b9db119f86f5",
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-20T20:12:19.000Z",
-      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1270 # Comments: 257"
-    },
-    {
       "id": "9cc860f8d2c5",
       "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
       "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
@@ -72,33 +99,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-20T20:00:45.000Z",
       "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release."
-    },
-    {
-      "id": "81fd9565f775",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-20T18:33:14.000Z",
-      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2328 # Comments: 1118"
-    },
-    {
-      "id": "e1a223b73868",
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-20T18:17:51.000Z",
-      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 543 # Comments: 297"
-    },
-    {
-      "id": "f171afb8f16c",
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-20T17:21:36.000Z",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 514 # Comments: 222"
     },
     {
       "id": "b9417c5606ab",
@@ -182,6 +182,15 @@
       "summary": ""
     },
     {
+      "id": "913a0c1689ff",
+      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
+      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-20T00:00:00.000Z",
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
+    },
+    {
       "id": "d91d1c588775",
       "title": "Spring Boot 4.0.10 available now",
       "url": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
@@ -198,15 +207,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-20T00:00:00.000Z",
       "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.3 has been released and is now available from Maven Central. This release includes 112 bug fixes, documentation improvements, and dependency upgrades ."
-    },
-    {
-      "id": "913a0c1689ff",
-      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
-      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
     },
     {
       "id": "50a0be0681b4",
