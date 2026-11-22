@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-22T06:56:37.153Z",
+  "generatedAt": "2026-11-22T19:45:30.924Z",
   "items": [
+    {
+      "id": "bf1d56f79e08",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-22T08:57:34.000Z",
+      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 659 # Comments: 719"
+    },
+    {
+      "id": "9212cb3d4e2e",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-22T04:04:56.000Z",
+      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1045 # Comments: 621"
+    },
+    {
+      "id": "c4a226a4ddc4",
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-22T00:07:59.000Z",
+      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 505 # Comments: 176"
+    },
+    {
+      "id": "de5cd1a6d51d",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-22T00:00:00.000Z",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+    },
     {
       "id": "c6e0f6fe1d32",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
@@ -8,7 +44,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-21T18:02:19.000Z",
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 429 # Comments: 107"
+      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 551 # Comments: 132"
     },
     {
       "id": "de6a6b768afb",
@@ -17,25 +53,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-21T14:36:45.000Z",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 945 # Comments: 807"
-    },
-    {
-      "id": "07a481fe6b0c",
-      "title": "Detonating a pile of lead azide",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-21T13:23:14.000Z",
-      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 583 # Comments: 377"
-    },
-    {
-      "id": "4f0d7815da49",
-      "title": "My monitor was cutting my download speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-21T10:36:32.000Z",
-      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 551 # Comments: 264"
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1189 # Comments: 985"
     },
     {
       "id": "be4290fbec4e",
@@ -45,15 +63,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-21T00:00:00.000Z",
       "summary": "In this edition, we share content highlights from recent events featuring the Java team and take a look at Value Objects in JDK 28. With technical articles, videos, and podcasts, there’s something for everyone."
-    },
-    {
-      "id": "35f854dd7615",
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-20T23:18:32.000Z",
-      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household."
     },
     {
       "id": "2f9d0bc4d147",
@@ -71,7 +80,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-20T21:03:12.000Z",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 867 # Comments: 201"
+      "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 1293 # Comments: 276"
     },
     {
       "id": "8f3afc444413",
@@ -299,22 +308,13 @@
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
     },
     {
-      "id": "e29ac258c013",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "id": "4b08ec50268e",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI",
       "category": "AI & LLMs",
       "published": "2026-11-19T00:00:00.000Z",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
-    },
-    {
-      "id": "cb99e2baa62e",
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-19T00:00:00.000Z",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
     },
     {
       "id": "93049162414a",
