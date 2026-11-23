@@ -1,59 +1,140 @@
 {
-  "generatedAt": "2026-11-23T07:46:05.702Z",
+  "generatedAt": "2026-11-23T23:58:13.267Z",
   "items": [
     {
-      "id": "048482af0e5e",
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "url": "https://spelunkr.tv",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-23T01:13:51.000Z",
-      "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 411 # Comments: 58"
+      "id": "1d0c151fefed",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-23T21:20:00.000Z",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
     },
     {
-      "id": "4f0ed76760ef",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-22T21:01:16.000Z",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 426 # Comments: 174"
+      "id": "541e4e5d4292",
+      "title": "Issue statuses and repository boards are in public preview",
+      "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-23T20:37:11.000Z",
+      "summary": "Open or closed doesn't always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what's in flight"
     },
     {
-      "id": "a3b886b1bbb1",
-      "title": "What Happened to Silicon Valley?",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-22T19:20:15.000Z",
-      "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 598 # Comments: 319"
+      "id": "b3c4595342c9",
+      "title": "Secret scanning reduces false positives for Slack",
+      "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-23T18:32:59.000Z",
+      "summary": "Secret scanning now reduces false-positive detections for Slack secrets. False positives reduced The following detector improvements reduce false-positive matches for supported secrets. Provider Secret type Improvement Slack slack_incoming_webhook_url Exclude URLs"
     },
     {
-      "id": "e02a3f3a918f",
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-22T19:10:34.000Z",
-      "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 452 # Comments: 228"
+      "id": "ca38829e7312",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-23T17:20:37.000Z",
+      "summary": ""
     },
     {
-      "id": "b0ef78d25e98",
+      "id": "c5903c8754bb",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-23T17:00:00.000Z",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
+    },
+    {
+      "id": "9dddeb89e408",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-23T16:59:40.000Z",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+    },
+    {
+      "id": "17c082550a2d",
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+      "source": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-23T16:00:00.000Z",
+      "summary": "As we get closer to the release date for Kubernetes v1.38, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health."
+    },
+    {
+      "id": "cbd75850d76c",
+      "title": "Code coverage uploads now flag invalid report formats",
+      "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-23T15:28:36.000Z",
+      "summary": "The GitHub Code Quality upload-code-coverage action now checks that your coverage report is in Cobertura XML format. If it isn't in a supported format, the upload step fails and the"
+    },
+    {
+      "id": "452141429dfc",
+      "title": "Probing DNS at Cloudflare",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-23T14:00:00.000Z",
+      "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS."
+    },
+    {
+      "id": "ebcacbb197f5",
+      "title": "Usage reports will include a user ID column starting December 1",
+      "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-23T10:29:36.000Z",
+      "summary": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the"
+    },
+    {
+      "id": "f8a4e02f4212",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-23T08:00:00.000Z",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+    },
+    {
+      "id": "680b35173b97",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-23T08:00:00.000Z",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+    },
+    {
+      "id": "6fd4c32fe34a",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-23T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "b45f26cf4654",
+      "title": "Evolving the Java Language: An Inside Perspective",
+      "url": "https://inside.java/2026/11/23/evolving-java-language/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-23T00:00:00.000Z",
+      "summary": "In this JavaOne keynote, Java Language Architect Brian Goetz takes you inside the process of evolving Java. Through examples spanning lambdas, records, pattern matching, virtual threads, etc., he explores the decisions, constraints, and tradeoffs behind features that feel like they’ve always belonged."
+    },
+    {
+      "id": "de5cd1a6d51d",
       "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-22T17:06:27.000Z",
-      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 559 # Comments: 380"
-    },
-    {
-      "id": "9212cb3d4e2e",
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-22T04:04:56.000Z",
-      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1273 # Comments: 697"
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-22T00:00:00.000Z",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
     },
     {
       "id": "be4290fbec4e",
@@ -101,15 +182,6 @@
       "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release."
     },
     {
-      "id": "b9417c5606ab",
-      "title": "Pin your favorite repositories to your dashboard",
-      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-20T14:12:05.000Z",
-      "summary": "Choose which repositories appear on the Dashboard with the new Favorite repositories section. If the new dashboard experience isn't enabled, Top repositories remains unchanged. Select Edit or Add repositories to"
-    },
-    {
       "id": "3ea993db7e3c",
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
@@ -117,15 +189,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-20T10:00:00.000Z",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-    },
-    {
-      "id": "8150064cb707",
-      "title": "GitHub Desktop now supports multiple accounts per host",
-      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-20T02:06:01.000Z",
-      "summary": "GitHub Desktop now lets you sign in with more than one account on the same host, including GitHub.com, GitHub Enterprise Server, and GHE.com. This has been one of the most"
     },
     {
       "id": "2e07f6ca0216",
@@ -137,15 +200,6 @@
       "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs."
     },
     {
-      "id": "9855c1875dd4",
-      "title": "Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-20T00:02:21.000Z",
-      "summary": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here's what's new! Clearer merge status and next steps Failed optional checks"
-    },
-    {
       "id": "d15c45643214",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "url": "https://openai.com/business/customer-stories/hebbia",
@@ -153,15 +207,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-20T00:00:00.000Z",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
-    },
-    {
-      "id": "f4784c304003",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
     },
     {
       "id": "80d31a6dee29",
@@ -180,6 +225,15 @@
       "category": "AI & LLMs",
       "published": "2026-11-20T00:00:00.000Z",
       "summary": ""
+    },
+    {
+      "id": "913a0c1689ff",
+      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
+      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-20T00:00:00.000Z",
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
     },
     {
       "id": "d91d1c588775",
@@ -209,15 +263,6 @@
       "summary": "On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.5 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.5 release notes for more information ."
     },
     {
-      "id": "6521a2df1fc9",
-      "title": "Spring Cloud 2026.0.0 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2026.0.0 Release Train is available today. The release can be found in Maven Central . You can check out the 2026.0.0 release notes for more information ."
-    },
-    {
       "id": "1971f8878793",
       "title": "JEP targeted to JDK 28: 547: Lazy Constants (4th Preview)",
       "url": "https://inside.java/2026/11/20/jep547-target-jdk28/",
@@ -225,15 +270,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-20T00:00:00.000Z",
       "summary": "The following JEP is targeted to JDK 28: 547: Lazy Constants (Fourth Preview)"
-    },
-    {
-      "id": "4501efae01a1",
-      "title": "Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-19T18:50:57.000Z",
-      "summary": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then"
     },
     {
       "id": "57728669e048",
@@ -288,24 +324,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-19T14:00:00.000Z",
       "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks."
-    },
-    {
-      "id": "6687f7be62c3",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-19T08:00:00.000Z",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-    },
-    {
-      "id": "4b08ec50268e",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-19T00:00:00.000Z",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
     },
     {
       "id": "93049162414a",
@@ -380,24 +398,6 @@
       "summary": "Learn what's new in Visual Studio Code 1.147"
     },
     {
-      "id": "bf1424b145e4",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-18T15:00:23.000Z",
-      "summary": ""
-    },
-    {
-      "id": "07fd21f6853c",
-      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
-      "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-18T14:52:10.000Z",
-      "summary": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtimes now."
-    },
-    {
       "id": "4ffd1f8389a4",
       "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
       "url": "https://www.docker.com/blog/agentic-ai-security-docker-governance/",
@@ -405,15 +405,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-18T14:00:00.000Z",
       "summary": "Learn how Docker AI Governance secures agentic AI with sandbox policies, MCP tool governance, and audit visibility to support controlled AI agent workflows."
-    },
-    {
-      "id": "af1852b4c46d",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-18T00:00:00.000Z",
-      "summary": ""
     },
     {
       "id": "aec5c3752a6b",
@@ -540,6 +531,15 @@
       "category": "Developer Tools",
       "published": "2026-11-13T00:20:16.000Z",
       "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services."
+    },
+    {
+      "id": "657af3312af0",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-12T22:54:52.000Z",
+      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them."
     }
   ]
 }
