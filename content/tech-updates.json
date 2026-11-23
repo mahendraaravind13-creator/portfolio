@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-11-22T19:45:30.924Z",
+  "generatedAt": "2026-11-23T07:46:05.702Z",
   "items": [
     {
-      "id": "bf1d56f79e08",
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "id": "048482af0e5e",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-22T08:57:34.000Z",
-      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 659 # Comments: 719"
+      "published": "2026-11-23T01:13:51.000Z",
+      "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 411 # Comments: 58"
+    },
+    {
+      "id": "4f0ed76760ef",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-22T21:01:16.000Z",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 426 # Comments: 174"
+    },
+    {
+      "id": "a3b886b1bbb1",
+      "title": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-22T19:20:15.000Z",
+      "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 598 # Comments: 319"
+    },
+    {
+      "id": "e02a3f3a918f",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-22T19:10:34.000Z",
+      "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 452 # Comments: 228"
+    },
+    {
+      "id": "b0ef78d25e98",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-22T17:06:27.000Z",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 559 # Comments: 380"
     },
     {
       "id": "9212cb3d4e2e",
@@ -17,43 +53,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-22T04:04:56.000Z",
-      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1045 # Comments: 621"
-    },
-    {
-      "id": "c4a226a4ddc4",
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-22T00:07:59.000Z",
-      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 505 # Comments: 176"
-    },
-    {
-      "id": "de5cd1a6d51d",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-22T00:00:00.000Z",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
-    },
-    {
-      "id": "c6e0f6fe1d32",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-21T18:02:19.000Z",
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 551 # Comments: 132"
-    },
-    {
-      "id": "de6a6b768afb",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-21T14:36:45.000Z",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1189 # Comments: 985"
+      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1273 # Comments: 697"
     },
     {
       "id": "be4290fbec4e",
@@ -72,15 +72,6 @@
       "category": "Developer Tools",
       "published": "2026-11-20T21:49:29.000Z",
       "summary": "Organization owners can now let people work on repository security advisories, including private vulnerability reports, through custom repository roles. You no longer have to make them repository administrators or give"
-    },
-    {
-      "id": "6784575ef645",
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-20T21:03:12.000Z",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 1293 # Comments: 276"
     },
     {
       "id": "8f3afc444413",
@@ -191,15 +182,6 @@
       "summary": ""
     },
     {
-      "id": "913a0c1689ff",
-      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
-      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
-    },
-    {
       "id": "d91d1c588775",
       "title": "Spring Boot 4.0.10 available now",
       "url": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
@@ -225,6 +207,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-20T00:00:00.000Z",
       "summary": "On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.5 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.5 release notes for more information ."
+    },
+    {
+      "id": "6521a2df1fc9",
+      "title": "Spring Cloud 2026.0.0 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-20T00:00:00.000Z",
+      "summary": "On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2026.0.0 Release Train is available today. The release can be found in Maven Central . You can check out the 2026.0.0 release notes for more information ."
     },
     {
       "id": "1971f8878793",
@@ -540,6 +531,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-14T00:00:00.000Z",
       "summary": "ZGC gets adaptive heap sizing, value classes complicate numeric conversions, and primitive patterns are withdrawn as JDK 28 takes shape."
+    },
+    {
+      "id": "126f79483dcc",
+      "title": "GitHub availability report: October 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-13T00:20:16.000Z",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services."
     }
   ]
 }
