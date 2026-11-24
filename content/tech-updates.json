@@ -1,14 +1,131 @@
 {
-  "generatedAt": "2026-11-24T09:59:22.406Z",
+  "generatedAt": "2026-11-24T22:30:37.800Z",
   "items": [
     {
-      "id": "d5878f2f15b7",
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "id": "a668d2c3dc32",
+      "title": "Visual Studio Code 1.148 (Insiders)",
+      "url": "https://code.visualstudio.com/updates/v1_148",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-11-25T17:00:00.000Z",
+      "summary": "Learn what is new in the latest Visual Studio Code Insiders build, including agent session management and editor tab improvements."
+    },
+    {
+      "id": "7a13ff91f5e0",
+      "title": "More predictable notifications on GitHub.com",
+      "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "source": "GitHub Changelog",
+      "category": "Developer Tools",
+      "published": "2026-11-24T16:40:59.000Z",
+      "summary": "Starting December 1, 2026, we're migrating notifications on GitHub.com over the course of a week to make subscriptions more predictable, correct unexpected behavior, and support the growing scale of activity."
+    },
+    {
+      "id": "16565a3f5dc0",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-24T16:34:13.000Z",
+      "summary": ""
+    },
+    {
+      "id": "8d6c7c64bc85",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI",
+      "category": "AI & LLMs",
+      "published": "2026-11-24T16:00:00.000Z",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+    },
+    {
+      "id": "cd3c9a93a00e",
+      "title": "These are the gifts developers will actually want",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-24T16:00:00.000Z",
+      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long."
+    },
+    {
+      "id": "35284fc19263",
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "source": "AWS",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-24T15:39:59.000Z",
+      "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave"
+    },
+    {
+      "id": "3c6728c1bfd1",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-24T13:00:00.000Z",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "id": "5e57d423bc79",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-23T22:32:29.000Z",
-      "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 462 # Comments: 245"
+      "published": "2026-11-24T12:40:15.000Z",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 845 # Comments: 348"
+    },
+    {
+      "id": "f3aa9260f109",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-24T11:00:00.000Z",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+    },
+    {
+      "id": "70e8b292ce38",
+      "title": "2035 came early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-24T06:30:33.000Z",
+      "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 922 # Comments: 350"
+    },
+    {
+      "id": "ec442b764e04",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-24T00:00:00.000Z",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+    },
+    {
+      "id": "7a6462e387eb",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-24T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "a283193da833",
+      "title": "Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart",
+      "url": "https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-24T00:00:00.000Z",
+      "summary": "Spring AI: Tool Call Confirmation | Session Extensions | Demo A bank support agent can look up why a mortgage payment failed. That is reading, and the model may do it on its own. Collecting the payment today moves money, and a person must approve it first. Asking \"may I?\" is the easy part. The hard part is the wait."
+    },
+    {
+      "id": "3e9ed934dafd",
+      "title": "Tutorial: Advanced Accessibility in JavaFX",
+      "url": "https://inside.java/2026/11/24/advanced-a11y-javafx-tutorial/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-24T00:00:00.000Z",
+      "summary": "Learn JavaFX’s advanced accessibility APIs by building an interactive seat map that exposes individual seats, selection, and availability to assistive technology."
     },
     {
       "id": "1d0c151fefed",
@@ -29,15 +146,6 @@
       "summary": "Open or closed doesn't always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what's in flight"
     },
     {
-      "id": "e6efe33a083e",
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "url": "https://arm.jonpalmisc.com/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-23T19:17:55.000Z",
-      "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 1034 # Comments: 237"
-    },
-    {
       "id": "b3c4595342c9",
       "title": "Secret scanning reduces false positives for Slack",
       "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
@@ -54,24 +162,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-23T17:20:37.000Z",
       "summary": ""
-    },
-    {
-      "id": "109d2f6894af",
-      "title": "Kagi Mail (public beta)",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-23T17:17:01.000Z",
-      "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 424 # Comments: 342"
-    },
-    {
-      "id": "3c69fd56490c",
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-23T17:07:26.000Z",
-      "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1650 # Comments: 929"
     },
     {
       "id": "c5903c8754bb",
@@ -92,15 +182,6 @@
       "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
     },
     {
-      "id": "60fd17d3da0d",
-      "title": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-23T16:13:12.000Z",
-      "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 1927 # Comments: 449"
-    },
-    {
       "id": "17c082550a2d",
       "title": "Kubernetes v1.38 Sneak Peek",
       "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
@@ -117,15 +198,6 @@
       "category": "Developer Tools",
       "published": "2026-11-23T15:28:36.000Z",
       "summary": "The GitHub Code Quality upload-code-coverage action now checks that your coverage report is in Cobertura XML format. If it isn't in a supported format, the upload step fails and the"
-    },
-    {
-      "id": "e3a79f42fb3c",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-23T14:00:18.000Z",
-      "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2550 # Comments: 3468"
     },
     {
       "id": "452141429dfc",
@@ -155,15 +227,6 @@
       "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
     },
     {
-      "id": "680b35173b97",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-23T08:00:00.000Z",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
-    },
-    {
       "id": "6fd4c32fe34a",
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals",
@@ -180,15 +243,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-23T00:00:00.000Z",
       "summary": "In this JavaOne keynote, Java Language Architect Brian Goetz takes you inside the process of evolving Java. Through examples spanning lambdas, records, pattern matching, virtual threads, etc., he explores the decisions, constraints, and tradeoffs behind features that feel like they’ve always belonged."
-    },
-    {
-      "id": "de5cd1a6d51d",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-22T00:00:00.000Z",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
     },
     {
       "id": "be4290fbec4e",
@@ -209,15 +263,6 @@
       "summary": "Organization owners can now let people work on repository security advisories, including private vulnerability reports, through custom repository roles. You no longer have to make them repository administrators or give"
     },
     {
-      "id": "8f3afc444413",
-      "title": "GitHub Enterprise Server 3.23 release candidate",
-      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-      "source": "GitHub Changelog",
-      "category": "Developer Tools",
-      "published": "2026-11-20T20:41:26.000Z",
-      "summary": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you"
-    },
-    {
       "id": "53a222836069",
       "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
       "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
@@ -236,15 +281,6 @@
       "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release."
     },
     {
-      "id": "3ea993db7e3c",
-      "title": "Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-20T10:00:00.000Z",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-    },
-    {
       "id": "2e07f6ca0216",
       "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
       "url": "https://blog.cloudflare.com/nginx2root/",
@@ -252,15 +288,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-20T01:58:29.000Z",
       "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs."
-    },
-    {
-      "id": "d15c45643214",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
     },
     {
       "id": "80d31a6dee29",
@@ -281,6 +308,15 @@
       "summary": ""
     },
     {
+      "id": "913a0c1689ff",
+      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
+      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-20T00:00:00.000Z",
+      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
+    },
+    {
       "id": "d91d1c588775",
       "title": "Spring Boot 4.0.10 available now",
       "url": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
@@ -297,24 +333,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-20T00:00:00.000Z",
       "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.3 has been released and is now available from Maven Central. This release includes 112 bug fixes, documentation improvements, and dependency upgrades ."
-    },
-    {
-      "id": "50a0be0681b4",
-      "title": "Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released",
-      "url": "https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.5 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.5 release notes for more information ."
-    },
-    {
-      "id": "913a0c1689ff",
-      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
-      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
     },
     {
       "id": "1971f8878793",
@@ -414,15 +432,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-18T19:39:07.000Z",
       "summary": "AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering."
-    },
-    {
-      "id": "75623b38e68b",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-18T18:53:43.000Z",
-      "summary": ""
     },
     {
       "id": "652211f5c064",
@@ -531,15 +540,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-16T17:55:46.000Z",
       "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS"
-    },
-    {
-      "id": "717626b76ea0",
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-16T14:00:00.000Z",
-      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
     }
   ]
 }
