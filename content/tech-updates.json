@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:30:37.800Z",
+  "generatedAt": "2026-11-25T08:43:04.950Z",
   "items": [
     {
       "id": "a668d2c3dc32",
@@ -65,15 +65,6 @@
       "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
     },
     {
-      "id": "5e57d423bc79",
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-24T12:40:15.000Z",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 845 # Comments: 348"
-    },
-    {
       "id": "f3aa9260f109",
       "title": "Searching for distant planets with Astra",
       "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
@@ -81,15 +72,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-24T11:00:00.000Z",
       "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
-    },
-    {
-      "id": "70e8b292ce38",
-      "title": "2035 came early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-24T06:30:33.000Z",
-      "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 922 # Comments: 350"
     },
     {
       "id": "ec442b764e04",
@@ -110,6 +92,15 @@
       "summary": ""
     },
     {
+      "id": "99b93f3e1098",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI",
+      "category": "AI & LLMs",
+      "published": "2026-11-24T00:00:00.000Z",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
+    },
+    {
       "id": "a283193da833",
       "title": "Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart",
       "url": "https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume",
@@ -117,6 +108,15 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-24T00:00:00.000Z",
       "summary": "Spring AI: Tool Call Confirmation | Session Extensions | Demo A bank support agent can look up why a mortgage payment failed. That is reading, and the model may do it on its own. Collecting the payment today moves money, and a person must approve it first. Asking \"may I?\" is the easy part. The hard part is the wait."
+    },
+    {
+      "id": "57c98ac774dd",
+      "title": "This Week in Spring - November 24th, 2026",
+      "url": "https://spring.io/blog/2026/11/24/this-week-in-spring-november-24-2026",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-24T00:00:00.000Z",
+      "summary": "Hi, Spring fans! It’s Thanksgiving week here in the USA! Let me therefore take this time to remind you, dear community, just how grateful I am for you, and all that you do! Happy Thanksgiving to you if you celebrate! And a convivial Thursday to you if not!"
     },
     {
       "id": "3e9ed934dafd",
@@ -218,15 +218,6 @@
       "summary": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the"
     },
     {
-      "id": "f8a4e02f4212",
-      "title": "Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "source": "OpenAI",
-      "category": "AI & LLMs",
-      "published": "2026-11-23T08:00:00.000Z",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
-    },
-    {
       "id": "6fd4c32fe34a",
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals",
@@ -324,15 +315,6 @@
       "category": "Frameworks & Languages",
       "published": "2026-11-20T00:00:00.000Z",
       "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.0.10 has been released and is now available from Maven Central. This release includes 97 bug fixes, documentation improvements, and dependency upgrades ."
-    },
-    {
-      "id": "f5738990b4d4",
-      "title": "Spring Boot 4.1.3 available now",
-      "url": "https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.3 has been released and is now available from Maven Central. This release includes 112 bug fixes, documentation improvements, and dependency upgrades ."
     },
     {
       "id": "1971f8878793",
@@ -540,6 +522,24 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-16T17:55:46.000Z",
       "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS"
+    },
+    {
+      "id": "530c3cc370b1",
+      "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
+      "url": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-16T14:00:00.000Z",
+      "summary": "Give AI coding agents live web access with the Firecrawl kit for Docker Sandboxes. Learn to search, scrape, and crawl websites with network controls."
+    },
+    {
+      "id": "6996cdc17999",
+      "title": "XTM Transifex sponsors Python’s documentation translations",
+      "url": "https://blog.python.org/2026/11/transifex-sponsors-python-docs/",
+      "source": "Python",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-16T00:00:00.000Z",
+      "summary": "XTM Transifex is supporting Python’s documentation translation teams with a year of free access to its Growth plan."
     }
   ]
 }
