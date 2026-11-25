@@ -1,14 +1,86 @@
 {
-  "generatedAt": "2026-11-25T08:43:04.950Z",
+  "generatedAt": "2026-11-25T21:45:33.693Z",
   "items": [
     {
+      "id": "37b5c9ba9326",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-25T18:52:55.000Z",
+      "summary": ""
+    },
+    {
       "id": "a668d2c3dc32",
-      "title": "Visual Studio Code 1.148 (Insiders)",
+      "title": "Visual Studio Code 1.148",
       "url": "https://code.visualstudio.com/updates/v1_148",
       "source": "VS Code",
       "category": "Developer Tools",
       "published": "2026-11-25T17:00:00.000Z",
-      "summary": "Learn what is new in the latest Visual Studio Code Insiders build, including agent session management and editor tab improvements."
+      "summary": "Learn what's new in Visual Studio Code 1.148"
+    },
+    {
+      "id": "a57ef6829b06",
+      "title": "Prove your AI agent guardrails work",
+      "url": "https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-25T16:57:00.000Z",
+      "summary": "Coding agents can reach more than their task needs. See how Docker AI Governance controls network, filesystem, credential, and MCP access, then test it."
+    },
+    {
+      "id": "c510c0910746",
+      "title": "Art of play in the age of AI",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-25T16:00:00.000Z",
+      "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers."
+    },
+    {
+      "id": "60ccd11aa2a7",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub",
+      "category": "Developer Tools",
+      "published": "2026-11-25T15:00:00.000Z",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill."
+    },
+    {
+      "id": "04a02898d890",
+      "title": "Introducing Search for Agents",
+      "url": "https://blog.cloudflare.com/search-for-agents/",
+      "source": "Cloudflare",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-25T14:00:00.000Z",
+      "summary": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support."
+    },
+    {
+      "id": "d0a3a7f662b5",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-25T10:22:09.000Z",
+      "summary": ""
+    },
+    {
+      "id": "d8d6777ecf09",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-25T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "10772c21b837",
+      "title": "JDK 28: New jlink Security Properties Plugin - Quality Outreach Heads-up",
+      "url": "https://inside.java/2026/11/25/quality-heads-up/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-25T00:00:00.000Z",
+      "summary": "This Heads-Up is part of the regular communication sent to the projects involved; it covers a new jlink plugin to set security properties in custom runtimes."
     },
     {
       "id": "7a13ff91f5e0",
@@ -54,6 +126,15 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-24T15:39:59.000Z",
       "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave"
+    },
+    {
+      "id": "dd94f7af62fb",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "AI & LLMs",
+      "published": "2026-11-24T13:07:53.000Z",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
     },
     {
       "id": "3c6728c1bfd1",
@@ -153,15 +234,6 @@
       "category": "Developer Tools",
       "published": "2026-11-23T18:32:59.000Z",
       "summary": "Secret scanning now reduces false-positive detections for Slack secrets. False positives reduced The following detector improvements reduce false-positive matches for supported secrets. Provider Secret type Improvement Slack slack_incoming_webhook_url Exclude URLs"
-    },
-    {
-      "id": "ca38829e7312",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-23T17:20:37.000Z",
-      "summary": ""
     },
     {
       "id": "c5903c8754bb",
@@ -290,15 +362,6 @@
       "summary": ""
     },
     {
-      "id": "211fbe8009a4",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": ""
-    },
-    {
       "id": "913a0c1689ff",
       "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
       "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
@@ -380,30 +443,12 @@
       "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks."
     },
     {
-      "id": "93049162414a",
-      "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
-      "url": "https://blog.cloudflare.com/open-clairic/",
-      "source": "Cloudflare",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-18T22:00:00.000Z",
-      "summary": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models."
-    },
-    {
       "id": "0c3c8b23c6ca",
       "title": "Introducing Gemini 4 Neon",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "source": "Google DeepMind",
       "category": "AI & LLMs",
       "published": "2026-11-18T21:35:43.000Z",
-      "summary": ""
-    },
-    {
-      "id": "f689168723dc",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-18T19:54:56.000Z",
       "summary": ""
     },
     {
@@ -495,51 +540,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-17T17:06:43.000Z",
       "summary": "As AWS re:Invent is around the corner, we’re proud to recognize a new group of AWS Heroes. Every Hero finds their own way to give back, whether through sharing what they know, bringing people together, or building tools that help others succeed."
-    },
-    {
-      "id": "357d085ae06f",
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "source": "Google AI",
-      "category": "AI & LLMs",
-      "published": "2026-11-17T17:00:00.000Z",
-      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
-    },
-    {
-      "id": "2d69f72d1326",
-      "title": "Scheduling the removal of the kube-proxy IPVS backend",
-      "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
-      "source": "Kubernetes",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-16T18:35:00.000Z",
-      "summary": "The ipvs backend for kube-proxy was an experiment in providing a service proxy implementation with better performance than the iptables backend."
-    },
-    {
-      "id": "cbc8566eda8d",
-      "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
-      "source": "AWS",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-16T17:55:46.000Z",
-      "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS"
-    },
-    {
-      "id": "530c3cc370b1",
-      "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
-      "url": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-16T14:00:00.000Z",
-      "summary": "Give AI coding agents live web access with the Firecrawl kit for Docker Sandboxes. Learn to search, scrape, and crawl websites with network controls."
-    },
-    {
-      "id": "6996cdc17999",
-      "title": "XTM Transifex sponsors Python’s documentation translations",
-      "url": "https://blog.python.org/2026/11/transifex-sponsors-python-docs/",
-      "source": "Python",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-16T00:00:00.000Z",
-      "summary": "XTM Transifex is supporting Python’s documentation translation teams with a year of free access to its Growth plan."
     }
   ]
 }
