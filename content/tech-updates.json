@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-26T08:27:18.776Z",
+  "generatedAt": "2026-11-26T21:38:42.780Z",
   "items": [
+    {
+      "id": "7567b48c80a8",
+      "title": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-26T14:26:54.000Z",
+      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 519 # Comments: 129"
+    },
+    {
+      "id": "02a088434703",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-26T11:37:17.000Z",
+      "summary": ""
+    },
+    {
+      "id": "91ef480232c5",
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-26T10:11:01.000Z",
+      "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 415 # Comments: 229"
+    },
     {
       "id": "d3aa48daa62d",
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -9,6 +36,42 @@
       "category": "AI & LLMs",
       "published": "2026-11-26T05:05:36.000Z",
       "summary": ""
+    },
+    {
+      "id": "c01600d41603",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-26T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "d8fe47121776",
+      "title": "Decision Models in Spring AI 2.1: Yes, No, and How Sure",
+      "url": "https://spring.io/blog/2026/11/26/spring-ai-decision-models-guardrails-judges",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-26T00:00:00.000Z",
+      "summary": "Spring AI: Decision Models | Decision Extensions | Demo Applications often need to make decisions with a predefined set of outcomes: Is this message a jailbreak attempt? Which team should handle this support ticket? How helpful is this answer?"
+    },
+    {
+      "id": "11501138b0a2",
+      "title": "A Bootiful Podcast: Cora Iberkleid on AI, Microservices, and the Future of Software Upgrades",
+      "url": "https://spring.io/blog/2026/11/26/a-bootiful-podcast-cora-iberkleid",
+      "source": "Spring",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-26T00:00:00.000Z",
+      "summary": "Hi, Spring fans! And Happy Thanksgiving to you, if you celebrate! I am VERY thankful for you! And today we've got an extra special episode! I'm joined by my friend and colleague and mentor Cora Iberkleid. What if AI isn’t just changing how we write code-but how we upgrade, patch, secure, and even trust it?"
+    },
+    {
+      "id": "771364aed2d6",
+      "title": "Episode 76 “Java in the Age of AI” [AtA]",
+      "url": "https://inside.java/podcast/76/",
+      "source": "Java (Inside Java)",
+      "category": "Frameworks & Languages",
+      "published": "2026-11-26T00:00:00.000Z",
+      "summary": "A discussion of Java's expanding support for AI workloads, from current strengths to future capabilities"
     },
     {
       "id": "c0d40e212e2d",
@@ -20,22 +83,13 @@
       "summary": "If you haven't chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep"
     },
     {
-      "id": "f63f4cad1468",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-25T21:48:10.000Z",
-      "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 433 # Comments: 221"
-    },
-    {
       "id": "c31465abe4a5",
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "url": "https://scottaaronson.blog/?p=10379",
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-25T19:11:27.000Z",
-      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1428 # Comments: 1247"
+      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1941 # Comments: 1779"
     },
     {
       "id": "37b5c9ba9326",
@@ -45,15 +99,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-25T18:52:55.000Z",
       "summary": ""
-    },
-    {
-      "id": "2da10ebf7215",
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-25T17:18:26.000Z",
-      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1382 # Comments: 581"
     },
     {
       "id": "a668d2c3dc32",
@@ -326,15 +371,6 @@
       "summary": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the"
     },
     {
-      "id": "6fd4c32fe34a",
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-23T00:00:00.000Z",
-      "summary": ""
-    },
-    {
       "id": "b45f26cf4654",
       "title": "Evolving the Java Language: An Inside Perspective",
       "url": "https://inside.java/2026/11/23/evolving-java-language/",
@@ -378,33 +414,6 @@
       "category": "Cloud & DevOps",
       "published": "2026-11-20T01:58:29.000Z",
       "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs."
-    },
-    {
-      "id": "80d31a6dee29",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "913a0c1689ff",
-      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
-      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the Spring AI team and everyone who has contributed, I'm happy to announce that Spring AI 2.1.0 has been released and is now available from Maven Central! Release notes | Upgrade notes | Reference documentation Spring AI 2.1 arrives five months after 2.0.0 GA ."
-    },
-    {
-      "id": "f5738990b4d4",
-      "title": "Spring Boot 4.1.3 available now",
-      "url": "https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now",
-      "source": "Spring",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.1.3 has been released and is now available from Maven Central. This release includes 112 bug fixes, documentation improvements, and dependency upgrades ."
     },
     {
       "id": "1971f8878793",
@@ -531,15 +540,6 @@
       "category": "Developer Tools",
       "published": "2026-11-18T00:00:00.000Z",
       "summary": "Learn why VS Code is moving from the Local harness to the Copilot harness, guided by data and user feedback."
-    },
-    {
-      "id": "59bdce587758",
-      "title": "How we're using AI to make Next.js more secure",
-      "url": "https://nextjs.org/blog/how-were-using-ai-to-make-nextjs-more-secure",
-      "source": "Next.js",
-      "category": "Frameworks & Languages",
-      "published": "2026-11-17T20:00:00.000Z",
-      "summary": "Why you're seeing more Next.js security advisories, and what we're doing about it."
     }
   ]
 }
