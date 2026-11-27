@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-26T21:38:42.780Z",
+  "generatedAt": "2026-11-27T08:42:11.744Z",
   "items": [
+    {
+      "id": "19dd4641586d",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-26T21:47:45.000Z",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 616 # Comments: 316"
+    },
     {
       "id": "7567b48c80a8",
       "title": "Tell HN: Happy Thanksgiving",
@@ -8,7 +17,16 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-26T14:26:54.000Z",
-      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 519 # Comments: 129"
+      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 688 # Comments: 145"
+    },
+    {
+      "id": "3c7a8f135f71",
+      "title": "Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-26T11:50:49.000Z",
+      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 426 # Comments: 220"
     },
     {
       "id": "02a088434703",
@@ -26,7 +44,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-26T10:11:01.000Z",
-      "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 415 # Comments: 229"
+      "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 514 # Comments: 249"
     },
     {
       "id": "d3aa48daa62d",
@@ -83,15 +101,6 @@
       "summary": "If you haven't chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep"
     },
     {
-      "id": "c31465abe4a5",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-25T19:11:27.000Z",
-      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1941 # Comments: 1779"
-    },
-    {
       "id": "37b5c9ba9326",
       "title": "Where scientists draw the line on AI agents",
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
@@ -99,6 +108,15 @@
       "category": "AI & LLMs",
       "published": "2026-11-25T18:52:55.000Z",
       "summary": ""
+    },
+    {
+      "id": "2da10ebf7215",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-25T17:18:26.000Z",
+      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1660 # Comments: 712"
     },
     {
       "id": "a668d2c3dc32",
@@ -522,24 +540,6 @@
       "category": "Developer Tools",
       "published": "2026-11-18T17:00:00.000Z",
       "summary": "Learn what's new in Visual Studio Code 1.147"
-    },
-    {
-      "id": "4ffd1f8389a4",
-      "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
-      "url": "https://www.docker.com/blog/agentic-ai-security-docker-governance/",
-      "source": "Docker",
-      "category": "Cloud & DevOps",
-      "published": "2026-11-18T14:00:00.000Z",
-      "summary": "Learn how Docker AI Governance secures agentic AI with sandbox policies, MCP tool governance, and audit visibility to support controlled AI agent workflows."
-    },
-    {
-      "id": "aec5c3752a6b",
-      "title": "The Copilot harness: Building on a shared foundation",
-      "url": "https://code.visualstudio.com/blogs/2026/11/18/copilot-harness",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-11-18T00:00:00.000Z",
-      "summary": "Learn why VS Code is moving from the Local harness to the Copilot harness, guided by data and user feedback."
     }
   ]
 }
