@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-27T08:42:11.744Z",
+  "generatedAt": "2026-11-27T21:22:56.705Z",
   "items": [
+    {
+      "id": "138e1e18872d",
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-27T08:28:08.000Z",
+      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 472 # Comments: 242"
+    },
+    {
+      "id": "48b0d8d3f8ca",
+      "title": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-27T06:44:34.000Z",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 635 # Comments: 273"
+    },
+    {
+      "id": "2d7f8b4f8454",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "category": "AI & LLMs",
+      "published": "2026-11-27T00:00:00.000Z",
+      "summary": ""
+    },
     {
       "id": "19dd4641586d",
       "title": "AI made self-hosting fun again",
@@ -8,25 +35,34 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-26T21:47:45.000Z",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 616 # Comments: 316"
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1046 # Comments: 492"
     },
     {
-      "id": "7567b48c80a8",
-      "title": "Tell HN: Happy Thanksgiving",
-      "url": "https://news.ycombinator.com/item?id=50655664",
+      "id": "f9497730985b",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-26T14:26:54.000Z",
-      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 688 # Comments: 145"
+      "published": "2026-11-26T21:08:05.000Z",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 497 # Comments: 125"
     },
     {
-      "id": "3c7a8f135f71",
-      "title": "Nextcloud Office Desktop app",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "id": "9ca28a7fecf2",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "Hacker News (top)",
       "category": "Industry",
-      "published": "2026-11-26T11:50:49.000Z",
-      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 426 # Comments: 220"
+      "published": "2026-11-26T17:36:47.000Z",
+      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 522 # Comments: 635"
+    },
+    {
+      "id": "1d45997e4997",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-26T17:11:29.000Z",
+      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 431 # Comments: 104"
     },
     {
       "id": "02a088434703",
@@ -36,15 +72,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-26T11:37:17.000Z",
       "summary": ""
-    },
-    {
-      "id": "91ef480232c5",
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-26T10:11:01.000Z",
-      "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 514 # Comments: 249"
     },
     {
       "id": "d3aa48daa62d",
@@ -110,15 +137,6 @@
       "summary": ""
     },
     {
-      "id": "2da10ebf7215",
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-25T17:18:26.000Z",
-      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1660 # Comments: 712"
-    },
-    {
       "id": "a668d2c3dc32",
       "title": "Visual Studio Code 1.148",
       "url": "https://code.visualstudio.com/updates/v1_148",
@@ -170,15 +188,6 @@
       "source": "Hugging Face",
       "category": "AI & LLMs",
       "published": "2026-11-25T10:22:09.000Z",
-      "summary": ""
-    },
-    {
-      "id": "d8d6777ecf09",
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "source": "Hugging Face",
-      "category": "AI & LLMs",
-      "published": "2026-11-25T00:00:00.000Z",
       "summary": ""
     },
     {
@@ -531,15 +540,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-18T17:00:00.000Z",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
-    },
-    {
-      "id": "ea57010167d4",
-      "title": "Visual Studio Code 1.147",
-      "url": "https://code.visualstudio.com/updates/v1_147",
-      "source": "VS Code",
-      "category": "Developer Tools",
-      "published": "2026-11-18T17:00:00.000Z",
-      "summary": "Learn what's new in Visual Studio Code 1.147"
     }
   ]
 }
