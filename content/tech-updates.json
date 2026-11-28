@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-27T21:22:56.705Z",
+  "generatedAt": "2026-11-28T07:55:29.440Z",
   "items": [
+    {
+      "id": "6acd918e3339",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-27T19:31:01.000Z",
+      "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 498 # Comments: 306"
+    },
+    {
+      "id": "9b67ad13d338",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-27T15:40:31.000Z",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 503 # Comments: 260"
+    },
     {
       "id": "138e1e18872d",
       "title": "Claude sabotaging ML research tasks?",
@@ -8,16 +26,7 @@
       "source": "Hacker News (top)",
       "category": "Industry",
       "published": "2026-11-27T08:28:08.000Z",
-      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 472 # Comments: 242"
-    },
-    {
-      "id": "48b0d8d3f8ca",
-      "title": "Group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-27T06:44:34.000Z",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 635 # Comments: 273"
+      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 678 # Comments: 307"
     },
     {
       "id": "2d7f8b4f8454",
@@ -27,42 +36,6 @@
       "category": "AI & LLMs",
       "published": "2026-11-27T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "id": "19dd4641586d",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-26T21:47:45.000Z",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1046 # Comments: 492"
-    },
-    {
-      "id": "f9497730985b",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-26T21:08:05.000Z",
-      "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 497 # Comments: 125"
-    },
-    {
-      "id": "9ca28a7fecf2",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-26T17:36:47.000Z",
-      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 522 # Comments: 635"
-    },
-    {
-      "id": "1d45997e4997",
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "source": "Hacker News (top)",
-      "category": "Industry",
-      "published": "2026-11-26T17:11:29.000Z",
-      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 431 # Comments: 104"
     },
     {
       "id": "02a088434703",
@@ -162,6 +135,15 @@
       "category": "Developer Tools",
       "published": "2026-11-25T16:00:00.000Z",
       "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers."
+    },
+    {
+      "id": "01cdd83d3c55",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News (top)",
+      "category": "Industry",
+      "published": "2026-11-25T15:16:53.000Z",
+      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50643158 Points: 421 # Comments: 260"
     },
     {
       "id": "60ccd11aa2a7",
@@ -540,6 +522,24 @@
       "category": "AI & LLMs",
       "published": "2026-11-18T17:00:00.000Z",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
+    },
+    {
+      "id": "ea57010167d4",
+      "title": "Visual Studio Code 1.147",
+      "url": "https://code.visualstudio.com/updates/v1_147",
+      "source": "VS Code",
+      "category": "Developer Tools",
+      "published": "2026-11-18T17:00:00.000Z",
+      "summary": "Learn what's new in Visual Studio Code 1.147"
+    },
+    {
+      "id": "4ffd1f8389a4",
+      "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
+      "url": "https://www.docker.com/blog/agentic-ai-security-docker-governance/",
+      "source": "Docker",
+      "category": "Cloud & DevOps",
+      "published": "2026-11-18T14:00:00.000Z",
+      "summary": "Learn how Docker AI Governance secures agentic AI with sandbox policies, MCP tool governance, and audit visibility to support controlled AI agent workflows."
     }
   ]
 }
